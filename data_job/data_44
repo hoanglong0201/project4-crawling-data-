@@ -1,0 +1,3202 @@
+{
+    "_type": "jobs",
+    "aggregations": {
+        "categories": [],
+        "status": [
+            {
+                "key": 3,
+                "doc_count": 640
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 2033567,
+            "title": "Chuyên viên Hệ thống công nghệ thông tin – Mã vị trí CN05 (số lượng: 02)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 78312,
+            "company": {
+                "id": 78312,
+                "display_name": "Ban Công nghệ BIDV",
+                "image_logo": "https://assets.topdev.vn/images/2022/07/18/TopDev-81f3677cd60d2cb9eb6d7fed6b7d5251-1658110907.png",
+                "slug": "ban-cong-nghe-bidv",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/ban-cong-nghe-bidv-78312",
+                "tagline": "Chất lượng tin cậy - Hướng đến khách hàng - Đổi mới phát triển - Chuyên nghiệp sáng tạo - Trách nhiệm xã hội",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 40802,
+                            "ward": {
+                                "id": "00256",
+                                "value": "Phường Lê Đại Hành"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "007",
+                                "value": "Quận Hai Bà Trưng"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 14, Tháp A Vincom, 191 Bà Triệu"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/07/24/TopDev-6ff39f280e4692b995700ca370adc00c-1690166240.jpg",
+                "image_galleries": [
+                    {
+                        "id": 383735,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-20221020_170603-1676510624.jpg",
+                        "path": "/images/2023/02/16/TopDev-20221020_170603-1676510624.jpg",
+                        "name": "20221020_170603.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:23:44",
+                            "since": "1 year ago",
+                            "timestamp": 1676510624
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383736,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf-1676510702.jpg",
+                        "path": "/images/2023/02/16/TopDev-190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf-1676510702.jpg",
+                        "name": "190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:25:02",
+                            "since": "1 year ago",
+                            "timestamp": 1676510702
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383738,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-IMG_20221020_184812-1676510828.jpg",
+                        "path": "/images/2023/02/16/TopDev-IMG_20221020_184812-1676510828.jpg",
+                        "name": "IMG_20221020_184812.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:27:09",
+                            "since": "1 year ago",
+                            "timestamp": 1676510829
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383739,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-UMeStudio-9095-1676510866.jpg",
+                        "path": "/images/2023/02/16/TopDev-UMeStudio-9095-1676510866.jpg",
+                        "name": "UMeStudio-9095.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:27:46",
+                            "since": "1 year ago",
+                            "timestamp": 1676510866
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383740,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-Screenshot-2023-02-16-082833-1676511007.png",
+                        "path": "/images/2023/02/16/TopDev-Screenshot-2023-02-16-082833-1676511007.png",
+                        "name": "Screenshot 2023-02-16 082833.png",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:30:07",
+                            "since": "1 year ago",
+                            "timestamp": 1676511007
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383741,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-Screenshot-2023-02-16-082912-1676511008.png",
+                        "path": "/images/2023/02/16/TopDev-Screenshot-2023-02-16-082912-1676511008.png",
+                        "name": "Screenshot 2023-02-16 082912.png",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:30:08",
+                            "since": "1 year ago",
+                            "timestamp": 1676511008
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Lương tháng 13 (Trung bình 4-5 tháng lương cơ bản)",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Được hưởng lương, thưởng và các cơ chế khuyến khích theo thỏa thuận và theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Được chi bổ sung thu nhập theo kết quả làm việc, vị trí công việc và theo quy định của BIDV.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Review lương 2 lần/năm",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Cung cấp thiết bị làm việc",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Du lịch - Nghỉ dưỡng - Team building hằng năm",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Khám sức khỏe định kỳ",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "Các phúc lợi hiếu hỷ, tiền mừng sinh nhật",
+                        "icon": "fa-birthday-cake"
+                    },
+                    {
+                        "value": "Tham gia đầy đủ bảo hiểm theo quy định",
+                        "icon": "fa-umbrella"
+                    },
+                    {
+                        "value": "Nghỉ phép năm theo quy định của Nhà nước",
+                        "icon": "fa-calendar-times-o"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Thứ 2 - Thứ 6 từ 08 giờ tới 17 giờ",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "UX/UI Design",
+                    "iOS",
+                    "Java",
+                    "ERP"
+                ],
+                "industries_arr": [
+                    "Ngân Hàng"
+                ],
+                "industries_str": "Ngân Hàng",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "System Admin, IT Administrator, IT Security",
+            "skills_arr": [
+                "System Admin",
+                "IT Administrator",
+                "IT Security"
+            ],
+            "skills_ids": [
+                31,
+                8321,
+                4269
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 40802,
+                        "ward": {
+                            "id": "00256",
+                            "value": "Phường Lê Đại Hành"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "007",
+                            "value": "Quận Hai Bà Trưng"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 14, Tháp A Vincom, 191 Bà Triệu"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/chuyen-vien-he-thong-cong-nghe-thong-tin-ma-vi-tri-cn05-so-luong-02-ban-cong-nghe-bidv-2033567",
+            "job_url": "",
+            "slug": "chuyen-vien-he-thong-cong-nghe-thong-tin-ma-vi-tri-cn05-so-luong-02-ban-cong-nghe-bidv",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "21-06-2024",
+                "datetime": "00:00:00 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "08:25:45 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "1. Tiêu chuẩn chung:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Là công dân Việt Nam, có hộ khẩu thường trú tại Việt Nam. Tuổi đời không quá 35 tuổi đối với Chuyên viên, 45 tuổi đối với Trưởng nhóm/Chuyên gia.",
+                        "Có sức khoẻ để đảm nhiệm công tác.",
+                        "Có phẩm chất đạo đức tốt, không có tiền án, tiền sự; không trong thời gian bị truy cứu trách nhiệm hình sự, chấp hành án phạt tù, án treo, cải tạo không giam giữ, quản chế, đang chịu biện pháp giáo dục tại địa phương, đang chữa bệnh, cai nghiện…"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2. Tiêu chuẩn cụ thể:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "2.1. Trình độ chuyên môn"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học trở lên, hệ chính quy (bao gồm đại học văn bằng 2, không bao gồm hình thức học liên thông lên đại học) tại các trường Đại học trong nước hoặc tốt nghiệp Đại học trở lên tại các trường Đại học nước ngoài, Đại học liên kết.",
+                        "Chuyên ngành: Tốt nghiệp một trong các chuyên ngành Công nghệ thông tin, An toàn thông tin, Khoa học máy tính, Kỹ thuật phần mềm, Hệ thống thông tin, Kỹ thuật máy tính, Quản lý hệ thống thông tin, Điện tử Viễn thông, Điện tử truyền thông, Toán – Tin hoặc tương đương."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2.2 Ngoại ngữ:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Ứng viên đạt 1 trong các chứng chỉ sau: TOEIC đạt 600/990, Toefl PBT/IPT đạt 500/677, Toefl CBT đạt 173/300, Toefl iBT đạt 61/120, Ielts đạt 5.5/9.0, Cambridge Exam đạt First (FCE), B2 Khung Châu Âu, 4/6 Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. Chấp nhận ứng viên bổ sung chứng chỉ tiếng Anh trong thời gian 24 tháng kể từ ngày được tuyển dụng."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2.3. Kiến thức, kỹ năng, kinh nghiệm:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Có thời gian công tác tối thiểu 3 năm trong lĩnh vực CNTT.",
+                        "Có khả năng tham gia ý kiến xây dựng quy chế, chính sách, quy trình, hướng dẫn nghiệp vụ.",
+                        "Có khả năng tự học hỏi nhằm nâng cao năng lực chuyên môn.",
+                        "Có kiến thức, hiểu biết về CNTT và các hệ thống CSHT, ứng dụng trong hoạt động ngân hàng",
+                        "Có kỹ năng giải quyết vấn đề.",
+                        "Có kỹ năng lập kế hoạch và viết các báo cáo đề xuất.",
+                        "Ưu tiên:"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Ứng viên đã tham gia các dự án cho các ngân hàng thương mại, hoặc có hiểu biết nghiệp vụ ngân hàng, hệ thống CSHT, phần mềm của ngân hàng",
+                        "Ứng viên đã thực hiện công tác xây dựng/triển khai/quản trị, vận hành các hệ thống CNTT."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033563,
+            "title": "Chuyên gia Kiến trúc doanh nghiệp – Mã vị trí CN02 (số lượng 01)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 78312,
+            "company": {
+                "id": 78312,
+                "display_name": "Ban Công nghệ BIDV",
+                "image_logo": "https://assets.topdev.vn/images/2022/07/18/TopDev-81f3677cd60d2cb9eb6d7fed6b7d5251-1658110907.png",
+                "slug": "ban-cong-nghe-bidv",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/ban-cong-nghe-bidv-78312",
+                "tagline": "Chất lượng tin cậy - Hướng đến khách hàng - Đổi mới phát triển - Chuyên nghiệp sáng tạo - Trách nhiệm xã hội",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 40802,
+                            "ward": {
+                                "id": "00256",
+                                "value": "Phường Lê Đại Hành"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "007",
+                                "value": "Quận Hai Bà Trưng"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 14, Tháp A Vincom, 191 Bà Triệu"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/07/24/TopDev-6ff39f280e4692b995700ca370adc00c-1690166240.jpg",
+                "image_galleries": [
+                    {
+                        "id": 383735,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-20221020_170603-1676510624.jpg",
+                        "path": "/images/2023/02/16/TopDev-20221020_170603-1676510624.jpg",
+                        "name": "20221020_170603.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:23:44",
+                            "since": "1 year ago",
+                            "timestamp": 1676510624
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383736,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf-1676510702.jpg",
+                        "path": "/images/2023/02/16/TopDev-190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf-1676510702.jpg",
+                        "name": "190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:25:02",
+                            "since": "1 year ago",
+                            "timestamp": 1676510702
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383738,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-IMG_20221020_184812-1676510828.jpg",
+                        "path": "/images/2023/02/16/TopDev-IMG_20221020_184812-1676510828.jpg",
+                        "name": "IMG_20221020_184812.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:27:09",
+                            "since": "1 year ago",
+                            "timestamp": 1676510829
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383739,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-UMeStudio-9095-1676510866.jpg",
+                        "path": "/images/2023/02/16/TopDev-UMeStudio-9095-1676510866.jpg",
+                        "name": "UMeStudio-9095.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:27:46",
+                            "since": "1 year ago",
+                            "timestamp": 1676510866
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383740,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-Screenshot-2023-02-16-082833-1676511007.png",
+                        "path": "/images/2023/02/16/TopDev-Screenshot-2023-02-16-082833-1676511007.png",
+                        "name": "Screenshot 2023-02-16 082833.png",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:30:07",
+                            "since": "1 year ago",
+                            "timestamp": 1676511007
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383741,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-Screenshot-2023-02-16-082912-1676511008.png",
+                        "path": "/images/2023/02/16/TopDev-Screenshot-2023-02-16-082912-1676511008.png",
+                        "name": "Screenshot 2023-02-16 082912.png",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:30:08",
+                            "since": "1 year ago",
+                            "timestamp": 1676511008
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Lương tháng 13 (Trung bình 4-5 tháng lương cơ bản)",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Được hưởng lương, thưởng và các cơ chế khuyến khích theo thỏa thuận và theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Được chi bổ sung thu nhập theo kết quả làm việc, vị trí công việc và theo quy định của BIDV.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Review lương 2 lần/năm",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Cung cấp thiết bị làm việc",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Du lịch - Nghỉ dưỡng - Team building hằng năm",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Khám sức khỏe định kỳ",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "Các phúc lợi hiếu hỷ, tiền mừng sinh nhật",
+                        "icon": "fa-birthday-cake"
+                    },
+                    {
+                        "value": "Tham gia đầy đủ bảo hiểm theo quy định",
+                        "icon": "fa-umbrella"
+                    },
+                    {
+                        "value": "Nghỉ phép năm theo quy định của Nhà nước",
+                        "icon": "fa-calendar-times-o"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Thứ 2 - Thứ 6 từ 08 giờ tới 17 giờ",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "UX/UI Design",
+                    "iOS",
+                    "Java",
+                    "ERP"
+                ],
+                "industries_arr": [
+                    "Ngân Hàng"
+                ],
+                "industries_str": "Ngân Hàng",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Fintech, AWS, Cloud",
+            "skills_arr": [
+                "Fintech",
+                "AWS",
+                "Cloud"
+            ],
+            "skills_ids": [
+                273,
+                347,
+                1298
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 40802,
+                        "ward": {
+                            "id": "00256",
+                            "value": "Phường Lê Đại Hành"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "007",
+                            "value": "Quận Hai Bà Trưng"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 14, Tháp A Vincom, 191 Bà Triệu"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/chuyen-gia-kien-truc-doanh-nghiep-ma-vi-tri-cn02-so-luong-01-ban-cong-nghe-bidv-2033563",
+            "job_url": "",
+            "slug": "chuyen-gia-kien-truc-doanh-nghiep-ma-vi-tri-cn02-so-luong-01-ban-cong-nghe-bidv",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "21-06-2024",
+                "datetime": "00:00:00 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "08:24:05 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "1. Tiêu chuẩn chung:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Là công dân Việt Nam, có hộ khẩu thường trú tại Việt Nam. Tuổi đời không quá 35 tuổi đối với Chuyên viên, 45 tuổi đối với Trưởng nhóm/Chuyên gia.",
+                        "Có sức khoẻ để đảm nhiệm công tác.",
+                        "Có phẩm chất đạo đức tốt, không có tiền án, tiền sự; không trong thời gian bị truy cứu trách nhiệm hình sự, chấp hành án phạt tù, án treo, cải tạo không giam giữ, quản chế, đang chịu biện pháp giáo dục tại địa phương, đang chữa bệnh, cai nghiện…"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2. Tiêu chuẩn cụ thể:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "2.1. Trình độ chuyên môn"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học trở lên, hệ chính quy (bao gồm đại học văn bằng 2, không bao gồm hình thức học liên thông lên đại học) tại các trường Đại học trong nước hoặc tốt nghiệp Đại học trở lên tại các trường Đại học nước ngoài, Đại học liên kết.",
+                        "Chuyên ngành: Tốt nghiệp một trong các chuyên ngành Công nghệ thông tin, An toàn thông tin, Khoa học máy tính, Kỹ thuật phần mềm, Hệ thống thông tin, Kỹ thuật máy tính, Quản lý hệ thống thông tin, Điện tử Viễn thông, Điện tử truyền thông, Toán – Tin hoặc tương đương."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2.2 Ngoại ngữ:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Ứng viên đạt 1 trong các chứng chỉ sau: TOEIC đạt 690/990, Toefl PBT/IPT đạt 547/677, Toefl CBT đạt 210/300, Toefl iBT đạt 78/120, Ielts đạt 6.0/9.0, Cambridge Exam đạt First (CAE), C1 Khung Châu Âu, 5/6 Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. Chấp nhận ứng viên bổ sung chứng chỉ tiếng Anh trong thời gian 24 tháng kể từ ngày được tuyển dụng."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2.3. Kiến thức, kỹ năng, kinh nghiệm"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Có ít nhất 10 năm kinh nghiệm làm việc về CNTT và ít nhất 05 năm kinh nghiệm làm việc về CNTT trong lĩnh vực Tài chính – Ngân hàng.",
+                        "Có kinh nghiệm và kiến thức chuyên sâu về CNTT trong lĩnh vực Tài chính – Ngân hàng. Am hiểu giải pháp CNTT lớn trong lĩnh vực Ngân hàng và xu hướng phát triển CNTT trong lĩnh vực Ngân hàng.",
+                        "Có kinh nghiệm trong lĩnh vực xây dựng mô hình kiến trúc doanh nghiệp đặc biệt là kiến trúc tổng thể, kiến trúc CNTT trong lĩnh vực Tài chính – Ngân hàng.",
+                        "Có 03 năm làm việc về Kiến trúc tổng thể CNTT. Đã tham gia thực hiện xây dựng và triển khai Mô hình kiến trúc tổng thể cho doanh nghiệp hoặc đã thực hiện tư vấn trong việc xây dựng và triển khai Kiến trúc tổng thể cho Ngân hàng.",
+                        "Có kiến thức về nền tảng cloud của một trong các hãng nổi tiếng trên thế giới như AWS, Google, Microsoft...",
+                        "Có tư duy tổng hợp, logic và chính xác.",
+                        "Có các khả năng làm việc độc lập hoặc theo nhóm.",
+                        "Có khả năng nghiên cứu và đào tạo.",
+                        "Phải đạt được các chứng chỉ sau đây:"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "The Open Group Architecture Framework (TOGAF) Professional hoặc tương đương.",
+                        "Chứng chỉ về kiến trúc giải pháp cloud của một trong các hãng lớn trên thế giới như AWS, Google, Microsoft tối thiểu ở cấp độ Associate .",
+                        "Ưu tiên có thêm chứng chỉ chuyên nghiệp sau đây hoặc tương đương:"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Certified Information Security Manager (CISM)"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "InfoSys Security Architecture Professional (ISSAP/CISSP)",
+                        "Microsoft Certified Systems Administrator: Messaging (MCSA)",
+                        "Cisco Certified Network Professional (CCNP) (Foote Partners)",
+                        "Cisco Certified Design Professionall (CCDP)",
+                        "Juniper Networks Certification Internet Specialist (JNCIS)"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Các chứng chỉ về An ninh bảo mật, SOA ở mức độ kiến trúc tổng quát"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Có khả năng làm việc, nghiên cứu tài liệu bằng ngoại ngữ (tiếng Anh)."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033562,
+            "title": "Trưởng nhóm Nghiên cứu công nghệ - Mã vị trí CN01 (số lượng: 01)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 78312,
+            "company": {
+                "id": 78312,
+                "display_name": "Ban Công nghệ BIDV",
+                "image_logo": "https://assets.topdev.vn/images/2022/07/18/TopDev-81f3677cd60d2cb9eb6d7fed6b7d5251-1658110907.png",
+                "slug": "ban-cong-nghe-bidv",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/ban-cong-nghe-bidv-78312",
+                "tagline": "Chất lượng tin cậy - Hướng đến khách hàng - Đổi mới phát triển - Chuyên nghiệp sáng tạo - Trách nhiệm xã hội",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 40802,
+                            "ward": {
+                                "id": "00256",
+                                "value": "Phường Lê Đại Hành"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "007",
+                                "value": "Quận Hai Bà Trưng"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 14, Tháp A Vincom, 191 Bà Triệu"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/07/24/TopDev-6ff39f280e4692b995700ca370adc00c-1690166240.jpg",
+                "image_galleries": [
+                    {
+                        "id": 383735,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-20221020_170603-1676510624.jpg",
+                        "path": "/images/2023/02/16/TopDev-20221020_170603-1676510624.jpg",
+                        "name": "20221020_170603.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:23:44",
+                            "since": "1 year ago",
+                            "timestamp": 1676510624
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383736,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf-1676510702.jpg",
+                        "path": "/images/2023/02/16/TopDev-190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf-1676510702.jpg",
+                        "name": "190QiBFl3UnUCmGI79jKCbGEapgY2v0Rf.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:25:02",
+                            "since": "1 year ago",
+                            "timestamp": 1676510702
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383738,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-IMG_20221020_184812-1676510828.jpg",
+                        "path": "/images/2023/02/16/TopDev-IMG_20221020_184812-1676510828.jpg",
+                        "name": "IMG_20221020_184812.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:27:09",
+                            "since": "1 year ago",
+                            "timestamp": 1676510829
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383739,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-UMeStudio-9095-1676510866.jpg",
+                        "path": "/images/2023/02/16/TopDev-UMeStudio-9095-1676510866.jpg",
+                        "name": "UMeStudio-9095.jpg",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:27:46",
+                            "since": "1 year ago",
+                            "timestamp": 1676510866
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383740,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-Screenshot-2023-02-16-082833-1676511007.png",
+                        "path": "/images/2023/02/16/TopDev-Screenshot-2023-02-16-082833-1676511007.png",
+                        "name": "Screenshot 2023-02-16 082833.png",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:30:07",
+                            "since": "1 year ago",
+                            "timestamp": 1676511007
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 383741,
+                        "url": "https://assets.topdev.vn/images/2023/02/16/TopDev-Screenshot-2023-02-16-082912-1676511008.png",
+                        "path": "/images/2023/02/16/TopDev-Screenshot-2023-02-16-082912-1676511008.png",
+                        "name": "Screenshot 2023-02-16 082912.png",
+                        "uploaded": {
+                            "date": "16-02-2023",
+                            "datetime": "2023-02-16 08:30:08",
+                            "since": "1 year ago",
+                            "timestamp": 1676511008
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Lương tháng 13 (Trung bình 4-5 tháng lương cơ bản)",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Được hưởng lương, thưởng và các cơ chế khuyến khích theo thỏa thuận và theo quy định của Ngân hàng TMCP Đầu tư và Phát triển Việt Nam.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Được chi bổ sung thu nhập theo kết quả làm việc, vị trí công việc và theo quy định của BIDV.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Review lương 2 lần/năm",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Cung cấp thiết bị làm việc",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Du lịch - Nghỉ dưỡng - Team building hằng năm",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Khám sức khỏe định kỳ",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "Các phúc lợi hiếu hỷ, tiền mừng sinh nhật",
+                        "icon": "fa-birthday-cake"
+                    },
+                    {
+                        "value": "Tham gia đầy đủ bảo hiểm theo quy định",
+                        "icon": "fa-umbrella"
+                    },
+                    {
+                        "value": "Nghỉ phép năm theo quy định của Nhà nước",
+                        "icon": "fa-calendar-times-o"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Thứ 2 - Thứ 6 từ 08 giờ tới 17 giờ",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "UX/UI Design",
+                    "iOS",
+                    "Java",
+                    "ERP"
+                ],
+                "industries_arr": [
+                    "Ngân Hàng"
+                ],
+                "industries_str": "Ngân Hàng",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Big Data, Fintech, Cloud, Blockchain, AI",
+            "skills_arr": [
+                "Big Data",
+                "Fintech",
+                "Cloud",
+                "Blockchain",
+                "AI"
+            ],
+            "skills_ids": [
+                227,
+                273,
+                1298,
+                1416,
+                1555
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng phòng, Trưởng Nhóm",
+            "job_levels_arr": [
+                "Trưởng phòng",
+                "Trưởng Nhóm"
+            ],
+            "job_levels_ids": [
+                1620,
+                7276
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 40802,
+                        "ward": {
+                            "id": "00256",
+                            "value": "Phường Lê Đại Hành"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "007",
+                            "value": "Quận Hai Bà Trưng"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 14, Tháp A Vincom, 191 Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 14, Tháp A Vincom, 191 Bà Triệu"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/truong-nhom-nghien-cuu-cong-nghe-ma-vi-tri-cn01-so-luong-01-ban-cong-nghe-bidv-2033562",
+            "job_url": "",
+            "slug": "truong-nhom-nghien-cuu-cong-nghe-ma-vi-tri-cn01-so-luong-01-ban-cong-nghe-bidv",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "21-06-2024",
+                "datetime": "00:00:00 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "08:10:21 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "1. Tiêu chuẩn chung:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Là công dân Việt Nam, có hộ khẩu thường trú tại Việt Nam. Tuổi đời không quá 35 tuổi đối với Chuyên viên, 45 tuổi đối với Trưởng nhóm/Chuyên gia.",
+                        "Có sức khoẻ để đảm nhiệm công tác.",
+                        "Có phẩm chất đạo đức tốt, không có tiền án, tiền sự; không trong thời gian bị truy cứu trách nhiệm hình sự, chấp hành án phạt tù, án treo, cải tạo không giam giữ, quản chế, đang chịu biện pháp giáo dục tại địa phương, đang chữa bệnh, cai nghiện…"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2. Tiêu chuẩn cụ thể:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "2.1. Trình độ chuyên môn"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học trở lên, hệ chính quy (bao gồm đại học văn bằng 2, không bao gồm hình thức học liên thông lên đại học) tại các trường Đại học trong nước hoặc tốt nghiệp Đại học trở lên tại các trường Đại học nước ngoài, Đại học liên kết.",
+                        "Chuyên ngành: Tốt nghiệp một trong các chuyên ngành Công nghệ thông tin, An toàn thông tin, Khoa học máy tính, Kỹ thuật phần mềm, Hệ thống thông tin, Kỹ thuật máy tính, Quản lý hệ thống thông tin, Điện tử Viễn thông, Điện tử truyền thông, Toán – Tin hoặc tương đương."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2.2 Ngoại ngữ:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Ứng viên đạt 1 trong các chứng chỉ sau: TOEIC đạt 600/990, Toefl PBT/IPT đạt 500/677, Toefl CBT đạt 173/300, Toefl iBT đạt 61/120, Ielts đạt 5.5/9.0, Cambridge Exam đạt First (FCE), B2 Khung Châu Âu, 4/6 Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam. Chấp nhận ứng viên bổ sung chứng chỉ tiếng Anh trong thời gian 24 tháng kể từ ngày được tuyển dụng."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2.3. Kiến thức, kỹ năng, kinh nghiệm:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Có ít nhất 5 năm kinh nghiệm làm về nghiên cứu công nghệ trong lĩnh vực CNTT, có kinh nghiệm quản lý từ 1 năm trở lên.",
+                        "Có khả năng định hướng, tư vấn, tổ chức nghiên cứu công nghệ mới trong lĩnh vực CNTT và ứng dụng trong hoạt động ngân hàng",
+                        "Có khả năng nghiên cứu công nghệ, xu hướng công nghệ mới. Có kinh nghiệm/kiến thức, am hiểu về các công nghệ mới, xu hướng công nghệ (như: Cloud, kiến trúc microservice, data lake, AI, Bigdata, DevSecOps, blockchain .. …).",
+                        "Am hiểu giải pháp của các nhà cung cấp giải pháp CNTT lớn trong lĩnh vực Ngân hàng và xu hướng phát triển trong lĩnh vực Ngân hàng và CNTT.",
+                        "Ưu tiên cán bộ đã tham gia nghiên cứu công nghệ mới và có áp dụng triển khai, đạt kết quả trong hoạt động tài chính, ngân hàng",
+                        "Có kiến thức về quản trị rủi ro CNTT (bao gồm cả rủi ro về kiến trúc CNTT).",
+                        "Đạt ít nhất 1 chứng chỉ do các tổ chức uy tín quốc tế cấp về: Trí tuệ nhân tạo/ Dữ liệu lớn/ IoT/ Cloud,…."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033301,
+            "title": "NHÂN VIÊN IT (PHẦN MỀM)",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">C&ocirc;ng ty cổ phần cảng MIPEC (t&ecirc;n giao dịch MPC PORT) l&agrave; đơn vị khai th&aacute;c Cảng MPC &ndash; được Cục H&agrave;ng hải Việt nam ra Quyết định x&acirc;y dựng v&agrave; th&agrave;nh lập v&agrave;o th&aacute;ng 5 năm 2020. Bến cảng MPC Port l&agrave; bến cảng chuy&ecirc;n dụng cho t&agrave;u chở h&agrave;ng container, c&oacute; thể tiếp nhận c&aacute;c t&agrave;u c&oacute; trọng tải lớn đến 40.000 DWT giảm tải với chiều d&agrave;i đến 225 m&eacute;t ra v&agrave;o thường xuy&ecirc;n, li&ecirc;n tục v&agrave; an to&agrave;n.&nbsp;</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Do nhu cầu mở rộng hoạt động khai th&aacute;c Cảng, Cảng MPC c&oacute; nhu cầu tuyển dụng nh&acirc;n sự cho vị tr&iacute;: <strong>NH&Acirc;N VI&Ecirc;N IT (PHẦN MỀM)</strong>.</span></p>",
+            "benefits": [],
+            "owned_id": 94450,
+            "company": {
+                "id": 94450,
+                "display_name": "CÔNG TY CỔ PHẦN CẢNG  MIPEC",
+                "image_logo": "https://assets.topdev.vn/images/2023/12/04/TopDev-Logo---Trang-Nguyen-Thi-Quynh-1701660272.jpg",
+                "slug": "cong-ty-co-phan-cang-mipec",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-co-phan-cang-mipec-94450",
+                "tagline": "",
+                "addresses": {
+                    "address_region_ids": [
+                        "31"
+                    ],
+                    "address_region_list": "Thành phố Hải Phòng",
+                    "address_region_array": [
+                        "Thành phố Hải Phòng"
+                    ],
+                    "full_addresses": [
+                        "Bán đảo Đình Vũ thuộc khu kinh tế Đình Vũ - Cát Hải, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng"
+                    ],
+                    "sort_addresses": "Quận Hải An, Hải Phòng",
+                    "collection_addresses": [
+                        {
+                            "id": 192778,
+                            "ward": {
+                                "id": "11411",
+                                "value": "Phường Đông Hải 2"
+                            },
+                            "province": {
+                                "id": "31",
+                                "value": "Thành phố Hải Phòng"
+                            },
+                            "district": {
+                                "id": "306",
+                                "value": "Quận Hải An"
+                            },
+                            "postal_code": "180000",
+                            "full_address": "Bán đảo Đình Vũ thuộc khu kinh tế Đình Vũ - Cát Hải, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Bán đảo Đình Vũ thuộc khu kinh tế Đình Vũ - Cát Hải"
+                        }
+                    ],
+                    "address_short_region_list": "Hải Phòng"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Được tham gia BHXH, BH 24/7 sau 2 tháng thử việc",
+                        "icon": "fa-umbrella"
+                    },
+                    {
+                        "value": "Được hưởng đầy đủ các chính sách theo quy định của công ty",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Có cơ hội thăng tiến",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Từ T2 đến sáng T7 ( Sáng 8h00-12h00, chiều 13h30 - 17h30)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [],
+                "industries_arr": [
+                    "Logistics"
+                ],
+                "industries_str": "Logistics",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Network, System, IT Security",
+            "skills_arr": [
+                "Network",
+                "System",
+                "IT Security"
+            ],
+            "skills_ids": [
+                1466,
+                7406,
+                4269
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle",
+            "job_levels_arr": [
+                "Junior",
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "31"
+                ],
+                "address_region_list": "Thành phố Hải Phòng",
+                "address_region_array": [
+                    "Thành phố Hải Phòng"
+                ],
+                "full_addresses": [
+                    "Bán đảo Đình Vũ thuộc khu kinh tế Đình Vũ - Cát Hải, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng"
+                ],
+                "sort_addresses": "Quận Hải An, Hải Phòng",
+                "collection_addresses": [
+                    {
+                        "id": 192778,
+                        "ward": {
+                            "id": "11411",
+                            "value": "Phường Đông Hải 2"
+                        },
+                        "province": {
+                            "id": "31",
+                            "value": "Thành phố Hải Phòng"
+                        },
+                        "district": {
+                            "id": "306",
+                            "value": "Quận Hải An"
+                        },
+                        "postal_code": "180000",
+                        "full_address": "Bán đảo Đình Vũ thuộc khu kinh tế Đình Vũ - Cát Hải, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Bán đảo Đình Vũ thuộc khu kinh tế Đình Vũ - Cát Hải"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/nhan-vien-it-phan-mem-cong-ty-co-phan-cang-mipec-2033301",
+            "job_url": "",
+            "slug": "nhan-vien-it-phan-mem-cong-ty-co-phan-cang-mipec",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [
+                "SuperHotJob"
+            ],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "17-05-2024",
+                "datetime": "00:00:00 17-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:06 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "1. Yêu chung:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Số lượng cần tuyển: 01",
+                        "Số năm kinh nghiệm: Từ 2 năm trở lên",
+                        "Tuổi: trên 25 tuổi",
+                        "Trình độ học vấn: Tốt nghiệp Đại học các ngành Khoa học máy tính/CNTT hoặc các ngành liên quan",
+                        "Kinh nghiệm và hiểu biết về khai thác Cảng"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "2. Chuyên môn:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Kiến thức về hệ điều hành máy chủ, ứng dụng nền tảng các dịch vụ mạng",
+                        "Kiến thức phần mềm quản lý khai thác Cảng TOS (PLTOS)",
+                        "Kiến thức về hệ thống Storage, network, firewall",
+                        "Kiến thức về triển khai, quản trị các giải pháp sao lưu, khôi phục và đồng bộ dữ liệu"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "3. Kỹ năng:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Trình độ tiếng Anh: thành thạo 4 kỹ năng",
+                        "Giao tiếp: Nhẹ nhàng, lịch sự.",
+                        "Làm việc nhóm: Tốt",
+                        "Giải quyết công việc: Linh hoạt, nhanh nhẹn, thuyết phục."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "4. Sức khỏe & yêu cầu khác:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Tốt"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033479,
+            "title": "Korean Speaking Project Manager (Agile/Scrum)",
+            "content": "<p><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">What the role involves:&nbsp;</span></p>\r\n<ul>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Coordinate resources for the flawless execution of projects.</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Ensure that all projects are delivered on time, within the scope, and within budget.</span></li>\r\n<li><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Develop project scopes and objectives, involve all relevant stakeholders, and ensure technical feasibility.</span></li>\r\n</ul>",
+            "benefits": [],
+            "owned_id": 93797,
+            "company": {
+                "id": 93797,
+                "display_name": "Smilegate Vietnam",
+                "image_logo": "https://assets.topdev.vn/images/2024/06/07/TopDev-c596dd04b2cb190d4ec93367702d2338-1717746067.png",
+                "slug": "smilegate-vietnam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/smilegate-vietnam-93797",
+                "tagline": "Mega Value Innovator in Entertainment headquartered in Korea",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 152627,
+                            "ward": {
+                                "id": "26920",
+                                "value": "Phường 25"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "765",
+                                "value": "Quận Bình Thạnh"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/06/07/TopDev-48e8171cd3ba6998a018a1eb48180052-1717746089.png",
+                "image_galleries": [
+                    {
+                        "id": 606851,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-48e8171cd3ba6998a018a1eb48180052-1717746089.png",
+                        "path": "/images/2024/06/07/TopDev-48e8171cd3ba6998a018a1eb48180052-1717746089.png",
+                        "name": "48e8171cd3ba6998a018a1eb48180052.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:29",
+                            "since": "1 week ago",
+                            "timestamp": 1717746089
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606852,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-80d36a3db5c218eade7dbaf06ca69d9a-1717746089.png",
+                        "path": "/images/2024/06/07/TopDev-80d36a3db5c218eade7dbaf06ca69d9a-1717746089.png",
+                        "name": "80d36a3db5c218eade7dbaf06ca69d9a.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:29",
+                            "since": "1 week ago",
+                            "timestamp": 1717746089
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606853,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-a2c3662e0fc63420c6ed4daadbbba19b-1717746089.png",
+                        "path": "/images/2024/06/07/TopDev-a2c3662e0fc63420c6ed4daadbbba19b-1717746089.png",
+                        "name": "a2c3662e0fc63420c6ed4daadbbba19b.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:30",
+                            "since": "1 week ago",
+                            "timestamp": 1717746090
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606854,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-4ce1c093139e3ead853d8d8663b566a6-1717746090.png",
+                        "path": "/images/2024/06/07/TopDev-4ce1c093139e3ead853d8d8663b566a6-1717746090.png",
+                        "name": "4ce1c093139e3ead853d8d8663b566a6.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:30",
+                            "since": "1 week ago",
+                            "timestamp": 1717746090
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606855,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-bb9f0cd89bcdab8696f41b8098bc5cd8-1717746090.png",
+                        "path": "/images/2024/06/07/TopDev-bb9f0cd89bcdab8696f41b8098bc5cd8-1717746090.png",
+                        "name": "bb9f0cd89bcdab8696f41b8098bc5cd8.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:30",
+                            "since": "1 week ago",
+                            "timestamp": 1717746090
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Premium health insurance",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Safe, ethical, secure, and healthy workplace",
+                        "icon": "fa-shield"
+                    },
+                    {
+                        "value": "Competitive compensation package, Annual bonus program",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Budget for individual learning & development",
+                        "icon": "fa-university"
+                    },
+                    {
+                        "value": "14 days of paid annual leave, increasing by 1 day each year.",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Flexible working timeframe",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Modern working equipment",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Well-stocked pantry to relax and recharge.",
+                        "icon": "fa-music"
+                    },
+                    {
+                        "value": "Engagement activities (monthly team bonding, yearly company trip…)",
+                        "icon": "fa-beer"
+                    },
+                    {
+                        "value": "Sponsored sports clubs, Korean classes, and so on",
+                        "icon": "fa-soccer-ball-o"
+                    },
+                    {
+                        "value": "Business trip opportunities to Korean Headquarters",
+                        "icon": "fa-plane"
+                    }
+                ],
+                "skills_arr": [
+                    "Unity",
+                    "C++",
+                    "Java",
+                    "JavaScript",
+                    "Spring",
+                    "VueJS"
+                ],
+                "industries_arr": [
+                    "Giải trí/ Game"
+                ],
+                "industries_str": "Giải trí/ Game",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Agile, Project Manager, Scrum",
+            "skills_arr": [
+                "Agile",
+                "Project Manager",
+                "Scrum"
+            ],
+            "skills_ids": [
+                2,
+                32,
+                373
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng phòng",
+            "job_levels_arr": [
+                "Trưởng phòng"
+            ],
+            "job_levels_ids": [
+                1620
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 152627,
+                        "ward": {
+                            "id": "26920",
+                            "value": "Phường 25"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "765",
+                            "value": "Quận Bình Thạnh"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/korean-speaking-project-manager-agile-scrum-smilegate-vietnam-2033479",
+            "job_url": "",
+            "slug": "korean-speaking-project-manager-agile-scrum-smilegate-vietnam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "11-06-2024",
+                "datetime": "00:00:00 11-06-2024",
+                "since": "2 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:06 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Requirements:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Proficient in Korean communication is a must. English or Vietnamese Communication is preferred.",
+                        "Possess a minimum of five years of experience in project management using Agile/Scrum methodology.",
+                        "Experienced in managing multiple projects with team sizes starting from 5 members.",
+                        "Responsible for maintaining the quality of agile ceremonies, including daily scrums, sprint planning, showcases, and retrospectives.",
+                        "Capable of providing constructive and timely feedback to both delivery team members and stakeholders.",
+                        "Skilled in resolving conflicts within or between the delivery team and stakeholders.",
+                        "Proficient in negotiating priorities and timelines with stakeholders.",
+                        "Ensures that the delivery team adheres to the committed timeline and process.",
+                        "Attentive, passionate, and possesses a high level of responsibility."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033367,
+            "title": "Senior Data Engineer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Job purpose:</strong></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The role in as part of the APAC Data &amp; Analytics Hub within the D&amp;T department of HEINEKEN International is critical in Heineken to operationalise our strategy of standardised and scalable data foundations across the region and enterprise.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The role holder will work with colleagues across Heineken as part of a team that structure the entire process of data extraction, transformation, and storage using serverless Azure services to deploy models and analytical solutions for the enterprise within a specific Function.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">It is essential that the role holder can manage quality assurance, data migration and integration, and solution deployment to ensure the business gets the best value. This will be achieved by building strong relationships and collaboration with members of the broader HEINEKEN data organisation as well as various programs across the central, regional and Operating Company (OpCo) structures.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">In particular, he/she will partner with a growing group of data professionals such as Data Scientists, Machine Learning Engineers and Product Managers who play a crucial role in the development and delivery of Analytics products at scale.</span></p>",
+            "benefits": [],
+            "owned_id": 94170,
+            "company": {
+                "id": 94170,
+                "display_name": "HEINEKEN Vietnam",
+                "image_logo": "https://assets.topdev.vn/images/2023/07/25/TopDev-Logo-HNK---VN---Vy-Ho-Thuy-1690250766.png",
+                "slug": "heineken-vietnam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/heineken-vietnam-94170",
+                "tagline": "Heineken Vietnam - Brewing a Better Vietnam",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 179974,
+                            "ward": {
+                                "id": "26740",
+                                "value": "Phường Bến Nghé"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/07/25/TopDev-05c381a08688e173549adeef32b13b21-1690250767.jpg",
+                "image_galleries": [
+                    {
+                        "id": 450651,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "name": "bda33ce6b69bc235ecb766ae10e8c8fa.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:28",
+                            "since": "10 months ago",
+                            "timestamp": 1690250248
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450652,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "name": "83300 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:29",
+                            "since": "10 months ago",
+                            "timestamp": 1690250249
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450653,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "path": "/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "name": "83299 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:30",
+                            "since": "10 months ago",
+                            "timestamp": 1690250250
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "A diverse and open working culture, where your true identity is celebrated.",
+                        "icon": "fa-angellist"
+                    },
+                    {
+                        "value": "Multiple career opportunities to rotate within Functions or cross-functions.",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Your wellbeing will be taken care by our Health & Safety Team since Day 1.",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Be a part of our sustainability journey in Brewing the Better Vietnam.",
+                        "icon": "fa-align-center"
+                    },
+                    {
+                        "value": "Performance appraisal twice a year to guarantee constructive feedback",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Performance bonus (estimated at least 3 months) and 13th month salary bonus",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Bao Viet Insurance for employees and family",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Annual leave: 18 days/year",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Flexible benefit voucher",
+                        "icon": "fa-bell"
+                    },
+                    {
+                        "value": "80% lunch in canteen",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Annual team building, Town hall, YEP",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "Gift for special holidays and sponsor traveling ticket in Tet Holiday",
+                        "icon": "fa-paper-plane"
+                    },
+                    {
+                        "value": "Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h00-17h00)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "C#",
+                    ".NET",
+                    "Azure"
+                ],
+                "industries_arr": [
+                    "Kinh Doanh",
+                    "Sản xuất",
+                    "Manufacturing"
+                ],
+                "industries_str": "Kinh Doanh, Sản xuất, Manufacturing",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "SQL, Python, Data Engineer, PySpark",
+            "skills_arr": [
+                "SQL",
+                "Python",
+                "Data Engineer",
+                "PySpark"
+            ],
+            "skills_ids": [
+                28,
+                34,
+                1464,
+                8255
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 179974,
+                        "ward": {
+                            "id": "26740",
+                            "value": "Phường Bến Nghé"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/senior-data-engineer-heineken-vietnam-2033367",
+            "job_url": "",
+            "slug": "senior-data-engineer-heineken-vietnam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "27-05-2024",
+                "datetime": "00:00:00 27-05-2024",
+                "since": "4 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:06 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Education & Experience:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "BA/MSc in Statistics, Mathematics, or a related field; equivalent work experience accepted.",
+                        "8+ years in a pure analytical/science role."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Experience / Skills (all levels):"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Excellent written and verbal communication skills.",
+                        "Significant commercial experience in a similar position.",
+                        "Proficiency with Python (inc. strong data analytics skills using Python).",
+                        "Excellent software engineering skills (including unit testing, integration testing, OOP).",
+                        "Experience working with large datasets through Spark and RDBMS.",
+                        "Solid knowledge of PySpark with the ability to apply it to write Spark applications as well as analyze data in a distributed environment.",
+                        "Experience working with a large development team (CI/CD)",
+                        "Very good SQL skills and ability to extract information from databases.",
+                        "Ability to build and maintain strong collaborative relationships with stakeholders across the business.",
+                        "Demonstrated ability to effectively manage multiple simultaneous projects and deliverables.",
+                        "Communicate effectively with various stakeholders, tailoring your message to your audience's level of technical understanding.",
+                        "Excellent written and verbal English and local language."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Experience with Azure development environment.",
+                        "Experience in building/releasing Infrastructure as Code (e.g. Terraform)",
+                        "Experience with containerization technologies and orchestrators (e.g. Docker and Kubernetes).",
+                        "Understanding of machine learning models, deployment, and monitoring.",
+                        "Interest in machine learning and/or desire to develop skills",
+                        "Experience working in agile organizations."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Working Condition:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Office-based role (with Hybrid Working) with standard working hours in Ho Chi Minh head office."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033453,
+            "title": "BACK-END ENGINEERS",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">BioTuring is a leading bioinformatics company specializing in cutting-edge research and solutions in the field of genomics and bioinformatics. We are currently seeking a senior highly skilled and motivated Back-End Developer to join our dynamic team. If you have a strong background in software architecture for large scale systems, data structures and a passion for advancing bioinformatics, we want to hear from you. This is an urgent recruitment as we have exciting and ambitious projects on the horizon.</span></p>",
+            "benefits": [],
+            "owned_id": 94737,
+            "company": {
+                "id": 94737,
+                "display_name": "BIOTURING",
+                "image_logo": "https://assets.topdev.vn/images/2024/06/05/TopDev-bioturing_logo---Nga-Ly-1717580349.jpg",
+                "slug": "bioturing",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/bioturing-94737",
+                "tagline": "Accelerated life science discoveries",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 202403,
+                            "ward": {
+                                "id": "27088",
+                                "value": "Phường Thảo Điền"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "762",
+                                "value": "Thành phố Thủ Đức"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "14E17 Thảo Điền"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/06/05/TopDev-Anh-chup-man-hinh-2024-06-05-164010-1717580433.png",
+                "image_galleries": [
+                    {
+                        "id": 605692,
+                        "url": "https://assets.topdev.vn/images/2024/06/05/TopDev-0ef280c3215a8104d84b---Nga-Ly-1717580349.jpg",
+                        "path": "/images/2024/06/05/TopDev-0ef280c3215a8104d84b---Nga-Ly-1717580349.jpg",
+                        "name": "0ef280c3215a8104d84b - Nga Ly.jpg",
+                        "uploaded": {
+                            "date": "05-06-2024",
+                            "datetime": "2024-06-05 16:39:09",
+                            "since": "2 weeks ago",
+                            "timestamp": 1717580349
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 605693,
+                        "url": "https://assets.topdev.vn/images/2024/06/05/TopDev-440876784_403668925896707_171621740747379845_n---Nga-Ly-1717580363.jpg",
+                        "path": "/images/2024/06/05/TopDev-440876784_403668925896707_171621740747379845_n---Nga-Ly-1717580363.jpg",
+                        "name": "440876784_403668925896707_171621740747379845_n - Nga Ly.jpg",
+                        "uploaded": {
+                            "date": "05-06-2024",
+                            "datetime": "2024-06-05 16:39:23",
+                            "since": "2 weeks ago",
+                            "timestamp": 1717580363
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Competitive salary and benefits package.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Lunch and Dinner prepared by the Company.",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Flexible working hours",
+                        "icon": "fa-clock-o"
+                    },
+                    {
+                        "value": "A collaborative and supportive work environment.",
+                        "icon": "fa-lightbulb-o"
+                    },
+                    {
+                        "value": "A chance to learn and grow your career in a rapidly evolving field",
+                        "icon": "fa-cogs"
+                    },
+                    {
+                        "value": "Insurance benefit (Bao Viet Insurance) for employees after 1 year and above of employment.",
+                        "icon": "fa-file-text"
+                    }
+                ],
+                "skills_arr": [
+                    "C++",
+                    "Python",
+                    "NodeJS",
+                    "Golang",
+                    "DevOps"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Python, Golang, Back-End",
+            "skills_arr": [
+                "Python",
+                "Golang",
+                "Back-End"
+            ],
+            "skills_ids": [
+                34,
+                203,
+                210
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 202403,
+                        "ward": {
+                            "id": "27088",
+                            "value": "Phường Thảo Điền"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "762",
+                            "value": "Thành phố Thủ Đức"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "14E17 Thảo Điền"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/back-end-engineers-bioturing-2033453",
+            "job_url": "",
+            "slug": "back-end-engineers-bioturing",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "06-06-2024",
+                "datetime": "00:00:00 06-06-2024",
+                "since": "2 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:06 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Bachelor, Master, or PhD degree in Computer Science, Bioinformatics, or a related field.",
+                        "Proven experience as a Back-End Developer, preferably in a bioinformatics or genomics-focused role.",
+                        "Strong knowledge of data structures, algorithms, and software architecture.",
+                        "Proficiency in programming languages such as Python, Go, NodeJS, or C++.",
+                        "Experience with databases.",
+                        "Familiarity with bioinformatics tools and libraries is a plus.",
+                        "Excellent problem-solving skills and the ability to work independently and in a team.",
+                        "Strong communication and collaboration skills."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033366,
+            "title": "Data Engineer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Job purpose:</strong></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The role in as part of the APAC Data &amp; Analytics Hub within the D&amp;T department of HEINEKEN International is critical in Heineken to operationalise our strategy of standardised and scalable data foundations across the region and enterprise.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The role holder will work with colleagues across Heineken as part of a team that structure the entire process of data extraction, transformation, and storage using serverless Azure services to deploy models and analytical solutions for the enterprise within a specific Function.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">It is essential that the role holder can manage quality assurance, data migration and integration, and solution deployment to ensure the business gets the best value. This will be achieved by building strong relationships and collaboration with members of the broader HEINEKEN data organisation as well as various programs across the central, regional and Operating Company (OpCo) structures.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">In particular, he/she will partner with a growing group of data professionals such as Data Scientists, Machine Learning Engineers and Product Managers who play a crucial role in the development and delivery of Analytics products at scale.</span></p>",
+            "benefits": [],
+            "owned_id": 94170,
+            "company": {
+                "id": 94170,
+                "display_name": "HEINEKEN Vietnam",
+                "image_logo": "https://assets.topdev.vn/images/2023/07/25/TopDev-Logo-HNK---VN---Vy-Ho-Thuy-1690250766.png",
+                "slug": "heineken-vietnam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/heineken-vietnam-94170",
+                "tagline": "Heineken Vietnam - Brewing a Better Vietnam",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 179974,
+                            "ward": {
+                                "id": "26740",
+                                "value": "Phường Bến Nghé"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/07/25/TopDev-05c381a08688e173549adeef32b13b21-1690250767.jpg",
+                "image_galleries": [
+                    {
+                        "id": 450651,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "name": "bda33ce6b69bc235ecb766ae10e8c8fa.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:28",
+                            "since": "10 months ago",
+                            "timestamp": 1690250248
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450652,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "name": "83300 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:29",
+                            "since": "10 months ago",
+                            "timestamp": 1690250249
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450653,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "path": "/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "name": "83299 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:30",
+                            "since": "10 months ago",
+                            "timestamp": 1690250250
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "A diverse and open working culture, where your true identity is celebrated.",
+                        "icon": "fa-angellist"
+                    },
+                    {
+                        "value": "Multiple career opportunities to rotate within Functions or cross-functions.",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Your wellbeing will be taken care by our Health & Safety Team since Day 1.",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Be a part of our sustainability journey in Brewing the Better Vietnam.",
+                        "icon": "fa-align-center"
+                    },
+                    {
+                        "value": "Performance appraisal twice a year to guarantee constructive feedback",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Performance bonus (estimated at least 3 months) and 13th month salary bonus",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Bao Viet Insurance for employees and family",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Annual leave: 18 days/year",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Flexible benefit voucher",
+                        "icon": "fa-bell"
+                    },
+                    {
+                        "value": "80% lunch in canteen",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Annual team building, Town hall, YEP",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "Gift for special holidays and sponsor traveling ticket in Tet Holiday",
+                        "icon": "fa-paper-plane"
+                    },
+                    {
+                        "value": "Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h00-17h00)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "C#",
+                    ".NET",
+                    "Azure"
+                ],
+                "industries_arr": [
+                    "Kinh Doanh",
+                    "Sản xuất",
+                    "Manufacturing"
+                ],
+                "industries_str": "Kinh Doanh, Sản xuất, Manufacturing",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "SQL, Python, Data Engineer, PySpark",
+            "skills_arr": [
+                "SQL",
+                "Python",
+                "Data Engineer",
+                "PySpark"
+            ],
+            "skills_ids": [
+                28,
+                34,
+                1464,
+                8255
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Junior, Middle",
+            "job_levels_arr": [
+                "Junior",
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 179974,
+                        "ward": {
+                            "id": "26740",
+                            "value": "Phường Bến Nghé"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/data-engineer-heineken-vietnam-2033366",
+            "job_url": "",
+            "slug": "data-engineer-heineken-vietnam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "27-05-2024",
+                "datetime": "00:00:00 27-05-2024",
+                "since": "4 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:06 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Education & Experience:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "BA/MSc in Statistics, Mathematics, or a related field; equivalent work experience accepted.",
+                        "5+ years in a pure analytical/science role."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Experience / Skills (all levels):"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Excellent written and verbal communication skills.",
+                        "Significant commercial experience in a similar position.",
+                        "Proficiency with Python (inc. strong data analytics skills using Python).",
+                        "Excellent software engineering skills (including unit testing, integration testing, OOP).",
+                        "Experience working with large datasets through Spark and RDBMS.",
+                        "Solid knowledge of PySpark with the ability to apply it to write Spark applications as well as analyze data in a distributed environment.",
+                        "Experience working with a large development team (CI/CD)",
+                        "Very good SQL skills and ability to extract information from databases.",
+                        "Ability to build and maintain strong collaborative relationships with stakeholders across the business.",
+                        "Demonstrated ability to effectively manage multiple simultaneous projects and deliverables.",
+                        "Communicate effectively with various stakeholders, tailoring your message to your audience's level of technical understanding.",
+                        "Excellent written and verbal English and local language."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Experience with Azure development environment.",
+                        "Experience in building/releasing Infrastructure as Code (e.g. Terraform)",
+                        "Experience with containerization technologies and orchestrators (e.g. Docker and Kubernetes).",
+                        "Understanding of machine learning models, deployment, and monitoring.",
+                        "Interest in machine learning and/or desire to develop skills",
+                        "Experience working in agile organizations."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Working Condition:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Office-based role (with Hybrid Working) with standard working hours in Ho Chi Minh head office."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033482,
+            "title": "Front-End Developer (VueJS - Typescript) Senior - Mid",
+            "content": "",
+            "benefits": [],
+            "owned_id": 93797,
+            "company": {
+                "id": 93797,
+                "display_name": "Smilegate Vietnam",
+                "image_logo": "https://assets.topdev.vn/images/2024/06/07/TopDev-c596dd04b2cb190d4ec93367702d2338-1717746067.png",
+                "slug": "smilegate-vietnam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/smilegate-vietnam-93797",
+                "tagline": "Mega Value Innovator in Entertainment headquartered in Korea",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 152627,
+                            "ward": {
+                                "id": "26920",
+                                "value": "Phường 25"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "765",
+                                "value": "Quận Bình Thạnh"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/06/07/TopDev-48e8171cd3ba6998a018a1eb48180052-1717746089.png",
+                "image_galleries": [
+                    {
+                        "id": 606851,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-48e8171cd3ba6998a018a1eb48180052-1717746089.png",
+                        "path": "/images/2024/06/07/TopDev-48e8171cd3ba6998a018a1eb48180052-1717746089.png",
+                        "name": "48e8171cd3ba6998a018a1eb48180052.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:29",
+                            "since": "1 week ago",
+                            "timestamp": 1717746089
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606852,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-80d36a3db5c218eade7dbaf06ca69d9a-1717746089.png",
+                        "path": "/images/2024/06/07/TopDev-80d36a3db5c218eade7dbaf06ca69d9a-1717746089.png",
+                        "name": "80d36a3db5c218eade7dbaf06ca69d9a.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:29",
+                            "since": "1 week ago",
+                            "timestamp": 1717746089
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606853,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-a2c3662e0fc63420c6ed4daadbbba19b-1717746089.png",
+                        "path": "/images/2024/06/07/TopDev-a2c3662e0fc63420c6ed4daadbbba19b-1717746089.png",
+                        "name": "a2c3662e0fc63420c6ed4daadbbba19b.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:30",
+                            "since": "1 week ago",
+                            "timestamp": 1717746090
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606854,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-4ce1c093139e3ead853d8d8663b566a6-1717746090.png",
+                        "path": "/images/2024/06/07/TopDev-4ce1c093139e3ead853d8d8663b566a6-1717746090.png",
+                        "name": "4ce1c093139e3ead853d8d8663b566a6.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:30",
+                            "since": "1 week ago",
+                            "timestamp": 1717746090
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 606855,
+                        "url": "https://assets.topdev.vn/images/2024/06/07/TopDev-bb9f0cd89bcdab8696f41b8098bc5cd8-1717746090.png",
+                        "path": "/images/2024/06/07/TopDev-bb9f0cd89bcdab8696f41b8098bc5cd8-1717746090.png",
+                        "name": "bb9f0cd89bcdab8696f41b8098bc5cd8.png",
+                        "uploaded": {
+                            "date": "07-06-2024",
+                            "datetime": "2024-06-07 14:41:30",
+                            "since": "1 week ago",
+                            "timestamp": 1717746090
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Premium health insurance",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Safe, ethical, secure, and healthy workplace",
+                        "icon": "fa-shield"
+                    },
+                    {
+                        "value": "Competitive compensation package, Annual bonus program",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Budget for individual learning & development",
+                        "icon": "fa-university"
+                    },
+                    {
+                        "value": "14 days of paid annual leave, increasing by 1 day each year.",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Flexible working timeframe",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Modern working equipment",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Well-stocked pantry to relax and recharge.",
+                        "icon": "fa-music"
+                    },
+                    {
+                        "value": "Engagement activities (monthly team bonding, yearly company trip…)",
+                        "icon": "fa-beer"
+                    },
+                    {
+                        "value": "Sponsored sports clubs, Korean classes, and so on",
+                        "icon": "fa-soccer-ball-o"
+                    },
+                    {
+                        "value": "Business trip opportunities to Korean Headquarters",
+                        "icon": "fa-plane"
+                    }
+                ],
+                "skills_arr": [
+                    "Unity",
+                    "C++",
+                    "Java",
+                    "JavaScript",
+                    "Spring",
+                    "VueJS"
+                ],
+                "industries_arr": [
+                    "Giải trí/ Game"
+                ],
+                "industries_str": "Giải trí/ Game",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Front-End, VueJS, Angular",
+            "skills_arr": [
+                "Front-End",
+                "VueJS",
+                "Angular"
+            ],
+            "skills_ids": [
+                209,
+                1297,
+                1480
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 152627,
+                        "ward": {
+                            "id": "26920",
+                            "value": "Phường 25"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "765",
+                            "value": "Quận Bình Thạnh"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ, Phường 25, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà Cát Lâm, Số 663-665, Đường Điện Biên Phủ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/front-end-developer-vuejs-typescript-senior-mid-smilegate-vietnam-2033482",
+            "job_url": "",
+            "slug": "front-end-developer-vuejs-typescript-senior-mid-smilegate-vietnam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "11-06-2024",
+                "datetime": "00:00:00 11-06-2024",
+                "since": "2 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:06 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "4+ years of experience in web front development",
+                        "Web frontend framework (Vue.js, Nuxt or Angular) experience",
+                        "Good at HTML/CSS(SCSS)/JavaScript.",
+                        "Experience in optimizing HTML, CSS, & JavaScript to improve web performance.",
+                        "Experience with SSR/ISG/SSG.",
+                        "Experience with Tailwind.",
+                        "Good at design system (CSS).",
+                        "Have experience or knowledge of atomic design and design common components.",
+                        "REST API calls and JavaScript asynchronous processing capabilities."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Communication Skills:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Be able to collaborate across our process via workspace tooling (Jira, Git ops, Confluence...)",
+                        "Be able to develop flexible and complicated design, make good decisions in architecture for new projects not only to develop added features."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Experience working with international technical teams.",
+                        "Web security knowledge.",
+                        "Other front-end development and operation experience such as Typescript, Pinia, etc.",
+                        "Experience in configuration management such as Git",
+                        "Code quality maintenance/operation experience through TDD",
+                        "Good at technical documentation and technical planning.",
+                        "Good at technical analysis for technical challenges.",
+                        "Experience with Agile collaboration tools and techniques: Jira, Confluence,Git collaboration workflow."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033369,
+            "title": "Business Intelligence Lead",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Job Purpose:</strong></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The Business Intelligence Lead is crucial within the D&amp;T department at HEINEKEN International, spearheading the APAC Data &amp; Analytics Hub. It is central to operationalizing our strategy of establishing standardized and scalable data foundations across the region and enterprise. Renowned for delivering cutting-edge innovation, robust technology, and advanced analytics, the D&amp;T department equips HEINEKEN with a significant technological advantage, aligning with our ambitious organizational goals.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The role in as part of the APAC Data &amp; Analytics Hub is critical in Heineken to operationalise our strategy of standardised and scalable data foundations across the region and enterprise. The role holder will work with colleagues across Heineken as part of a team that drive the Research &amp; Development activities of the Advanced Analytics organization by identifying and developing new Analytics opportunities for the enterprise within a specific Function or a group of Functions.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">It is essential that the role holder delivers analytical solutions that are both theoretically sound but create immediate business value. This will be achieved by building strong relationships and collaboration with members of the broader HEINEKEN data organisation including Insight Enablement, Data Management and Global Analytics and various programs across the central, regional and Operating Company (OpCo) structures.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">In particular, he/she will partner with a growing group of data professionals such as Data Engineers, Machine Learning Engineers and Product Managers who play a crucial role in the development and delivery of Analytics products at scale.</span></p>",
+            "benefits": [],
+            "owned_id": 94170,
+            "company": {
+                "id": 94170,
+                "display_name": "HEINEKEN Vietnam",
+                "image_logo": "https://assets.topdev.vn/images/2023/07/25/TopDev-Logo-HNK---VN---Vy-Ho-Thuy-1690250766.png",
+                "slug": "heineken-vietnam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/heineken-vietnam-94170",
+                "tagline": "Heineken Vietnam - Brewing a Better Vietnam",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 179974,
+                            "ward": {
+                                "id": "26740",
+                                "value": "Phường Bến Nghé"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/07/25/TopDev-05c381a08688e173549adeef32b13b21-1690250767.jpg",
+                "image_galleries": [
+                    {
+                        "id": 450651,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-bda33ce6b69bc235ecb766ae10e8c8fa-1690250248.jpg",
+                        "name": "bda33ce6b69bc235ecb766ae10e8c8fa.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:28",
+                            "since": "10 months ago",
+                            "timestamp": 1690250248
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450652,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "path": "/images/2023/07/25/TopDev-83300---Vy-Ho-Thuy-1690250248.jpg",
+                        "name": "83300 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:29",
+                            "since": "10 months ago",
+                            "timestamp": 1690250249
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 450653,
+                        "url": "https://assets.topdev.vn/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "path": "/images/2023/07/25/TopDev-83299---Vy-Ho-Thuy-1690250249.jpg",
+                        "name": "83299 - Vy Hồ Thụy.jpg",
+                        "uploaded": {
+                            "date": "25-07-2023",
+                            "datetime": "2023-07-25 08:57:30",
+                            "since": "10 months ago",
+                            "timestamp": 1690250250
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "A diverse and open working culture, where your true identity is celebrated.",
+                        "icon": "fa-angellist"
+                    },
+                    {
+                        "value": "Multiple career opportunities to rotate within Functions or cross-functions.",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Your wellbeing will be taken care by our Health & Safety Team since Day 1.",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Be a part of our sustainability journey in Brewing the Better Vietnam.",
+                        "icon": "fa-align-center"
+                    },
+                    {
+                        "value": "Performance appraisal twice a year to guarantee constructive feedback",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Performance bonus (estimated at least 3 months) and 13th month salary bonus",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Bao Viet Insurance for employees and family",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Annual leave: 18 days/year",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Flexible benefit voucher",
+                        "icon": "fa-bell"
+                    },
+                    {
+                        "value": "80% lunch in canteen",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Annual team building, Town hall, YEP",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "Gift for special holidays and sponsor traveling ticket in Tet Holiday",
+                        "icon": "fa-paper-plane"
+                    },
+                    {
+                        "value": "Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h00-17h00)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "C#",
+                    ".NET",
+                    "Azure"
+                ],
+                "industries_arr": [
+                    "Kinh Doanh",
+                    "Sản xuất",
+                    "Manufacturing"
+                ],
+                "industries_str": "Kinh Doanh, Sản xuất, Manufacturing",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "SQL, Business Intelligence, Power BI Specialist",
+            "skills_arr": [
+                "SQL",
+                "Business Intelligence",
+                "Power BI Specialist"
+            ],
+            "skills_ids": [
+                28,
+                1099,
+                8427
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Trưởng Nhóm",
+            "job_levels_arr": [
+                "Trưởng Nhóm"
+            ],
+            "job_levels_ids": [
+                7276
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 179974,
+                        "ward": {
+                            "id": "26740",
+                            "value": "Phường Bến Nghé"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/business-intelligence-lead-heineken-vietnam-2033369",
+            "job_url": "",
+            "slug": "business-intelligence-lead-heineken-vietnam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "27-05-2024",
+                "datetime": "00:00:00 27-05-2024",
+                "since": "4 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:06 21-06-2024",
+                "since": "4 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Education & Experience:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "BA/MSc in a quantitative related field; equivalent work experience accepted.",
+                        "8+ years in a BI or analytics role"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Must have (all levels):"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Exposure with Microsoft BI Stack (SQL Server DB, SSIS, SSAS)",
+                        "Exposure with Relational Database Management Systems (Eg: SQL Server, MySQL, Oracle DB).",
+                        "Exposure with Data Transformation, Cleansing and Ingestion using the tools like SQL Server Integration Services, Azure Data Factory.",
+                        "Experience with Data Models (Star Schema and Snowflake Schema).",
+                        "Experience with Tabular and Multi-Dimensional Data Models.",
+                        "Exposure with the Data Visualization and Reporting tools like Power BI/Tableau/Spotfire.",
+                        "Exposure with Microsoft Cloud services like Azure Synapse/Azure SQL DB/Azure Data Factory/Azure Analysis Services.",
+                        "Exposure with DAX, PowerBI architecture, capacity & costing knowledge",
+                        "Experience working with a large development team (CI/CD)",
+                        "Strong communication, project and stakeholder management & structured problem solving.",
+                        "Experience working in an agile environment (e.g. user stories, iterative development, etc.). Experience working with JIRA",
+                        "Able to translate analysis and conclusions into actionable recommendations that deliver business value.",
+                        "Demonstrated ability to effectively manage and priorities projects and deliverables multiple projects;",
+                        "Proven experience in managing all aspects of a successful product throughout its lifecycle.",
+                        "Highly proficient in MS Office.",
+                        "Excellent written and verbal English and local language."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Experience in data analysis, machine learning or related field.",
+                        "Experience in FMCG/Beverage Industry."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Working Condition:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Office-based role (with Hybrid Working) with standard working hours in Ho Chi Minh head office."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": null,
+        "last": null,
+        "prev": "http://api.topdev.vn/td/v2/jobs/?page=43",
+        "next": null
+    },
+    "meta": {
+        "total": 760,
+        "per_page": 10,
+        "current_page": 44,
+        "last_page": 76,
+        "from": 431,
+        "to": 440
+    }
+}

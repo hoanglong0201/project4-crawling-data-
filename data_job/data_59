@@ -1,0 +1,3841 @@
+{
+    "_type": "jobs",
+    "aggregations": {
+        "categories": [],
+        "status": [
+            {
+                "key": 3,
+                "doc_count": 640
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 2033092,
+            "title": "Front-end Developer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are seeking a <strong>Frontend Developer</strong> to join our team and be responsible for building client-side web components.&nbsp; Front-end developers should be able to transform the UI/UX design wireframes to code and represent the visual part of the application or website.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "15 days of annual leaves"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary (+13-month salary include)"
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Health insurance, social insurance according to the government regulations"
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "PVI Healthcare Insurance"
+                },
+                {
+                    "icon": "fa-globe",
+                    "name": null,
+                    "value": "Have a chance to work in an international, friendly, open environment"
+                },
+                {
+                    "icon": "fa-car",
+                    "name": null,
+                    "value": "Annual Travel opportunity"
+                }
+            ],
+            "owned_id": 92640,
+            "company": {
+                "id": 92640,
+                "display_name": "Laidon Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/03/27/TopDev-d75583db3b800902d15e721a6fb5a438-1679887354.png",
+                "slug": "laidon-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/laidon-group-92640",
+                "tagline": "Laidon - Empowering Simplification",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Lầu 1, Tòa nhà Cao Minh, 324 Lê Văn Sỹ, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "Tòa Nhà Việt Building, 199 Đống Đa, Phường Thạch Thang, Quận Hải Châu, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh - Quận Hải Châu, Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 135949,
+                            "ward": {
+                                "id": "26965",
+                                "value": "Phường 02"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Lầu 1, Tòa nhà Cao Minh, 324 Lê Văn Sỹ, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Lầu 1, Tòa nhà Cao Minh, 324 Lê Văn Sỹ"
+                        },
+                        {
+                            "id": 159114,
+                            "ward": {
+                                "id": "20233",
+                                "value": "Phường Thạch Thang"
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": "492",
+                                "value": "Quận Hải Châu"
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Tòa Nhà Việt Building, 199 Đống Đa, Phường Thạch Thang, Quận Hải Châu, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Nhà Việt Building, 199 Đống Đa"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Đà Nẵng"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2022/12/13/TopDev-home-background-4-1670915900.png",
+                "image_galleries": [
+                    {
+                        "id": 369693,
+                        "url": "https://assets.topdev.vn/images/2022/12/13/TopDev-home-background-3-1670916084.png",
+                        "path": "/images/2022/12/13/TopDev-home-background-3-1670916084.png",
+                        "name": "home-background-3.png",
+                        "uploaded": {
+                            "date": "13-12-2022",
+                            "datetime": "2022-12-13 14:21:25",
+                            "since": "1 year ago",
+                            "timestamp": 1670916085
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 369694,
+                        "url": "https://assets.topdev.vn/images/2022/12/13/TopDev-home-background-2-1670916085.png",
+                        "path": "/images/2022/12/13/TopDev-home-background-2-1670916085.png",
+                        "name": "home-background-2.png",
+                        "uploaded": {
+                            "date": "13-12-2022",
+                            "datetime": "2022-12-13 14:21:26",
+                            "since": "1 year ago",
+                            "timestamp": 1670916086
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 369695,
+                        "url": "https://assets.topdev.vn/images/2022/12/13/TopDev-cbeb0d55e9491b4ef879906e4f2869fe-1670916086.png",
+                        "path": "/images/2022/12/13/TopDev-cbeb0d55e9491b4ef879906e4f2869fe-1670916086.png",
+                        "name": "cbeb0d55e9491b4ef879906e4f2869fe.png",
+                        "uploaded": {
+                            "date": "13-12-2022",
+                            "datetime": "2022-12-13 14:21:27",
+                            "since": "1 year ago",
+                            "timestamp": 1670916087
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "15 days of annual leave/ 13+ salary bonus",
+                        "icon": "fa-calendar-times-o"
+                    },
+                    {
+                        "value": "Health insurance and Social Insurance under Government's regulations",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "Providing customized training courses according to business needs and upon your request",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Travel opportunities",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Opportunity to training both technical and soft skills to develop your career path",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Working time: 08:30 - 18:00 from Monday to Friday",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "NodeJS",
+                    "ReactJS",
+                    "SAP"
+                ],
+                "industries_arr": [
+                    "B2B Services"
+                ],
+                "industries_str": "B2B Services",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "CSS, Front-End, UI/UX",
+            "skills_arr": [
+                "CSS",
+                "Front-End",
+                "UI/UX"
+            ],
+            "skills_ids": [
+                3,
+                209,
+                8611
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle",
+            "job_levels_arr": [
+                "Junior",
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Lầu 1, Tòa nhà Cao Minh, 324 Lê Văn Sỹ, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 135949,
+                        "ward": {
+                            "id": "26965",
+                            "value": "Phường 02"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "766",
+                            "value": "Quận Tân Bình"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Lầu 1, Tòa nhà Cao Minh, 324 Lê Văn Sỹ, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Lầu 1, Tòa nhà Cao Minh, 324 Lê Văn Sỹ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/front-end-developer-laidon-group-2033092",
+            "job_url": "",
+            "slug": "front-end-developer-laidon-group",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "17-04-2024",
+                "datetime": "00:00:00 17-04-2024",
+                "since": "2 tháng trước"
+            },
+            "refreshed": {
+                "date": "14-06-2024",
+                "datetime": "02:00:07 14-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Have more than 1 year of experience in the related position",
+                        "Require solid Front-end knowledge in JavaScript, HTML5, CSS3, XML.",
+                        "Understanding of server-side CSS pre-processing platforms, such as SASS/SCSS.",
+                        "Foundation of Typescript",
+                        "Knowledge in State Management foundation of any framework",
+                        "Strong problem-solving and analytical skills",
+                        "Ability to work in a team environment",
+                        "Ability to organize and manage multitask and work to tight deadlines.",
+                        "Excellent verbal and written communication skills",
+                        "Currently pursuing or recently completed a degree in Computer Science or related field",
+                        "SAPUI5 Framework is a plus."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033266,
+            "title": "DevOps Engineer (All Levels)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 50612,
+            "company": {
+                "id": 50612,
+                "display_name": "TopDev's Client",
+                "image_logo": "https://assets.topdev.vn/images/2024/03/01/TopDev-SE6qQ18EbAUjcfoD-1709278717.png",
+                "slug": "topdev-s-client",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/topdev-s-client-50612",
+                "tagline": "IT Jobs From TopDev's Client",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "Quận 3, Hồ Chí Minh, Quận 3, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 292,
+                            "ward": {
+                                "id": "26953",
+                                "value": "Phường 21"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "765",
+                                "value": "Quận Bình Thạnh"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ"
+                        },
+                        {
+                            "id": 196483,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Quận 3, Hồ Chí Minh, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Quận 3, Hồ Chí Minh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                "image_galleries": [
+                    {
+                        "id": 591764,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                        "path": "/images/2024/05/08/TopDev-viJvnmifhJUuYade-1715144255.png",
+                        "name": "9jxlOHitlDm9vn8UbcqCbdidHWNLYVaUvDMwQsj2.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:35",
+                            "since": "1 month ago",
+                            "timestamp": 1715144255
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 591765,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-NCCfSgYJFZ3YIItL-1715144255.png",
+                        "path": "/images/2024/05/08/TopDev-NCCfSgYJFZ3YIItL-1715144255.png",
+                        "name": "ocHpcpviwHBP6Oj8R1B2UEDeigkHnZNiHMo40hlc.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:36",
+                            "since": "1 month ago",
+                            "timestamp": 1715144256
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 591766,
+                        "url": "https://assets.topdev.vn/images/2024/05/08/TopDev-hx8CVTbix1IpIF7h-1715144256.png",
+                        "path": "/images/2024/05/08/TopDev-hx8CVTbix1IpIF7h-1715144256.png",
+                        "name": "7FcbNvMrvpb6PEuoWIiPXXsKIJiWGg9XtWCoLvU2.png",
+                        "uploaded": {
+                            "date": "08-05-2024",
+                            "datetime": "2024-05-08 11:57:36",
+                            "since": "1 month ago",
+                            "timestamp": 1715144256
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "name": "Bonus",
+                        "value": "Build solid foundation for IT career path through an accelerate 12-month development",
+                        "icon": "fa-graduation-cap"
+                    },
+                    {
+                        "name": "Library",
+                        "value": "Acquire strong technical and soft skills",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "name": "Healthcare Plan",
+                        "value": "Work in cutting edge technology projects",
+                        "icon": "fa-rss"
+                    },
+                    {
+                        "name": "Vouchers",
+                        "value": "Buddy with friendly colleagues and learn from senior experts",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "name": "Training",
+                        "value": "Develop a strong sense of business insight",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "name": "Awards",
+                        "value": "Development journey come along with growing benefits",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Receive attractive benefits (meal allowance, 13th month salary, performance bonus, healthcare insurance,...)",
+                        "icon": "fa-angellist"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "Web/ Mobile",
+                    "Mobile",
+                    "Product",
+                    "IT Staff"
+                ],
+                "industries_arr": [
+                    "Dịch vụ doanh nghiệp",
+                    "Nhân sự",
+                    "Triển Khai Phần Mềm"
+                ],
+                "industries_str": "Dịch vụ doanh nghiệp, Nhân sự, Triển Khai Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "",
+            "skills_arr": [],
+            "skills_ids": [],
+            "job_types_str": "",
+            "job_levels_str": "Fresher",
+            "job_levels_arr": [
+                "Fresher"
+            ],
+            "job_levels_ids": [
+                1617
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 292,
+                        "ward": {
+                            "id": "26953",
+                            "value": "Phường 21"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "765",
+                            "value": "Quận Bình Thạnh"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/devops-engineer-all-levels-topdev-s-client-2033266",
+            "job_url": "",
+            "slug": "devops-engineer-all-levels-topdev-s-client",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "15-05-2024",
+                "datetime": "09:39:44 15-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "14-06-2024",
+                "datetime": "02:00:06 14-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Yêu thích kỹ thuật, sẵn sàng nghiên cứu và phát triển công nghệ mới",
+                        "Có khả năng tìm hiểu độc lập, cũng như phối hợp với nhóm",
+                        "Có kinh nghiệm làm việc với AWS hoặc OpenStack hơn 1 năm"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Ưu tiên ứng viên:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Thành thạo ít nhất 01 ngôn ngữ lập trình (Python, Java...)",
+                        "Có kinh nghiệm bảo mật và nguy cơ an ninh mạng trên điện toán đám mây",
+                        "Có bằng đại học/cao học các ngành CNTT và ĐTVT"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033395,
+            "title": "Nhân Viên Hỗ Trợ Kỹ Thuật",
+            "content": "<ul>\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Số lượng tuyển dụng: 2<br></span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Mức lương: 12 - 15 triệu</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">L&agrave;m việc tại: Quận 1, Hồ Ch&iacute; Minh</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Giới t&iacute;nh: Nam</span></li>\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tuổi: từ 24 - 30</span></li>\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Được hưởng chế độ bảo hiểm theo đúng Luật lao động Việt Nam: BHYT, BHXH, BHTN."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Các chế độ phụ cấp, thưởng, nghỉ mát hằng năm tùy vào tình hình hoạt động kinh doanh của Công ty."
+                },
+                {
+                    "icon": "fa-soccer-ball-o",
+                    "name": null,
+                    "value": "Tham gia các sự kiện giải trí, thể thao, team building được tổ chức thường xuyên tại Công ty."
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Cơ hội được đào tạo, huấn luyện chuyên môn phục vụ công việc."
+                }
+            ],
+            "owned_id": 93749,
+            "company": {
+                "id": 93749,
+                "display_name": "Hào Quang Việt",
+                "image_logo": "https://assets.topdev.vn/images/2022/09/09/TopDev-hqv-logo2-QuytTrn-1662714094.png",
+                "slug": "hao-quang-viet",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/hao-quang-viet-93749",
+                "tagline": "Web Solutions",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tầng M, Central Park, 208 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 150922,
+                            "ward": {
+                                "id": "26749",
+                                "value": "Phường Phạm Ngũ Lão"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tầng M, Central Park, 208 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng M, Central Park, 208 Nguyễn Trãi"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Lương 8.000.000 - 20.000.000 tùy theo năng lực",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Thưởng dự án",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Thưởng lương tháng 13 và thưởng khác",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Lên lương hàng năm",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Nghỉ phép 12 ngày/năm",
+                        "icon": "fa-calendar-times-o"
+                    },
+                    {
+                        "value": "Bảo hiểm xã hội- Bảo hiểm y tế - Bảo hiểm thất nghiệp",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Làm việc T2-T6",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Linux, IT Support, SSl",
+            "skills_arr": [
+                "Linux",
+                "IT Support",
+                "SSl"
+            ],
+            "skills_ids": [
+                6,
+                345,
+                8240
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle",
+            "job_levels_arr": [
+                "Junior",
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tầng M, Central Park, 208 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 150922,
+                        "ward": {
+                            "id": "26749",
+                            "value": "Phường Phạm Ngũ Lão"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tầng M, Central Park, 208 Nguyễn Trãi, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng M, Central Park, 208 Nguyễn Trãi"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/nhan-vien-ho-tro-ky-thuat-hao-quang-viet-2033395",
+            "job_url": "",
+            "slug": "nhan-vien-ho-tro-ky-thuat-hao-quang-viet",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "1*******",
+                "max": "1*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "1******* - 1******* VND"
+            },
+            "features": [],
+            "packages": [
+                "basic"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-05-2024",
+                "datetime": "00:00:00 30-05-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "14-06-2024",
+                "datetime": "02:00:06 14-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Có kiến thức về các sản phẩm SSL, kinhnghiệm cài đặt SSL trên các nền tảng máy chủkhác nhau",
+                        "Có kinh nghiệm làm việc với môi trường Shared",
+                        "Hosting trên nền tảng Linux/Windows thôngqua các control panel như cPanel, DirectAdmin,Plesk.",
+                        "Có kinh nghiệm làm việc trên môi trường máychủ Linux, thành thạo command line thôngdụng và các thao tác cài đặt các phần mềm liênquan đến lĩnh vực Web Hosting như cài đặt webserver, database server, FTP server",
+                        "Có kiến thức, kinh nghiệm, khả năng phân tích,xử lý lỗi mail server và mail client",
+                        "Có kiến thức và kinh nghiệm cài đặt, phân tíchlỗi hệ thống website sử dụng ngôn ngữ PHP vàhệ cơ sở quản trị dữ liệu MySQL.",
+                        "Có kiến thức và kinh nghiệm làm việc vớiWordPress, các công cụ như Ansible, Git làmột lợi thế.",
+                        "Có các chứng chỉ LPI, MCSE/MCITP,CCNA/CCNP là một ưu thế."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Yêu cầu khác:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Thời gian làm việc có thể linh hoạt theo ca.",
+                        "Có kỹ năng giao tiếp tốt."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033507,
+            "title": "DevOps Engineer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are searching for a talented DevOps Engineer to join our team and play a key role in streamlining our API development and deployment processes.&nbsp;</span></p>",
+            "benefits": [],
+            "owned_id": 94737,
+            "company": {
+                "id": 94737,
+                "display_name": "BIOTURING",
+                "image_logo": "https://assets.topdev.vn/images/2024/06/05/TopDev-bioturing_logo---Nga-Ly-1717580349.jpg",
+                "slug": "bioturing",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/bioturing-94737",
+                "tagline": "Accelerated life science discoveries",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 202403,
+                            "ward": {
+                                "id": "27088",
+                                "value": "Phường Thảo Điền"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "762",
+                                "value": "Thành phố Thủ Đức"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "14E17 Thảo Điền"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/06/05/TopDev-Anh-chup-man-hinh-2024-06-05-164010-1717580433.png",
+                "image_galleries": [
+                    {
+                        "id": 605692,
+                        "url": "https://assets.topdev.vn/images/2024/06/05/TopDev-0ef280c3215a8104d84b---Nga-Ly-1717580349.jpg",
+                        "path": "/images/2024/06/05/TopDev-0ef280c3215a8104d84b---Nga-Ly-1717580349.jpg",
+                        "name": "0ef280c3215a8104d84b - Nga Ly.jpg",
+                        "uploaded": {
+                            "date": "05-06-2024",
+                            "datetime": "2024-06-05 16:39:09",
+                            "since": "2 weeks ago",
+                            "timestamp": 1717580349
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 605693,
+                        "url": "https://assets.topdev.vn/images/2024/06/05/TopDev-440876784_403668925896707_171621740747379845_n---Nga-Ly-1717580363.jpg",
+                        "path": "/images/2024/06/05/TopDev-440876784_403668925896707_171621740747379845_n---Nga-Ly-1717580363.jpg",
+                        "name": "440876784_403668925896707_171621740747379845_n - Nga Ly.jpg",
+                        "uploaded": {
+                            "date": "05-06-2024",
+                            "datetime": "2024-06-05 16:39:23",
+                            "since": "2 weeks ago",
+                            "timestamp": 1717580363
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Competitive salary and benefits package.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Lunch and Dinner prepared by the Company.",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Flexible working hours",
+                        "icon": "fa-clock-o"
+                    },
+                    {
+                        "value": "A collaborative and supportive work environment.",
+                        "icon": "fa-lightbulb-o"
+                    },
+                    {
+                        "value": "A chance to learn and grow your career in a rapidly evolving field",
+                        "icon": "fa-cogs"
+                    },
+                    {
+                        "value": "Insurance benefit (Bao Viet Insurance) for employees after 1 year and above of employment.",
+                        "icon": "fa-file-text"
+                    }
+                ],
+                "skills_arr": [
+                    "C++",
+                    "Python",
+                    "NodeJS",
+                    "Golang",
+                    "DevOps"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Python, DevOps, CI/CD",
+            "skills_arr": [
+                "Python",
+                "DevOps",
+                "CI/CD"
+            ],
+            "skills_ids": [
+                34,
+                213,
+                1587
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 202403,
+                        "ward": {
+                            "id": "27088",
+                            "value": "Phường Thảo Điền"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "762",
+                            "value": "Thành phố Thủ Đức"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "14E17 Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "14E17 Thảo Điền"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/devops-engineer-bioturing-2033507",
+            "job_url": "",
+            "slug": "devops-engineer-bioturing",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "13-06-2024",
+                "datetime": "00:00:00 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "13-06-2024",
+                "datetime": "08:15:21 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Background in Computer Science/IT or related field.",
+                        "Minimum 2 years of experience in DevOps or relevant positions.",
+                        "Strong foundation in building and deploying API servers using Go and Python.",
+                        "Experience with integrating with databases (SQL/SQLite) and cloud storage services (S3) using Go or Python libraries.",
+                        "Proficiency in Docker and Docker Compose."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033239,
+            "title": "Viettel Solution - Kỹ sư Dữ liệu (Junior Data Engineer)",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Thu nhập hấp dẫn."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Phụ cấp ăn trưa: 730.000 VNĐ/tháng. Điện thoại: 200.000 VNĐ/tháng."
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Chế độ thưởng theo quý, năm; tiền quà các ngày Lễ, Tết, ngày thành lập Tập đoàn; hỗ trợ chi phí nghỉ dưỡng hằng năm..."
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Hưởng Bảo hiểm Xã hội, Bảo hiểm Y tế theo quy định của Luật Lao động và của Tập đoàn"
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Bảo hiểm sức khỏe (Chi trả 100% theo thực tế phát sinh chi phí thuộc phạm vi bảo hiểm, Không vượt quá hạn mức bảo hiểm)"
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Môi trường chuyên nghiệp, sáng tạo, cạnh tranh, phát triển, năng động có nhiều cơ hội thăng tiến."
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Cơ hội học tập, nghiên cứu, làm việc trong nước và các nước trên thế giới."
+                }
+            ],
+            "owned_id": 84011,
+            "company": {
+                "id": 84011,
+                "display_name": "Viettel Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Logo-Original-1675389520.png",
+                "slug": "viettel-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-group-84011",
+                "tagline": "Viettel - Show us your way",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "01",
+                        "01",
+                        "79",
+                        "01",
+                        "01",
+                        "01",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                        "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                        "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                        "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                        "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận Cầu Giấy, Hà Nội - Quận Nam Từ Liêm, Hà Nội - Quận 10, Hồ Chí Minh - Quận Ba Đình, Hà Nội - Huyện Thạch Thất, Hà Nội - Quận Tây Hồ, Hà Nội - Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 107607,
+                            "ward": {
+                                "id": "00172",
+                                "value": "Phường Yên Hoà"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Lô D26 Khu đô thị mới Cầu Giấy"
+                        },
+                        {
+                            "id": 165927,
+                            "ward": {
+                                "id": "00167",
+                                "value": "Phường Dịch Vọng Hậu"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+                        },
+                        {
+                            "id": 172304,
+                            "ward": {
+                                "id": "00626",
+                                "value": "Phường Mỹ Đình 2"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+                        },
+                        {
+                            "id": 172305,
+                            "ward": {
+                                "id": "27172",
+                                "value": "Phường 12"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "771",
+                                "value": "Quận 10"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám"
+                        },
+                        {
+                            "id": 187929,
+                            "ward": {
+                                "id": "00028",
+                                "value": "Phường Kim Mã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "001",
+                                "value": "Quận Ba Đình"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 1 Giang Văn Minh"
+                        },
+                        {
+                            "id": 193519,
+                            "ward": {
+                                "id": "10000",
+                                "value": "Xã Tân Xã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "276",
+                                "value": "Huyện Thạch Thất"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc"
+                        },
+                        {
+                            "id": 193578,
+                            "ward": {
+                                "id": "00103",
+                                "value": "Phường Xuân La"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "003",
+                                "value": "Quận Tây Hồ"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 380 Lạc Long Quân"
+                        },
+                        {
+                            "id": 193579,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hà Nội, Hà Nội, Hồ Chí Minh, Hà Nội, Hà Nội, Hà Nội, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-show-us-your-way-Logo-1675389522.png",
+                "image_galleries": [
+                    {
+                        "id": 378815,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "path": "/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "name": "c3951abdd902c508b2d82e83fadbba79.png",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:44",
+                            "since": "1 year ago",
+                            "timestamp": 1675389524
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 378816,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "path": "/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "name": "Viettel-Image-1.JPG",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:45",
+                            "since": "1 year ago",
+                            "timestamp": 1675389525
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Dẫn đầu thị trường:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Cơ hội được trải nghiệm, tiếp cận và làm việc tại Tập đoàn tiên phong mở đường, kiến tạo tương lai thông minh, gắn kết của Việt Nam.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được thử sức trong những lĩnh vực công nghệ tiên tiến, hiện đại nhất.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được trở thành nhân viên chính thức ngay sau khi tốt nghiệp mà không cần trải qua thử việc.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Môi trường năng động sáng tạo:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Môi trường làm việc cởi mở và năng động, khuyến khích trao đổi ý tưởng ở mọi cấp, cho phép bạn làm việc, sáng tạo theo cách riêng.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được khơi gợi cảm hứng làm việc với văn phòng xanh, không gian mở, hiện đại tiêu chuẩn quốc tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử thách và phát triển:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Áp dụng kiến thức, kĩ năng, kinh nghiệm chuyên môn giải quyết các bài toán hấp dẫn, thử thách tại Viettel.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử sức ở nhiều lĩnh vực, sản phẩm và quốc gia khác nhau góp phần thay đổi xã hội.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Viettel cam kết cho bạn nền tảng vững chắc để học hỏi và phát triển.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Sẵn sàng trao quyền, cơ hội đột phá cho những người trẻ tuổi.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội học hỏi từ các chuyên gia hàng đầu, lãnh đạo và đồng nghiệp ưu tú.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được đào tạo, trao dồi kĩ năng định kì và nhu cầu thực tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Chế ngộ đãi ngộ hấp dẫn:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Được hưởng lương phản ánh đúng năng lực và cạnh tranh trên thị trường (From $700, Up to $10,000).",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h30-17h30).",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "JavaScript"
+                ],
+                "industries_arr": [
+                    "Viễn Thông",
+                    "Phần Mềm",
+                    "Dịch vụ doanh nghiệp"
+                ],
+                "industries_str": "Viễn Thông, Phần Mềm, Dịch vụ doanh nghiệp",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Database, Data Engineer, Hadoop",
+            "skills_arr": [
+                "Database",
+                "Data Engineer",
+                "Hadoop"
+            ],
+            "skills_ids": [
+                251,
+                1464,
+                5204
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior",
+            "job_levels_arr": [
+                "Junior"
+            ],
+            "job_levels_ids": [
+                8664
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 193579,
+                        "ward": {
+                            "id": "00631",
+                            "value": "Phường Mễ Trì"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/viettel-solution-ky-su-du-lieu-junior-data-engineer-viettel-group-2033239",
+            "job_url": "",
+            "slug": "viettel-solution-ky-su-du-lieu-junior-data-engineer-viettel-group",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "09-05-2024",
+                "datetime": "00:00:00 09-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "13-06-2024",
+                "datetime": "02:00:07 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp loại khá trở lên các trường đại học khối ngành Kỹ thuật, CNTT, Điện tử viễn thông, Khoa học máy tính, Kỹ thuật phần mềm...",
+                        "Có chứng chỉ Toeic 550 điểm trở lên hoặc các chứng chỉ khác tương đương.",
+                        "Kỹ năng thành thạo một trong các framework, thư viện lưu trữ, xử lý dữ liệu lớn (Hadoop, Spark, Kafka, Nifi)",
+                        "Kiển thức về các loại CSDL (RDBMS, Graph Databases, NoSQL Products, ...)",
+                        "Có kiến thức vững về cấu trúc dữ liệu và giải thuật:",
+                        "Hiểu biết chi tiết về các loại dữ liệu cơ bản ( Interger, Boolean...) và array",
+                        "Hiểu rõ về mối liên hệ giữa cấu trúc dữ liệu và giải thuật",
+                        "Hiểu biết , đánh giá độ phức tạp và cài đặt được các thuật toán, ví dụ các thuật toán sắp xếp : sắp xếp nổi bọt, sắp xếp lựa chọn.., các thuật toán tìm kiếm - Kiến thức về lập trình, cấu trúc dữ liệu & giải thuật."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033230,
+            "title": "VTNet - Nhân viên/chuyên viên quản trị dữ liệu",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Mạng lưới Viettel (Viettel Networks - VTNet) l&agrave; đơn vị trực thuộc Tập đo&agrave;n C&ocirc;ng nghiệp - Viễn th&ocirc;ng Qu&acirc;n đội (Viettel), đứng đầu Tập đo&agrave;n về mức độ trưởng th&agrave;nh số, chịu tr&aacute;ch nhiệm quy hoạch, thiết kế, Vận h&agrave;nh khai th&aacute;c to&agrave;n bộ mạng lưới C&ocirc;ng nghệ th&ocirc;ng tin v&agrave; hạ tầng viễn th&ocirc;ng của Viettel tại Việt Nam v&agrave; c&aacute;c thị trường nước ngo&agrave;i do Viettel đầu tư.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Thu nhập tối thiểu từ 250 triệu VNĐ/năm."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Phụ cấp ăn trưa: 730.000 VNĐ/tháng. Điện thoại: 200.000 VNĐ/tháng"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Chế độ thưởng theo quý, năm; tiền quà các ngày Lễ, Tết, ngày thành lập Tập đoàn; hỗ trợ chi phí nghỉ dưỡng hằng năm..."
+                },
+                {
+                    "icon": "fa-align-center",
+                    "name": null,
+                    "value": "Hưởng Bảo hiểm Xã hội, Bảo hiểm Y tế theo quy định của Luật Lao động và của Tập đoàn"
+                }
+            ],
+            "owned_id": 84011,
+            "company": {
+                "id": 84011,
+                "display_name": "Viettel Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Logo-Original-1675389520.png",
+                "slug": "viettel-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-group-84011",
+                "tagline": "Viettel - Show us your way",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "01",
+                        "01",
+                        "79",
+                        "01",
+                        "01",
+                        "01",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                        "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                        "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                        "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                        "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận Cầu Giấy, Hà Nội - Quận Nam Từ Liêm, Hà Nội - Quận 10, Hồ Chí Minh - Quận Ba Đình, Hà Nội - Huyện Thạch Thất, Hà Nội - Quận Tây Hồ, Hà Nội - Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 107607,
+                            "ward": {
+                                "id": "00172",
+                                "value": "Phường Yên Hoà"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Lô D26 Khu đô thị mới Cầu Giấy"
+                        },
+                        {
+                            "id": 165927,
+                            "ward": {
+                                "id": "00167",
+                                "value": "Phường Dịch Vọng Hậu"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+                        },
+                        {
+                            "id": 172304,
+                            "ward": {
+                                "id": "00626",
+                                "value": "Phường Mỹ Đình 2"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+                        },
+                        {
+                            "id": 172305,
+                            "ward": {
+                                "id": "27172",
+                                "value": "Phường 12"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "771",
+                                "value": "Quận 10"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám"
+                        },
+                        {
+                            "id": 187929,
+                            "ward": {
+                                "id": "00028",
+                                "value": "Phường Kim Mã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "001",
+                                "value": "Quận Ba Đình"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 1 Giang Văn Minh"
+                        },
+                        {
+                            "id": 193519,
+                            "ward": {
+                                "id": "10000",
+                                "value": "Xã Tân Xã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "276",
+                                "value": "Huyện Thạch Thất"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc"
+                        },
+                        {
+                            "id": 193578,
+                            "ward": {
+                                "id": "00103",
+                                "value": "Phường Xuân La"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "003",
+                                "value": "Quận Tây Hồ"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 380 Lạc Long Quân"
+                        },
+                        {
+                            "id": 193579,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hà Nội, Hà Nội, Hồ Chí Minh, Hà Nội, Hà Nội, Hà Nội, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-show-us-your-way-Logo-1675389522.png",
+                "image_galleries": [
+                    {
+                        "id": 378815,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "path": "/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "name": "c3951abdd902c508b2d82e83fadbba79.png",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:44",
+                            "since": "1 year ago",
+                            "timestamp": 1675389524
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 378816,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "path": "/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "name": "Viettel-Image-1.JPG",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:45",
+                            "since": "1 year ago",
+                            "timestamp": 1675389525
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Dẫn đầu thị trường:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Cơ hội được trải nghiệm, tiếp cận và làm việc tại Tập đoàn tiên phong mở đường, kiến tạo tương lai thông minh, gắn kết của Việt Nam.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được thử sức trong những lĩnh vực công nghệ tiên tiến, hiện đại nhất.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được trở thành nhân viên chính thức ngay sau khi tốt nghiệp mà không cần trải qua thử việc.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Môi trường năng động sáng tạo:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Môi trường làm việc cởi mở và năng động, khuyến khích trao đổi ý tưởng ở mọi cấp, cho phép bạn làm việc, sáng tạo theo cách riêng.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được khơi gợi cảm hứng làm việc với văn phòng xanh, không gian mở, hiện đại tiêu chuẩn quốc tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử thách và phát triển:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Áp dụng kiến thức, kĩ năng, kinh nghiệm chuyên môn giải quyết các bài toán hấp dẫn, thử thách tại Viettel.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử sức ở nhiều lĩnh vực, sản phẩm và quốc gia khác nhau góp phần thay đổi xã hội.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Viettel cam kết cho bạn nền tảng vững chắc để học hỏi và phát triển.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Sẵn sàng trao quyền, cơ hội đột phá cho những người trẻ tuổi.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội học hỏi từ các chuyên gia hàng đầu, lãnh đạo và đồng nghiệp ưu tú.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được đào tạo, trao dồi kĩ năng định kì và nhu cầu thực tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Chế ngộ đãi ngộ hấp dẫn:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Được hưởng lương phản ánh đúng năng lực và cạnh tranh trên thị trường (From $700, Up to $10,000).",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h30-17h30).",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "JavaScript"
+                ],
+                "industries_arr": [
+                    "Viễn Thông",
+                    "Phần Mềm",
+                    "Dịch vụ doanh nghiệp"
+                ],
+                "industries_str": "Viễn Thông, Phần Mềm, Dịch vụ doanh nghiệp",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Agile, Business Analyst, Waterfall",
+            "skills_arr": [
+                "Agile",
+                "Business Analyst",
+                "Waterfall"
+            ],
+            "skills_ids": [
+                2,
+                1456,
+                1547
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Cầu Giấy, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 165927,
+                        "ward": {
+                            "id": "00167",
+                            "value": "Phường Dịch Vọng Hậu"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "005",
+                            "value": "Quận Cầu Giấy"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/vtnet-nhan-vien-chuyen-vien-quan-tri-du-lieu-viettel-group-2033230",
+            "job_url": "",
+            "slug": "vtnet-nhan-vien-chuyen-vien-quan-tri-du-lieu-viettel-group",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "09-05-2024",
+                "datetime": "00:00:00 09-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "13-06-2024",
+                "datetime": "02:00:07 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Yêu cầu về công việc:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Có kiến thức về các mô hình phát triển phần mềm Agile, waterfall, v-model",
+                        "Có khả năng tham gia ý kiến xây dựng quy chế, chính sách, quy trình, hướng dẫn nghiệp vụ",
+                        "Có kiến thức về tiêu chuẩn ISO 9001:2015, 27001:2013, CMMI, ...",
+                        "Tư duy logic, kỹ năng phân tích và tổng hợp, khả năng giao và truyền đạt tiếp tốt, làm việc theo nhóm tốt."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Yêu cầu chung:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học Chính quy loại Khá trở lên, chuyên ngành CNTT, ĐTVT hoặc chuyên ngành phù hợp với vị trí công việc.",
+                        "Có kinh nghiệm từ 01 năm trở lên",
+                        "TOEIC 550/990 hoặc trình độ tương đương"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Cơ hội:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Làm việc trong môi trường chuyên nghiệp, sáng tạo, cạnh tranh, phát triển, năng động có nhiều cơ hội thăng tiến.",
+                        "Cơ hội học tập, nghiên cứu, làm việc trong nước và các nước trên thế giới.",
+                        "Cơ hội tiếp cận với nhiều công nghệ mới.",
+                        "Cơ hội thăng tiến, phát triển bản thân"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Hồ sơ ứng tuyển:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "CV ứng tuyển.",
+                        "Bằng tốt nghiệp đại học hoặc chứng nhận tốt nghiệp.",
+                        "Chứng chỉ tiếng Anh: TOEIC, IELTS, TOEFL",
+                        "Văn bằng chứng chỉ khác (nếu có)"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033232,
+            "title": "VTNet - Nhân viên kiểm soát quy trình (Auditor)",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Chịu tr&aacute;ch nhiệm thực hiện c&aacute;c nghiệp vụ kiểm tra, gi&aacute;m s&aacute;t, đ&aacute;nh gi&aacute; việc tu&acirc;n thủ c&aacute;c quy tr&igrave;nh, quy định tại c&aacute;c đơn vị trong Tổng C&ocirc;ng ty Mạng lưới Viettel v&agrave; c&aacute;c C&ocirc;ng ty Thị trường do Viettel đầu tư.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Thu nhập tối thiểu từ 200 triệu VNĐ/năm."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Phụ cấp ăn trưa: 730.000 VNĐ/tháng. Điện thoại: 200.000 VNĐ/tháng."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Chế độ thưởng theo quý, năm; tiền quà các ngày Lễ, Tết, ngày thành lập Tập đoàn; hỗ trợ chi phí nghỉ dưỡng hằng năm..."
+                },
+                {
+                    "icon": "fa-align-center",
+                    "name": null,
+                    "value": "Hưởng Bảo hiểm Xã hội, Bảo hiểm Y tế theo quy định của Luật Lao động và của Tập đoàn"
+                }
+            ],
+            "owned_id": 84011,
+            "company": {
+                "id": 84011,
+                "display_name": "Viettel Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Logo-Original-1675389520.png",
+                "slug": "viettel-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-group-84011",
+                "tagline": "Viettel - Show us your way",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "01",
+                        "01",
+                        "79",
+                        "01",
+                        "01",
+                        "01",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                        "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                        "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                        "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                        "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận Cầu Giấy, Hà Nội - Quận Nam Từ Liêm, Hà Nội - Quận 10, Hồ Chí Minh - Quận Ba Đình, Hà Nội - Huyện Thạch Thất, Hà Nội - Quận Tây Hồ, Hà Nội - Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 107607,
+                            "ward": {
+                                "id": "00172",
+                                "value": "Phường Yên Hoà"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Lô D26 Khu đô thị mới Cầu Giấy"
+                        },
+                        {
+                            "id": 165927,
+                            "ward": {
+                                "id": "00167",
+                                "value": "Phường Dịch Vọng Hậu"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+                        },
+                        {
+                            "id": 172304,
+                            "ward": {
+                                "id": "00626",
+                                "value": "Phường Mỹ Đình 2"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+                        },
+                        {
+                            "id": 172305,
+                            "ward": {
+                                "id": "27172",
+                                "value": "Phường 12"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "771",
+                                "value": "Quận 10"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám"
+                        },
+                        {
+                            "id": 187929,
+                            "ward": {
+                                "id": "00028",
+                                "value": "Phường Kim Mã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "001",
+                                "value": "Quận Ba Đình"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 1 Giang Văn Minh"
+                        },
+                        {
+                            "id": 193519,
+                            "ward": {
+                                "id": "10000",
+                                "value": "Xã Tân Xã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "276",
+                                "value": "Huyện Thạch Thất"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc"
+                        },
+                        {
+                            "id": 193578,
+                            "ward": {
+                                "id": "00103",
+                                "value": "Phường Xuân La"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "003",
+                                "value": "Quận Tây Hồ"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 380 Lạc Long Quân"
+                        },
+                        {
+                            "id": 193579,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hà Nội, Hà Nội, Hồ Chí Minh, Hà Nội, Hà Nội, Hà Nội, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-show-us-your-way-Logo-1675389522.png",
+                "image_galleries": [
+                    {
+                        "id": 378815,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "path": "/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "name": "c3951abdd902c508b2d82e83fadbba79.png",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:44",
+                            "since": "1 year ago",
+                            "timestamp": 1675389524
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 378816,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "path": "/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "name": "Viettel-Image-1.JPG",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:45",
+                            "since": "1 year ago",
+                            "timestamp": 1675389525
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Dẫn đầu thị trường:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Cơ hội được trải nghiệm, tiếp cận và làm việc tại Tập đoàn tiên phong mở đường, kiến tạo tương lai thông minh, gắn kết của Việt Nam.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được thử sức trong những lĩnh vực công nghệ tiên tiến, hiện đại nhất.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được trở thành nhân viên chính thức ngay sau khi tốt nghiệp mà không cần trải qua thử việc.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Môi trường năng động sáng tạo:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Môi trường làm việc cởi mở và năng động, khuyến khích trao đổi ý tưởng ở mọi cấp, cho phép bạn làm việc, sáng tạo theo cách riêng.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được khơi gợi cảm hứng làm việc với văn phòng xanh, không gian mở, hiện đại tiêu chuẩn quốc tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử thách và phát triển:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Áp dụng kiến thức, kĩ năng, kinh nghiệm chuyên môn giải quyết các bài toán hấp dẫn, thử thách tại Viettel.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử sức ở nhiều lĩnh vực, sản phẩm và quốc gia khác nhau góp phần thay đổi xã hội.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Viettel cam kết cho bạn nền tảng vững chắc để học hỏi và phát triển.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Sẵn sàng trao quyền, cơ hội đột phá cho những người trẻ tuổi.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội học hỏi từ các chuyên gia hàng đầu, lãnh đạo và đồng nghiệp ưu tú.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được đào tạo, trao dồi kĩ năng định kì và nhu cầu thực tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Chế ngộ đãi ngộ hấp dẫn:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Được hưởng lương phản ánh đúng năng lực và cạnh tranh trên thị trường (From $700, Up to $10,000).",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h30-17h30).",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "JavaScript"
+                ],
+                "industries_arr": [
+                    "Viễn Thông",
+                    "Phần Mềm",
+                    "Dịch vụ doanh nghiệp"
+                ],
+                "industries_str": "Viễn Thông, Phần Mềm, Dịch vụ doanh nghiệp",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "IT Auditor",
+            "skills_arr": [
+                "IT Auditor"
+            ],
+            "skills_ids": [
+                8474
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Cầu Giấy, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 165927,
+                        "ward": {
+                            "id": "00167",
+                            "value": "Phường Dịch Vọng Hậu"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "005",
+                            "value": "Quận Cầu Giấy"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/vtnet-nhan-vien-kiem-soat-quy-trinh-auditor-viettel-group-2033232",
+            "job_url": "",
+            "slug": "vtnet-nhan-vien-kiem-soat-quy-trinh-auditor-viettel-group",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "09-05-2024",
+                "datetime": "00:00:00 09-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "13-06-2024",
+                "datetime": "02:00:07 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Yêu cầu về công việc:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Ưu tiên ứng viên có kiến thức cơ bản về ISO9001, IS27001, đã từng làm việc như 1 đánh giá viên nội bộ"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Yêu cầu chung:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học chính quy loại Khá trở lên các chuyên ngành liên quan tới kỹ thuật (như ĐTVT, CNTT, ATTT, HTTT…) hoặc chuyên ngành liên quan tới quản lý chất lượng, hệ thống quản lý/quản trị doanh nghiệp, chuyên ngành kiểm toán/ đánh giá.",
+                        "Có 2 năm kinh nghiệm làm việc trong lĩnh vực Viễn thông/CNTT hoặc lĩnh vực đánh giá/kiểm soát chất lượng nói chung.",
+                        "Có khả năng đọc, viết, trao đổi tiếng Anh trung bình (yêu cầu điểm tiếng Anh TOEIC từ 550 trở lên hoặc tương đương)."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Cơ hội:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Làm việc trong môi trường chuyên nghiệp, sáng tạo, cạnh tranh, phát triển, năng động có nhiều cơ hội thăng tiến.",
+                        "Cơ hội học tập, nghiên cứu, làm việc trong nước và các nước trên thế giới.",
+                        "Cơ hội tiếp cận với nhiều công nghệ mới.",
+                        "Cơ hội thăng tiến, phát triển bản thân"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Hồ sơ ứng tuyển"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "CV ứng tuyển.",
+                        "Bằng tốt nghiệp đại học hoặc chứng nhận tốt nghiệp.",
+                        "Chứng chỉ tiếng Anh: TOEIC, IELTS, TOEFL",
+                        "Văn bằng chứng chỉ khác (nếu có)"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033241,
+            "title": "Viettel Solution - Chuyên viên Quản lý sản phẩm",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Giải ph&aacute;p Doanh nghiệp Viettel (VTS) l&agrave; đơn vị trực thuộc Tập đo&agrave;n C&ocirc;ng nghiệp - Viễn th&ocirc;ng Viettel được th&agrave;nh lập với sứ mệnh đồng h&agrave;nh c&ugrave;ng Ch&iacute;nh phủ x&acirc;y dựng th&agrave;nh c&ocirc;ng một &ldquo;Ch&iacute;nh phủ kiến tạo &ndash; Ch&iacute;nh phủ số&rdquo;, hợp t&aacute;c c&ugrave;ng c&aacute;c doanh nghiệp v&agrave; người d&acirc;n để giải quyết c&aacute;c vấn đề của x&atilde; hội, mang lại cuộc sống tốt đẹp hơn cho mọi người. </span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Giải ph&aacute;p Doanh nghiệp Viettel hiện c&oacute; Trung t&acirc;m nghi&ecirc;n cứu ph&aacute;t triển l&agrave;m chủ những c&ocirc;ng nghệ mới của c&aacute;ch mạng c&ocirc;ng nghiệp 4.0 (Big Data, AI, IoT, AR/VR, Cloud, Blockchain&hellip;) đưa ra c&aacute;c giải ph&aacute;p cho th&agrave;nh phố th&ocirc;ng minh v&agrave; chuyển đổi số cho doanh nghiệp, ch&iacute;nh phủ, c&aacute;c tổ chức với c&aacute;c hướng như kết nối, chia sẻ v&agrave; trải nghiệm kh&aacute;ch h&agrave;ng.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Lương thưởng cạnh tranh trên thị trường, phản ánh đúng năng lực thực tế."
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Chế độ thưởng hấp dẫn vào các ngày lễ, Tết (Sinh nhật Công ty, 30/4-1/5, 2/9, 22/12, Tết dương lịch,…); thưởng và quà cho nhân viên, quà tri ân (cho gia đình) nhân dịp Tết nguyên đán; chế độ công đoàn cho người lao động và người thân (sinh nhật, thăm bệnh, hiếu, hỉ…)"
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Tham gia đóng đầy đủ các loại bảo hiểm theo quy định Nhà nước; Bảo hiểm sức khỏe cao cấp."
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày."
+                },
+                {
+                    "icon": "fa-cutlery",
+                    "name": null,
+                    "value": "Thưởng thức bữa trưa thơm ngon tại Tập đoàn, được chọn lọc bởi các chuyên gia dinh dưỡng."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Cơ hội tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị"
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Chế độ chăm sóc y tế đặc biệt cho CBNV và người thân với trang thiết bị hiện đại."
+                }
+            ],
+            "owned_id": 84011,
+            "company": {
+                "id": 84011,
+                "display_name": "Viettel Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Logo-Original-1675389520.png",
+                "slug": "viettel-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-group-84011",
+                "tagline": "Viettel - Show us your way",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "01",
+                        "01",
+                        "79",
+                        "01",
+                        "01",
+                        "01",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                        "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                        "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                        "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                        "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận Cầu Giấy, Hà Nội - Quận Nam Từ Liêm, Hà Nội - Quận 10, Hồ Chí Minh - Quận Ba Đình, Hà Nội - Huyện Thạch Thất, Hà Nội - Quận Tây Hồ, Hà Nội - Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 107607,
+                            "ward": {
+                                "id": "00172",
+                                "value": "Phường Yên Hoà"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Lô D26 Khu đô thị mới Cầu Giấy"
+                        },
+                        {
+                            "id": 165927,
+                            "ward": {
+                                "id": "00167",
+                                "value": "Phường Dịch Vọng Hậu"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+                        },
+                        {
+                            "id": 172304,
+                            "ward": {
+                                "id": "00626",
+                                "value": "Phường Mỹ Đình 2"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+                        },
+                        {
+                            "id": 172305,
+                            "ward": {
+                                "id": "27172",
+                                "value": "Phường 12"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "771",
+                                "value": "Quận 10"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám"
+                        },
+                        {
+                            "id": 187929,
+                            "ward": {
+                                "id": "00028",
+                                "value": "Phường Kim Mã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "001",
+                                "value": "Quận Ba Đình"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 1 Giang Văn Minh"
+                        },
+                        {
+                            "id": 193519,
+                            "ward": {
+                                "id": "10000",
+                                "value": "Xã Tân Xã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "276",
+                                "value": "Huyện Thạch Thất"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc"
+                        },
+                        {
+                            "id": 193578,
+                            "ward": {
+                                "id": "00103",
+                                "value": "Phường Xuân La"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "003",
+                                "value": "Quận Tây Hồ"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 380 Lạc Long Quân"
+                        },
+                        {
+                            "id": 193579,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hà Nội, Hà Nội, Hồ Chí Minh, Hà Nội, Hà Nội, Hà Nội, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-show-us-your-way-Logo-1675389522.png",
+                "image_galleries": [
+                    {
+                        "id": 378815,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "path": "/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "name": "c3951abdd902c508b2d82e83fadbba79.png",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:44",
+                            "since": "1 year ago",
+                            "timestamp": 1675389524
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 378816,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "path": "/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "name": "Viettel-Image-1.JPG",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:45",
+                            "since": "1 year ago",
+                            "timestamp": 1675389525
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Dẫn đầu thị trường:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Cơ hội được trải nghiệm, tiếp cận và làm việc tại Tập đoàn tiên phong mở đường, kiến tạo tương lai thông minh, gắn kết của Việt Nam.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được thử sức trong những lĩnh vực công nghệ tiên tiến, hiện đại nhất.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được trở thành nhân viên chính thức ngay sau khi tốt nghiệp mà không cần trải qua thử việc.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Môi trường năng động sáng tạo:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Môi trường làm việc cởi mở và năng động, khuyến khích trao đổi ý tưởng ở mọi cấp, cho phép bạn làm việc, sáng tạo theo cách riêng.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được khơi gợi cảm hứng làm việc với văn phòng xanh, không gian mở, hiện đại tiêu chuẩn quốc tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử thách và phát triển:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Áp dụng kiến thức, kĩ năng, kinh nghiệm chuyên môn giải quyết các bài toán hấp dẫn, thử thách tại Viettel.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử sức ở nhiều lĩnh vực, sản phẩm và quốc gia khác nhau góp phần thay đổi xã hội.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Viettel cam kết cho bạn nền tảng vững chắc để học hỏi và phát triển.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Sẵn sàng trao quyền, cơ hội đột phá cho những người trẻ tuổi.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội học hỏi từ các chuyên gia hàng đầu, lãnh đạo và đồng nghiệp ưu tú.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được đào tạo, trao dồi kĩ năng định kì và nhu cầu thực tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Chế ngộ đãi ngộ hấp dẫn:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Được hưởng lương phản ánh đúng năng lực và cạnh tranh trên thị trường (From $700, Up to $10,000).",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h30-17h30).",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "JavaScript"
+                ],
+                "industries_arr": [
+                    "Viễn Thông",
+                    "Phần Mềm",
+                    "Dịch vụ doanh nghiệp"
+                ],
+                "industries_str": "Viễn Thông, Phần Mềm, Dịch vụ doanh nghiệp",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Agile, Oracle, Product",
+            "skills_arr": [
+                "Agile",
+                "Oracle",
+                "Product"
+            ],
+            "skills_ids": [
+                2,
+                15,
+                219
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 172304,
+                        "ward": {
+                            "id": "00626",
+                            "value": "Phường Mỹ Đình 2"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/viettel-solution-chuyen-vien-quan-ly-san-pham-viettel-group-2033241",
+            "job_url": "",
+            "slug": "viettel-solution-chuyen-vien-quan-ly-san-pham-viettel-group",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "3*******",
+                "max": "6*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "3******* - 6******* VND"
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "09-05-2024",
+                "datetime": "00:00:00 09-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "13-06-2024",
+                "datetime": "02:00:07 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học chính quy loại Khá trở lên chuyên ngành CNTT/ĐTVT và các chuyên ngành Kỹ thuật liên quan và Kinh tế",
+                        "Nắm được quy trình phát triển phần mềm, đã có kinh nghiệm chủ trì triển khai xây dựng sản phẩm phần mềm mới.",
+                        "Có kiến thức chuyên môn về: Agile/MCDS/CSSLP/Oracle/Windows/Linux/SQL",
+                        "Có kiến thức về: Microservice, CICD, DevOps, CloudComputing",
+                        "Có ít nhất 3 năm kinh nghiệm làm việc tại vị trí tương đương.",
+                        "Có khả năng giao tiếp, diễn đạt tốt, tư duy phản biện, kỹ năng đàm phán và tổ chức các cuộc họp.",
+                        "Thái độ tư duy tích cực và tinh thần trách nhiệm trong công việc.",
+                        "Biết sử dụng được công cụ quản lý cấu hình, quản lý lỗi (Hoặc các công cụ sản xuất khác)",
+                        "Có khả năng đọc hiểu tài liệu tiếng Anh. Ưu tiên có chứng chỉ TOEIC, TOEFL hoặc IELTS tương đương với điểm TOEIC – 650 điểm trở lên."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033338,
+            "title": "[Middle/Senior] Java Engineer - Up to 50M",
+            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">[Dist 3, HCM] Middle-Senior Software Engineer (Java) up to 50M</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Europe product company, <strong>HYBRID</strong> working (ONLY 02-03 days in office)</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Working time: Monday-Friday 9:00-18:00 (Flexible & Hybrid) (max 3 days WFH/week)"
+                },
+                {
+                    "icon": "fa-users",
+                    "name": null,
+                    "value": "Annual personal review meeting"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Full payment during probation period"
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Full 13th salary"
+                },
+                {
+                    "icon": "fa-calendar-plus-o",
+                    "name": null,
+                    "value": "12 annual leaves"
+                },
+                {
+                    "icon": "fa-motorcycle",
+                    "name": null,
+                    "value": "Company trip"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Variable bonus."
+                },
+                {
+                    "icon": "fa-gift",
+                    "name": null,
+                    "value": "Gifts on the special events."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Monthly team bonding."
+                },
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Working tools such as laptop, 2 screens, mouse, keyboard."
+                }
+            ],
+            "owned_id": 94720,
+            "company": {
+                "id": 94720,
+                "display_name": "Specific Group Holding",
+                "image_logo": "https://assets.topdev.vn/images/2024/05/23/TopDev-vfbfg-%281%29-1716430601.png",
+                "slug": "specific-group-holding",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/specific-group-holding-94720",
+                "tagline": "We Know How",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "19 Cao Thắng, Phường 02, Quận 3, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 3, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 201988,
+                            "ward": {
+                                "id": "27157",
+                                "value": "Phường 02"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "19 Cao Thắng, Phường 02, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "19 Cao Thắng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/05/23/TopDev-Specific_Group_TeamBuilding---Le-Nhan-1716429087.jpg",
+                "image_galleries": [
+                    {
+                        "id": 599296,
+                        "url": "https://assets.topdev.vn/images/2024/05/23/TopDev-Specific_Group_TeamBuilding---Le-Nhan-1716429087.jpg",
+                        "path": "/images/2024/05/23/TopDev-Specific_Group_TeamBuilding---Le-Nhan-1716429087.jpg",
+                        "name": "Specific_Group_TeamBuilding - Le Nhan.jpg",
+                        "uploaded": {
+                            "date": "23-05-2024",
+                            "datetime": "2024-05-23 08:51:28",
+                            "since": "1 month ago",
+                            "timestamp": 1716429088
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 599366,
+                        "url": "https://assets.topdev.vn/images/2024/05/23/TopDev-z5467682143110_c94c9295a0406aec403d504ee2dd226a-1716435934.jpg",
+                        "path": "/images/2024/05/23/TopDev-z5467682143110_c94c9295a0406aec403d504ee2dd226a-1716435934.jpg",
+                        "name": "z5467682143110_c94c9295a0406aec403d504ee2dd226a.jpg",
+                        "uploaded": {
+                            "date": "23-05-2024",
+                            "datetime": "2024-05-23 10:45:34",
+                            "since": "1 month ago",
+                            "timestamp": 1716435934
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Annual personal review meeting",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Full payment during probation period",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Full 13th salary",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "12 annual leaves",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Company trip",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Variable bonus.",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Gifts on the special events.",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Monthly team bonding.",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Working tools such as laptop, 2 screens, mouse, keyboard.",
+                        "icon": "fa-check-circle"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "Python",
+                    "Angular",
+                    "TypeScript",
+                    "PostgreSql"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, PostgreSql, Spring Boot",
+            "skills_arr": [
+                "Java",
+                "PostgreSql",
+                "Spring Boot"
+            ],
+            "skills_ids": [
+                21,
+                8637,
+                4317
+            ],
+            "job_types_str": "Hybrid, In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "19 Cao Thắng, Phường 02, Quận 3, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 3, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 201988,
+                        "ward": {
+                            "id": "27157",
+                            "value": "Phường 02"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "770",
+                            "value": "Quận 3"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "19 Cao Thắng, Phường 02, Quận 3, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "19 Cao Thắng"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/middle-senior-java-engineer-up-to-50m-specific-group-holding-2033338",
+            "job_url": "",
+            "slug": "middle-senior-java-engineer-up-to-50m-specific-group-holding",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "0",
+                "max": "5*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "Lên tới 5******* VND"
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "24-05-2024",
+                "datetime": "00:00:00 24-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "13-06-2024",
+                "datetime": "02:00:07 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "5+ years of experience in Java development with a deep knowledge of the Spring Boot framework.",
+                        "Proven track record of developing microservices and distributed systems.",
+                        "Strong understanding of PostgreSQL and database design principles.",
+                        "Experienced with Docker and Kubernetes for containerization and orchestration.",
+                        "Ability to communicate effectively with both technical team members and non-technical stakeholders.",
+                        "Experience in API testing and mocking to ensure robust and reliable system integration.",
+                        "Proficiency in implementing security protocols such as OAuth and OpenID Connect.",
+                        "Familiarity with public cloud services (AWS/Azure), including management and configuration.",
+                        "Excellent problem-solving skills and the ability to work independently or as part of a team.",
+                        "Fluent in English."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033242,
+            "title": "Viettel Solution - Kỹ sư Vận hành Khai thác",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Giải ph&aacute;p Doanh nghiệp Viettel (VTS) l&agrave; đơn vị trực thuộc Tập đo&agrave;n C&ocirc;ng nghiệp - Viễn th&ocirc;ng Viettel được th&agrave;nh lập với sứ mệnh đồng h&agrave;nh c&ugrave;ng Ch&iacute;nh phủ x&acirc;y dựng th&agrave;nh c&ocirc;ng một &ldquo;Ch&iacute;nh phủ kiến tạo &ndash; Ch&iacute;nh phủ số&rdquo;, hợp t&aacute;c c&ugrave;ng c&aacute;c doanh nghiệp v&agrave; người d&acirc;n để giải quyết c&aacute;c vấn đề của x&atilde; hội, mang lại cuộc sống tốt đẹp hơn cho mọi người.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"> Tổng C&ocirc;ng ty Giải ph&aacute;p Doanh nghiệp Viettel hiện c&oacute; Trung t&acirc;m nghi&ecirc;n cứu ph&aacute;t triển l&agrave;m chủ những c&ocirc;ng nghệ mới của c&aacute;ch mạng c&ocirc;ng nghiệp 4.0 (Big Data, AI, IoT, AR/VR, Cloud, Blockchain&hellip;) đưa ra c&aacute;c giải ph&aacute;p cho th&agrave;nh phố th&ocirc;ng minh v&agrave; chuyển đổi số cho doanh nghiệp, ch&iacute;nh phủ, c&aacute;c tổ chức với c&aacute;c hướng như kết nối, chia sẻ v&agrave; trải nghiệm kh&aacute;ch h&agrave;ng.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Lương thưởng cạnh tranh trên thị trường, phản ánh đúng năng lực thực tế."
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Chế độ thưởng hấp dẫn vào các ngày lễ, Tết (Sinh nhật Công ty, 30/4-1/5, 2/9, 22/12, Tết dương lịch,…); thưởng và quà cho nhân viên, quà tri ân (cho gia đình) nhân dịp Tết nguyên đán; chế độ công đoàn cho người lao động và người thân (sinh nhật, thăm bệnh, hiếu, hỉ…)"
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Tham gia đóng đầy đủ các loại bảo hiểm theo quy định Nhà nước; Bảo hiểm sức khỏe cao cấp."
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày."
+                },
+                {
+                    "icon": "fa-cutlery",
+                    "name": null,
+                    "value": "Thưởng thức bữa trưa thơm ngon tại Tập đoàn, được chọn lọc bởi các chuyên gia dinh dưỡng."
+                },
+                {
+                    "icon": "fa-soccer-ball-o",
+                    "name": null,
+                    "value": "Cơ hội tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị"
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Chế độ chăm sóc y tế đặc biệt cho CBNV và người thân với trang thiết bị hiện đại."
+                }
+            ],
+            "owned_id": 84011,
+            "company": {
+                "id": 84011,
+                "display_name": "Viettel Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Logo-Original-1675389520.png",
+                "slug": "viettel-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-group-84011",
+                "tagline": "Viettel - Show us your way",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "01",
+                        "01",
+                        "79",
+                        "01",
+                        "01",
+                        "01",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                        "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                        "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                        "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                        "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận Cầu Giấy, Hà Nội - Quận Nam Từ Liêm, Hà Nội - Quận 10, Hồ Chí Minh - Quận Ba Đình, Hà Nội - Huyện Thạch Thất, Hà Nội - Quận Tây Hồ, Hà Nội - Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 107607,
+                            "ward": {
+                                "id": "00172",
+                                "value": "Phường Yên Hoà"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Lô D26 Khu đô thị mới Cầu Giấy, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Lô D26 Khu đô thị mới Cầu Giấy"
+                        },
+                        {
+                            "id": 165927,
+                            "ward": {
+                                "id": "00167",
+                                "value": "Phường Dịch Vọng Hậu"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Thái Bình, Ngõ 19 Duy Tân"
+                        },
+                        {
+                            "id": 172304,
+                            "ward": {
+                                "id": "00626",
+                                "value": "Phường Mỹ Đình 2"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+                        },
+                        {
+                            "id": 172305,
+                            "ward": {
+                                "id": "27172",
+                                "value": "Phường 12"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "771",
+                                "value": "Quận 10"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà Viettel Complex, Số 285 đường Cách Mạng Tháng Tám"
+                        },
+                        {
+                            "id": 187929,
+                            "ward": {
+                                "id": "00028",
+                                "value": "Phường Kim Mã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "001",
+                                "value": "Quận Ba Đình"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 1 Giang Văn Minh, Phường Kim Mã, Quận Ba Đình, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 1 Giang Văn Minh"
+                        },
+                        {
+                            "id": 193519,
+                            "ward": {
+                                "id": "10000",
+                                "value": "Xã Tân Xã"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "276",
+                                "value": "Huyện Thạch Thất"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc, Xã Tân Xã, Huyện Thạch Thất, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Toà nhà Viettel, Khu Công nghệ cao Hoà Lạc"
+                        },
+                        {
+                            "id": 193578,
+                            "ward": {
+                                "id": "00103",
+                                "value": "Phường Xuân La"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "003",
+                                "value": "Quận Tây Hồ"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 380 Lạc Long Quân, Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 380 Lạc Long Quân"
+                        },
+                        {
+                            "id": 193579,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Keangnam Landmark 72 tầng, đường Phạm Hùng"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hà Nội, Hà Nội, Hồ Chí Minh, Hà Nội, Hà Nội, Hà Nội, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-show-us-your-way-Logo-1675389522.png",
+                "image_galleries": [
+                    {
+                        "id": 378815,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "path": "/images/2023/02/03/TopDev-c3951abdd902c508b2d82e83fadbba79-1675389523.png",
+                        "name": "c3951abdd902c508b2d82e83fadbba79.png",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:44",
+                            "since": "1 year ago",
+                            "timestamp": 1675389524
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 378816,
+                        "url": "https://assets.topdev.vn/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "path": "/images/2023/02/03/TopDev-Viettel-Image-1-1675389524.JPG",
+                        "name": "Viettel-Image-1.JPG",
+                        "uploaded": {
+                            "date": "03-02-2023",
+                            "datetime": "2023-02-03 08:58:45",
+                            "since": "1 year ago",
+                            "timestamp": 1675389525
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Dẫn đầu thị trường:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Cơ hội được trải nghiệm, tiếp cận và làm việc tại Tập đoàn tiên phong mở đường, kiến tạo tương lai thông minh, gắn kết của Việt Nam.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được thử sức trong những lĩnh vực công nghệ tiên tiến, hiện đại nhất.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được trở thành nhân viên chính thức ngay sau khi tốt nghiệp mà không cần trải qua thử việc.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Môi trường năng động sáng tạo:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Môi trường làm việc cởi mở và năng động, khuyến khích trao đổi ý tưởng ở mọi cấp, cho phép bạn làm việc, sáng tạo theo cách riêng.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được khơi gợi cảm hứng làm việc với văn phòng xanh, không gian mở, hiện đại tiêu chuẩn quốc tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử thách và phát triển:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Áp dụng kiến thức, kĩ năng, kinh nghiệm chuyên môn giải quyết các bài toán hấp dẫn, thử thách tại Viettel.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội thử sức ở nhiều lĩnh vực, sản phẩm và quốc gia khác nhau góp phần thay đổi xã hội.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Viettel cam kết cho bạn nền tảng vững chắc để học hỏi và phát triển.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Sẵn sàng trao quyền, cơ hội đột phá cho những người trẻ tuổi.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội học hỏi từ các chuyên gia hàng đầu, lãnh đạo và đồng nghiệp ưu tú.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội được đào tạo, trao dồi kĩ năng định kì và nhu cầu thực tế.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Chế ngộ đãi ngộ hấp dẫn:",
+                        "icon": "fa-angle-double-right"
+                    },
+                    {
+                        "value": "Được hưởng lương phản ánh đúng năng lực và cạnh tranh trên thị trường (From $700, Up to $10,000).",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Cơ hội tham gia gắn kết với tập thể, tổ chức với các hoạt động team building thú vị.",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Từ thứ 2 đến thứ 6 (Sáng 8h00-12h00, Chiều 13h30-17h30).",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "JavaScript"
+                ],
+                "industries_arr": [
+                    "Viễn Thông",
+                    "Phần Mềm",
+                    "Dịch vụ doanh nghiệp"
+                ],
+                "industries_str": "Viễn Thông, Phần Mềm, Dịch vụ doanh nghiệp",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Linux, Database, Network",
+            "skills_arr": [
+                "Linux",
+                "Database",
+                "Network"
+            ],
+            "skills_ids": [
+                6,
+                251,
+                1466
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 172304,
+                        "ward": {
+                            "id": "00626",
+                            "value": "Phường Mỹ Đình 2"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tòa nhà Viettel, số 1 Trần Hữu Dực, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà Viettel, số 1 Trần Hữu Dực"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/viettel-solution-ky-su-van-hanh-khai-thac-viettel-group-2033242",
+            "job_url": "",
+            "slug": "viettel-solution-ky-su-van-hanh-khai-thac-viettel-group",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "1*******",
+                "max": "3*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "1******* - 3******* VND"
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "09-05-2024",
+                "datetime": "00:00:00 09-05-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "13-06-2024",
+                "datetime": "02:00:07 13-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học loại Khá trở lên các khối ngành Kinh tế, CNTT, Điện tử viễn thông...",
+                        "Có chứng chỉ tiếng anh quốc tế Toeic 550 điểm hoặc các chứng chỉ tương đương khác.",
+                        "Có kinh nghiệm làm việc tối thiểu 01 năm đối với một trong các mảng: Network, Linux, Windows, Database (Oracle, MySQL, Mongo, Postgres, MariaDB,…)",
+                        "Có kiến thức về HĐH Linux, Windows",
+                        "Có kiến thức về ảo hóa: VMWare, Openstack, Hyper-V",
+                        "Có kiến thức về Microservice",
+                        "Tham gia trực đêm tại đơn vị (1 buổi/tuần)",
+                        "Chấp nhận công tác tại các vị trí do đơn vị chỉ định (tại Hà Nội)."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": null,
+        "last": null,
+        "prev": "http://api.topdev.vn/td/v2/jobs/?page=58",
+        "next": null
+    },
+    "meta": {
+        "total": 760,
+        "per_page": 10,
+        "current_page": 59,
+        "last_page": 76,
+        "from": 581,
+        "to": 590
+    }
+}

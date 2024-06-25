@@ -1,0 +1,3186 @@
+{
+    "_type": "jobs",
+    "aggregations": {
+        "categories": [],
+        "status": [
+            {
+                "key": 3,
+                "doc_count": 640
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 2033400,
+            "title": "Manual QC Engineer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>ABOUT US</strong></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Floware is a leader in building innovative software to transform the way people live, play, work, and learn. Our mission is to create smart solutions that benefit everyone and solve their daily challenges. We were the first in Vietnam to develop an iOS app and our first OS X application SmartDay debuted on the Mac App Store at #5.</span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Location: Ho Van Hue Street, Phu Nhuan District, HCMC</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Office hour: Monday &ndash; Friday (8:30 AM &ndash; 5:30 PM)&nbsp;</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Full income tax, social insurance paid by company (Net Salary)"
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "13th month of salary"
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "100% salary during probation period"
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Performance bonus up to 96M VND or more in the year"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Very attractive salary based on skills and experience"
+                },
+                {
+                    "icon": "fa-user-md",
+                    "name": null,
+                    "value": "Premium Health Insurance Package"
+                },
+                {
+                    "icon": "fa-heart",
+                    "name": null,
+                    "value": "Friendly, flexible, and fun working environment"
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Company trip, team building, monthly party, etc.."
+                },
+                {
+                    "icon": "fa-coffee",
+                    "name": null,
+                    "value": "Free office lunch, coffee, tea, and snack bar everyday"
+                },
+                {
+                    "icon": "fa-steam",
+                    "name": null,
+                    "value": "Monthly team activity allowance"
+                },
+                {
+                    "icon": "fa-suitcase",
+                    "name": null,
+                    "value": "Great opportunity for career development"
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Monday – Friday (8:30 AM – 5:30 PM)"
+                }
+            ],
+            "owned_id": 85748,
+            "company": {
+                "id": 85748,
+                "display_name": "Floware",
+                "image_logo": "https://assets.topdev.vn/images/2021/03/05/flowarelogo-PhuongQuynh-gEJz8.png",
+                "slug": "floware",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/floware-85748",
+                "tagline": "Floware designs, develops, and distributes productivity software",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 126363,
+                            "ward": {
+                                "id": "27049",
+                                "value": "Phường 09"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "768",
+                                "value": "Quận Phú Nhuận"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "43 Hồ Văn Huê"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/08/25/TopDev-zXFMDJbK5OrNLWvx-1692956263.jpg",
+                "image_galleries": [
+                    {
+                        "id": 467255,
+                        "url": "https://assets.topdev.vn/images/2023/08/25/TopDev-git8p2CpjKm5sMLy-1692956265.jpg",
+                        "path": "/images/2023/08/25/TopDev-git8p2CpjKm5sMLy-1692956265.jpg",
+                        "name": "W4fvD9XvZhQSXhwJQhoradDB2qj3BOCm1xcGLdX6.jpg",
+                        "uploaded": {
+                            "date": "25-08-2023",
+                            "datetime": "2023-08-25 16:37:45",
+                            "since": "9 months ago",
+                            "timestamp": 1692956265
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 467257,
+                        "url": "https://assets.topdev.vn/images/2023/08/25/TopDev-4Zh1s5l2F8lForF7-1692956396.jpg",
+                        "path": "/images/2023/08/25/TopDev-4Zh1s5l2F8lForF7-1692956396.jpg",
+                        "name": "ceE5icdtcZCg2Jw4vyjc6I7SJVNqGWHz4n7Fi0mg.jpg",
+                        "uploaded": {
+                            "date": "25-08-2023",
+                            "datetime": "2023-08-25 16:39:56",
+                            "since": "9 months ago",
+                            "timestamp": 1692956396
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Full income tax, social insurance paid by company (Net Salary)",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "13th month of salary",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "100% salary during probation period",
+                        "icon": "fa-arrow-right"
+                    },
+                    {
+                        "value": "Performance bonus up to 96M VND or more in the year",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Very attractive salary based on skills and experience",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Premium Health Insurance Package",
+                        "icon": "fa-user-md"
+                    },
+                    {
+                        "value": "Macbook provided",
+                        "icon": "fa-apple"
+                    },
+                    {
+                        "value": "Friendly, flexible, and fun working environment",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Company trip, team building, monthly party, etc..",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Free office lunch, coffee, tea, and snack bar everyday",
+                        "icon": "fa-coffee"
+                    },
+                    {
+                        "value": "Monthly team activity allowance",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "Great opportunity for career development",
+                        "icon": "fa-user-secret"
+                    },
+                    {
+                        "value": "Monday – Friday (8:30 AM – 5:30 PM)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Agile",
+                    "Swift",
+                    "iOS",
+                    "Java",
+                    "JavaScript",
+                    "NodeJS"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Tester, QA/QC, Manual Test",
+            "skills_arr": [
+                "Tester",
+                "QA/QC",
+                "Manual Test"
+            ],
+            "skills_ids": [
+                78,
+                5064,
+                8379
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle",
+            "job_levels_arr": [
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 126363,
+                        "ward": {
+                            "id": "27049",
+                            "value": "Phường 09"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "768",
+                            "value": "Quận Phú Nhuận"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "43 Hồ Văn Huê"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/manual-qc-engineer-floware-2033400",
+            "job_url": "",
+            "slug": "manual-qc-engineer-floware",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-05-2024",
+                "datetime": "00:00:00 30-05-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "02:00:06 19-06-2024",
+                "since": "6 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "At least 2 years in Manual testing web and mobile application\nGood knowledge on Software Testing process, testing activities, testing types\nExperience in analyst requirements, developing, performing test cases\nCarefulness and logic thinking\nGood English communication skills"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033422,
+            "title": "Nhân Viên Lập Trình Fullstack (2 vị trí)",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Lương thỏa thuận theo năng lực (15tr/tháng ~ 20tr/tháng)"
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Được làm việc trong môi trường trẻ trung, năng động, cơ hội học hỏi và phát triển"
+                },
+                {
+                    "icon": "fa-align-center",
+                    "name": null,
+                    "value": "Chế độ BHXH, BHYT.. theo quy định."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Chế độ du lịch hàng năm, khám sức khỏe hằng năm."
+                }
+            ],
+            "owned_id": 88386,
+            "company": {
+                "id": 88386,
+                "display_name": "SmartSign",
+                "image_logo": "https://assets.topdev.vn/images/2020/11/09/ch-ky-s-vina-vinaca-logo.png",
+                "slug": "smartsign",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/smartsign-88386",
+                "tagline": "SmartSign - Trust your creation",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "41A Nguyễn Phi Khanh, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 119292,
+                            "ward": {
+                                "id": "26734",
+                                "value": "Phường Tân Định"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "41A Nguyễn Phi Khanh, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "41A Nguyễn Phi Khanh"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2022/03/04/TopDev-SmartSign-image-1-1646380050.jpg",
+                "image_galleries": [
+                    {
+                        "id": 319583,
+                        "url": "https://assets.topdev.vn/images/2022/03/04/TopDev-646431b47cec0af4afec95e5f933a01e-1646380050.jpg",
+                        "path": "/images/2022/03/04/TopDev-646431b47cec0af4afec95e5f933a01e-1646380050.jpg",
+                        "name": "646431b47cec0af4afec95e5f933a01e.jpg",
+                        "uploaded": {
+                            "date": "04-03-2022",
+                            "datetime": "2022-03-04 14:47:30",
+                            "since": "2 years ago",
+                            "timestamp": 1646380050
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 319584,
+                        "url": "https://assets.topdev.vn/images/2022/03/04/TopDev-SmartSign-image-2-1646380050.jpg",
+                        "path": "/images/2022/03/04/TopDev-SmartSign-image-2-1646380050.jpg",
+                        "name": "SmartSign-image-2.jpg",
+                        "uploaded": {
+                            "date": "04-03-2022",
+                            "datetime": "2022-03-04 14:47:31",
+                            "since": "2 years ago",
+                            "timestamp": 1646380051
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Lương thỏa thuận tùy theo kinh nghiệm.",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Có cơ hội thăng tiến cao, xét tăng lương hàng năm.",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Các chính sách khác theo quy định của nhà nước: 12 ngày phép/năm, đóng BHXH, hỗ trợ bộ máy tính làm việc, khám sức khoẻ định kì…",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Du lịch công ty hàng năm.",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Làm việc trong môi trường chuyên nghiệp, năng động, nhiều cơ hội học tập, phát triển, và được hưởng đãi ngộ phù hợp với năng lực.",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Từ thứ 2 đến thứ 6 (Sáng 8h00-11h45, Chiều 13h15-17h30)",
+                        "icon": "fa-calendar-check-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "C#",
+                    "SQL"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "C#, .NET, Full-Stack",
+            "skills_arr": [
+                "C#",
+                ".NET",
+                "Full-Stack"
+            ],
+            "skills_ids": [
+                24,
+                73,
+                211
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Fresher",
+            "job_levels_arr": [
+                "Fresher"
+            ],
+            "job_levels_ids": [
+                1617
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "41A Nguyễn Phi Khanh, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 1, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 119292,
+                        "ward": {
+                            "id": "26734",
+                            "value": "Phường Tân Định"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "760",
+                            "value": "Quận 1"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "41A Nguyễn Phi Khanh, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "41A Nguyễn Phi Khanh"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/nhan-vien-lap-trinh-fullstack-2-vi-tri-smartsign-2033422",
+            "job_url": "",
+            "slug": "nhan-vien-lap-trinh-fullstack-2-vi-tri-smartsign",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "1*******",
+                "max": "2*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "1******* - 2******* VND"
+            },
+            "features": [
+                "FresherPage"
+            ],
+            "packages": [
+                "basic"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "04-06-2024",
+                "datetime": "00:00:00 04-06-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "02:00:06 19-06-2024",
+                "since": "6 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Có kiến thức xây dựng kiến trúc ứng dụng phần mềm.",
+                        "Hiểu rõ về lập trình hướng đối tượng.",
+                        "Có kiến thức về lập trình ứng dụng, WEB trên nền tảng .NET, ngôn ngữ C#, cơ sở dữ liệu SQL Server.",
+                        "Có kiến thức về lập trình WEB trên nền tảng JAVA hoặc Nodejs, cơ sở dữ liệu MySQL.",
+                        "Có kiến thức về công nghệ PKI, EJBCA là một lợi thế.",
+                        "Có kiến thức và tư duy tốt về cấu trúc dữ liệu và giải thuật.",
+                        "Có khả năng đọc hiểu tài liệu Tiếng Anh và công nghệ mới.",
+                        "Ưu tiên ứng viên có bằng đại học Chuyên ngành Công Nghệ Thông tin",
+                        "Ưu tiên kinh nghiệm làm việc tối thiểu 2 năm trong lĩnh vực lập trình.",
+                        "Có khả năng làm việt độc lập và làm việc theo nhóm."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Phẩm chất"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Trung thực, thái độ làm việc tốt, tuân thủ kỷ luật.",
+                        "Hòa đồng, có tinh thần làm việc cộng tác theo nhóm và có trách nhiệm với công việc được giao.",
+                        "Có khả năng làm việc độc lập, chăm chỉ, không ngại khó, đủ sức khỏe.",
+                        "Sẵn sàng làm ngoài giờ và đi công tác theo yêu cầu công việc của dự án.",
+                        "Có tinh thần trách nhiệm, cầu tiến và chịu khó học hỏi."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033401,
+            "title": "Senior Backend Developer (NodeJS)",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>ABOUT US</strong></span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Floware is a leader in building innovative software to transform the way people live, play, work, and learn. Our mission is to create smart solutions that benefit everyone and solve their daily challenges. We were the first in Vietnam to develop an iOS app and our first OS X application SmartDay debuted on the Mac App Store at #5.</span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Location: Ho Van Hue Street, Phu Nhuan District, HCMC</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Office hour: Monday &ndash; Friday (8:30 AM &ndash; 5:30 PM)</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Full income tax, social insurance paid by company (Net Salary)"
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "13th month of salary"
+                },
+                {
+                    "icon": "fa-arrow-circle-right",
+                    "name": null,
+                    "value": "100% salary during probation period"
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Performance bonus up to 96M VND or more in the year"
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Very attractive salary based on skills and experience"
+                },
+                {
+                    "icon": "fa-child",
+                    "name": null,
+                    "value": "Premium Health Insurance Package"
+                },
+                {
+                    "icon": "fa-heart",
+                    "name": null,
+                    "value": "Friendly, flexible, and fun working environment"
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Company trip, team building, monthly party, etc.."
+                },
+                {
+                    "icon": "fa-coffee",
+                    "name": null,
+                    "value": "Free office lunch, coffee, tea, and snack bar everyday"
+                },
+                {
+                    "icon": "fa-glass",
+                    "name": null,
+                    "value": "Monthly team activity allowance"
+                },
+                {
+                    "icon": "fa-suitcase",
+                    "name": null,
+                    "value": "Great opportunity for career development"
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Monday – Friday (8:30 AM – 5:30 PM)"
+                }
+            ],
+            "owned_id": 85748,
+            "company": {
+                "id": 85748,
+                "display_name": "Floware",
+                "image_logo": "https://assets.topdev.vn/images/2021/03/05/flowarelogo-PhuongQuynh-gEJz8.png",
+                "slug": "floware",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/floware-85748",
+                "tagline": "Floware designs, develops, and distributes productivity software",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 126363,
+                            "ward": {
+                                "id": "27049",
+                                "value": "Phường 09"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "768",
+                                "value": "Quận Phú Nhuận"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "43 Hồ Văn Huê"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/08/25/TopDev-zXFMDJbK5OrNLWvx-1692956263.jpg",
+                "image_galleries": [
+                    {
+                        "id": 467255,
+                        "url": "https://assets.topdev.vn/images/2023/08/25/TopDev-git8p2CpjKm5sMLy-1692956265.jpg",
+                        "path": "/images/2023/08/25/TopDev-git8p2CpjKm5sMLy-1692956265.jpg",
+                        "name": "W4fvD9XvZhQSXhwJQhoradDB2qj3BOCm1xcGLdX6.jpg",
+                        "uploaded": {
+                            "date": "25-08-2023",
+                            "datetime": "2023-08-25 16:37:45",
+                            "since": "9 months ago",
+                            "timestamp": 1692956265
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 467257,
+                        "url": "https://assets.topdev.vn/images/2023/08/25/TopDev-4Zh1s5l2F8lForF7-1692956396.jpg",
+                        "path": "/images/2023/08/25/TopDev-4Zh1s5l2F8lForF7-1692956396.jpg",
+                        "name": "ceE5icdtcZCg2Jw4vyjc6I7SJVNqGWHz4n7Fi0mg.jpg",
+                        "uploaded": {
+                            "date": "25-08-2023",
+                            "datetime": "2023-08-25 16:39:56",
+                            "since": "9 months ago",
+                            "timestamp": 1692956396
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Full income tax, social insurance paid by company (Net Salary)",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "13th month of salary",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "100% salary during probation period",
+                        "icon": "fa-arrow-right"
+                    },
+                    {
+                        "value": "Performance bonus up to 96M VND or more in the year",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Very attractive salary based on skills and experience",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Premium Health Insurance Package",
+                        "icon": "fa-user-md"
+                    },
+                    {
+                        "value": "Macbook provided",
+                        "icon": "fa-apple"
+                    },
+                    {
+                        "value": "Friendly, flexible, and fun working environment",
+                        "icon": "fa-heart"
+                    },
+                    {
+                        "value": "Company trip, team building, monthly party, etc..",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Free office lunch, coffee, tea, and snack bar everyday",
+                        "icon": "fa-coffee"
+                    },
+                    {
+                        "value": "Monthly team activity allowance",
+                        "icon": "fa-glass"
+                    },
+                    {
+                        "value": "Great opportunity for career development",
+                        "icon": "fa-user-secret"
+                    },
+                    {
+                        "value": "Monday – Friday (8:30 AM – 5:30 PM)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Agile",
+                    "Swift",
+                    "iOS",
+                    "Java",
+                    "JavaScript",
+                    "NodeJS"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "NodeJS, Back-End, Restful Api",
+            "skills_arr": [
+                "NodeJS",
+                "Back-End",
+                "Restful Api"
+            ],
+            "skills_ids": [
+                36,
+                210,
+                8706
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Phú Nhuận, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 126363,
+                        "ward": {
+                            "id": "27049",
+                            "value": "Phường 09"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "768",
+                            "value": "Quận Phú Nhuận"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "43 Hồ Văn Huê, Phường 09, Quận Phú Nhuận, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "43 Hồ Văn Huê"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/senior-backend-developer-nodejs-floware-2033401",
+            "job_url": "",
+            "slug": "senior-backend-developer-nodejs-floware",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-05-2024",
+                "datetime": "00:00:00 30-05-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "02:00:06 19-06-2024",
+                "since": "6 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "3+ years of experience designing, developing, and managing RESTful APIs",
+                        "3+ years of experience developing in any of following core language: NodeJS",
+                        "Demonstrated design and programming skills using NodeJS, JSON, Web Services, XML, XSLT, etc.",
+                        "Excellent experience in designing and implementing database systems with integrity, scalability, performance, reliability, security in mind"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "HUGE PLUS IF YOU ARE/HAVE"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Excellent fullstack developer",
+                        "Excellent understanding of backend development best practices and standards",
+                        "Impeccable leadership skills and able to drive solutions",
+                        "Excellent understanding of CI/CD",
+                        "Excellent experience designing and developing backend micro services"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033402,
+            "title": "Manual QC Engineer",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Well-trained and dedicated to being able to catch the pace smoothly"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Basic salary: It will be based on the ability of the candidate and the general salary framework set by the company. There will be exceptions for excellent candidates"
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Salary review based on performance every 6 months if your basic salary is less than 30,000,000 VND. If your basic salary is from 30,000,000 VND, it will be reviewed every year"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "13th-month salary and bonus for holidays"
+                },
+                {
+                    "icon": "fa-glass",
+                    "name": null,
+                    "value": "Team building once a month"
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Company trip: 1 time/year"
+                },
+                {
+                    "icon": "fa-umbrella",
+                    "name": null,
+                    "value": "Full social benefits in accordance with the company and the law of Vietnam"
+                },
+                {
+                    "icon": "fa-user-secret",
+                    "name": null,
+                    "value": "Professional environment and clear procedures."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Great opportunity to improve English"
+                },
+                {
+                    "icon": "fa-globe",
+                    "name": null,
+                    "value": "Opportunity to learn Logistics and professional management system of project development process"
+                }
+            ],
+            "owned_id": 83764,
+            "company": {
+                "id": 83764,
+                "display_name": "CyberLogitec Vietnam Co., Ltd.",
+                "image_logo": "https://assets.topdev.vn/images/2024/05/02/TopDev-9EqSyPZLpQhzhQGl-1714625830.jpg",
+                "slug": "cyberlogitec-vietnam-co-ltd",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cyberlogitec-vietnam-co-ltd-83764",
+                "tagline": "Off-shore Development Center in Vietnam",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "SCETPA Building, 19A Cộng Hòa, Phường 12, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 105536,
+                            "ward": {
+                                "id": "26971",
+                                "value": "Phường 12"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "SCETPA Building, 19A Cộng Hòa, Phường 12, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "SCETPA Building, 19A Cộng Hòa"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2020/07/24/coverSNsh6ikYa3deE84yN0EbFjiiaO8U4uI8-ItqLA.jpeg",
+                "image_galleries": [
+                    {
+                        "id": 156256,
+                        "url": "https://assets.topdev.vn/images/2020/07/24/galleryLDRNIzxJgW0Wydy5u6V2Ot0LPqgYKLUs-z0ofM.jpeg",
+                        "path": "/images/2020/07/24/galleryLDRNIzxJgW0Wydy5u6V2Ot0LPqgYKLUs-z0ofM.jpeg",
+                        "name": "gallery_LDRNIzxJgW0Wydy5u6V2Ot0LPqgYKLUs.jpeg",
+                        "uploaded": {
+                            "date": "24-07-2020",
+                            "datetime": "2020-07-24 14:00:56",
+                            "since": "3 years ago",
+                            "timestamp": 1595574056
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 156257,
+                        "url": "https://assets.topdev.vn/images/2020/07/24/galleryJ17wiQHoAl8jk0o98Xfgo973aT6o2xmL-crkTV.jpeg",
+                        "path": "/images/2020/07/24/galleryJ17wiQHoAl8jk0o98Xfgo973aT6o2xmL-crkTV.jpeg",
+                        "name": "gallery_J17wiQHoAl8jk0o98Xfgo973aT6o2xmL.jpeg",
+                        "uploaded": {
+                            "date": "24-07-2020",
+                            "datetime": "2020-07-24 14:00:57",
+                            "since": "3 years ago",
+                            "timestamp": 1595574057
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 156258,
+                        "url": "https://assets.topdev.vn/images/2020/07/24/gallerymGDNBAsBGgqWyHTxywseepMIs1NAdlJI-issyb.jpeg",
+                        "path": "/images/2020/07/24/gallerymGDNBAsBGgqWyHTxywseepMIs1NAdlJI-issyb.jpeg",
+                        "name": "gallery_mGDNBAsBGgqWyHTxywseepMIs1NAdlJI.jpeg",
+                        "uploaded": {
+                            "date": "24-07-2020",
+                            "datetime": "2020-07-24 14:00:59",
+                            "since": "3 years ago",
+                            "timestamp": 1595574059
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Well trained and dedicated to being able to catch the pace smoothly.",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Attracted salary based on the ability",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Salary review every 6 months based on the work performance",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "13th-month salary and bonus for holidays",
+                        "icon": "fa-asterisk"
+                    },
+                    {
+                        "value": "PVI Healthcare Insurance",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Full social benefits in accordance with company policy and Vietnamese Law",
+                        "icon": "fa-balance-scale"
+                    },
+                    {
+                        "value": "Company trip once a year",
+                        "icon": "fa-paper-plane"
+                    },
+                    {
+                        "value": "Team building once a month",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Great opportunity to improve English",
+                        "icon": "fa-comments"
+                    },
+                    {
+                        "value": "Opportunity to learn Logistics and professional management system of project development process",
+                        "icon": "fa-bell"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "JavaScript",
+                    "SQL",
+                    "NodeJS",
+                    "React JS"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "QC, Tester, Manual",
+            "skills_arr": [
+                "QC",
+                "Tester",
+                "Manual"
+            ],
+            "skills_ids": [
+                77,
+                78,
+                7314
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "SCETPA Building, 19A Cộng Hòa, Phường 12, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 105536,
+                        "ward": {
+                            "id": "26971",
+                            "value": "Phường 12"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "766",
+                            "value": "Quận Tân Bình"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "SCETPA Building, 19A Cộng Hòa, Phường 12, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "SCETPA Building, 19A Cộng Hòa"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/manual-qc-engineer-cyberlogitec-vietnam-co-ltd-2033402",
+            "job_url": "",
+            "slug": "manual-qc-engineer-cyberlogitec-vietnam-co-ltd",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-05-2024",
+                "datetime": "00:00:00 30-05-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-06-2024",
+                "datetime": "02:00:06 19-06-2024",
+                "since": "6 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Having 2+ years of working experience as QC Engineer",
+                        "Bachelor's degree in computer information technology, computer engineering, or related degrees",
+                        "Good at English, ability to read & understand the English document, ability to communicate fluently",
+                        "Experience with testing service-oriented architecture (SOA)",
+                        "Knowledge of QA testing and defect-tracking software",
+                        "Knowledge of making test cases/test procedures/test scripts/test data",
+                        "Be able to work under pressure",
+                        "Good attitude and professional behavior",
+                        "Be careful, always aim to make the system perfect",
+                        "Enthusiast, accurate, patient, honest and willing to learn new things",
+                        "Be able to work alone or in a team",
+                        "Having experience with the Logistics industry is a plus"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033581,
+            "title": "Solution Architect",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Dịch vụ số Viettel - Viettel Digital Service (VDS) l&agrave; th&agrave;nh vi&ecirc;n thứ 8 của Tập đo&agrave;n C&ocirc;ng nghiệp Viễn th&ocirc;ng Qu&acirc;n đội Viettel, mang sứ mệnh kiến tạo Hệ sinh th&aacute;i số, đi ti&ecirc;n phong trong lĩnh vực Fintech. Kh&aacute;t vọng của ch&uacute;ng t&ocirc;i l&agrave; mang c&ocirc;ng nghệ số tới mọi ng&otilde; ng&aacute;ch của cuộc sống, từ th&agrave;nh thị tới n&ocirc;ng th&ocirc;n, n&acirc;ng niu từng trải nghiệm v&agrave; x&acirc;y đắp niềm tin nơi kh&aacute;ch h&agrave;ng, g&oacute;p phần x&acirc;y dựng một x&atilde; hội số ng&agrave;y một văn minh v&agrave; tiện lợi hơn. Sản phẩm nổi bật nhất của VDS l&agrave; c&aacute;c sản phẩm trong Hệ sinh th&aacute;i T&agrave;i ch&iacute;nh số Viettel Money.&nbsp;</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hiện nay, Viettel Digital đang mở rộng hoạt động với nhiều dự &aacute;n lớn trong c&aacute;c lĩnh vực Fintech, Big Data, AI, Blockchain,... v&agrave; mong muốn chi&ecirc;u mộ nh&acirc;n t&agrave;i từ mọi miền Tổ quốc, c&ugrave;ng nhau chung tay tạo n&ecirc;n những kỳ t&iacute;ch mới.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thời gian làm việc: 8h00- 17h30 từ thứ 2 tới thứ 6"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Địa điểm làm việc: Làm việc tại tòa nhà văn phòng hạng A cao nhất Thủ đô – Keangnam Landmark 72, Phạm Hùng, Nam Từ Liêm, Hà Nội"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn Viettel"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội thăng tiến rõ ràng với nhiều cấp bậc"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạnvvv"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết,…"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thưởng thức bữa trưa được phục vụ ngay tại VDS, được chọn lọc bởi các chuyên gia dinh dưỡng."
+                }
+            ],
+            "owned_id": 92369,
+            "company": {
+                "id": 92369,
+                "display_name": "Viettel Digital",
+                "image_logo": "https://assets.topdev.vn/images/2022/01/24/TopDev-Asset-15-1643008749.png",
+                "slug": "viettel-digital",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-digital-92369",
+                "tagline": "Theo cách của bạn",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 131337,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 44 - 45 Keangnam Landmark"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Mức lương thu hút nhân tài, ứng viên tự thỏa thuận khi tham gia phỏng vấn",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Có cơ hội làm việc trong một tập đoàn lớn nhưng môi trường không khác gì StartUp",
+                        "icon": "fa-star"
+                    },
+                    {
+                        "value": "Có cơ hội được góp sức mình xây dựng một sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam",
+                        "icon": "fa-mobile-phone"
+                    },
+                    {
+                        "value": "Cơ hội thăng tiến với nhiều cấp bậc",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Có cơ hội tiếp xúc với các dự án lớn, mới mẻ",
+                        "icon": "fa-code"
+                    },
+                    {
+                        "value": "Có cơ hội tự ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn",
+                        "icon": "fa-globe"
+                    },
+                    {
+                        "value": "Công việc luôn thay đổi, thách thức, không nhàm chán",
+                        "icon": "fa-exchange"
+                    },
+                    {
+                        "value": "Lãnh đạo cực kỳ trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Member đầy các “pro” cứng và chuyên nghiệp",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, tự đăng kí riêng, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người",
+                        "icon": "fa-tree"
+                    },
+                    {
+                        "value": "Được công ty đóng BHXH, BHYT, BHTN theo quy định Nhà nước; được khám sức khỏe định kì hàng năm",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Tham gia mệt nghỉ với các hoạt động thể thao văn hóa, team building, happy time: ngày hội sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết, event nhân dịp không có gì,...",
+                        "icon": "fa-headphones"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Thưởng thức bữa trưa thơm ngon tại Tập đoàn, được chọn lọc bởi các chuyên gia dinh dưỡng",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Linh động áp dụng chính sách phỏng vấn online và hỗ trợ ứng viên làm việc tại nhà trong các trường hợp đặc biệt (Covid-19)",
+                        "icon": "fa-video-camera"
+                    },
+                    {
+                        "value": "Và rất nhiều những quyền lợi cực kỳ thú vị khác, mà bạn chỉ có thể biết khi tham gia DIGITAL",
+                        "icon": "fa-check"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Spring",
+                    "Microsoft"
+                ],
+                "industries_arr": [
+                    "Fintech"
+                ],
+                "industries_str": "Fintech",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, JavaScript, Solution Architect",
+            "skills_arr": [
+                "Java",
+                "JavaScript",
+                "Solution Architect"
+            ],
+            "skills_ids": [
+                21,
+                22,
+                5194
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 131337,
+                        "ward": {
+                            "id": "00631",
+                            "value": "Phường Mễ Trì"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 44 - 45 Keangnam Landmark"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/solution-architect-viettel-digital-2033581",
+            "job_url": "",
+            "slug": "solution-architect-viettel-digital",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "18-06-2024",
+                "datetime": "00:00:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "18-06-2024",
+                "datetime": "17:45:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học loại Khá trở lên, chuyên ngành Công nghệ thông tin, Kỹ sư phần mềm hoặc các ngành liên quan. Ưu tiên tốt nghiệp từ trường Đại học Bách khoa Hà Nội, Đại học Công nghệ, Học viện Công nghệ Bưu chính Viễn thông,...",
+                        "Tiếng Anh: tương đương 650+ TOEIC",
+                        "Có ít nhất 02 năm kinh nghiệm ở vị trí Solution Architect, Solution Design hoặc các vị trí tương đương. Ưu tiên có kinh nghiệm thiết kế các hệ thống lớn, đặc biệt là các hệ thống tài chính - ngân hàng",
+                        "Sở hữu ít nhất 03 năm kinh nghiệm Software Developer (ưu tiên các Developer sử dụng ngôn ngữ Java, JavaScript)",
+                        "Hiểu biết và nắm vững quy trình phát triển phần mềm",
+                        "Am hiểu các hệ điều hành và cơ sở dữ liệu khác nhau",
+                        "Yêu thích tìm hiểu công nghệ, cập nhật xu hướng công nghệ mới và có khả năng phân tích ứng dụng công nghệ trong các bài toán cụ thể"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033582,
+            "title": "JAVA DEVELOPER",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Dịch vụ số Viettel - Viettel Digital Service (VDS) l&agrave; th&agrave;nh vi&ecirc;n thứ 8 của Tập đo&agrave;n C&ocirc;ng nghiệp Viễn th&ocirc;ng Qu&acirc;n đội Viettel, mang sứ mệnh kiến tạo Hệ sinh th&aacute;i số, đi ti&ecirc;n phong trong lĩnh vực Fintech. Kh&aacute;t vọng của ch&uacute;ng t&ocirc;i l&agrave; mang c&ocirc;ng nghệ số tới mọi ng&otilde; ng&aacute;ch của cuộc sống, từ th&agrave;nh thị tới n&ocirc;ng th&ocirc;n, n&acirc;ng niu từng trải nghiệm v&agrave; x&acirc;y đắp niềm tin nơi kh&aacute;ch h&agrave;ng, g&oacute;p phần x&acirc;y dựng một x&atilde; hội số ng&agrave;y một văn minh v&agrave; tiện lợi hơn. Sản phẩm nổi bật nhất của VDS l&agrave; c&aacute;c sản phẩm trong Hệ sinh th&aacute;i T&agrave;i ch&iacute;nh số Viettel Money.&nbsp;</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hiện nay, Viettel Digital đang mở rộng hoạt động với nhiều dự &aacute;n lớn trong c&aacute;c lĩnh vực Fintech, Big Data, AI, Blockchain,... v&agrave; mong muốn chi&ecirc;u mộ nh&acirc;n t&agrave;i từ mọi miền Tổ quốc, c&ugrave;ng nhau chung tay tạo n&ecirc;n những kỳ t&iacute;ch mới.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thời gian làm việc: 8h00- 17h30 từ thứ 2 tới thứ 6"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Địa điểm làm việc: Làm việc tại tòa nhà văn phòng hạng A cao nhất Thủ đô – Keangnam Landmark 72, Phạm Hùng, Nam Từ Liêm, Hà Nội"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn Viettel"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội thăng tiến rõ ràng với nhiều cấp bậc"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạnvvv"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết,…"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thưởng thức bữa trưa được phục vụ ngay tại VDS, được chọn lọc bởi các chuyên gia dinh dưỡng."
+                }
+            ],
+            "owned_id": 92369,
+            "company": {
+                "id": 92369,
+                "display_name": "Viettel Digital",
+                "image_logo": "https://assets.topdev.vn/images/2022/01/24/TopDev-Asset-15-1643008749.png",
+                "slug": "viettel-digital",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-digital-92369",
+                "tagline": "Theo cách của bạn",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 131337,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 44 - 45 Keangnam Landmark"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Mức lương thu hút nhân tài, ứng viên tự thỏa thuận khi tham gia phỏng vấn",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Có cơ hội làm việc trong một tập đoàn lớn nhưng môi trường không khác gì StartUp",
+                        "icon": "fa-star"
+                    },
+                    {
+                        "value": "Có cơ hội được góp sức mình xây dựng một sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam",
+                        "icon": "fa-mobile-phone"
+                    },
+                    {
+                        "value": "Cơ hội thăng tiến với nhiều cấp bậc",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Có cơ hội tiếp xúc với các dự án lớn, mới mẻ",
+                        "icon": "fa-code"
+                    },
+                    {
+                        "value": "Có cơ hội tự ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn",
+                        "icon": "fa-globe"
+                    },
+                    {
+                        "value": "Công việc luôn thay đổi, thách thức, không nhàm chán",
+                        "icon": "fa-exchange"
+                    },
+                    {
+                        "value": "Lãnh đạo cực kỳ trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Member đầy các “pro” cứng và chuyên nghiệp",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, tự đăng kí riêng, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người",
+                        "icon": "fa-tree"
+                    },
+                    {
+                        "value": "Được công ty đóng BHXH, BHYT, BHTN theo quy định Nhà nước; được khám sức khỏe định kì hàng năm",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Tham gia mệt nghỉ với các hoạt động thể thao văn hóa, team building, happy time: ngày hội sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết, event nhân dịp không có gì,...",
+                        "icon": "fa-headphones"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Thưởng thức bữa trưa thơm ngon tại Tập đoàn, được chọn lọc bởi các chuyên gia dinh dưỡng",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Linh động áp dụng chính sách phỏng vấn online và hỗ trợ ứng viên làm việc tại nhà trong các trường hợp đặc biệt (Covid-19)",
+                        "icon": "fa-video-camera"
+                    },
+                    {
+                        "value": "Và rất nhiều những quyền lợi cực kỳ thú vị khác, mà bạn chỉ có thể biết khi tham gia DIGITAL",
+                        "icon": "fa-check"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Spring",
+                    "Microsoft"
+                ],
+                "industries_arr": [
+                    "Fintech"
+                ],
+                "industries_str": "Fintech",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Java Core",
+            "skills_arr": [
+                "Java",
+                "Java Core"
+            ],
+            "skills_ids": [
+                21,
+                1552
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 131337,
+                        "ward": {
+                            "id": "00631",
+                            "value": "Phường Mễ Trì"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 44 - 45 Keangnam Landmark"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/java-developer-viettel-digital-2033582",
+            "job_url": "",
+            "slug": "java-developer-viettel-digital",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "18-06-2024",
+                "datetime": "00:00:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "18-06-2024",
+                "datetime": "17:45:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp đại học loại Khá trở lên, chuyên ngành Công nghệ thông tin, Kỹ sư phần mềm. Đặc biệt ưu tiên các trường Học viện Công nghệ Bưu chính Viễn thông, Đại học Bách khoa Hà Nội, …",
+                        "Tiếng Anh tương đương 550+ TOEIC",
+                        "Ưu tiên ứng viên có từ 02 năm kinh nghiệm Java trở lên",
+                        "Thành thạo Java Core, các framework Java như EE, Spring, Struts, Hibernate ... và một số design pattern thông dụng",
+                        "Tư duy về thiết kế hướng đối tượng và nắm vững kiến thức về cấu trúc dữ liệu và giải thuật, lập trình hướng đối tượng ...",
+                        "Thành thạo SQL, PLSQL, có kiến thức về các hệ quản trị cơ sở dữ liệu Oracle/MySQL, noSQL, có khả năng tối ưu CSDL",
+                        "Ưu tiên có hiểu biết về nghiệp vụ tài chính, có kinh nghiệm về microservices, ham học hỏi tìm tòi sáng tạo cái mới"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033583,
+            "title": "AI ENGINEER",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Dịch vụ số Viettel - Viettel Digital Service (VDS) l&agrave; th&agrave;nh vi&ecirc;n thứ 8 của Tập đo&agrave;n C&ocirc;ng nghiệp Viễn th&ocirc;ng Qu&acirc;n đội Viettel, mang sứ mệnh kiến tạo Hệ sinh th&aacute;i số, đi ti&ecirc;n phong trong lĩnh vực Fintech. Kh&aacute;t vọng của ch&uacute;ng t&ocirc;i l&agrave; mang c&ocirc;ng nghệ số tới mọi ng&otilde; ng&aacute;ch của cuộc sống, từ th&agrave;nh thị tới n&ocirc;ng th&ocirc;n, n&acirc;ng niu từng trải nghiệm v&agrave; x&acirc;y đắp niềm tin nơi kh&aacute;ch h&agrave;ng, g&oacute;p phần x&acirc;y dựng một x&atilde; hội số ng&agrave;y một văn minh v&agrave; tiện lợi hơn. Sản phẩm nổi bật nhất của VDS l&agrave; c&aacute;c sản phẩm trong Hệ sinh th&aacute;i T&agrave;i ch&iacute;nh số Viettel Money.&nbsp;</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hiện nay, Viettel Digital đang mở rộng hoạt động với nhiều dự &aacute;n lớn trong c&aacute;c lĩnh vực Fintech, Big Data, AI, Blockchain,... v&agrave; mong muốn chi&ecirc;u mộ nh&acirc;n t&agrave;i từ mọi miền Tổ quốc, c&ugrave;ng nhau chung tay tạo n&ecirc;n những kỳ t&iacute;ch mới.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thời gian làm việc: 8h00- 17h30 từ thứ 2 tới thứ 6"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Địa điểm làm việc: Làm việc tại tòa nhà văn phòng hạng A cao nhất Thủ đô – Keangnam Landmark 72, Phạm Hùng, Nam Từ Liêm, Hà Nội"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn Viettel"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội thăng tiến rõ ràng với nhiều cấp bậc"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạnvvv"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết,…"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thưởng thức bữa trưa được phục vụ ngay tại VDS, được chọn lọc bởi các chuyên gia dinh dưỡng."
+                }
+            ],
+            "owned_id": 92369,
+            "company": {
+                "id": 92369,
+                "display_name": "Viettel Digital",
+                "image_logo": "https://assets.topdev.vn/images/2022/01/24/TopDev-Asset-15-1643008749.png",
+                "slug": "viettel-digital",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-digital-92369",
+                "tagline": "Theo cách của bạn",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 131337,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 44 - 45 Keangnam Landmark"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Mức lương thu hút nhân tài, ứng viên tự thỏa thuận khi tham gia phỏng vấn",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Có cơ hội làm việc trong một tập đoàn lớn nhưng môi trường không khác gì StartUp",
+                        "icon": "fa-star"
+                    },
+                    {
+                        "value": "Có cơ hội được góp sức mình xây dựng một sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam",
+                        "icon": "fa-mobile-phone"
+                    },
+                    {
+                        "value": "Cơ hội thăng tiến với nhiều cấp bậc",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Có cơ hội tiếp xúc với các dự án lớn, mới mẻ",
+                        "icon": "fa-code"
+                    },
+                    {
+                        "value": "Có cơ hội tự ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn",
+                        "icon": "fa-globe"
+                    },
+                    {
+                        "value": "Công việc luôn thay đổi, thách thức, không nhàm chán",
+                        "icon": "fa-exchange"
+                    },
+                    {
+                        "value": "Lãnh đạo cực kỳ trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Member đầy các “pro” cứng và chuyên nghiệp",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, tự đăng kí riêng, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người",
+                        "icon": "fa-tree"
+                    },
+                    {
+                        "value": "Được công ty đóng BHXH, BHYT, BHTN theo quy định Nhà nước; được khám sức khỏe định kì hàng năm",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Tham gia mệt nghỉ với các hoạt động thể thao văn hóa, team building, happy time: ngày hội sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết, event nhân dịp không có gì,...",
+                        "icon": "fa-headphones"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Thưởng thức bữa trưa thơm ngon tại Tập đoàn, được chọn lọc bởi các chuyên gia dinh dưỡng",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Linh động áp dụng chính sách phỏng vấn online và hỗ trợ ứng viên làm việc tại nhà trong các trường hợp đặc biệt (Covid-19)",
+                        "icon": "fa-video-camera"
+                    },
+                    {
+                        "value": "Và rất nhiều những quyền lợi cực kỳ thú vị khác, mà bạn chỉ có thể biết khi tham gia DIGITAL",
+                        "icon": "fa-check"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Spring",
+                    "Microsoft"
+                ],
+                "industries_arr": [
+                    "Fintech"
+                ],
+                "industries_str": "Fintech",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Python, AI, Tableau",
+            "skills_arr": [
+                "Python",
+                "AI",
+                "Tableau"
+            ],
+            "skills_ids": [
+                34,
+                1555,
+                7364
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 131337,
+                        "ward": {
+                            "id": "00631",
+                            "value": "Phường Mễ Trì"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 44 - 45 Keangnam Landmark"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/ai-engineer-viettel-digital-2033583",
+            "job_url": "",
+            "slug": "ai-engineer-viettel-digital",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "18-06-2024",
+                "datetime": "00:00:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "18-06-2024",
+                "datetime": "17:45:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp đại học loại Khá trở lên. Ưu tiên học vị tiến sĩ, thạc sĩ các ngành khoa học dữ liệu, thống kê, toán kinh tế, toán tài chính, khoa học máy tính",
+                        "Tiếng Anh tương đương 650+ Toeic",
+                        "Hiểu biết sâu về xác suất thống kê, hiểu sâu về toán là lợi thế",
+                        "Hiểu biết về các mô hình học máy",
+                        "Có khả năng quản lý nhóm thực hiện các yêu cầu phân tích chuyên sâu và phân tích dự đoán",
+                        "Có kinh nghiệm build các mô hình học máy",
+                        "Có kinh nghiệm sử dụng ít nhất một trong các công cụ Tableau, Qlik, PowerBI, Google Data Studio",
+                        "Có kinh nghiệm sử dụng ít nhất một trong các ngôn ngữ Python, R",
+                        "Tinh thần làm việc tự giác, chủ động, nhiệt tình và có kỷ luật"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033584,
+            "title": "PROJECT MANAGER",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Tổng C&ocirc;ng ty Dịch vụ số Viettel - Viettel Digital Service (VDS) l&agrave; th&agrave;nh vi&ecirc;n thứ 8 của Tập đo&agrave;n C&ocirc;ng nghiệp Viễn th&ocirc;ng Qu&acirc;n đội Viettel, mang sứ mệnh kiến tạo Hệ sinh th&aacute;i số, đi ti&ecirc;n phong trong lĩnh vực Fintech. Kh&aacute;t vọng của ch&uacute;ng t&ocirc;i l&agrave; mang c&ocirc;ng nghệ số tới mọi ng&otilde; ng&aacute;ch của cuộc sống, từ th&agrave;nh thị tới n&ocirc;ng th&ocirc;n, n&acirc;ng niu từng trải nghiệm v&agrave; x&acirc;y đắp niềm tin nơi kh&aacute;ch h&agrave;ng, g&oacute;p phần x&acirc;y dựng một x&atilde; hội số ng&agrave;y một văn minh v&agrave; tiện lợi hơn. Sản phẩm nổi bật nhất của VDS l&agrave; c&aacute;c sản phẩm trong Hệ sinh th&aacute;i T&agrave;i ch&iacute;nh số Viettel Money.&nbsp;</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Hiện nay, Viettel Digital đang mở rộng hoạt động với nhiều dự &aacute;n lớn trong c&aacute;c lĩnh vực Fintech, Big Data, AI, Blockchain,... v&agrave; mong muốn chi&ecirc;u mộ nh&acirc;n t&agrave;i từ mọi miền Tổ quốc, c&ugrave;ng nhau chung tay tạo n&ecirc;n những kỳ t&iacute;ch mới.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thời gian làm việc: 8h00- 17h30 từ thứ 2 tới thứ 6"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Địa điểm làm việc: Làm việc tại tòa nhà văn phòng hạng A cao nhất Thủ đô – Keangnam Landmark 72, Phạm Hùng, Nam Từ Liêm, Hà Nội"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Mức lương thu hút và cạnh tranh, ứng viên thỏa thuận khi tham gia phỏng vấn"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn Viettel"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Đóng BHXH, BHYT, BHTN theo quy định Nhà nước; khám sức khỏe định kỳ hàng năm"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội tiếp xúc với các dự án lớn, mới mẻ & tham gia xây dựng những sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội thăng tiến rõ ràng với nhiều cấp bậc"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Cơ hội ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạnvvv"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Công việc luôn thay đổi, thách thức, không thỏa hiệp với sự lỗi thời."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Lãnh đạo trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Đồng nghiệp thân thiện và nhiệt tình."
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Tham gia các hoạt động thể thao văn hóa, team building, Ngày hội Sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết,…"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày"
+                },
+                {
+                    "icon": "fa-check-circle",
+                    "name": null,
+                    "value": "Thưởng thức bữa trưa được phục vụ ngay tại VDS, được chọn lọc bởi các chuyên gia dinh dưỡng."
+                }
+            ],
+            "owned_id": 92369,
+            "company": {
+                "id": 92369,
+                "display_name": "Viettel Digital",
+                "image_logo": "https://assets.topdev.vn/images/2022/01/24/TopDev-Asset-15-1643008749.png",
+                "slug": "viettel-digital",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/viettel-digital-92369",
+                "tagline": "Theo cách của bạn",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 131337,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 44 - 45 Keangnam Landmark"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Mức lương thu hút nhân tài, ứng viên tự thỏa thuận khi tham gia phỏng vấn",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Có cơ hội làm việc trong một tập đoàn lớn nhưng môi trường không khác gì StartUp",
+                        "icon": "fa-star"
+                    },
+                    {
+                        "value": "Có cơ hội được góp sức mình xây dựng một sản phẩm lớn và có chỗ đứng trên thị trường Fintech Việt Nam",
+                        "icon": "fa-mobile-phone"
+                    },
+                    {
+                        "value": "Cơ hội thăng tiến với nhiều cấp bậc",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Có cơ hội tiếp xúc với các dự án lớn, mới mẻ",
+                        "icon": "fa-code"
+                    },
+                    {
+                        "value": "Có cơ hội tự ứng tuyển thử sức đi học tập và làm việc tại nước ngoài theo các khóa ngắn hạn, dài hạn",
+                        "icon": "fa-globe"
+                    },
+                    {
+                        "value": "Công việc luôn thay đổi, thách thức, không nhàm chán",
+                        "icon": "fa-exchange"
+                    },
+                    {
+                        "value": "Lãnh đạo cực kỳ trẻ trung, biết lắng nghe và sẵn sàng tạo cơ hội để cá nhân phát triển bản thân. Member đầy các “pro” cứng và chuyên nghiệp",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Nghỉ dưỡng 3 ngày nguyên lương trong năm, tự đăng kí riêng, hỗ trợ nghỉ dưỡng lên đến 9 triệu/ người",
+                        "icon": "fa-tree"
+                    },
+                    {
+                        "value": "Được công ty đóng BHXH, BHYT, BHTN theo quy định Nhà nước; được khám sức khỏe định kì hàng năm",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Chính sách thưởng hấp dẫn: thưởng theo tháng, thưởng quý, thưởng năm, ngày lễ Tết, ... theo quy định chung của Tập đoàn",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Tham gia mệt nghỉ với các hoạt động thể thao văn hóa, team building, happy time: ngày hội sáng tạo, giải bóng đá, Viettel’s Got Talent, event quý, event năm, event ngày nghỉ lễ tết, event nhân dịp không có gì,...",
+                        "icon": "fa-headphones"
+                    },
+                    {
+                        "value": "Được thư giãn, khơi nguồn sáng tạo với Happy Time mỗi ngày",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Thưởng thức bữa trưa thơm ngon tại Tập đoàn, được chọn lọc bởi các chuyên gia dinh dưỡng",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Linh động áp dụng chính sách phỏng vấn online và hỗ trợ ứng viên làm việc tại nhà trong các trường hợp đặc biệt (Covid-19)",
+                        "icon": "fa-video-camera"
+                    },
+                    {
+                        "value": "Và rất nhiều những quyền lợi cực kỳ thú vị khác, mà bạn chỉ có thể biết khi tham gia DIGITAL",
+                        "icon": "fa-check"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "Java",
+                    "Spring",
+                    "Microsoft"
+                ],
+                "industries_arr": [
+                    "Fintech"
+                ],
+                "industries_str": "Fintech",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Project Manager",
+            "skills_arr": [
+                "Project Manager"
+            ],
+            "skills_ids": [
+                32
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng Nhóm",
+            "job_levels_arr": [
+                "Trưởng Nhóm"
+            ],
+            "job_levels_ids": [
+                7276
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 131337,
+                        "ward": {
+                            "id": "00631",
+                            "value": "Phường Mễ Trì"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 44 - 45 Keangnam Landmark, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 44 - 45 Keangnam Landmark"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/project-manager-viettel-digital-2033584",
+            "job_url": "",
+            "slug": "project-manager-viettel-digital",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "18-06-2024",
+                "datetime": "00:00:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "18-06-2024",
+                "datetime": "17:45:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp Đại học loại Khá trở lên, ưu tiên chuyên ngành CNTT, Kỹ thuật phần mềm, An toàn thông tin và ngành có liên quan",
+                        "Tiếng Anh tương đương 650+ TOEIC",
+                        "Có kinh nghiệm ít nhất 03 năm ở vị trí quản lý dự án công nghệ thông tin hoặc các dự án tương tự (PM). Ưu tiên các ứng viên có chứng chỉ PMP",
+                        "Có kinh nghiệm quản trị các dự án theo nhiều mô hình khác nhau như Agile, Waterfall",
+                        "Thành thạo các công cụ quản trị dự án và kiểm soát rủi ro",
+                        "Có trách nhiệm cao và thái độ tốt trong công việc",
+                        "Có khả năng làm việc độc lập hoặc làm việc theo nhóm tốt",
+                        "Kỹ năng giao tiếp và trình bày tốt",
+                        "Làm việc dưới áp lực cao, nhạy bén và tiếp thu nhanh.",
+                        "Ưu tiên ứng viên có thể đi làm ngay hoặc có thể xem xét nhận việc sau tết",
+                        "Tư duy logic và giao tiếp tốt, sáng tạo trong công việc"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033536,
+            "title": "Associate Product Manager",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>About MiTek</strong>: MiTek&reg; is a global company focused on providing integrated software, services, engineered products and automated solutions for the building industry worldwide. Innovating and expanding into aspects of global building, MiTek&reg; empowers customers to improve the way they design, make and build.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Extremely competitive salary."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "13th month & productivity Bonus."
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Yearly salary review."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Healthcare insurance package."
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "24/24 Personal accident insurance."
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "State-of-the-art office environment."
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Yearly outing."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Detailed induction, training and on-going career development."
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Opportunity for overseas training and travel."
+                },
+                {
+                    "icon": "fa-comments",
+                    "name": null,
+                    "value": "English training programs."
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "5-day week."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Flexible start-times."
+                },
+                {
+                    "icon": "fa-cutlery",
+                    "name": null,
+                    "value": "Free lunch."
+                },
+                {
+                    "icon": "fa-car",
+                    "name": null,
+                    "value": "Free parking."
+                },
+                {
+                    "icon": "fa-soccer-ball-o",
+                    "name": null,
+                    "value": "Full Social Club including gym, zumba, yoga, football, badminton, swimming, tennis."
+                }
+            ],
+            "owned_id": 88647,
+            "company": {
+                "id": 88647,
+                "display_name": "CÔNG TY TNHH MITEK VIỆT NAM",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/12/TopDev-5177fd7af46a06086b37826de40035fa-1649746004.png",
+                "slug": "cong-ty-tnhh-mitek-viet-nam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-tnhh-mitek-viet-nam-88647",
+                "tagline": "Better Technology. Better Building",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 7, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 141852,
+                            "ward": {
+                                "id": "27466",
+                                "value": "Phường Tân Thuận Đông"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "778",
+                                "value": "Quận 7"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/06/20/TopDev-Mitek-5-1687243275.png",
+                "image_galleries": [
+                    {
+                        "id": 435632,
+                        "url": "https://assets.topdev.vn/images/2023/06/20/TopDev-Mitek-3-1687243363.png",
+                        "path": "/images/2023/06/20/TopDev-Mitek-3-1687243363.png",
+                        "name": "Mitek 3.png",
+                        "uploaded": {
+                            "date": "20-06-2023",
+                            "datetime": "2023-06-20 13:42:43",
+                            "since": "1 year ago",
+                            "timestamp": 1687243363
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 604157,
+                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-enTpJchdsCZ6MLNX-1717385093.jpg",
+                        "path": "/images/2024/06/03/TopDev-enTpJchdsCZ6MLNX-1717385093.jpg",
+                        "name": "3IKMMgshBUQvsNobFXrjY99g4dJdw4y3ZcxmfHAN.jpg",
+                        "uploaded": {
+                            "date": "03-06-2024",
+                            "datetime": "2024-06-03 10:24:53",
+                            "since": "3 weeks ago",
+                            "timestamp": 1717385093
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 604158,
+                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-w7ndJRiyfSNUn4Hh-1717385093.png",
+                        "path": "/images/2024/06/03/TopDev-w7ndJRiyfSNUn4Hh-1717385093.png",
+                        "name": "9QiIykfxd4DT3s45aWgJsaKfpEntsLHHX0fBReWA.png",
+                        "uploaded": {
+                            "date": "03-06-2024",
+                            "datetime": "2024-06-03 10:24:53",
+                            "since": "3 weeks ago",
+                            "timestamp": 1717385093
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 604159,
+                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-lfM45cPGUGIKcwJ3-1717385093.png",
+                        "path": "/images/2024/06/03/TopDev-lfM45cPGUGIKcwJ3-1717385093.png",
+                        "name": "MeWijBxwew8YMgFQZZsP8HveQZVU9DvezKoJPbEl.png",
+                        "uploaded": {
+                            "date": "03-06-2024",
+                            "datetime": "2024-06-03 10:24:54",
+                            "since": "3 weeks ago",
+                            "timestamp": 1717385094
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "From Monday to Friday",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "International Travel opportunities",
+                        "icon": "fa-globe"
+                    },
+                    {
+                        "value": "13th month and productivity bonus",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Free lunch, parking, uniforms",
+                        "icon": "fa-coffee"
+                    },
+                    {
+                        "value": "Yearly company trip",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Healthcare insurance package",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "24/24 Personal Accident insurance",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Free English training programs (Cambridge English Scale) at office",
+                        "icon": "fa-language"
+                    },
+                    {
+                        "value": "Continuing development of technical and soft skills through working and formal training",
+                        "icon": "fa-lightbulb-o"
+                    },
+                    {
+                        "value": "Trade Union & Staff Social Club - Sport clubs (Yoga, Zumba, Swimming, Badminton, Football, Gym,...)",
+                        "icon": "fa-soccer-ball-o"
+                    },
+                    {
+                        "value": "Good working conditions and environment",
+                        "icon": "fa-glass"
+                    }
+                ],
+                "skills_arr": [
+                    "SQL",
+                    "Network",
+                    "Windows",
+                    "MS Office",
+                    "Virtualization"
+                ],
+                "industries_arr": [
+                    "Product",
+                    "Software",
+                    "B2B Services"
+                ],
+                "industries_str": "Product, Software, B2B Services",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Project Manager",
+            "skills_arr": [
+                "Project Manager"
+            ],
+            "skills_ids": [
+                32
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 7, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 141852,
+                        "ward": {
+                            "id": "27466",
+                            "value": "Phường Tân Thuận Đông"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "778",
+                            "value": "Quận 7"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/associate-product-manager-cong-ty-tnhh-mitek-viet-nam-2033536",
+            "job_url": "",
+            "slug": "associate-product-manager-cong-ty-tnhh-mitek-viet-nam",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "18-06-2024",
+                "datetime": "00:00:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "18-06-2024",
+                "datetime": "17:32:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tech skills and experience:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "3+ years’ experience in working with software product",
+                        "Experience of using and evaluating software products",
+                        "Ability to plan and organize",
+                        "Strong desire to build a high-quality product"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Soft skills:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Proficiency in English",
+                        "Good problem solving, collaboration, and communication skills",
+                        "Determined and curious",
+                        "Ability to work in a team"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have these experiences:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Experience in working with teams to build software products is a plus",
+                        "Experience in a previous software product role is a plus",
+                        "Knowledge of Home Building industry, processes, or software a plus",
+                        "Knowledge of Machinery file formats, Component Manufacturing or related software a plus"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033512,
+            "title": "03 Full-Stack Developer (Laravel, VueJS)",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "13th month salary"
+                },
+                {
+                    "icon": "fa-check-circle-o",
+                    "name": null,
+                    "value": "Review salary every year"
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "Paid leave: 12 days of annual leave"
+                },
+                {
+                    "icon": "fa-wechat",
+                    "name": null,
+                    "value": "Flexible remote working hours"
+                },
+                {
+                    "icon": "fa-pencil",
+                    "name": null,
+                    "value": "Hybrid Work: In office (Mon-Wed); WFH (Thur-Sat morning, 2 Sat/month)"
+                },
+                {
+                    "icon": "fa-usd",
+                    "name": null,
+                    "value": "Attractive performance bonus"
+                },
+                {
+                    "icon": "fa-train",
+                    "name": null,
+                    "value": "Company incentive trips and vacations"
+                },
+                {
+                    "icon": "fa-hospital-o",
+                    "name": null,
+                    "value": "Social insurance"
+                },
+                {
+                    "icon": "fa-child",
+                    "name": null,
+                    "value": "Company trip"
+                }
+            ],
+            "owned_id": 94749,
+            "company": {
+                "id": 94749,
+                "display_name": "Resonance Technology",
+                "image_logo": "https://assets.topdev.vn/images/2024/06/13/TopDev-resonance-1718250407.png",
+                "slug": "resonance-technology",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/resonance-technology-94749",
+                "tagline": "Resonance Technology",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "1F, Bluesky 3 Tower, Airport Plaza, 1 Bạch Đằng, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 202669,
+                            "ward": {
+                                "id": "26965",
+                                "value": "Phường 02"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "1F, Bluesky 3 Tower, Airport Plaza, 1 Bạch Đằng, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "1F, Bluesky 3 Tower, Airport Plaza, 1 Bạch Đằng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/06/13/TopDev-SmlkYcmhv7QR33vV-1718252616.jpg",
+                "image_galleries": [
+                    {
+                        "id": 609994,
+                        "url": "https://assets.topdev.vn/images/2024/06/13/TopDev-8K6GWABUmJAWiA47-1718252616.png",
+                        "path": "/images/2024/06/13/TopDev-8K6GWABUmJAWiA47-1718252616.png",
+                        "name": "ZNX85KkwwXDSkAaykRZ8icM8vqpCEjVc9xlqbhNB.png",
+                        "uploaded": {
+                            "date": "13-06-2024",
+                            "datetime": "2024-06-13 11:23:36",
+                            "since": "5 days ago",
+                            "timestamp": 1718252616
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Competitive NET salary package.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "13th month salary.",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Review salary every 6 months.",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Leave Paid: 12 days of annual leave.",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Flexible Remote working hours.",
+                        "icon": "fa-clock-o"
+                    },
+                    {
+                        "value": "Hybrid Work.",
+                        "icon": "fa-asterisk"
+                    },
+                    {
+                        "value": "Dynamic, Creative, and Challenging working environment.",
+                        "icon": "fa-angellist"
+                    },
+                    {
+                        "value": "Work with global partners and tackle global challenges.",
+                        "icon": "fa-globe"
+                    },
+                    {
+                        "value": "Compulsory schemes of social, health insurance.",
+                        "icon": "fa-star"
+                    },
+                    {
+                        "value": "Company incentive trips and vacations.",
+                        "icon": "fa-diamond"
+                    }
+                ],
+                "skills_arr": [
+                    "Laravel",
+                    "VueJS"
+                ],
+                "industries_arr": [
+                    "Product"
+                ],
+                "industries_str": "Product",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Laravel, Full-Stack, VueJS",
+            "skills_arr": [
+                "Laravel",
+                "Full-Stack",
+                "VueJS"
+            ],
+            "skills_ids": [
+                108,
+                211,
+                1297
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "1F, Bluesky 3 Tower, Airport Plaza, 1 Bạch Đằng, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 202669,
+                        "ward": {
+                            "id": "26965",
+                            "value": "Phường 02"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "766",
+                            "value": "Quận Tân Bình"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "1F, Bluesky 3 Tower, Airport Plaza, 1 Bạch Đằng, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "1F, Bluesky 3 Tower, Airport Plaza, 1 Bạch Đằng"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/03-full-stack-developer-laravel-vuejs-resonance-technology-2033512",
+            "job_url": "",
+            "slug": "03-full-stack-developer-laravel-vuejs-resonance-technology",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "15000000",
+                "max_estimate": "30000000",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "18-06-2024",
+                "datetime": "00:00:00 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "18-06-2024",
+                "datetime": "17:30:53 18-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "At least 2 years of experience working with PHP backend framework: Laravel.",
+                        "Having experience in charge of FrontEnd (Bootstrap, jQuery).",
+                        "Have worked on at least 3 projects following the Single Page Application (SPA) model.",
+                        "Have worked with JS frameworks: Vue, React, Angular... (VueJS is an advantage).",
+                        "Proficient in using database management system (SQL, MySQL,...).",
+                        "Experience with Linux and Nginx is an advantage.",
+                        "High sense of responsibility at work.",
+                        "Good problem solving skills and business logic thinking.",
+                        "Experience working in groups (3-5 people).",
+                        "Age requirement: Under 30 years old."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": null,
+        "last": null,
+        "prev": "http://api.topdev.vn/td/v2/jobs/?page=50",
+        "next": null
+    },
+    "meta": {
+        "total": 760,
+        "per_page": 10,
+        "current_page": 51,
+        "last_page": 76,
+        "from": 501,
+        "to": 510
+    }
+}
