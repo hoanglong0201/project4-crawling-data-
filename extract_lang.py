@@ -9,4 +9,5 @@ def xoa_dau(txt: str) -> str:
     if not unicodedata.is_normalized("NFC", txt):
         txt = unicodedata.normalize("NFC", txt)
     return txt.translate(BANG_XOA_DAU).lower()
-print(xoa_dau("VUS - Anh Văn Hội Việt Mỹ"))
+text = xoa_dau('Just - In - Time Solutions').replace('-',' ')
+print(text.split())

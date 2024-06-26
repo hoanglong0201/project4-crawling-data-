@@ -5,403 +5,11 @@
         "status": [
             {
                 "key": 3,
-                "doc_count": 642
+                "doc_count": 625
             }
         ]
     },
     "data": [
-        {
-            "id": 2033564,
-            "title": "Senior Backend Engineer",
-            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">T&igrave;m kiếm ứng vi&ecirc;n c&oacute; kinh nghiệm v&agrave; kĩ năng chuy&ecirc;n m&ocirc;n cao để đảm nhiệm vị tr&iacute;&nbsp;<strong>Backend Engineer</strong>, g&oacute;p phần x&acirc;y dựng hệ thống của c&ocirc;ng ty đ&aacute;p ứng được c&aacute;c y&ecirc;u cầu&nbsp;từ nhu cầu kinh doanh v&agrave; định hướng ph&aacute;t triển c&ocirc;ng ty với tỉ lệ ổn định, hiệu quả cao&nbsp;hơn nữa, b&ecirc;n cạnh đ&oacute; c&ograve;n c&oacute; khả năng mở rộng để đ&aacute;p ứng được số lượng y&ecirc;u cầu từ&nbsp;người d&ugrave;ng tăng cao ở tương lai.&nbsp;</span></p>",
-            "benefits": [],
-            "owned_id": 93794,
-            "company": {
-                "id": 93794,
-                "display_name": "VINHOMES",
-                "image_logo": "https://assets.topdev.vn/images/2022/10/10/TopDev-a9d57f18bae26b4c2f57750d32f662c8-1665417282.png",
-                "slug": "vinhomes",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/vinhomes-93794",
-                "tagline": "Vinhomes - Nơi hạnh phúc ngập tràn",
-                "addresses": {
-                    "address_region_ids": [
-                        "01",
-                        "01",
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội, Thành phố Hà Nội, Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hà Nội",
-                        "Thành phố Hà Nội",
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
-                        "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park,, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội",
-                        "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận Long Biên, Hà Nội - Huyện Gia Lâm, Hà Nội - Thành phố Thủ Đức, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 152458,
-                            "ward": {
-                                "id": "00136",
-                                "value": "Phường Phúc Lợi"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "004",
-                                "value": "Quận Long Biên"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside"
-                        },
-                        {
-                            "id": 152459,
-                            "ward": {
-                                "id": "00577",
-                                "value": "Xã Đa Tốn"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "018",
-                                "value": "Huyện Gia Lâm"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park,, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park,"
-                        },
-                        {
-                            "id": 166959,
-                            "ward": {
-                                "id": "27088",
-                                "value": "Phường Thảo Điền"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "762",
-                                "value": "Thành phố Thủ Đức"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội, Hà Nội, Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/06/15/TopDev-26aeab6afe6b755637a2454a5d8df787-1686800613.png",
-                "image_galleries": [
-                    {
-                        "id": 433181,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
-                        "path": "/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
-                        "name": "Van-Hanh.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:35",
-                            "since": "1 year ago",
-                            "timestamp": 1686800615
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433182,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
-                        "path": "/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
-                        "name": "Cong-Dong-Thong-Minh.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:35",
-                            "since": "1 year ago",
-                            "timestamp": 1686800615
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433183,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
-                        "path": "/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
-                        "name": "Can-Ho-Thong-Minh.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:36",
-                            "since": "1 year ago",
-                            "timestamp": 1686800616
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433184,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
-                        "path": "/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
-                        "name": "moi truong xanh sach_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:37",
-                            "since": "1 year ago",
-                            "timestamp": 1686800617
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433185,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
-                        "path": "/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
-                        "name": "tien ich dong bo_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:38",
-                            "since": "1 year ago",
-                            "timestamp": 1686800618
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433186,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
-                        "path": "/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
-                        "name": "dich vu chuyen nghiep_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:39",
-                            "since": "1 year ago",
-                            "timestamp": 1686800619
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433187,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
-                        "path": "/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
-                        "name": "san pham chat luong cao_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:39",
-                            "since": "1 year ago",
-                            "timestamp": 1686800619
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433188,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
-                        "path": "/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
-                        "name": "118d2be484efe06a8e1ab3e8c44a978f.png",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:40",
-                            "since": "1 year ago",
-                            "timestamp": 1686800620
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433189,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
-                        "path": "/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
-                        "name": "banner tuyen dung chuan.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:41",
-                            "since": "1 year ago",
-                            "timestamp": 1686800621
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433190,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
-                        "path": "/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
-                        "name": "c6026ff8b2556841e1ab561de6e36816.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:42",
-                            "since": "1 year ago",
-                            "timestamp": 1686800622
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Lương, thưởng cạnh tranh, hấp dẫn",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Chính sách review lương 1-2 lần/năm",
-                        "icon": "fa-line-chart"
-                    },
-                    {
-                        "value": "Được hưởng đầy đủ các chế độ phúc lợi: đóng BHXH, BHYT, BHTN,..",
-                        "icon": "fa-book"
-                    },
-                    {
-                        "value": "Được hỗ trợ ăn ca, thưởng lễ tết, xe bus đưa đón CBNV miễn phí",
-                        "icon": "fa-check"
-                    },
-                    {
-                        "value": "Khám sức khỏe định kỳ, team building hằng năm",
-                        "icon": "fa-cubes"
-                    },
-                    {
-                        "value": "Được hưởng ưu đãi khi sử dụng các dịch vụ cao cấp thuộc tập đoàn Vingroup (nghỉ dưỡng Vinpearl, Vinfast, VinMec, Vinschool,… )",
-                        "icon": "fa-firefox"
-                    },
-                    {
-                        "value": "Môi trường làm việc trong môi trường chuyên nghiệp, công bằng, văn minh",
-                        "icon": "fa-gg"
-                    },
-                    {
-                        "value": "Thứ 2 - Thứ 6: 8h30 – 17h30. Mỗi tháng làm việc 2 ngày thứ 7, luân phiên một tuần làm & một tuần nghỉ",
-                        "icon": "fa-calendar-check-o"
-                    }
-                ],
-                "skills_arr": [
-                    "Swift",
-                    "Java",
-                    "JavaScript",
-                    ".NET",
-                    "ReactJS",
-                    "Kotlin",
-                    "Spring Boot"
-                ],
-                "industries_arr": [
-                    "Bất động sản"
-                ],
-                "industries_str": "Bất động sản",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Java, MySQL, Back-End",
-            "skills_arr": [
-                "Java",
-                "MySQL",
-                "Back-End"
-            ],
-            "skills_ids": [
-                21,
-                29,
-                210
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 166959,
-                        "ward": {
-                            "id": "27088",
-                            "value": "Phường Thảo Điền"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "762",
-                            "value": "Thành phố Thủ Đức"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/senior-backend-engineer-vinhomes-2033564",
-            "job_url": "",
-            "slug": "senior-backend-engineer-vinhomes",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "18-06-2024",
-                "datetime": "00:00:00 18-06-2024",
-                "since": "1 tuần trước"
-            },
-            "refreshed": {
-                "date": "18-06-2024",
-                "datetime": "13:57:18 18-06-2024",
-                "since": "1 tuần trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Tốt nghiệp đại học chuyên ngành về công nghệ thông tin.",
-                        "Có ít nhất 3 năm kinh nghiệm làm việc liên quan đến Backend sử dụng ngôn ngữ lậptrình Java/Scala, có hiểu biết sâu về các kiến trúc phần mềm backend phổ biến như",
-                        "Microservices, Event Sourcing, …",
-                        "Có kinh nghiệm sử dụng ngôn ngữ lập trình Java/Scala",
-                        "Có kinh nghiệm sử dụng các database như MySQL/PostgreSQL, ElasticSearch,",
-                        "ClickHouse, Redis, Key-Value DB (ScyllaDB), Message Queue (Kafka, …).",
-                        "Có kinh nghiệm sử dụng các công cụ/nền tảng như Docker, K8S, Nginx, CI/CD, Git,AWS.",
-                        "Nắm vững kiến thức về cấu trúc dữ liệu và giải thuật, bảo mật ứng dụng, OOP, API,Restful, RPC.",
-                        "Có tinh thần chủ động, làm việc độc lập, kĩ năng giải quyết vấn đề.",
-                        "Có kinh nghiệm xây dựng ứng dụng chịu tải cao, lưu trữ dữ liệu phân tán và xử lý bấtđồng bộ (điểm cộng)"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
         {
             "id": 2033561,
             "title": "Mid- Senior QC (Japanese N4)",
@@ -3107,6 +2715,373 @@
                     "icon": "fa-circle"
                 }
             ]
+        },
+        {
+            "id": 2033550,
+            "title": ".NET Technical Lead (.NET Core/MicroService)",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Young, dynamic, open, friendly working environments"
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Opportunities to work with cutting edge technologies"
+                },
+                {
+                    "icon": "fa-align-justify",
+                    "name": null,
+                    "value": "Opportunities to work onsite at customer's offices in US, Germany, India, Taiwan ..."
+                },
+                {
+                    "icon": "fa-adjust",
+                    "name": null,
+                    "value": "Working time: Monday - Friday"
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Company’s Benefits : Professional Certificate Sponsorship, Family funeral Support"
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "Extra Holiday: Sick leave (full paid): 3 days, Parental leave (for male staff): 8 days, Wedding leave: 5 days, Extra holidays for loyal staff"
+                },
+                {
+                    "icon": "fa-bank",
+                    "name": null,
+                    "value": "Financial Supports : Lunch allowance, OT meal allowance, Team building allowance monthly, SNAP Award quarterly"
+                },
+                {
+                    "icon": "fa-birthday-cake",
+                    "name": null,
+                    "value": "Birthday gift"
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "13th monhly salary + performance awards + project awards"
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Wedding and having babies"
+                },
+                {
+                    "icon": "fa-bell",
+                    "name": null,
+                    "value": "Insurance : Accident Insurance 24/24, Health Insurance"
+                },
+                {
+                    "icon": "fa-forumbee",
+                    "name": null,
+                    "value": "Events & Activities: Women’s day, Company quarterly events, Christmas, Year End Party, Company’s annual trip, Team building monthly, Sport clubs: Football, Badminton, Table Tennis"
+                }
+            ],
+            "owned_id": 94186,
+            "company": {
+                "id": 94186,
+                "display_name": "Terralogic",
+                "image_logo": "https://assets.topdev.vn/images/2023/08/04/TopDev-Terralogic-Logo-%28New-2019%29---Phan-Dang-1691139009.png",
+                "slug": "terralogic",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/terralogic-94186",
+                "tagline": "Design Driven Technology Innovation",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Mitalab Tower, 385 Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 181081,
+                            "ward": {
+                                "id": "26974",
+                                "value": "Phường 13"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Mitalab Tower, 385 Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Mitalab Tower, 385 Cộng Hòa"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/08/04/TopDev-b7d9ef04a49c9c16ff534a99a6df0fc7-1691139246.png",
+                "image_galleries": [
+                    {
+                        "id": 455804,
+                        "url": "https://assets.topdev.vn/images/2023/08/04/TopDev-8cacd450b95d3f37383a54a33911cdd6-1691139319.png",
+                        "path": "/images/2023/08/04/TopDev-8cacd450b95d3f37383a54a33911cdd6-1691139319.png",
+                        "name": "8cacd450b95d3f37383a54a33911cdd6.png",
+                        "uploaded": {
+                            "date": "04-08-2023",
+                            "datetime": "2023-08-04 15:55:20",
+                            "since": "10 months ago",
+                            "timestamp": 1691139320
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 455805,
+                        "url": "https://assets.topdev.vn/images/2023/08/04/TopDev-22-1691139320.png",
+                        "path": "/images/2023/08/04/TopDev-22-1691139320.png",
+                        "name": "22.png",
+                        "uploaded": {
+                            "date": "04-08-2023",
+                            "datetime": "2023-08-04 15:55:20",
+                            "since": "10 months ago",
+                            "timestamp": 1691139320
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 455806,
+                        "url": "https://assets.topdev.vn/images/2023/08/04/TopDev-23-1691139321.png",
+                        "path": "/images/2023/08/04/TopDev-23-1691139321.png",
+                        "name": "23.png",
+                        "uploaded": {
+                            "date": "04-08-2023",
+                            "datetime": "2023-08-04 15:55:21",
+                            "since": "10 months ago",
+                            "timestamp": 1691139321
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 455807,
+                        "url": "https://assets.topdev.vn/images/2023/08/04/TopDev-82fd29dce38af4ad43e18c9181c6c9b7-1691139350.png",
+                        "path": "/images/2023/08/04/TopDev-82fd29dce38af4ad43e18c9181c6c9b7-1691139350.png",
+                        "name": "82fd29dce38af4ad43e18c9181c6c9b7.png",
+                        "uploaded": {
+                            "date": "04-08-2023",
+                            "datetime": "2023-08-04 15:55:50",
+                            "since": "10 months ago",
+                            "timestamp": 1691139350
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Competitive & attractive salary based on your capability.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Two (2) months probation with full salary (100% salary)",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Lunch allowance: all employees",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "OT meal allowance: for employees working OT",
+                        "icon": "fa-angellist"
+                    },
+                    {
+                        "value": "13th salary, performance awards, project awards, snap awards",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Funeral 10,000,000VND for each employee if his/her parents, children, siblings, parents-in  law passed away",
+                        "icon": "fa-asterisk"
+                    },
+                    {
+                        "value": "Accident Insurance 24/24: for all contracted employees",
+                        "icon": "fa-medkit"
+                    },
+                    {
+                        "value": "Social Insurance/Health Insurance/unemployment Insurance: will be paid as salary in the  labor contract",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "12 days holiday per year",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "3 Sick leave days",
+                        "icon": "fa-calendar"
+                    },
+                    {
+                        "value": "5 Marriage Leave days (Company: 2 days; Labour law: 3 days)",
+                        "icon": "fa-check-square"
+                    },
+                    {
+                        "value": "3 Paternity Leave days",
+                        "icon": "fa-bell"
+                    },
+                    {
+                        "value": "1 Funeral Leave Day",
+                        "icon": "fa-bookmark"
+                    },
+                    {
+                        "value": "Take a holiday on Xmas (25/12)",
+                        "icon": "fa-tree"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "Python",
+                    ".NET",
+                    "Embedded"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": ".NET, Technical Leader, .NET Core",
+            "skills_arr": [
+                ".NET",
+                "Technical Leader",
+                ".NET Core"
+            ],
+            "skills_ids": [
+                73,
+                346,
+                1510
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng Nhóm",
+            "job_levels_arr": [
+                "Trưởng Nhóm"
+            ],
+            "job_levels_ids": [
+                7276
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Mitalab Tower, 385 Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 181081,
+                        "ward": {
+                            "id": "26974",
+                            "value": "Phường 13"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "766",
+                            "value": "Quận Tân Bình"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Mitalab Tower, 385 Cộng Hòa, Phường 13, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Mitalab Tower, 385 Cộng Hòa"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/net-technical-lead-net-core-microservice-terralogic-2033550",
+            "job_url": "",
+            "slug": "net-technical-lead-net-core-microservice-terralogic",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "17-06-2024",
+                "datetime": "00:00:00 17-06-2024",
+                "since": "1 tuần trước"
+            },
+            "refreshed": {
+                "date": "17-06-2024",
+                "datetime": "17:15:54 17-06-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "1. Years of Experience: From 7 years experience."
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "2. Skills:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Strong experience in planning and implementation of the project",
+                        "Ability to define project scope, goals, and deliverables",
+                        "Hands-on experience in managing the team",
+                        "Strong knowledge and experience in Agile methodology",
+                        "EduTech SME",
+                        "Implement and manage changes when necessary to meet project deliverables",
+                        "Knowledge on Dotnet, angular, QA process.",
+                        "Strong knowledge on DotNet Core and Micro services architecture.",
+                        "Strong knowledge on SQL Server and MongoDB"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "3. English: Good communication skills"
+                    ],
+                    "icon": null
+                }
+            ]
         }
     ],
     "links": {
@@ -3116,10 +3091,10 @@
         "next": "http://api.topdev.vn/td/v2/jobs/?page=25"
     },
     "meta": {
-        "total": 762,
+        "total": 742,
         "per_page": 10,
         "current_page": 24,
-        "last_page": 77,
+        "last_page": 75,
         "from": 231,
         "to": 240
     }

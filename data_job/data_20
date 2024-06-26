@@ -5,305 +5,11 @@
         "status": [
             {
                 "key": 3,
-                "doc_count": 642
+                "doc_count": 625
             }
         ]
     },
     "data": [
-        {
-            "id": 2033493,
-            "title": "Senior Full-stack (C#, .Net, Angular, English)",
-            "content": "",
-            "benefits": [],
-            "owned_id": 88647,
-            "company": {
-                "id": 88647,
-                "display_name": "CÔNG TY TNHH MITEK VIỆT NAM",
-                "image_logo": "https://assets.topdev.vn/images/2022/04/12/TopDev-5177fd7af46a06086b37826de40035fa-1649746004.png",
-                "slug": "cong-ty-tnhh-mitek-viet-nam",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-tnhh-mitek-viet-nam-88647",
-                "tagline": "Better Technology. Better Building",
-                "addresses": {
-                    "address_region_ids": [
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận 7, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 141852,
-                            "ward": {
-                                "id": "27466",
-                                "value": "Phường Tân Thuận Đông"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "778",
-                                "value": "Quận 7"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/06/20/TopDev-Mitek-5-1687243275.png",
-                "image_galleries": [
-                    {
-                        "id": 435632,
-                        "url": "https://assets.topdev.vn/images/2023/06/20/TopDev-Mitek-3-1687243363.png",
-                        "path": "/images/2023/06/20/TopDev-Mitek-3-1687243363.png",
-                        "name": "Mitek 3.png",
-                        "uploaded": {
-                            "date": "20-06-2023",
-                            "datetime": "2023-06-20 13:42:43",
-                            "since": "1 year ago",
-                            "timestamp": 1687243363
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 604157,
-                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-enTpJchdsCZ6MLNX-1717385093.jpg",
-                        "path": "/images/2024/06/03/TopDev-enTpJchdsCZ6MLNX-1717385093.jpg",
-                        "name": "3IKMMgshBUQvsNobFXrjY99g4dJdw4y3ZcxmfHAN.jpg",
-                        "uploaded": {
-                            "date": "03-06-2024",
-                            "datetime": "2024-06-03 10:24:53",
-                            "since": "3 weeks ago",
-                            "timestamp": 1717385093
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 604158,
-                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-w7ndJRiyfSNUn4Hh-1717385093.png",
-                        "path": "/images/2024/06/03/TopDev-w7ndJRiyfSNUn4Hh-1717385093.png",
-                        "name": "9QiIykfxd4DT3s45aWgJsaKfpEntsLHHX0fBReWA.png",
-                        "uploaded": {
-                            "date": "03-06-2024",
-                            "datetime": "2024-06-03 10:24:53",
-                            "since": "3 weeks ago",
-                            "timestamp": 1717385093
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 604159,
-                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-lfM45cPGUGIKcwJ3-1717385093.png",
-                        "path": "/images/2024/06/03/TopDev-lfM45cPGUGIKcwJ3-1717385093.png",
-                        "name": "MeWijBxwew8YMgFQZZsP8HveQZVU9DvezKoJPbEl.png",
-                        "uploaded": {
-                            "date": "03-06-2024",
-                            "datetime": "2024-06-03 10:24:54",
-                            "since": "3 weeks ago",
-                            "timestamp": 1717385094
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "From Monday to Friday",
-                        "icon": "fa-calendar-check-o"
-                    },
-                    {
-                        "value": "International Travel opportunities",
-                        "icon": "fa-globe"
-                    },
-                    {
-                        "value": "13th month and productivity bonus",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Free lunch, parking, uniforms",
-                        "icon": "fa-coffee"
-                    },
-                    {
-                        "value": "Yearly company trip",
-                        "icon": "fa-plane"
-                    },
-                    {
-                        "value": "Healthcare insurance package",
-                        "icon": "fa-stethoscope"
-                    },
-                    {
-                        "value": "24/24 Personal Accident insurance",
-                        "icon": "fa-heartbeat"
-                    },
-                    {
-                        "value": "Free English training programs (Cambridge English Scale) at office",
-                        "icon": "fa-language"
-                    },
-                    {
-                        "value": "Continuing development of technical and soft skills through working and formal training",
-                        "icon": "fa-lightbulb-o"
-                    },
-                    {
-                        "value": "Trade Union & Staff Social Club - Sport clubs (Yoga, Zumba, Swimming, Badminton, Football, Gym,...)",
-                        "icon": "fa-soccer-ball-o"
-                    },
-                    {
-                        "value": "Good working conditions and environment",
-                        "icon": "fa-glass"
-                    }
-                ],
-                "skills_arr": [
-                    "SQL",
-                    "Network",
-                    "Windows",
-                    "MS Office",
-                    "Virtualization"
-                ],
-                "industries_arr": [
-                    "Product",
-                    "Software",
-                    "B2B Services"
-                ],
-                "industries_str": "Product, Software, B2B Services",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "C#, .NET, Angular",
-            "skills_arr": [
-                "C#",
-                ".NET",
-                "Angular"
-            ],
-            "skills_ids": [
-                24,
-                73,
-                1480
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận 7, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 141852,
-                        "ward": {
-                            "id": "27466",
-                            "value": "Phường Tân Thuận Đông"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "778",
-                            "value": "Quận 7"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/senior-full-stack-c-net-angular-english-cong-ty-tnhh-mitek-viet-nam-2033493",
-            "job_url": "",
-            "slug": "senior-full-stack-c-net-angular-english-cong-ty-tnhh-mitek-viet-nam",
-            "salary": {
-                "is_negotiable": 1,
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [
-                "SuperHotJob"
-            ],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "10-06-2024",
-                "datetime": "00:00:00 10-06-2024",
-                "since": "2 tuần trước"
-            },
-            "refreshed": {
-                "date": "20-06-2024",
-                "datetime": "02:00:05 20-06-2024",
-                "since": "6 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Software Developer: 6-9+ years",
-                        "Bachelor or Engineer",
-                        "Major: Computer Science, Architecture, Structure Engineer"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "PREFERRED SKILLS"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Microsoft Technology: C#, .NET Framework, .NET, MSSQL, WPF and other development tools and languages as required.",
-                        "WinForms Application",
-                        "Nice to have:",
-                        "Good at 2D or 3D mathematics, geometry calculation.",
-                        "Experience in AEC industry (Architecture, Engineering, Construction)",
-                        "Testing: Familiar with all test types.",
-                        "Familiar with Software Development Life Cycle (SDLC).",
-                        "Proficiency in English"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
         {
             "id": 2033492,
             "title": "Junior/Middle Full-stack (C#, .Net, Angular )",
@@ -584,6 +290,298 @@
                 {
                     "value": [
                         "Microsoft Technology: C#, .NET Framework, .NET, MSSQL, WPF and other development tools and languages as required.\nWinForms Application\nNice to have:\n\nGood at 2D or 3D mathematics, geometry calculation.\nExperience in AEC industry (Architecture, Engineering, Construction)\nTesting: Familiar with all test types.\nFamiliar with Software Development Life Cycle (SDLC).\n\n\nProficiency in English"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033493,
+            "title": "Senior Full-stack (C#, .Net, Angular, English)",
+            "content": "",
+            "benefits": [],
+            "owned_id": 88647,
+            "company": {
+                "id": 88647,
+                "display_name": "CÔNG TY TNHH MITEK VIỆT NAM",
+                "image_logo": "https://assets.topdev.vn/images/2022/04/12/TopDev-5177fd7af46a06086b37826de40035fa-1649746004.png",
+                "slug": "cong-ty-tnhh-mitek-viet-nam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-tnhh-mitek-viet-nam-88647",
+                "tagline": "Better Technology. Better Building",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 7, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 141852,
+                            "ward": {
+                                "id": "27466",
+                                "value": "Phường Tân Thuận Đông"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "778",
+                                "value": "Quận 7"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/06/20/TopDev-Mitek-5-1687243275.png",
+                "image_galleries": [
+                    {
+                        "id": 435632,
+                        "url": "https://assets.topdev.vn/images/2023/06/20/TopDev-Mitek-3-1687243363.png",
+                        "path": "/images/2023/06/20/TopDev-Mitek-3-1687243363.png",
+                        "name": "Mitek 3.png",
+                        "uploaded": {
+                            "date": "20-06-2023",
+                            "datetime": "2023-06-20 13:42:43",
+                            "since": "1 year ago",
+                            "timestamp": 1687243363
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 604157,
+                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-enTpJchdsCZ6MLNX-1717385093.jpg",
+                        "path": "/images/2024/06/03/TopDev-enTpJchdsCZ6MLNX-1717385093.jpg",
+                        "name": "3IKMMgshBUQvsNobFXrjY99g4dJdw4y3ZcxmfHAN.jpg",
+                        "uploaded": {
+                            "date": "03-06-2024",
+                            "datetime": "2024-06-03 10:24:53",
+                            "since": "3 weeks ago",
+                            "timestamp": 1717385093
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 604158,
+                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-w7ndJRiyfSNUn4Hh-1717385093.png",
+                        "path": "/images/2024/06/03/TopDev-w7ndJRiyfSNUn4Hh-1717385093.png",
+                        "name": "9QiIykfxd4DT3s45aWgJsaKfpEntsLHHX0fBReWA.png",
+                        "uploaded": {
+                            "date": "03-06-2024",
+                            "datetime": "2024-06-03 10:24:53",
+                            "since": "3 weeks ago",
+                            "timestamp": 1717385093
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 604159,
+                        "url": "https://assets.topdev.vn/images/2024/06/03/TopDev-lfM45cPGUGIKcwJ3-1717385093.png",
+                        "path": "/images/2024/06/03/TopDev-lfM45cPGUGIKcwJ3-1717385093.png",
+                        "name": "MeWijBxwew8YMgFQZZsP8HveQZVU9DvezKoJPbEl.png",
+                        "uploaded": {
+                            "date": "03-06-2024",
+                            "datetime": "2024-06-03 10:24:54",
+                            "since": "3 weeks ago",
+                            "timestamp": 1717385094
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "From Monday to Friday",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "International Travel opportunities",
+                        "icon": "fa-globe"
+                    },
+                    {
+                        "value": "13th month and productivity bonus",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Free lunch, parking, uniforms",
+                        "icon": "fa-coffee"
+                    },
+                    {
+                        "value": "Yearly company trip",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Healthcare insurance package",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "24/24 Personal Accident insurance",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Free English training programs (Cambridge English Scale) at office",
+                        "icon": "fa-language"
+                    },
+                    {
+                        "value": "Continuing development of technical and soft skills through working and formal training",
+                        "icon": "fa-lightbulb-o"
+                    },
+                    {
+                        "value": "Trade Union & Staff Social Club - Sport clubs (Yoga, Zumba, Swimming, Badminton, Football, Gym,...)",
+                        "icon": "fa-soccer-ball-o"
+                    },
+                    {
+                        "value": "Good working conditions and environment",
+                        "icon": "fa-glass"
+                    }
+                ],
+                "skills_arr": [
+                    "SQL",
+                    "Network",
+                    "Windows",
+                    "MS Office",
+                    "Virtualization"
+                ],
+                "industries_arr": [
+                    "Product",
+                    "Software",
+                    "B2B Services"
+                ],
+                "industries_str": "Product, Software, B2B Services",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "C#, .NET, Angular",
+            "skills_arr": [
+                "C#",
+                ".NET",
+                "Angular"
+            ],
+            "skills_ids": [
+                24,
+                73,
+                1480
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 7, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 141852,
+                        "ward": {
+                            "id": "27466",
+                            "value": "Phường Tân Thuận Đông"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "778",
+                            "value": "Quận 7"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận, Phường Tân Thuận Đông, Quận 7, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa Nhà A5, Lô số A5, Khu E-Office, Đường Sáng Tạo, KCX Tân Thuận"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/senior-full-stack-c-net-angular-english-cong-ty-tnhh-mitek-viet-nam-2033493",
+            "job_url": "",
+            "slug": "senior-full-stack-c-net-angular-english-cong-ty-tnhh-mitek-viet-nam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "10-06-2024",
+                "datetime": "00:00:00 10-06-2024",
+                "since": "2 tuần trước"
+            },
+            "refreshed": {
+                "date": "20-06-2024",
+                "datetime": "02:00:05 20-06-2024",
+                "since": "6 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Software Developer: 6-9+ years",
+                        "Bachelor or Engineer",
+                        "Major: Computer Science, Architecture, Structure Engineer"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "PREFERRED SKILLS"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Microsoft Technology: C#, .NET Framework, .NET, MSSQL, WPF and other development tools and languages as required.",
+                        "WinForms Application",
+                        "Nice to have:",
+                        "Good at 2D or 3D mathematics, geometry calculation.",
+                        "Experience in AEC industry (Architecture, Engineering, Construction)",
+                        "Testing: Familiar with all test types.",
+                        "Familiar with Software Development Life Cycle (SDLC).",
+                        "Proficiency in English"
                     ],
                     "icon": "fa-circle"
                 }
@@ -1439,7 +1437,7 @@
             "refreshed": {
                 "date": "19-06-2024",
                 "datetime": "16:28:47 19-06-2024",
-                "since": "6 ngày trước"
+                "since": "1 tuần trước"
             },
             "applied": null,
             "candidate": null,
@@ -1725,7 +1723,7 @@
             "refreshed": {
                 "date": "19-06-2024",
                 "datetime": "16:23:00 19-06-2024",
-                "since": "6 ngày trước"
+                "since": "1 tuần trước"
             },
             "applied": null,
             "candidate": null,
@@ -2064,7 +2062,7 @@
             "refreshed": {
                 "date": "19-06-2024",
                 "datetime": "16:00:28 19-06-2024",
-                "since": "6 ngày trước"
+                "since": "1 tuần trước"
             },
             "applied": null,
             "candidate": null,
@@ -2445,7 +2443,7 @@
             "refreshed": {
                 "date": "19-06-2024",
                 "datetime": "14:15:11 19-06-2024",
-                "since": "6 ngày trước"
+                "since": "1 tuần trước"
             },
             "applied": null,
             "candidate": null,
@@ -2797,7 +2795,7 @@
             "refreshed": {
                 "date": "19-06-2024",
                 "datetime": "14:11:00 19-06-2024",
-                "since": "6 ngày trước"
+                "since": "1 tuần trước"
             },
             "applied": null,
             "candidate": null,
@@ -3176,7 +3174,7 @@
             "refreshed": {
                 "date": "19-06-2024",
                 "datetime": "14:02:51 19-06-2024",
-                "since": "6 ngày trước"
+                "since": "1 tuần trước"
             },
             "applied": null,
             "candidate": null,
@@ -3512,10 +3510,10 @@
         "next": "http://api.topdev.vn/td/v2/jobs/?page=21"
     },
     "meta": {
-        "total": 762,
+        "total": 742,
         "per_page": 10,
         "current_page": 20,
-        "last_page": 77,
+        "last_page": 75,
         "from": 191,
         "to": 200
     }

@@ -5,11 +5,863 @@
         "status": [
             {
                 "key": 3,
-                "doc_count": 642
+                "doc_count": 625
             }
         ]
     },
     "data": [
+        {
+            "id": 2033455,
+            "title": "Business Analyst cum PM",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Thu nhập thỏa thuận theo năng lực (20-35M gross)"
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Lương tháng 13, thưởng theo kết quả kinh doanh của công ty, xét tăng lương hằng năm"
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Hỗ trợ phí đào tạo theo cấp bậc và chuyên môn."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Được đào tạo chuyên sâu kiến thức công nghệ mới: CDP (Customer Data Platform) - đang HOT và là xu hướng công nghệ hiện tại và nhiều năm tới."
+                },
+                {
+                    "icon": "fa-plane",
+                    "name": null,
+                    "value": "Company trip/Team building mỗi năm."
+                },
+                {
+                    "icon": "fa-coffee",
+                    "name": null,
+                    "value": "Fruit days mỗi tuần định kỳ 2 lần."
+                },
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Được hưởng chế độ làm việc từ xa ít nhất 1 ngày/ tháng tùy theo cấp bậc."
+                },
+                {
+                    "icon": "fa-car",
+                    "name": null,
+                    "value": "Hỗ trợ chi phí gửi xe, chi phí taxi/Grab phục vụ cho công việc theo cấp bậc."
+                },
+                {
+                    "icon": "fa-lightbulb-o",
+                    "name": null,
+                    "value": "Môi trường làm việc trẻ trung, năng động, thoải mái, thân thiện, tinh thần teamwork cao."
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Cơ hội phát triển bản thân và chuyên môn nghề nghiệp."
+                },
+                {
+                    "icon": "fa-users",
+                    "name": null,
+                    "value": "Cơ hội làm việc, gặp gỡ và học hỏi các đồng nghiệp, đối tác chuyên nghiệp là các quản lý cấp cao, C-level của các tập đoàn, công ty lớn."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Thời gian làm việc: Từ 8h30 – 18h00 (Thứ 2 – Thứ 6)."
+                }
+            ],
+            "owned_id": 94527,
+            "company": {
+                "id": 94527,
+                "display_name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ BYTE",
+                "image_logo": "https://assets.topdev.vn/images/2024/06/06/TopDev-z5510345220942_82647a78458bab5fea24cd1204d0dd5d-1717636522.jpg",
+                "slug": "cong-ty-co-phan-cong-nghe-byte",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-co-phan-cong-nghe-byte-94527",
+                "tagline": "Bằng việc đề cao tính trung thực và được phát triển bởi đội ngũ sáng tạo, ByteTech có sứ mệnh mang lại giá trị thực tiễn cho khách hàng.",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "203 Nam Kỳ Khởi Nghĩa,, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 3, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 202407,
+                            "ward": {
+                                "id": "27139",
+                                "value": "Phường Võ Thị Sáu"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "203 Nam Kỳ Khởi Nghĩa,, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "203 Nam Kỳ Khởi Nghĩa,"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [],
+                "skills_arr": [],
+                "industries_arr": [],
+                "industries_str": "",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Agile, Project Manager, Business Analyst",
+            "skills_arr": [
+                "Agile",
+                "Project Manager",
+                "Business Analyst"
+            ],
+            "skills_ids": [
+                2,
+                32,
+                1456
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "203 Nam Kỳ Khởi Nghĩa,, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 3, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 202407,
+                        "ward": {
+                            "id": "27139",
+                            "value": "Phường Võ Thị Sáu"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "770",
+                            "value": "Quận 3"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "203 Nam Kỳ Khởi Nghĩa,, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "203 Nam Kỳ Khởi Nghĩa,"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/business-analyst-cum-pm-cong-ty-co-phan-cong-nghe-byte-2033455",
+            "job_url": "",
+            "slug": "business-analyst-cum-pm-cong-ty-co-phan-cong-nghe-byte",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "2*******",
+                "max": "3*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "2******* - 3******* VND"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "05-06-2024",
+                "datetime": "00:00:00 05-06-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "25-06-2024",
+                "datetime": "02:00:06 25-06-2024",
+                "since": "1 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp đại học chuyên ngành như: Công nghệ thông tin, Quản trị kinh doanh, Kinh tế hoặc các chương trình đào tạo tương đương.",
+                        "Ít nhất 3 năm kinh nghiệm làm việc ở vị trí BA hoặc ít nhất 1 năm cho PM",
+                        "Kỹ năng phân tích và giải quyết vấn đề xuất sắc",
+                        "Kỹ năng giao tiếp và thuyết trình tốt, có khả năng làm việc với nhiều bên liên quan khác nhau, khả năng thương lượng/ đàm phán.",
+                        "Năng lực tự quản lý cao và khả năng làm việc độc lập và làm việc nhóm.",
+                        "Năng lực quản lý nhiều dự án cùng một lúc (2-4 projects)",
+                        "Hiểu biết các phương pháp quản lý dự án như Agile, Scrum hoặc PMP.",
+                        "Thành thạo Tiếng anh, đặc biệt là kỹ năng nói và viết",
+                        "Nắm rõ các thuật ngữ kỹ thuật và hệ thống kỹ thuật",
+                        "Có kiến thức về các mô hình kinh doanh ngành FMCG, Retail, F&B",
+                        "Ưu tiên ứng viên có chứng chỉ về Business Analytics (CCBA, CBAP, PBA), Project Management (PMP) hoặc Product Management (PSPO, CSPO)"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033451,
+            "title": "Senior Software Engineer",
+            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Years of experience</strong>: Min 4 years&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Education and qualifications</strong>: Bachelor of Engineering (Computer, Software, Electronics or Communications) or Computer Science degree.</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary and bonus structure."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "13th monthly salary is guaranteed"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Flexible working hours and additional 12 paid leaves per year"
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Young and active working environment."
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Review Salary twice a year"
+                },
+                {
+                    "icon": "fa-align-center",
+                    "name": null,
+                    "value": "Provide full of Equipment"
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Time working: 8.30-17.30 from Monday - Friday"
+                }
+            ],
+            "owned_id": 94384,
+            "company": {
+                "id": 94384,
+                "display_name": "Alephon",
+                "image_logo": "https://assets.topdev.vn/images/2023/10/24/TopDev-logo-alephon-1698122118.jpg",
+                "slug": "alephon",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/alephon-94384",
+                "tagline": "THE CLOUD NATIVE EXPERTS",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 7, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 189332,
+                            "ward": {
+                                "id": "27487",
+                                "value": "Phường Tân Phú"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "778",
+                                "value": "Quận 7"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup2-1698122119.png",
+                "image_galleries": [
+                    {
+                        "id": 497096,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon-1698122120.png",
+                        "path": "/images/2023/10/24/TopDev-alephon-1698122120.png",
+                        "name": "alephon.png",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:21",
+                            "since": "8 months ago",
+                            "timestamp": 1698122121
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 497097,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
+                        "path": "/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
+                        "name": "alephon -meetup3.jpg",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:21",
+                            "since": "8 months ago",
+                            "timestamp": 1698122121
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 497098,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
+                        "path": "/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
+                        "name": "6dcf58db83583354763c5882a6340011.png",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:22",
+                            "since": "8 months ago",
+                            "timestamp": 1698122122
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 497099,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
+                        "path": "/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
+                        "name": "alephon -meetup1.jpg",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:23",
+                            "since": "8 months ago",
+                            "timestamp": 1698122123
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Competitive salary and bonus structure.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "13th monthly salary is guaranteed",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Flexible working hours and additional 12 paid leaves per year;",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Young and active working environment.",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Review Salary twice a year",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Provide full of Equipment",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Time working: 8.30-17.30 from Monday - Friday",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "C#",
+                    "AWS",
+                    "Cloud",
+                    "Azure"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "C#, .NET, .NET Core",
+            "skills_arr": [
+                "C#",
+                ".NET",
+                ".NET Core"
+            ],
+            "skills_ids": [
+                24,
+                73,
+                1510
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 7, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 189332,
+                        "ward": {
+                            "id": "27487",
+                            "value": "Phường Tân Phú"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "778",
+                            "value": "Quận 7"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/senior-software-engineer-alephon-2033451",
+            "job_url": "",
+            "slug": "senior-software-engineer-alephon",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "1***",
+                "max": "2***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "1*** - 2*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "05-06-2024",
+                "datetime": "00:00:00 05-06-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "25-06-2024",
+                "datetime": "02:00:06 25-06-2024",
+                "since": "1 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "English Proficiency: Solid written and spoken English skills are paramount.",
+                        "Customer Interaction: Ability to work with English-speaking customers from Australia and Eastern Europe.",
+                        "Advanced knowledge of C# and .NET/.NET Core frameworks.",
+                        "Development and delivery of RESTful and GraphQL APIs.",
+                        "Proficiency in HTML, CSS, JavaScript, and modern frameworks (e.g., React, Angular, Vue).",
+                        "Expertise in profiling and optimizing application performance.",
+                        "AWS Expertise: Proficiency in AWS technologies, including EC2, RDS, S3, and Elastic Load Balancing.",
+                        "Real-time Trading Platforms: Experience in supporting real-time trading platforms running on highly optimized servers.",
+                        "PostgreSQL Expertise: Solid experience with PostgreSQL, preferably with exposure to AWS RDS and serverless Aurora.",
+                        "CI/CD: Proficiency in Continuous Integration and Continuous Deployment methodologies and tools.",
+                        "Team Collaboration: Ability to work closely with cross-functional teams and stakeholders.",
+                        "Problem Solving: Strong troubleshooting and analytical skills.",
+                        "[Preferred] RUST commercial/business programming experience."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Preferred Qualifications"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "AWS Certification.",
+                        "Previous experience in the financial and real-time trading industry."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033452,
+            "title": "Technical Product Manager",
+            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Years of experience</strong>: Min 4 years&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Education and qualifications</strong>: Bachelor of Engineering (Computer, Software, Electronics or Communications) or Computer Science degree</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Competitive salary and bonus structure."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "13th monthly salary is guaranteed"
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Flexible working hours and additional 12 paid leaves per year"
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Young and active working environment."
+                },
+                {
+                    "icon": "fa-adn",
+                    "name": null,
+                    "value": "Review Salary twice a year"
+                },
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Provide full of Equipment"
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Time working: 8.30-17.30 from Monday - Friday"
+                }
+            ],
+            "owned_id": 94384,
+            "company": {
+                "id": 94384,
+                "display_name": "Alephon",
+                "image_logo": "https://assets.topdev.vn/images/2023/10/24/TopDev-logo-alephon-1698122118.jpg",
+                "slug": "alephon",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/alephon-94384",
+                "tagline": "THE CLOUD NATIVE EXPERTS",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 7, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 189332,
+                            "ward": {
+                                "id": "27487",
+                                "value": "Phường Tân Phú"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "778",
+                                "value": "Quận 7"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup2-1698122119.png",
+                "image_galleries": [
+                    {
+                        "id": 497096,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon-1698122120.png",
+                        "path": "/images/2023/10/24/TopDev-alephon-1698122120.png",
+                        "name": "alephon.png",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:21",
+                            "since": "8 months ago",
+                            "timestamp": 1698122121
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 497097,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
+                        "path": "/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
+                        "name": "alephon -meetup3.jpg",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:21",
+                            "since": "8 months ago",
+                            "timestamp": 1698122121
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 497098,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
+                        "path": "/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
+                        "name": "6dcf58db83583354763c5882a6340011.png",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:22",
+                            "since": "8 months ago",
+                            "timestamp": 1698122122
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 497099,
+                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
+                        "path": "/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
+                        "name": "alephon -meetup1.jpg",
+                        "uploaded": {
+                            "date": "24-10-2023",
+                            "datetime": "2023-10-24 11:35:23",
+                            "since": "8 months ago",
+                            "timestamp": 1698122123
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Competitive salary and bonus structure.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "13th monthly salary is guaranteed",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Flexible working hours and additional 12 paid leaves per year;",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Young and active working environment.",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Review Salary twice a year",
+                        "icon": "fa-adn"
+                    },
+                    {
+                        "value": "Provide full of Equipment",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Time working: 8.30-17.30 from Monday - Friday",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "C#",
+                    "AWS",
+                    "Cloud",
+                    "Azure"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Product Manager",
+            "skills_arr": [
+                "Product Manager"
+            ],
+            "skills_ids": [
+                30
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng phòng",
+            "job_levels_arr": [
+                "Trưởng phòng"
+            ],
+            "job_levels_ids": [
+                1620
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 7, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 189332,
+                        "ward": {
+                            "id": "27487",
+                            "value": "Phường Tân Phú"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "778",
+                            "value": "Quận 7"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/technical-product-manager-alephon-2033452",
+            "job_url": "",
+            "slug": "technical-product-manager-alephon",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "1***",
+                "max": "2***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "1*** - 2*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "05-06-2024",
+                "datetime": "00:00:00 05-06-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "25-06-2024",
+                "datetime": "02:00:06 25-06-2024",
+                "since": "1 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "English Proficiency: Solid written and spoken English skills are paramount.",
+                        "Customer Interaction: Ability to work with English-speaking customers from Australia and Eastern Europe.",
+                        "Experience in Forex trading, popular market applications and tools.",
+                        "Real-time Trading Platforms: Experience in supporting real-time trading platforms, customer support and interaction.",
+                        "Team Collaboration: Ability to work closely with cross-functional teams and stakeholders.",
+                        "Problem Solving: Strong troubleshooting and analytical skills.",
+                        "[Preferred] RUST commercial/business programming experience."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Preferred Qualifications"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "AWS Certification.",
+                        "Previous experience in the financial and real-time trading industry."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
         {
             "id": 2033489,
             "title": "IT Data Architect",
@@ -351,899 +1203,6 @@
                     "value": [
                         "Tính cách chủ động trong công việc, hòa đồng với đồng nghiệp",
                         "Giao tiếp tiếng Hàn"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033454,
-            "title": "Principal Software Engineer",
-            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Years of experience</strong>: Min 7 years&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Education and qualifications</strong>: Bachelor of Engineering (Computer, Software, Electronics or Communications) or Computer Science degree.</span></li>\r\n</ul>",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Competitive salary and bonus structure."
-                },
-                {
-                    "icon": "fa-dollar",
-                    "name": null,
-                    "value": "13th monthly salary is guaranteed"
-                },
-                {
-                    "icon": "fa-angellist",
-                    "name": null,
-                    "value": "Flexible working hours and additional 12 paid leaves per year;"
-                },
-                {
-                    "icon": "fa-child",
-                    "name": null,
-                    "value": "Young and active working environment."
-                },
-                {
-                    "icon": "fa-adn",
-                    "name": null,
-                    "value": "Review Salary twice a year"
-                },
-                {
-                    "icon": "fa-laptop",
-                    "name": null,
-                    "value": "Provide full of Equipment"
-                },
-                {
-                    "icon": "fa-clock-o",
-                    "name": null,
-                    "value": "Time working: 8.30-17.30 from Monday - Friday"
-                }
-            ],
-            "owned_id": 94384,
-            "company": {
-                "id": 94384,
-                "display_name": "Alephon",
-                "image_logo": "https://assets.topdev.vn/images/2023/10/24/TopDev-logo-alephon-1698122118.jpg",
-                "slug": "alephon",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/alephon-94384",
-                "tagline": "THE CLOUD NATIVE EXPERTS",
-                "addresses": {
-                    "address_region_ids": [
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận 7, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 189332,
-                            "ward": {
-                                "id": "27487",
-                                "value": "Phường Tân Phú"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "778",
-                                "value": "Quận 7"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup2-1698122119.png",
-                "image_galleries": [
-                    {
-                        "id": 497096,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon-1698122120.png",
-                        "path": "/images/2023/10/24/TopDev-alephon-1698122120.png",
-                        "name": "alephon.png",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:21",
-                            "since": "8 months ago",
-                            "timestamp": 1698122121
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497097,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
-                        "path": "/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
-                        "name": "alephon -meetup3.jpg",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:21",
-                            "since": "8 months ago",
-                            "timestamp": 1698122121
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497098,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
-                        "path": "/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
-                        "name": "6dcf58db83583354763c5882a6340011.png",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:22",
-                            "since": "8 months ago",
-                            "timestamp": 1698122122
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497099,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
-                        "path": "/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
-                        "name": "alephon -meetup1.jpg",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:23",
-                            "since": "8 months ago",
-                            "timestamp": 1698122123
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Competitive salary and bonus structure.",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "13th monthly salary is guaranteed",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "Flexible working hours and additional 12 paid leaves per year;",
-                        "icon": "fa-calendar-check-o"
-                    },
-                    {
-                        "value": "Young and active working environment.",
-                        "icon": "fa-child"
-                    },
-                    {
-                        "value": "Review Salary twice a year",
-                        "icon": "fa-adn"
-                    },
-                    {
-                        "value": "Provide full of Equipment",
-                        "icon": "fa-laptop"
-                    },
-                    {
-                        "value": "Time working: 8.30-17.30 from Monday - Friday",
-                        "icon": "fa-clock-o"
-                    }
-                ],
-                "skills_arr": [
-                    "C#",
-                    "AWS",
-                    "Cloud",
-                    "Azure"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "C#, .NET, .NET Core",
-            "skills_arr": [
-                "C#",
-                ".NET",
-                ".NET Core"
-            ],
-            "skills_ids": [
-                24,
-                73,
-                1510
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận 7, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 189332,
-                        "ward": {
-                            "id": "27487",
-                            "value": "Phường Tân Phú"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "778",
-                            "value": "Quận 7"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/principal-software-engineer-alephon-2033454",
-            "job_url": "",
-            "slug": "principal-software-engineer-alephon",
-            "salary": {
-                "is_negotiable": "0",
-                "unit": "MONTH",
-                "min": "2***",
-                "max": "3***",
-                "currency": "USD",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": "2*** - 3*** USD"
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "05-06-2024",
-                "datetime": "00:00:00 05-06-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "25-06-2024",
-                "datetime": "02:00:06 25-06-2024",
-                "since": "1 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "English Proficiency: Solid written and spoken English skills are paramount.",
-                        "Customer Interaction: Ability to work with English-speaking customers from Australia and Eastern Europe.",
-                        "Advanced knowledge of C# and .NET/.NET Core frameworks.",
-                        "Design and implementation of RESTful and GraphQL APIs.",
-                        "Expertise in profiling and optimizing application performance.",
-                        "AWS Expertise: Proficiency in AWS technologies, including EC2, RDS, S3, and Elastic Load Balancing.",
-                        "Real-time Trading Platforms: Experience in supporting real-time trading platforms running on highly optimized servers.",
-                        "PostgreSQL Expertise: Solid experience with PostgreSQL, preferably with exposure to AWS RDS and serverless Aurora.",
-                        "CI/CD: Proficiency in Continuous Integration and Continuous Deployment methodologies and tools.",
-                        "Web Development: Basic understanding of web development principles and best practices.",
-                        "Team Collaboration: Ability to work closely with cross-functional teams and stakeholders.",
-                        "Problem Solving: Strong troubleshooting and analytical skills.",
-                        "[Preferred] RUST commercial/business programming experience."
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Preferred Qualifications"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "AWS Certification.",
-                        "Previous experience in the financial and real-time trading industry."
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033452,
-            "title": "Technical Product Manager",
-            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Years of experience</strong>: Min 4 years&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Education and qualifications</strong>: Bachelor of Engineering (Computer, Software, Electronics or Communications) or Computer Science degree</span></li>\r\n</ul>",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Competitive salary and bonus structure."
-                },
-                {
-                    "icon": "fa-dollar",
-                    "name": null,
-                    "value": "13th monthly salary is guaranteed"
-                },
-                {
-                    "icon": "fa-star",
-                    "name": null,
-                    "value": "Flexible working hours and additional 12 paid leaves per year"
-                },
-                {
-                    "icon": "fa-angellist",
-                    "name": null,
-                    "value": "Young and active working environment."
-                },
-                {
-                    "icon": "fa-adn",
-                    "name": null,
-                    "value": "Review Salary twice a year"
-                },
-                {
-                    "icon": "fa-laptop",
-                    "name": null,
-                    "value": "Provide full of Equipment"
-                },
-                {
-                    "icon": "fa-clock-o",
-                    "name": null,
-                    "value": "Time working: 8.30-17.30 from Monday - Friday"
-                }
-            ],
-            "owned_id": 94384,
-            "company": {
-                "id": 94384,
-                "display_name": "Alephon",
-                "image_logo": "https://assets.topdev.vn/images/2023/10/24/TopDev-logo-alephon-1698122118.jpg",
-                "slug": "alephon",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/alephon-94384",
-                "tagline": "THE CLOUD NATIVE EXPERTS",
-                "addresses": {
-                    "address_region_ids": [
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận 7, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 189332,
-                            "ward": {
-                                "id": "27487",
-                                "value": "Phường Tân Phú"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "778",
-                                "value": "Quận 7"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup2-1698122119.png",
-                "image_galleries": [
-                    {
-                        "id": 497096,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon-1698122120.png",
-                        "path": "/images/2023/10/24/TopDev-alephon-1698122120.png",
-                        "name": "alephon.png",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:21",
-                            "since": "8 months ago",
-                            "timestamp": 1698122121
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497097,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
-                        "path": "/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
-                        "name": "alephon -meetup3.jpg",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:21",
-                            "since": "8 months ago",
-                            "timestamp": 1698122121
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497098,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
-                        "path": "/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
-                        "name": "6dcf58db83583354763c5882a6340011.png",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:22",
-                            "since": "8 months ago",
-                            "timestamp": 1698122122
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497099,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
-                        "path": "/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
-                        "name": "alephon -meetup1.jpg",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:23",
-                            "since": "8 months ago",
-                            "timestamp": 1698122123
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Competitive salary and bonus structure.",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "13th monthly salary is guaranteed",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "Flexible working hours and additional 12 paid leaves per year;",
-                        "icon": "fa-calendar-check-o"
-                    },
-                    {
-                        "value": "Young and active working environment.",
-                        "icon": "fa-child"
-                    },
-                    {
-                        "value": "Review Salary twice a year",
-                        "icon": "fa-adn"
-                    },
-                    {
-                        "value": "Provide full of Equipment",
-                        "icon": "fa-laptop"
-                    },
-                    {
-                        "value": "Time working: 8.30-17.30 from Monday - Friday",
-                        "icon": "fa-clock-o"
-                    }
-                ],
-                "skills_arr": [
-                    "C#",
-                    "AWS",
-                    "Cloud",
-                    "Azure"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Product Manager",
-            "skills_arr": [
-                "Product Manager"
-            ],
-            "skills_ids": [
-                30
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Trưởng phòng",
-            "job_levels_arr": [
-                "Trưởng phòng"
-            ],
-            "job_levels_ids": [
-                1620
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận 7, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 189332,
-                        "ward": {
-                            "id": "27487",
-                            "value": "Phường Tân Phú"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "778",
-                            "value": "Quận 7"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/technical-product-manager-alephon-2033452",
-            "job_url": "",
-            "slug": "technical-product-manager-alephon",
-            "salary": {
-                "is_negotiable": "0",
-                "unit": "MONTH",
-                "min": "1***",
-                "max": "2***",
-                "currency": "USD",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": "1*** - 2*** USD"
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "05-06-2024",
-                "datetime": "00:00:00 05-06-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "25-06-2024",
-                "datetime": "02:00:06 25-06-2024",
-                "since": "1 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "English Proficiency: Solid written and spoken English skills are paramount.",
-                        "Customer Interaction: Ability to work with English-speaking customers from Australia and Eastern Europe.",
-                        "Experience in Forex trading, popular market applications and tools.",
-                        "Real-time Trading Platforms: Experience in supporting real-time trading platforms, customer support and interaction.",
-                        "Team Collaboration: Ability to work closely with cross-functional teams and stakeholders.",
-                        "Problem Solving: Strong troubleshooting and analytical skills.",
-                        "[Preferred] RUST commercial/business programming experience."
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Preferred Qualifications"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "AWS Certification.",
-                        "Previous experience in the financial and real-time trading industry."
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033491,
-            "title": "Java Engineer (Middle and above)",
-            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">SoftRoad Vietnam Co., Ltd. is a 100% subsidiary branch of SoftRoad Co., Ltd., headquartered in Tokyo, Japan.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">SoftRoad Co., Ltd. Japan (the parent company) was established in 2001. It is the largest professional AI system upgrade company in Japan. The System Reform technology experiences an average annual growth rate of 30%. The clientele consists of over 30% of the top 200 companies in Japan and worldwide.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">The company is listed on the Topix stock index and is expanding its business operations into the European and American markets.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">With over 30 high-level R&amp;D employees dedicated to AI system development and more than 350 management and programming staff, the company's work scope and level are fundamentally equivalent to Japan's largest software companies like NEC and Fujitsu.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">To meet the demands of expanding business and venturing into the European and American markets, SoftRoad Vietnam Co., Ltd. was established. The company's current projects mainly come from Japanese clients, and in the near future, additional projects from clients in Europe, America, and other regions will be added. The goal is to establish the company as the world's premier AI system upgrade provider.</span></p>",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Competitive salary: 21,000,000 VND - 60,000,000 VND"
-                },
-                {
-                    "icon": "fa-dollar",
-                    "name": null,
-                    "value": "13 months’ salary per year"
-                },
-                {
-                    "icon": "fa-asterisk",
-                    "name": null,
-                    "value": "Performance bonus, Best employees bonus, Profit bonus"
-                },
-                {
-                    "icon": "fa-diamond",
-                    "name": null,
-                    "value": "Career development based on your skill and expectation. Have opportunity to become part of our young Leadership team."
-                },
-                {
-                    "icon": "fa-angellist",
-                    "name": null,
-                    "value": "Professional and flexible working environment"
-                },
-                {
-                    "icon": "fa-adn",
-                    "name": null,
-                    "value": "Multinational working environment, you will have opportunities for overseas assignments at company branches (Japan, China, US)"
-                },
-                {
-                    "icon": "fa-book",
-                    "name": null,
-                    "value": "Training courses: Technical skills training by the R&D team / Japanese – English training by foreign teacher"
-                },
-                {
-                    "icon": "fa-glass",
-                    "name": null,
-                    "value": "Dynamic activities: Company trip, teambuilding activities, monthly birthday…"
-                }
-            ],
-            "owned_id": 93864,
-            "company": {
-                "id": 93864,
-                "display_name": "SoftRoad Việt Nam",
-                "image_logo": "https://assets.topdev.vn/images/2022/12/06/TopDev-11811867135371436829975555193312544185490767n-1670303123.jpg",
-                "slug": "softroad-viet-nam",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/softroad-viet-nam-93864",
-                "tagline": "TOP IT Jobs for Developers in Vietnam",
-                "addresses": {
-                    "address_region_ids": [
-                        "01"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội",
-                    "address_region_array": [
-                        "Thành phố Hà Nội"
-                    ],
-                    "full_addresses": [
-                        "Tầng 14, Richy Tower, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội"
-                    ],
-                    "sort_addresses": "Quận Cầu Giấy, Hà Nội",
-                    "collection_addresses": [
-                        {
-                            "id": 157022,
-                            "ward": {
-                                "id": "00172",
-                                "value": "Phường Yên Hoà"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "005",
-                                "value": "Quận Cầu Giấy"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Tầng 14, Richy Tower, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Tầng 14, Richy Tower"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/06/27/TopDev-softroad-1687828283.png",
-                "image_galleries": [],
-                "benefits": [
-                    {
-                        "value": "Mức lương theo trình độ và mức độ cố gắng, điều chỉnh lương thường xuyên",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Lương, phúc lợi và cơ hội thăng tiến",
-                        "icon": "fa-pencil"
-                    },
-                    {
-                        "value": "Thưởng cuối năm cho nhân viên",
-                        "icon": "fa-sticky-note"
-                    },
-                    {
-                        "value": "Công ty cung cấp cho nhân viên những cơ hội tốt để nâng cao năng lực cá nhân và thăng tiến, những người xuất sắc có thể nhanh chóng được đề bạt lên các vị trí như chuyên viên kỹ thuật, PL, PM, trưởng phòng",
-                        "icon": "fa-bar-chart-o"
-                    },
-                    {
-                        "value": "Người lao động có cơ hội làm việc tại Nhật Bản, Trung Quốc và các khu vực khác, có cơ hội định cư và chuyển tiếp sang Nhật Bản",
-                        "icon": "fa-plane"
-                    },
-                    {
-                        "value": "Đóng bảo hiểm xã hội, bảo hiểm y tế theo luật pháp Việt Nam",
-                        "icon": "fa-book"
-                    },
-                    {
-                        "value": "Được nghỉ phép theo quy định của luật lao động Việt Nam",
-                        "icon": "fa-bookmark-o"
-                    },
-                    {
-                        "value": "Bữa tối miễn phí cho nhân viên làm thêm giờ",
-                        "icon": "fa-cutlery"
-                    },
-                    {
-                        "value": "Tặng quà sinh nhật cho nhân viên, quà lễ, v.v",
-                        "icon": "fa-gift"
-                    },
-                    {
-                        "value": "Nhân viên được đào tạo thêm về ngôn ngữ (tiếng Nhật hoặc tiếng Anh), công nghệ, kỹ năng mềm, v.v",
-                        "icon": "fa-check-square-o"
-                    },
-                    {
-                        "value": "Không khí và môi trường làm việc tích cực, năng động, mọi người hòa thuận, giúp đỡ nhau trong việc",
-                        "icon": "fa-chrome"
-                    },
-                    {
-                        "value": "Khu văn phòng nằm trong khu vực nội thành Hà Nội, giao thông thuận tiện",
-                        "icon": "fa-building-o"
-                    },
-                    {
-                        "value": "Quản lý và hệ thống chấm công linh hoạt",
-                        "icon": "fa-joomla"
-                    }
-                ],
-                "skills_arr": [
-                    "CSS",
-                    "Java",
-                    "MySQL",
-                    "HTML",
-                    "Spring Boot"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Spring, Java EE, Java Core, Java Spring Boot",
-            "skills_arr": [
-                "Spring",
-                "Java EE",
-                "Java Core",
-                "Java Spring Boot"
-            ],
-            "skills_ids": [
-                245,
-                7995,
-                1552,
-                7964
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Trưởng Nhóm, Middle, Senior",
-            "job_levels_arr": [
-                "Trưởng Nhóm",
-                "Middle",
-                "Senior"
-            ],
-            "job_levels_ids": [
-                7276,
-                8665,
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "01"
-                ],
-                "address_region_list": "Thành phố Hà Nội",
-                "address_region_array": [
-                    "Thành phố Hà Nội"
-                ],
-                "full_addresses": [
-                    "Tầng 14, Richy Tower, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội"
-                ],
-                "sort_addresses": "Quận Cầu Giấy, Hà Nội",
-                "collection_addresses": [
-                    {
-                        "id": 157022,
-                        "ward": {
-                            "id": "00172",
-                            "value": "Phường Yên Hoà"
-                        },
-                        "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
-                        },
-                        "district": {
-                            "id": "005",
-                            "value": "Quận Cầu Giấy"
-                        },
-                        "postal_code": "100000",
-                        "full_address": "Tầng 14, Richy Tower, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Tầng 14, Richy Tower"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/java-engineer-middle-and-above-softroad-viet-nam-2033491",
-            "job_url": "",
-            "slug": "java-engineer-middle-and-above-softroad-viet-nam",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "distinction"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": false,
-            "is_distinction": true,
-            "is_salary_visible": false,
-            "published": {
-                "date": "10-06-2024",
-                "datetime": "00:00:00 10-06-2024",
-                "since": "2 tuần trước"
-            },
-            "refreshed": {
-                "date": "25-06-2024",
-                "datetime": "02:00:06 25-06-2024",
-                "since": "1 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Good knowledge of OOP, and Java core",
-                        "Good knowledge of Spring, Spring MVC, and Spring boot framework",
-                        "Good research skills and Debugging",
-                        "Basic knowledge of testing",
-                        "At least 2 years of Java experience, and able to work independently",
-                        "Work hard, good work attitude, and good stability",
-                        "English/Japanese reading skill, being able to speak in English/Japanese is a big plus"
                     ],
                     "icon": "fa-circle"
                 }
@@ -1597,602 +1556,6 @@
             ]
         },
         {
-            "id": 2033451,
-            "title": "Senior Software Engineer",
-            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Years of experience</strong>: Min 4 years&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Education and qualifications</strong>: Bachelor of Engineering (Computer, Software, Electronics or Communications) or Computer Science degree.</span></li>\r\n</ul>",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Competitive salary and bonus structure."
-                },
-                {
-                    "icon": "fa-dollar",
-                    "name": null,
-                    "value": "13th monthly salary is guaranteed"
-                },
-                {
-                    "icon": "fa-star",
-                    "name": null,
-                    "value": "Flexible working hours and additional 12 paid leaves per year"
-                },
-                {
-                    "icon": "fa-angellist",
-                    "name": null,
-                    "value": "Young and active working environment."
-                },
-                {
-                    "icon": "fa-adn",
-                    "name": null,
-                    "value": "Review Salary twice a year"
-                },
-                {
-                    "icon": "fa-align-center",
-                    "name": null,
-                    "value": "Provide full of Equipment"
-                },
-                {
-                    "icon": "fa-clock-o",
-                    "name": null,
-                    "value": "Time working: 8.30-17.30 from Monday - Friday"
-                }
-            ],
-            "owned_id": 94384,
-            "company": {
-                "id": 94384,
-                "display_name": "Alephon",
-                "image_logo": "https://assets.topdev.vn/images/2023/10/24/TopDev-logo-alephon-1698122118.jpg",
-                "slug": "alephon",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/alephon-94384",
-                "tagline": "THE CLOUD NATIVE EXPERTS",
-                "addresses": {
-                    "address_region_ids": [
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận 7, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 189332,
-                            "ward": {
-                                "id": "27487",
-                                "value": "Phường Tân Phú"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "778",
-                                "value": "Quận 7"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup2-1698122119.png",
-                "image_galleries": [
-                    {
-                        "id": 497096,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon-1698122120.png",
-                        "path": "/images/2023/10/24/TopDev-alephon-1698122120.png",
-                        "name": "alephon.png",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:21",
-                            "since": "8 months ago",
-                            "timestamp": 1698122121
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497097,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
-                        "path": "/images/2023/10/24/TopDev-alephon--meetup3-1698122121.jpg",
-                        "name": "alephon -meetup3.jpg",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:21",
-                            "since": "8 months ago",
-                            "timestamp": 1698122121
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497098,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
-                        "path": "/images/2023/10/24/TopDev-6dcf58db83583354763c5882a6340011-1698122122.png",
-                        "name": "6dcf58db83583354763c5882a6340011.png",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:22",
-                            "since": "8 months ago",
-                            "timestamp": 1698122122
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 497099,
-                        "url": "https://assets.topdev.vn/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
-                        "path": "/images/2023/10/24/TopDev-alephon--meetup1-1698122122.jpg",
-                        "name": "alephon -meetup1.jpg",
-                        "uploaded": {
-                            "date": "24-10-2023",
-                            "datetime": "2023-10-24 11:35:23",
-                            "since": "8 months ago",
-                            "timestamp": 1698122123
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Competitive salary and bonus structure.",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "13th monthly salary is guaranteed",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "Flexible working hours and additional 12 paid leaves per year;",
-                        "icon": "fa-calendar-check-o"
-                    },
-                    {
-                        "value": "Young and active working environment.",
-                        "icon": "fa-child"
-                    },
-                    {
-                        "value": "Review Salary twice a year",
-                        "icon": "fa-adn"
-                    },
-                    {
-                        "value": "Provide full of Equipment",
-                        "icon": "fa-laptop"
-                    },
-                    {
-                        "value": "Time working: 8.30-17.30 from Monday - Friday",
-                        "icon": "fa-clock-o"
-                    }
-                ],
-                "skills_arr": [
-                    "C#",
-                    "AWS",
-                    "Cloud",
-                    "Azure"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "C#, .NET, .NET Core",
-            "skills_arr": [
-                "C#",
-                ".NET",
-                ".NET Core"
-            ],
-            "skills_ids": [
-                24,
-                73,
-                1510
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận 7, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 189332,
-                        "ward": {
-                            "id": "27487",
-                            "value": "Phường Tân Phú"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "778",
-                            "value": "Quận 7"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Office 906, Paragon Building, 3 Nguyễn Lương Bằng"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/senior-software-engineer-alephon-2033451",
-            "job_url": "",
-            "slug": "senior-software-engineer-alephon",
-            "salary": {
-                "is_negotiable": "0",
-                "unit": "MONTH",
-                "min": "1***",
-                "max": "2***",
-                "currency": "USD",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": "1*** - 2*** USD"
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "05-06-2024",
-                "datetime": "00:00:00 05-06-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "25-06-2024",
-                "datetime": "02:00:06 25-06-2024",
-                "since": "1 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "English Proficiency: Solid written and spoken English skills are paramount.",
-                        "Customer Interaction: Ability to work with English-speaking customers from Australia and Eastern Europe.",
-                        "Advanced knowledge of C# and .NET/.NET Core frameworks.",
-                        "Development and delivery of RESTful and GraphQL APIs.",
-                        "Proficiency in HTML, CSS, JavaScript, and modern frameworks (e.g., React, Angular, Vue).",
-                        "Expertise in profiling and optimizing application performance.",
-                        "AWS Expertise: Proficiency in AWS technologies, including EC2, RDS, S3, and Elastic Load Balancing.",
-                        "Real-time Trading Platforms: Experience in supporting real-time trading platforms running on highly optimized servers.",
-                        "PostgreSQL Expertise: Solid experience with PostgreSQL, preferably with exposure to AWS RDS and serverless Aurora.",
-                        "CI/CD: Proficiency in Continuous Integration and Continuous Deployment methodologies and tools.",
-                        "Team Collaboration: Ability to work closely with cross-functional teams and stakeholders.",
-                        "Problem Solving: Strong troubleshooting and analytical skills.",
-                        "[Preferred] RUST commercial/business programming experience."
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Preferred Qualifications"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "AWS Certification.",
-                        "Previous experience in the financial and real-time trading industry."
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033450,
-            "title": "Remote - Research Software Developer (Full-time/Part-time)",
-            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are looking for full-time or <strong>part-time</strong> research software developers including <strong>Junior/Senior/Lead Algorithm Engineers</strong>, Software Engineers, and <strong>Frontend Engineers</strong>. You will join our product development or research project. You will be mentored by and work with <a href=\"https://cs.illinois.edu/about/people/faculty/kcchang\">Professor Kevin Chang</a> at <a href=\"https://cs.illinois.edu/\">CS @ University of Illinois at Urbana-Champaign</a>&nbsp;(UIUC), senior engineers at <a href=\"https://www.cazoodle.com/\">Cazoodle Inc. Hanoi</a>, and senior graduate students at UIUC. You can work <strong>remotely</strong> online or <strong>physically</strong> in our office in Hanoi. You are expected to commit flexibly from 20 hours/week (part-time) to 40 hours/week (full-time position).</span></p>",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Pay: $850 - 3500/month (full-time) or $5 - 20/hour (part-time), depending on qualification."
-                }
-            ],
-            "owned_id": 61244,
-            "company": {
-                "id": 61244,
-                "display_name": "CAZOODLE",
-                "image_logo": "https://assets.topdev.vn/images/2022/08/11/TopDev-h1-AnhNguyen-1660209682.png",
-                "slug": "cazoodle",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/cazoodle-61244",
-                "tagline": "Cazoodle builds new search engines by transforming Web content into databases",
-                "addresses": {
-                    "address_region_ids": [
-                        "01"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội",
-                    "address_region_array": [
-                        "Thành phố Hà Nội"
-                    ],
-                    "full_addresses": [
-                        "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội"
-                    ],
-                    "sort_addresses": "Quận Đống Đa, Hà Nội",
-                    "collection_addresses": [
-                        {
-                            "id": 149230,
-                            "ward": {
-                                "id": "00217",
-                                "value": "Phường Trung Liệt"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "006",
-                                "value": "Quận Đống Đa"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Số 18, ngõ 11 Thái Hà"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2022/08/11/TopDev-36F61D62-4FE6-4782-8B90-141403BD3301-AnhNguyen-1660209682.jpg",
-                "image_galleries": [
-                    {
-                        "id": 346509,
-                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-DC720E35-D1A0-4867-9E31-842361A513F4-AnhNguyen-1660209683.jpg",
-                        "path": "/images/2022/08/11/TopDev-DC720E35-D1A0-4867-9E31-842361A513F4-AnhNguyen-1660209683.jpg",
-                        "name": "DC720E35-D1A0-4867-9E31-842361A513F4 - Anh Nguyen.jpg",
-                        "uploaded": {
-                            "date": "11-08-2022",
-                            "datetime": "2022-08-11 16:21:23",
-                            "since": "1 year ago",
-                            "timestamp": 1660209683
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 346510,
-                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-29700697711877628220049543582621437098350192n-AnhNguyen-1660209683.jpg",
-                        "path": "/images/2022/08/11/TopDev-29700697711877628220049543582621437098350192n-AnhNguyen-1660209683.jpg",
-                        "name": "297006977_1187762822004954_3582621437098350192_n - Anh Nguyen.jpg",
-                        "uploaded": {
-                            "date": "11-08-2022",
-                            "datetime": "2022-08-11 16:21:23",
-                            "since": "1 year ago",
-                            "timestamp": 1660209683
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 346511,
-                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-IMG0517-AnhNguyen-1660209683.JPG",
-                        "path": "/images/2022/08/11/TopDev-IMG0517-AnhNguyen-1660209683.JPG",
-                        "name": "IMG_0517 - Anh Nguyen.JPG",
-                        "uploaded": {
-                            "date": "11-08-2022",
-                            "datetime": "2022-08-11 16:21:24",
-                            "since": "1 year ago",
-                            "timestamp": 1660209684
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 346512,
-                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-f4ce5a64bf22a241207f535108a80f2b-1660209684.jpg",
-                        "path": "/images/2022/08/11/TopDev-f4ce5a64bf22a241207f535108a80f2b-1660209684.jpg",
-                        "name": "f4ce5a64bf22a241207f535108a80f2b.jpg",
-                        "uploaded": {
-                            "date": "11-08-2022",
-                            "datetime": "2022-08-11 16:21:24",
-                            "since": "1 year ago",
-                            "timestamp": 1660209684
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Competitive compensation package with private health insurance, training and sport supports",
-                        "icon": "fa-check-square-o"
-                    },
-                    {
-                        "value": "Appealing bonus at the end of each year",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Good environment for improving your personal and technical skills",
-                        "icon": "fa-cubes"
-                    },
-                    {
-                        "value": "Opportunity to work at all fronts to develop such skills required for a full-stack developer",
-                        "icon": "fa-bar-chart-o"
-                    },
-                    {
-                        "value": "Monday - Friday",
-                        "icon": "fa-calendar-check-o"
-                    }
-                ],
-                "skills_arr": [
-                    "PHP",
-                    "Java",
-                    "MySQL",
-                    "Python",
-                    ".NET"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Front-End, Back-End, Full-Stack",
-            "skills_arr": [
-                "Front-End",
-                "Back-End",
-                "Full-Stack"
-            ],
-            "skills_ids": [
-                209,
-                210,
-                211
-            ],
-            "job_types_str": "Remote",
-            "job_levels_str": "Junior, Middle, Senior",
-            "job_levels_arr": [
-                "Junior",
-                "Middle",
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8664,
-                8665,
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "01"
-                ],
-                "address_region_list": "Thành phố Hà Nội",
-                "address_region_array": [
-                    "Thành phố Hà Nội"
-                ],
-                "full_addresses": [
-                    "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội"
-                ],
-                "sort_addresses": "Quận Đống Đa, Hà Nội",
-                "collection_addresses": [
-                    {
-                        "id": 149230,
-                        "ward": {
-                            "id": "00217",
-                            "value": "Phường Trung Liệt"
-                        },
-                        "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
-                        },
-                        "district": {
-                            "id": "006",
-                            "value": "Quận Đống Đa"
-                        },
-                        "postal_code": "100000",
-                        "full_address": "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Số 18, ngõ 11 Thái Hà"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/remote-research-software-developer-full-time-part-time-cazoodle-2033450",
-            "job_url": "",
-            "slug": "remote-research-software-developer-full-time-part-time-cazoodle",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "05-06-2024",
-                "datetime": "00:00:00 05-06-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "25-06-2024",
-                "datetime": "02:00:06 25-06-2024",
-                "since": "1 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "You are an ideal candidate if you can:"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Effectively communicate in English.",
-                        "Develop backend or frontend or full-stack software.",
-                        "Read research papers and understand how to reproduce.",
-                        "Build/implement AI/NLP/DB/DM techniques such as word embedding, information extraction, large language model, database querying, and web search."
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "* Pay: $850 - 3500/month (full-time) or $5 - 20/hour (part-time), depending on qualification."
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "* Note:"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Submit your application at This form (required)",
-                        "Apply with English CV"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
             "id": 2033448,
             "title": "Back End Developer (Java, MySQL, Spring)",
             "content": "<p style=\"text-align: justify;\"><strong><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">3 L&yacute; do để gia nhập c&ocirc;ng ty</span></span></strong></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Lương thưởng theo năng lực v&agrave; cao nhất khối IT</span></span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">M&ocirc;i trường l&agrave;m việc trẻ trung, vui vẻ</span></span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Cơ hội học tập v&agrave; l&agrave;m việc ở nước ngo&agrave;i</span></span></li>\r\n</ul>",
@@ -2538,6 +1901,371 @@
             ]
         },
         {
+            "id": 2033447,
+            "title": "DevOps Engineer",
+            "content": "<p style=\"text-align: justify;\"><strong><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">3 L&yacute; do để gia nhập c&ocirc;ng ty</span></strong></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Lương thưởng theo năng lực v&agrave; cao nhất khối IT</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường l&agrave;m việc trẻ trung, vui vẻ</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội học tập v&agrave; l&agrave;m việc ở nước ngo&agrave;i</span></li>\r\n</ul>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Attractive salary and bonus will be discussed after going through CV & Interview"
+                },
+                {
+                    "icon": "fa-bar-chart",
+                    "name": null,
+                    "value": "Review capacity annually and adjust salary increases according to work performance."
+                },
+                {
+                    "icon": "fa-credit-card-alt",
+                    "name": null,
+                    "value": "Korean language certificate bonus (TOPIK)"
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Health care: Premium health insurance, Annual health check-up"
+                },
+                {
+                    "icon": "fa-smile-o",
+                    "name": null,
+                    "value": "Young working environment"
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Good career development opportunities with interesting and challenging projects."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "English, Korean, technical, soft skills training courses."
+                },
+                {
+                    "icon": "fa-suitcase",
+                    "name": null,
+                    "value": "Opportunity to learn special courses from LG CNS, new technology and security."
+                },
+                {
+                    "icon": "fa-gift",
+                    "name": null,
+                    "value": "Gifts on holidays (April 30th - May 1st, September 2nd, Tet, etc.)"
+                },
+                {
+                    "icon": "fa-birthday-cake",
+                    "name": null,
+                    "value": "Outdoor activities with company support: sports clubs, team building, happy hour parties, birthdays, travel, employee and family events, etc."
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "Working hours: 8 hours from Monday - Friday (8:00 - 12:00 - 13:00 - 17:00)"
+                }
+            ],
+            "owned_id": 94001,
+            "company": {
+                "id": 94001,
+                "display_name": "LG CNS Việt Nam",
+                "image_logo": "https://assets.topdev.vn/images/2023/09/12/TopDev-QpmYMaXNbD0iWSod-1694533554.png",
+                "slug": "lg-cns-viet-nam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/lg-cns-viet-nam-94001",
+                "tagline": "LG CNS - Công ty IT số 1 Hàn Quốc",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "31"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hải Phòng",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hải Phòng"
+                    ],
+                    "full_addresses": [
+                        "Tầng 15, tòa Keangnam Landmark 72, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "Tầng 4, toà nhà Youngjin E&C Hải Phòng, KCN Tràng Duệ, Xã Lê Lợi, Huyện An Dương, Thành phố Hải Phòng"
+                    ],
+                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội - Huyện An Dương, Hải Phòng",
+                    "collection_addresses": [
+                        {
+                            "id": 168431,
+                            "ward": {
+                                "id": "00631",
+                                "value": "Phường Mễ Trì"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 15, tòa Keangnam Landmark 72, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 15, tòa Keangnam Landmark 72"
+                        },
+                        {
+                            "id": 168446,
+                            "ward": {
+                                "id": "11611",
+                                "value": "Xã Lê Lợi"
+                            },
+                            "province": {
+                                "id": "31",
+                                "value": "Thành phố Hải Phòng"
+                            },
+                            "district": {
+                                "id": "312",
+                                "value": "Huyện An Dương"
+                            },
+                            "postal_code": "180000",
+                            "full_address": "Tầng 4, toà nhà Youngjin E&C Hải Phòng, KCN Tràng Duệ, Xã Lê Lợi, Huyện An Dương, Thành phố Hải Phòng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 4, toà nhà Youngjin E&C Hải Phòng, KCN Tràng Duệ"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hải Phòng"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/04/07/TopDev-optimize---RuToHa-family-1680838700.jpg",
+                "image_galleries": [
+                    {
+                        "id": 406736,
+                        "url": "https://assets.topdev.vn/images/2023/04/07/TopDev-e8c5a4e92300f3d04b07f65c2e9b15f7-1680838700.jpg",
+                        "path": "/images/2023/04/07/TopDev-e8c5a4e92300f3d04b07f65c2e9b15f7-1680838700.jpg",
+                        "name": "e8c5a4e92300f3d04b07f65c2e9b15f7.jpg",
+                        "uploaded": {
+                            "date": "07-04-2023",
+                            "datetime": "2023-04-07 10:38:21",
+                            "since": "1 year ago",
+                            "timestamp": 1680838701
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 406737,
+                        "url": "https://assets.topdev.vn/images/2023/04/07/TopDev-20230321000523_0---RuToHa-family-1680838701.jpg",
+                        "path": "/images/2023/04/07/TopDev-20230321000523_0---RuToHa-family-1680838701.jpg",
+                        "name": "20230321000523_0 - RuToHa family.jpg",
+                        "uploaded": {
+                            "date": "07-04-2023",
+                            "datetime": "2023-04-07 10:38:21",
+                            "since": "1 year ago",
+                            "timestamp": 1680838701
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Lương sẽ được thảo luận sau khi thông qua CV & Phỏng vấn",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Lương tháng 13 và thưởng theo hiệu quả kinh doanh",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Review đánh giá năng lực hàng năm và điều chỉnh tăng lương theo hiệu quả công việc",
+                        "icon": "fa-check-square"
+                    },
+                    {
+                        "value": "Trợ cấp: Ăn trưa, đi lại, điện thoại, sinh nhật",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Được đào tạo và làm việc cùng các chuyên gia Hàn Quốc",
+                        "icon": "fa-cogs"
+                    },
+                    {
+                        "value": "Cơ hội phát triển nghề nghiệp tốt với các dự án thú vị và đầy thử thách",
+                        "icon": "fa-graduation-cap"
+                    },
+                    {
+                        "value": "Chăm sóc sức khỏe: Khám sức khỏe định kỳ hàng năm",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Các hoạt động ngoài trời với sự hỗ trợ của công ty: câu lạc bộ thể thao, team building, tiệc happy hour, sinh nhật, du lịch, sự kiện nhân viên và gia đình, v.v.",
+                        "icon": "fa-birthday-cake"
+                    },
+                    {
+                        "value": "Thời gian làm việc: T2 - T6 (8h-12h & 13h-17h)",
+                        "icon": "fa-clock-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "MySQL",
+                    "NodeJS",
+                    "ReactJS",
+                    "Spring",
+                    "VueJS",
+                    "TypeScript",
+                    "Spring Boot"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Linux, Python, DevOps, Cloud, CI/CD",
+            "skills_arr": [
+                "Linux",
+                "Python",
+                "DevOps",
+                "Cloud",
+                "CI/CD"
+            ],
+            "skills_ids": [
+                6,
+                34,
+                213,
+                1298,
+                1587
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 15, tòa Keangnam Landmark 72, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 168431,
+                        "ward": {
+                            "id": "00631",
+                            "value": "Phường Mễ Trì"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 15, tòa Keangnam Landmark 72, Phường Mễ Trì, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 15, tòa Keangnam Landmark 72"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/devops-engineer-lg-cns-viet-nam-2033447",
+            "job_url": "",
+            "slug": "devops-engineer-lg-cns-viet-nam",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "05-06-2024",
+                "datetime": "00:00:00 05-06-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "25-06-2024",
+                "datetime": "02:00:06 25-06-2024",
+                "since": "1 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "[Required]"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Design/build a Public Cloud Architecture"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Experience in building public cloud-based systems (virtual networks, VMs, Storage, Backup, etc.)",
+                        "Experience in operating Linux-based OS",
+                        "Experience with IaC-based automation tools such as Terraform and Packer"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Design/build CI/CD deployment automation"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Experience in building/operating CI/CD tool chains such as Gitlab, Jenkins, Nexus, etc.",
+                        "Proficient in scripting languages such as Python, Bash Script"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "[Preferred]"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Experience in Docker, K8S",
+                        "Korean communication"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
             "id": 2033490,
             "title": "Backend Developer Python (Django, SQL, MySQL, Cloud)",
             "content": "<p style=\"text-align: justify;\"><strong><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">3 L&yacute; do để gia nhập c&ocirc;ng ty</span></strong></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Lương thưởng theo năng lực v&agrave; cao nhất khối IT</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường l&agrave;m việc trẻ trung, vui vẻ</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Cơ hội học tập v&agrave; l&agrave;m việc ở nước ngo&agrave;i</span></li>\r\n</ul>",
@@ -2871,354 +2599,259 @@
             ]
         },
         {
-            "id": 2033443,
-            "title": "Junior Tester",
-            "content": "<p><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;\">Tại JITS, bạn sẽ l&agrave;m việc theo team v&agrave; c&ugrave;ng team ho&agrave;n th&agrave;nh c&aacute;c dự &aacute;n phần mềm trong lĩnh vực Ng&acirc;n h&agrave;ng v&agrave; T&agrave;i ch&iacute;nh tại c&aacute;c thị trường trong khu vực Đ&ocirc;ng Nam &Aacute;.</span></p>",
+            "id": 2033445,
+            "title": "Full Stack Developer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">GOD Group Ltd l&agrave; c&ocirc;ng ty chuy&ecirc;n về lĩnh vực thương mại điện tử (E-commerce), l&ecirc;n &yacute; tưởng thiết kế đồ họa in tr&ecirc;n c&aacute;c sản phẩm Print-on-Demand nền &aacute;o thun, cốc, gối, chăn, thảm&hellip; cho thị trường USA, Australia, Anh, c&aacute;c nước EU. Ngo&agrave;i ra c&ocirc;ng ty c&ograve;n tập trung v&agrave;o lập tr&igrave;nh v&agrave; sản xuất phần mềm với team developer chuy&ecirc;n nghiệp, t&agrave;i năng.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Ch&uacute;ng t&ocirc;i mong muốn trở th&agrave;nh nơi chắp c&aacute;nh cho c&aacute;c nh&acirc;n t&agrave;i trẻ, năng động để c&aacute;c bạn vượt qua mọi giới hạn đ&uacute;ng như slogan của c&ocirc;ng ty &ldquo;Beyond all borders&rdquo;.</span></p>\r\n<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Vị tr&iacute; tuyển dụng: Full Stack Developer (hoặc FE, BE ri&ecirc;ng)</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thử việc: 2 th&aacute;ng</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Lương: 10 - 40M (c&oacute; thể deal theo khả năng v&agrave; kinh nghiệm)</span></li>\r\n</ul>",
             "benefits": [
                 {
                     "icon": "fa-clock-o",
                     "name": null,
-                    "value": "Thời gian làm việc: 8h30 – 18h00, từ thứ Hai đến thứ Sáu. Nghỉ T7, CN và các ngày Lễ Tết theo quy định nhà nước."
+                    "value": "Thời gian làm việc: 7h30 - 17h00, nghỉ trưa từ 11h30 đến 13h. Làm việc từ thứ 2 – thứ 7 (nghỉ luân phiên thứ 7 hàng tuần)"
                 },
                 {
-                    "icon": "fa-book",
+                    "icon": "fa-lightbulb-o",
                     "name": null,
-                    "value": "Được đào tạo, hướng dẫn công việc tận tình trong thời gian thử việc"
-                },
-                {
-                    "icon": "fa-laptop",
-                    "name": null,
-                    "value": "Được trang bị laptop và các công cụ cần thiết cho công việc;"
+                    "value": "Môi trường làm việc năng động, trẻ trung."
                 },
                 {
                     "icon": "fa-money",
                     "name": null,
-                    "value": "Lương tháng 13, thưởng cuối năm, thưởng dự án; thưởng KPI hàng tháng"
+                    "value": "Thưởng tháng lương 13, thưởng tháng lương 14,15 theo kết quả kinh doanh của công ty."
                 },
                 {
                     "icon": "fa-file-text",
                     "name": null,
-                    "value": "Đóng ngay BHXH-BHYT theo luật định, Chính sách riêng của công ty: Bảo hiểm tai nạn 24/7 và Bảo hiểm sức khỏe Bảo Việt Care."
-                },
-                {
-                    "icon": "fa-diamond",
-                    "name": null,
-                    "value": "Chế độ phúc lợi, công đoàn đầy đủ, hấp dẫn."
-                },
-                {
-                    "icon": "fa-plane",
-                    "name": null,
-                    "value": "Du lịch công ty hàng năm, Teambuilding 4 lần/năm và các hoạt động nội bộ định kỳ hàng tháng..."
+                    "value": "BHXH, BHYT…. đầy đủ theo Luật lao động."
                 },
                 {
                     "icon": "fa-line-chart",
                     "name": null,
-                    "value": "Cơ hội thăng tiến, xét điều chỉnh lương 2 lần/năm với nhiều cơ hội phát triển nghề nghiệp;"
+                    "value": "Có cơ hội phát triển cao trong nghề nghiệp, tiếp cận kho tài liệu hỗ trợ công việc vô cùng bổ ích, được đào tạo các kiến thức cần thiết định kỳ."
                 },
                 {
-                    "icon": "fa-suitcase",
+                    "icon": "fa-cutlery",
                     "name": null,
-                    "value": "Được tham gia công tác tại nước ngoài theo dự án: Thái Lan, Lào, Myanmar, Cambodia"
+                    "value": "Ăn trưa và nghỉ trưa tại văn phòng."
                 },
                 {
-                    "icon": "fa-users",
+                    "icon": "fa-plane",
                     "name": null,
-                    "value": "Môi trường trẻ trung, năng động, văn hóa giúp đỡ chia sẻ từ các đồng nghiệp."
+                    "value": "Team building, tiệc liên hoan theo tháng hoặc quý, du lịch ít nhất 1 lần/năm."
                 }
             ],
-            "owned_id": 55771,
+            "owned_id": 94501,
             "company": {
-                "id": 55771,
-                "display_name": "Just - In - Time Solutions",
-                "image_logo": "https://assets.topdev.vn/images/2020/05/06/OWmaalJb0oMGdm4ZjLmApPOR6yqRpEci.jpg",
-                "slug": "just-in-time-solutions",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/just-in-time-solutions-55771",
-                "tagline": "A leading regional financial software provider.",
+                "id": 94501,
+                "display_name": "GOD Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/12/29/TopDev-sfsdfsdf-1703822858.png",
+                "slug": "god-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/god-group-94501",
+                "tagline": "Beyond all borders",
                 "addresses": {
                     "address_region_ids": [
-                        "79",
-                        "01",
-                        "79",
-                        "01"
+                        "27"
                     ],
-                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội",
+                    "address_region_list": "Tỉnh Bắc Ninh",
                     "address_region_array": [
-                        "Thành phố Hồ Chí Minh",
-                        "Thành phố Hà Nội",
-                        "Thành phố Hồ Chí Minh",
-                        "Thành phố Hà Nội"
+                        "Tỉnh Bắc Ninh"
                     ],
                     "full_addresses": [
-                        "Sunrise City - North, 27 Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh",
-                        "Tòa nhà Imperia Garden, Số 203 Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
-                        "180/77/15 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-                        "Imperia Garden 143 Nguyễn Tuân, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội"
+                        "30 Lý Thái Tổ, Phường Ninh Xá, Thành phố Bắc Ninh, Tỉnh Bắc Ninh"
                     ],
-                    "sort_addresses": "Quận 7, Hồ Chí Minh - Quận Thanh Xuân, Hà Nội - Quận Bình Thạnh, Hồ Chí Minh - Quận Thanh Xuân, Hà Nội",
+                    "sort_addresses": "Thành phố Bắc Ninh, Bắc Ninh",
                     "collection_addresses": [
                         {
-                            "id": 9643,
+                            "id": 194440,
                             "ward": {
-                                "id": "27475",
-                                "value": "Phường Tân Hưng"
+                                "id": "09184",
+                                "value": "Phường Ninh Xá"
                             },
                             "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
+                                "id": "27",
+                                "value": "Tỉnh Bắc Ninh"
                             },
                             "district": {
-                                "id": "778",
-                                "value": "Quận 7"
+                                "id": "256",
+                                "value": "Thành phố Bắc Ninh"
                             },
-                            "postal_code": "700000",
-                            "full_address": "Sunrise City - North, 27 Nguyễn Hữu Thọ, Phường Tân Hưng, Quận 7, Thành phố Hồ Chí Minh",
+                            "postal_code": "790000",
+                            "full_address": "30 Lý Thái Tổ, Phường Ninh Xá, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
                             "latitude": null,
                             "longitude": null,
-                            "street": "Sunrise City - North, 27 Nguyễn Hữu Thọ"
-                        },
-                        {
-                            "id": 146228,
-                            "ward": {
-                                "id": "00355",
-                                "value": "Phường Thanh Xuân Trung"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "009",
-                                "value": "Quận Thanh Xuân"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Tòa nhà Imperia Garden, Số 203 Nguyễn Huy Tưởng, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Tòa nhà Imperia Garden, Số 203 Nguyễn Huy Tưởng"
-                        },
-                        {
-                            "id": 160333,
-                            "ward": {
-                                "id": "26956",
-                                "value": "Phường 22"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "765",
-                                "value": "Quận Bình Thạnh"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "180/77/15 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "180/77/15 Nguyễn Hữu Cảnh"
-                        },
-                        {
-                            "id": 202386,
-                            "ward": {
-                                "id": "00355",
-                                "value": "Phường Thanh Xuân Trung"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "009",
-                                "value": "Quận Thanh Xuân"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Imperia Garden 143 Nguyễn Tuân, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Imperia Garden 143 Nguyễn Tuân"
+                            "street": "30 Lý Thái Tổ"
                         }
                     ],
-                    "address_short_region_list": "Hồ Chí Minh, Hà Nội, Hồ Chí Minh, Hà Nội"
+                    "address_short_region_list": "Bắc Ninh"
                 },
-                "image_cover": "https://assets.topdev.vn/images/2020/05/06/ejPZG28ZjJ6GhnMOgrpexalrcfDm8UaU.jpg",
+                "image_cover": "https://assets.topdev.vn/images/2023/12/29/TopDev-oGFUus5bekPNkwCr-1703833998.png",
                 "image_galleries": [
                     {
-                        "id": 48433,
-                        "url": "https://assets.topdev.vn/files/employers/2017/04/24/Just1.jpg",
-                        "path": "/files/employers/2017/04/24/Just1.jpg",
-                        "name": "Just1.jpg",
+                        "id": 524066,
+                        "url": "https://assets.topdev.vn/images/2023/12/29/TopDev-8b28619175621ded3b19bbda9d27519d-1703822858.png",
+                        "path": "/images/2023/12/29/TopDev-8b28619175621ded3b19bbda9d27519d-1703822858.png",
+                        "name": "8b28619175621ded3b19bbda9d27519d.png",
                         "uploaded": {
-                            "date": "08-02-2020",
-                            "datetime": "2020-02-08 17:20:11",
-                            "since": "4 years ago",
-                            "timestamp": 1581157211
+                            "date": "29-12-2023",
+                            "datetime": "2023-12-29 11:07:39",
+                            "since": "5 months ago",
+                            "timestamp": 1703822859
                         },
                         "source": "Unknown"
                     },
                     {
-                        "id": 48434,
-                        "url": "https://assets.topdev.vn/files/employers/2017/04/24/just33.jpg",
-                        "path": "/files/employers/2017/04/24/just33.jpg",
-                        "name": "just33.jpg",
+                        "id": 524132,
+                        "url": "https://assets.topdev.vn/images/2023/12/29/TopDev-BgQfc5I0u1QTzDA8-1703833833.jpg",
+                        "path": "/images/2023/12/29/TopDev-BgQfc5I0u1QTzDA8-1703833833.jpg",
+                        "name": "bmvU124WGYKLKAh4getHIAdLHYgPSAJN56VMWooC.jpg",
                         "uploaded": {
-                            "date": "08-02-2020",
-                            "datetime": "2020-02-08 17:20:12",
-                            "since": "4 years ago",
-                            "timestamp": 1581157212
+                            "date": "29-12-2023",
+                            "datetime": "2023-12-29 14:10:34",
+                            "since": "5 months ago",
+                            "timestamp": 1703833834
                         },
                         "source": "Unknown"
                     },
                     {
-                        "id": 48437,
-                        "url": "https://assets.topdev.vn/files/employers/2019/07/05/04.jpg",
-                        "path": "/files/employers/2019/07/05/04.jpg",
-                        "name": "04.jpg",
+                        "id": 524133,
+                        "url": "https://assets.topdev.vn/images/2023/12/29/TopDev-0EYz38pqvdtae2CC-1703833957.jpg",
+                        "path": "/images/2023/12/29/TopDev-0EYz38pqvdtae2CC-1703833957.jpg",
+                        "name": "xUZXMvTOBjhhNQZInzWnnnHTxrGKHIlHCEC8RKPJ.jpg",
                         "uploaded": {
-                            "date": "08-02-2020",
-                            "datetime": "2020-02-08 17:20:12",
-                            "since": "4 years ago",
-                            "timestamp": 1581157212
+                            "date": "29-12-2023",
+                            "datetime": "2023-12-29 14:12:37",
+                            "since": "5 months ago",
+                            "timestamp": 1703833957
                         },
                         "source": "Unknown"
                     },
                     {
-                        "id": 48438,
-                        "url": "https://assets.topdev.vn/files/employers/2019/07/05/05.jpg",
-                        "path": "/files/employers/2019/07/05/05.jpg",
-                        "name": "05.jpg",
+                        "id": 524134,
+                        "url": "https://assets.topdev.vn/images/2023/12/29/TopDev-3CrOLWElEFSP0tzU-1703833957.jpg",
+                        "path": "/images/2023/12/29/TopDev-3CrOLWElEFSP0tzU-1703833957.jpg",
+                        "name": "cvMhqqASvIovWM4Bf3l8sIVH05nZKVuDK1gJc7qo.jpg",
                         "uploaded": {
-                            "date": "08-02-2020",
-                            "datetime": "2020-02-08 17:20:12",
-                            "since": "4 years ago",
-                            "timestamp": 1581157212
+                            "date": "29-12-2023",
+                            "datetime": "2023-12-29 14:12:38",
+                            "since": "5 months ago",
+                            "timestamp": 1703833958
                         },
                         "source": "Unknown"
                     }
                 ],
                 "benefits": [
                     {
-                        "value": "Được đào tạo, hướng dẫn công việc tận tình trong thời gian thử việc.",
-                        "icon": "fa-graduation-cap"
+                        "value": "Môi trường làm việc năng động, trẻ trung",
+                        "icon": "fa-check-circle"
                     },
                     {
-                        "value": "Được trang bị laptop và các công cụ cần thiết cho công việc;",
-                        "icon": "fa-laptop"
+                        "value": "Thưởng tháng lương 13, thưởng tháng lương 14,15 theo kết quả kinh doanh của công ty",
+                        "icon": "fa-check-circle"
                     },
                     {
-                        "value": "Lương tháng 13, thưởng cuối năm, thưởng dự án",
-                        "icon": "fa-diamond"
+                        "value": "BHXH, BHYT…. đầy đủ theo Luật lao động",
+                        "icon": "fa-check-circle"
                     },
                     {
-                        "value": "Được tham gia công tác tại các nước Thái Lan, Lào, Myanmar, Cambodia theo dự án. Cơ hội trải nghiệm công việc và thăng tiến trong tương lai.",
-                        "icon": "fa-plane"
+                        "value": "Có cơ hội phát triển cao trong nghề nghiệp, tiếp cận kho tài liệu hỗ trợ công việc vô cùng bổ ích, được đào tạo các kiến thức cần thiết định kỳ",
+                        "icon": "fa-check-circle"
                     },
                     {
-                        "value": "Được đóng ngay BHXH theo luật định, ngoài ra có thêm chính sách riêng của công ty: Bảo hiểm tai nạn 24/7 và Bảo hiểm sức khỏe Bảo Việt Care.",
-                        "icon": "fa-book"
+                        "value": "Ăn trưa và nghỉ trưa tại văn phòng",
+                        "icon": "fa-check-circle"
                     },
                     {
-                        "value": "Các chế độ phúc lợi, công đoàn đầy đủ theo luật định.",
-                        "icon": "fa-align-justify"
-                    },
-                    {
-                        "value": "Du lịch công ty hàng năm, Teambuilding 4 lần/năm và các hoạt động nội bộ định kỳ hàng tháng…",
-                        "icon": "fa-soccer-ball-o"
-                    },
-                    {
-                        "value": "Định hướng công việc, xét điều chỉnh lương hàng năm với nhiều cơ hội phát triển nghề nghiệp",
-                        "icon": "fa-child"
-                    },
-                    {
-                        "value": "Môi trường trẻ trung, năng động và nhiều chế độ hấp dẫn khác….",
-                        "icon": "fa-lightbulb-o"
-                    },
-                    {
-                        "value": "Thời gian làm việc: 8h30 – 18h30, từ thứ Hai đến thứ Sáu. Nghỉ T7,CN và các ngày Lễ Tết theo quy luật định.",
-                        "icon": "fa-calendar-check-o"
+                        "value": "Team building, tiệc liên hoan theo tháng hoặc quý, du lịch ít nhất 1 lần/năm",
+                        "icon": "fa-check-circle"
                     }
                 ],
                 "skills_arr": [
-                    "ASP.NET",
-                    "C#",
-                    ".NET",
-                    ".NET Core"
+                    "Golang",
+                    "Kotlin",
+                    "Flutter",
+                    "React"
                 ],
                 "industries_arr": [
-                    "Ngân Hàng"
+                    "Software",
+                    "Phần Mềm",
+                    "Thương mại điện tử/ Bán lẻ",
+                    "Dịch vụ IT"
                 ],
-                "industries_str": "Ngân Hàng",
+                "industries_str": "Software, Phần Mềm, Thương mại điện tử/ Bán lẻ, Dịch vụ IT",
                 "is_followed": false
             },
             "extra_skills": [],
-            "skills_str": "SQL, Tester, Manual Test",
+            "skills_str": "Front-End, Back-End, Full-Stack",
             "skills_arr": [
-                "SQL",
-                "Tester",
-                "Manual Test"
+                "Front-End",
+                "Back-End",
+                "Full-Stack"
             ],
             "skills_ids": [
-                28,
-                78,
-                8379
+                209,
+                210,
+                211
             ],
             "job_types_str": "In Office",
-            "job_levels_str": "Junior, Middle",
+            "job_levels_str": "Junior, Middle, Senior",
             "job_levels_arr": [
                 "Junior",
-                "Middle"
+                "Middle",
+                "Senior"
             ],
             "job_levels_ids": [
                 8664,
-                8665
+                8665,
+                8666
             ],
             "addresses": {
                 "address_region_ids": [
-                    "01"
+                    "27"
                 ],
-                "address_region_list": "Thành phố Hà Nội",
+                "address_region_list": "Tỉnh Bắc Ninh",
                 "address_region_array": [
-                    "Thành phố Hà Nội"
+                    "Tỉnh Bắc Ninh"
                 ],
                 "full_addresses": [
-                    "Imperia Garden 143 Nguyễn Tuân, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội"
+                    "30 Lý Thái Tổ, Phường Ninh Xá, Thành phố Bắc Ninh, Tỉnh Bắc Ninh"
                 ],
-                "sort_addresses": "Quận Thanh Xuân, Hà Nội",
+                "sort_addresses": "Thành phố Bắc Ninh, Bắc Ninh",
                 "collection_addresses": [
                     {
-                        "id": 202386,
+                        "id": 194440,
                         "ward": {
-                            "id": "00355",
-                            "value": "Phường Thanh Xuân Trung"
+                            "id": "09184",
+                            "value": "Phường Ninh Xá"
                         },
                         "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
+                            "id": "27",
+                            "value": "Tỉnh Bắc Ninh"
                         },
                         "district": {
-                            "id": "009",
-                            "value": "Quận Thanh Xuân"
+                            "id": "256",
+                            "value": "Thành phố Bắc Ninh"
                         },
-                        "postal_code": "100000",
-                        "full_address": "Imperia Garden 143 Nguyễn Tuân, Phường Thanh Xuân Trung, Quận Thanh Xuân, Thành phố Hà Nội",
+                        "postal_code": "790000",
+                        "full_address": "30 Lý Thái Tổ, Phường Ninh Xá, Thành phố Bắc Ninh, Tỉnh Bắc Ninh",
                         "latitude": null,
                         "longitude": null,
-                        "street": "Imperia Garden 143 Nguyễn Tuân"
+                        "street": "30 Lý Thái Tổ"
                     }
                 ]
             },
             "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/junior-tester-just-in-time-solutions-2033443",
+            "detail_url": "https://topdev.vn/viec-lam/full-stack-developer-god-group-2033445",
             "job_url": "",
-            "slug": "junior-tester-just-in-time-solutions",
+            "slug": "full-stack-developer-god-group",
             "salary": {
                 "is_negotiable": "0",
                 "unit": "MONTH",
                 "min": "1*******",
-                "max": "1*******",
+                "max": "4*******",
                 "currency": "VND",
                 "min_estimate": 0,
                 "max_estimate": 0,
                 "currency_estimate": "VND",
-                "value": "1******* - 1******* VND"
+                "value": "1******* - 4******* VND"
             },
             "features": [],
             "packages": [
@@ -3250,14 +2883,295 @@
             "requirements_arr": [
                 {
                     "value": [
-                        "Có ít nhất 1 năm kinh nghiệm kiểm thử phần mềm",
-                        "Yêu cầu viết testcase bằng tiếng Anh là bắt buộc. Có thể giao tiếp tiếng Anh là lợi thế",
-                        "Nắm vững quy trình kiểm thử phần mềm và quy trình phát triển phần mềm;",
-                        "Thành thạo các kỹ thuật, kỹ năng thiết kế, viết và thực thi Test case;",
-                        "Có kinh nghiệm sử dụng SQL để kiểm tra số liệu;",
-                        "Tư duy logic, tỉ mỉ, có khả năng quan sát nhạy bén và kỹ năng phân tích/ giải quyết vấn đề;",
-                        "Có các kiến thức nghiệp vụ về lĩnh vực Ngân hàng, Tài chính là lợi thế",
-                        "Ưu tiên các bạn nam có tiếng Anh giao tiếp tốt, sẵn sàng đi công tác nước ngoài."
+                        "Giới tính: Nam/Nữ",
+                        "Trình độ học vấn: Tốt nghiệp đại học chuyên ngành Công nghệ Thông tin, Kỹ thuật phần mềm hoặc liên quan đến IT trở lên",
+                        "Trình độ ngoại ngữ: Toeic > 500 hoặc các chứng chỉ khác tương đương. Đọc hiểu tiếng Anh tốt.",
+                        "Thành thạo 1 trong các ngôn ngữ Golang/ReactJs…",
+                        "Mong muốn học kinh nghiệm xây dựng sản phẩm, ứng dụng scale lớn.",
+                        "Ưu tiên ứng viên có kinh nghiệm xây dựng các ứng dụng web quy mô lớn."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033450,
+            "title": "Remote - Research Software Developer (Full-time/Part-time)",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are looking for full-time or <strong>part-time</strong> research software developers including <strong>Junior/Senior/Lead Algorithm Engineers</strong>, Software Engineers, and <strong>Frontend Engineers</strong>. You will join our product development or research project. You will be mentored by and work with <a href=\"https://cs.illinois.edu/about/people/faculty/kcchang\">Professor Kevin Chang</a> at <a href=\"https://cs.illinois.edu/\">CS @ University of Illinois at Urbana-Champaign</a>&nbsp;(UIUC), senior engineers at <a href=\"https://www.cazoodle.com/\">Cazoodle Inc. Hanoi</a>, and senior graduate students at UIUC. You can work <strong>remotely</strong> online or <strong>physically</strong> in our office in Hanoi. You are expected to commit flexibly from 20 hours/week (part-time) to 40 hours/week (full-time position).</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Pay: $850 - 3500/month (full-time) or $5 - 20/hour (part-time), depending on qualification."
+                }
+            ],
+            "owned_id": 61244,
+            "company": {
+                "id": 61244,
+                "display_name": "CAZOODLE",
+                "image_logo": "https://assets.topdev.vn/images/2022/08/11/TopDev-h1-AnhNguyen-1660209682.png",
+                "slug": "cazoodle",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cazoodle-61244",
+                "tagline": "Cazoodle builds new search engines by transforming Web content into databases",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Đống Đa, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 149230,
+                            "ward": {
+                                "id": "00217",
+                                "value": "Phường Trung Liệt"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "006",
+                                "value": "Quận Đống Đa"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 18, ngõ 11 Thái Hà"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2022/08/11/TopDev-36F61D62-4FE6-4782-8B90-141403BD3301-AnhNguyen-1660209682.jpg",
+                "image_galleries": [
+                    {
+                        "id": 346509,
+                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-DC720E35-D1A0-4867-9E31-842361A513F4-AnhNguyen-1660209683.jpg",
+                        "path": "/images/2022/08/11/TopDev-DC720E35-D1A0-4867-9E31-842361A513F4-AnhNguyen-1660209683.jpg",
+                        "name": "DC720E35-D1A0-4867-9E31-842361A513F4 - Anh Nguyen.jpg",
+                        "uploaded": {
+                            "date": "11-08-2022",
+                            "datetime": "2022-08-11 16:21:23",
+                            "since": "1 year ago",
+                            "timestamp": 1660209683
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 346510,
+                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-29700697711877628220049543582621437098350192n-AnhNguyen-1660209683.jpg",
+                        "path": "/images/2022/08/11/TopDev-29700697711877628220049543582621437098350192n-AnhNguyen-1660209683.jpg",
+                        "name": "297006977_1187762822004954_3582621437098350192_n - Anh Nguyen.jpg",
+                        "uploaded": {
+                            "date": "11-08-2022",
+                            "datetime": "2022-08-11 16:21:23",
+                            "since": "1 year ago",
+                            "timestamp": 1660209683
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 346511,
+                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-IMG0517-AnhNguyen-1660209683.JPG",
+                        "path": "/images/2022/08/11/TopDev-IMG0517-AnhNguyen-1660209683.JPG",
+                        "name": "IMG_0517 - Anh Nguyen.JPG",
+                        "uploaded": {
+                            "date": "11-08-2022",
+                            "datetime": "2022-08-11 16:21:24",
+                            "since": "1 year ago",
+                            "timestamp": 1660209684
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 346512,
+                        "url": "https://assets.topdev.vn/images/2022/08/11/TopDev-f4ce5a64bf22a241207f535108a80f2b-1660209684.jpg",
+                        "path": "/images/2022/08/11/TopDev-f4ce5a64bf22a241207f535108a80f2b-1660209684.jpg",
+                        "name": "f4ce5a64bf22a241207f535108a80f2b.jpg",
+                        "uploaded": {
+                            "date": "11-08-2022",
+                            "datetime": "2022-08-11 16:21:24",
+                            "since": "1 year ago",
+                            "timestamp": 1660209684
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Competitive compensation package with private health insurance, training and sport supports",
+                        "icon": "fa-check-square-o"
+                    },
+                    {
+                        "value": "Appealing bonus at the end of each year",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Good environment for improving your personal and technical skills",
+                        "icon": "fa-cubes"
+                    },
+                    {
+                        "value": "Opportunity to work at all fronts to develop such skills required for a full-stack developer",
+                        "icon": "fa-bar-chart-o"
+                    },
+                    {
+                        "value": "Monday - Friday",
+                        "icon": "fa-calendar-check-o"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "MySQL",
+                    "Python",
+                    ".NET"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Front-End, Back-End, Full-Stack",
+            "skills_arr": [
+                "Front-End",
+                "Back-End",
+                "Full-Stack"
+            ],
+            "skills_ids": [
+                209,
+                210,
+                211
+            ],
+            "job_types_str": "Remote",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Đống Đa, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 149230,
+                        "ward": {
+                            "id": "00217",
+                            "value": "Phường Trung Liệt"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "006",
+                            "value": "Quận Đống Đa"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Số 18, ngõ 11 Thái Hà, Phường Trung Liệt, Quận Đống Đa, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Số 18, ngõ 11 Thái Hà"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/remote-research-software-developer-full-time-part-time-cazoodle-2033450",
+            "job_url": "",
+            "slug": "remote-research-software-developer-full-time-part-time-cazoodle",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "05-06-2024",
+                "datetime": "00:00:00 05-06-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "25-06-2024",
+                "datetime": "02:00:06 25-06-2024",
+                "since": "1 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "You are an ideal candidate if you can:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Effectively communicate in English.",
+                        "Develop backend or frontend or full-stack software.",
+                        "Read research papers and understand how to reproduce.",
+                        "Build/implement AI/NLP/DB/DM techniques such as word embedding, information extraction, large language model, database querying, and web search."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "* Pay: $850 - 3500/month (full-time) or $5 - 20/hour (part-time), depending on qualification."
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "* Note:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Submit your application at This form (required)",
+                        "Apply with English CV"
                     ],
                     "icon": "fa-circle"
                 }
@@ -3271,10 +3185,10 @@
         "next": "http://api.topdev.vn/td/v2/jobs/?page=8"
     },
     "meta": {
-        "total": 762,
+        "total": 742,
         "per_page": 10,
         "current_page": 7,
-        "last_page": 77,
+        "last_page": 75,
         "from": 61,
         "to": 70
     }
