@@ -1,0 +1,770 @@
+{
+    "_type": "jobs",
+    "aggregations": {
+        "categories": [],
+        "status": [
+            {
+                "key": 3,
+                "doc_count": 642
+            }
+        ]
+    },
+    "data": [
+        {
+            "id": 2033499,
+            "title": "[Hà Nội] Chuyên viên Phân tích nghiệp vụ",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Trung Tâm Công nghệ thông tin MobiFone"
+                },
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Làm việc trong môi trường chuyên nghiệp, ổn định"
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Chăm sóc sức khỏe bởi gói Bảo hiểm với quyền lợi lên tới $8000"
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Các chế độ bồi dưỡng, phụ cấp ăn trưa, thuê bao nội bộ"
+                },
+                {
+                    "icon": "fa-angellist",
+                    "name": null,
+                    "value": "Trải nghiệm các hoạt động teambuilding, văn hóa, du lịch, du xuân, nghỉ mát hè trong và ngoài nước đa dạng…"
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Thường xuyên tham dự các khóa đào tạo phong phú nhằm giúp CBCNV không ngừng phát triển bản thân, nâng cao các kỹ năng cũng như chuyên môn nghề nghiệp"
+                }
+            ],
+            "owned_id": 83682,
+            "company": {
+                "id": 83682,
+                "display_name": "Trung Tâm Công nghệ thông tin Mobifone",
+                "image_logo": "https://assets.topdev.vn/images/2022/08/16/TopDev-logohAT8HlmQCaufvVvrCsjpIGZiVwAD6RSZ-1660654919.jpeg",
+                "slug": "trung-tam-cong-nghe-thong-tin-mobifone",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/trung-tam-cong-nghe-thong-tin-mobifone-83682",
+                "tagline": "Kết Nối Giá Trị - Khơi Dậy Tiềm Năng",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "48"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Đà Nẵng",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Đà Nẵng"
+                    ],
+                    "full_addresses": [
+                        "Văn phòng Hà Nội: Tầng 9-10, tòa nhà Thái Nam, đường Dương Đình  Nghệ, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Văn phòng Đà Nẵng: Tầng 8, Tòa nhà Mobifone, số 586 Nguyễn Hữu  Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Thành phố Đà Nẵng"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận Cẩm Lệ, Đà Nẵng",
+                    "collection_addresses": [
+                        {
+                            "id": 148390,
+                            "ward": {
+                                "id": "00172",
+                                "value": "Phường Yên Hoà"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Văn phòng Hà Nội: Tầng 9-10, tòa nhà Thái Nam, đường Dương Đình  Nghệ, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Văn phòng Hà Nội: Tầng 9-10, tòa nhà Thái Nam, đường Dương Đình  Nghệ"
+                        },
+                        {
+                            "id": 148391,
+                            "ward": {
+                                "id": "20260",
+                                "value": "Phường Khuê Trung"
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": "495",
+                                "value": "Quận Cẩm Lệ"
+                            },
+                            "postal_code": "550000",
+                            "full_address": "Văn phòng Đà Nẵng: Tầng 8, Tòa nhà Mobifone, số 586 Nguyễn Hữu  Thọ, Phường Khuê Trung, Quận Cẩm Lệ, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Văn phòng Đà Nẵng: Tầng 8, Tòa nhà Mobifone, số 586 Nguyễn Hữu  Thọ"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Đà Nẵng"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2022/10/07/TopDev-HEY02328-1665113108.jpg",
+                "image_galleries": [
+                    {
+                        "id": 357413,
+                        "url": "https://assets.topdev.vn/images/2022/10/07/TopDev-b8b38a939d67ea531a26c73eab3afa77-1665107464.jpeg",
+                        "path": "/images/2022/10/07/TopDev-b8b38a939d67ea531a26c73eab3afa77-1665107464.jpeg",
+                        "name": "b8b38a939d67ea531a26c73eab3afa77.jpeg",
+                        "uploaded": {
+                            "date": "07-10-2022",
+                            "datetime": "2022-10-07 08:51:05",
+                            "since": "1 year ago",
+                            "timestamp": 1665107465
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 357433,
+                        "url": "https://assets.topdev.vn/images/2022/10/07/TopDev-65dc3e11353747bff4819e67928925cb-1665113109.jpg",
+                        "path": "/images/2022/10/07/TopDev-65dc3e11353747bff4819e67928925cb-1665113109.jpg",
+                        "name": "65dc3e11353747bff4819e67928925cb.jpg",
+                        "uploaded": {
+                            "date": "07-10-2022",
+                            "datetime": "2022-10-07 10:25:09",
+                            "since": "1 year ago",
+                            "timestamp": 1665113109
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Thu nhập lên đến 480 triệu/năm",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Quyền lợi về Bảo hiểm xã hội/thất nghiệp và các phúc lợi hấp dẫn khác, gói bảo hiểm y tế quyền lợi đến $8000",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Các chế độ bồi dưỡng, ăn trưa 1.000.000đ/tháng, thuê bao nội bộ 320.000đ/tháng",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Được đào tạo phát triển bản thân, nâng cao các kỹ năng và chuyên môn nghề nghiệp",
+                        "icon": "fa-child"
+                    },
+                    {
+                        "value": "Làm việc tại môi trường chuyên nghiệp, năng động, trẻ trung và trải nghiệm các hoạt động văn hóa doanh nghiệp đặc sắc",
+                        "icon": "fa-angellist"
+                    },
+                    {
+                        "value": "Cơ hội tiếp cận với những doanh nghiệp, dự án lớn, những xu hướng công nghệ/nền tảng mới nhất, thỏa sức sáng tạo phát triển bản thân",
+                        "icon": "fa-lightbulb-o"
+                    },
+                    {
+                        "value": "Thời gian làm việc: 08h - 17h từ Thứ 2 đến Thứ 6 hàng tuần (Nghỉ Thứ 7, CN)",
+                        "icon": "fa-calendar-check-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Android",
+                    "iOS",
+                    "J2EE",
+                    "JavaScript",
+                    "SQL"
+                ],
+                "industries_arr": [
+                    "Viễn Thông",
+                    "Phần Mềm"
+                ],
+                "industries_str": "Viễn Thông, Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Business Analyst",
+            "skills_arr": [
+                "Business Analyst"
+            ],
+            "skills_ids": [
+                1456
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Văn phòng Hà Nội: Tầng 9-10, tòa nhà Thái Nam, đường Dương Đình  Nghệ, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Cầu Giấy, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 148390,
+                        "ward": {
+                            "id": "00172",
+                            "value": "Phường Yên Hoà"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "005",
+                            "value": "Quận Cầu Giấy"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Văn phòng Hà Nội: Tầng 9-10, tòa nhà Thái Nam, đường Dương Đình  Nghệ, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Văn phòng Hà Nội: Tầng 9-10, tòa nhà Thái Nam, đường Dương Đình  Nghệ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/ha-noi-chuyen-vien-phan-tich-nghiep-vu-trung-tam-cong-nghe-thong-tin-mobifone-2033499",
+            "job_url": "",
+            "slug": "ha-noi-chuyen-vien-phan-tich-nghiep-vu-trung-tam-cong-nghe-thong-tin-mobifone",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "11-06-2024",
+                "datetime": "00:00:00 11-06-2024",
+                "since": "2 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:05 21-06-2024",
+                "since": "5 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp đại học chuyên ngành Công nghệ Thông tin, Toán Tin hoặc tương đương.",
+                        "Dưới 35 tuổi",
+                        "Có kiến thức về CNTT: Cấu trúc phần mềm, phân tích và thiết kế hệ thống, cơ sở dữ liệu",
+                        "Thuần thục các kỹ năng: Lập kế hoạch, định vị chiến lược, đàm phán, thuyết trình, thuyết phục khách hàng, giao tiếp và làm việc nhóm",
+                        "Có tư duy phân tích hệ thống, tư duy logic, kỹ năng lập luận và phản biện",
+                        "Chủ động, có trách nhiệm, chịu được áp lực công việc cao",
+                        "Sử dụng thành thạo các techniques như: Market Analysis; Brainstorming; Backlog Management; Use Cases and Scenarios; User Stories; Business Rules Analysis",
+                        "Kiến thức về quy trình phát triển phần mềm",
+                        "Tư duy tốt, có khả năng nghiên cứu, đánh giá và cập nhật công nghệ mới"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033500,
+            "title": "Java Solution Architect (Banking Domain)",
+            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are looking for a <strong>Java Solution Architect</strong> to join our software team developing advanced software components for Banking Enterprise Clients.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">By joining with us, you will be part of a high performance and enthusiastic software development team in a pleasant work environment.</span></li>\r\n</ul>",
+            "benefits": [],
+            "owned_id": 61226,
+            "company": {
+                "id": 61226,
+                "display_name": "FPT Software",
+                "image_logo": "https://assets.topdev.vn/images/2021/04/12/FPTSOFT-Logo-new-NVf2j.png",
+                "slug": "fpt-software",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/fpt-software-61226",
+                "tagline": "FPT Software - You can make it!",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "79",
+                        "48",
+                        "52",
+                        "01",
+                        "79",
+                        "01",
+                        "31",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Đà Nẵng, Tỉnh Bình Định, Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội, Thành phố Hải Phòng, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Đà Nẵng",
+                        "Tỉnh Bình Định",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội",
+                        "Thành phố Hải Phòng",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "FPT Building Cầu Giấy, 17 phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "Tòa nhà FTown - Lô T2, đường D1, khu CNC, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "FPT Complex Building, Nam Kỳ Khởi Nghĩa, Phường Hoà Hải, Quận Ngũ Hành Sơn, Thành phố Đà Nẵng",
+                        "FPT Software Quy Nhơn- Tòa nhà B1, Đại Lộ Khoa học, Phường Ghềnh Ráng, Thành phố Qui Nhơn, Tỉnh Bình Định",
+                        "FPT Tower - 10 P. Phạm Văn Bạch, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "F-Town 3, Võ Chí Công, Phường Long Thạnh Mỹ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "F-Ville2, Hoa Lac High Tech Park, Thang Long Road, Huyện Thạch Thất, Thành phố Hà Nội",
+                        "., Thành phố Hải Phòng",
+                        "., Quận Long Biên, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Thành phố Thủ Đức, Hồ Chí Minh - Quận Ngũ Hành Sơn, Đà Nẵng - Thành phố Qui Nhơn, Bình Định - Quận Cầu Giấy, Hà Nội - Thành phố Thủ Đức, Hồ Chí Minh - Huyện Thạch Thất, Hà Nội - Hải Phòng - Quận Long Biên, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 18578,
+                            "ward": {
+                                "id": "00167",
+                                "value": "Phường Dịch Vọng Hậu"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "FPT Building Cầu Giấy, 17 phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "FPT Building Cầu Giấy, 17 phố Duy Tân"
+                        },
+                        {
+                            "id": 128175,
+                            "ward": {
+                                "id": "26836",
+                                "value": "Phường Tân Phú"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "762",
+                                "value": "Thành phố Thủ Đức"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Tòa nhà FTown - Lô T2, đường D1, khu CNC, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tòa nhà FTown - Lô T2, đường D1, khu CNC"
+                        },
+                        {
+                            "id": 129817,
+                            "ward": {
+                                "id": "20290",
+                                "value": "Phường Hoà Hải"
+                            },
+                            "province": {
+                                "id": "48",
+                                "value": "Thành phố Đà Nẵng"
+                            },
+                            "district": {
+                                "id": "494",
+                                "value": "Quận Ngũ Hành Sơn"
+                            },
+                            "postal_code": "550000",
+                            "full_address": "FPT Complex Building, Nam Kỳ Khởi Nghĩa, Phường Hoà Hải, Quận Ngũ Hành Sơn, Thành phố Đà Nẵng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "FPT Complex Building, Nam Kỳ Khởi Nghĩa"
+                        },
+                        {
+                            "id": 141550,
+                            "ward": {
+                                "id": "21595",
+                                "value": "Phường Ghềnh Ráng"
+                            },
+                            "province": {
+                                "id": "52",
+                                "value": "Tỉnh Bình Định"
+                            },
+                            "district": {
+                                "id": "540",
+                                "value": "Thành phố Qui Nhơn"
+                            },
+                            "postal_code": "820000",
+                            "full_address": "FPT Software Quy Nhơn- Tòa nhà B1, Đại Lộ Khoa học, Phường Ghềnh Ráng, Thành phố Qui Nhơn, Tỉnh Bình Định",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "FPT Software Quy Nhơn- Tòa nhà B1, Đại Lộ Khoa học"
+                        },
+                        {
+                            "id": 150236,
+                            "ward": {
+                                "id": "00166",
+                                "value": "Phường Dịch Vọng"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "FPT Tower - 10 P. Phạm Văn Bạch, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "FPT Tower - 10 P. Phạm Văn Bạch"
+                        },
+                        {
+                            "id": 156404,
+                            "ward": {
+                                "id": "26833",
+                                "value": "Phường Long Thạnh Mỹ"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "762",
+                                "value": "Thành phố Thủ Đức"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "F-Town 3, Võ Chí Công, Phường Long Thạnh Mỹ, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "F-Town 3, Võ Chí Công"
+                        },
+                        {
+                            "id": 194664,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "276",
+                                "value": "Huyện Thạch Thất"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "F-Ville2, Hoa Lac High Tech Park, Thang Long Road, Huyện Thạch Thất, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "F-Ville2, Hoa Lac High Tech Park, Thang Long Road"
+                        },
+                        {
+                            "id": 202970,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "31",
+                                "value": "Thành phố Hải Phòng"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "180000",
+                            "full_address": "., Thành phố Hải Phòng",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "."
+                        },
+                        {
+                            "id": 202971,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "004",
+                                "value": "Quận Long Biên"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "., Quận Long Biên, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "."
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hồ Chí Minh, Đà Nẵng, Bình Định, Hà Nội, Hồ Chí Minh, Hà Nội, Hải Phòng, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2021/04/02/FPT-image-1-B3kvi.jpg",
+                "image_galleries": [
+                    {
+                        "id": 253937,
+                        "url": "https://assets.topdev.vn/images/2021/04/02/d5a142573ce7ec419d00a0b98cb54b13-B1gp4.jpg",
+                        "path": "/images/2021/04/02/d5a142573ce7ec419d00a0b98cb54b13-B1gp4.jpg",
+                        "name": "d5a142573ce7ec419d00a0b98cb54b13.jpg",
+                        "uploaded": {
+                            "date": "02-04-2021",
+                            "datetime": "2021-04-02 15:59:09",
+                            "since": "3 years ago",
+                            "timestamp": 1617353949
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 253938,
+                        "url": "https://assets.topdev.vn/images/2021/04/02/FPT-image-3-kSMm5.jpg",
+                        "path": "/images/2021/04/02/FPT-image-3-kSMm5.jpg",
+                        "name": "FPT - image - 3.jpg",
+                        "uploaded": {
+                            "date": "02-04-2021",
+                            "datetime": "2021-04-02 15:59:09",
+                            "since": "3 years ago",
+                            "timestamp": 1617353949
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 253939,
+                        "url": "https://assets.topdev.vn/images/2021/04/02/FPT-image-4-25tpt.jpg",
+                        "path": "/images/2021/04/02/FPT-image-4-25tpt.jpg",
+                        "name": "FPT - image - 4.jpg",
+                        "uploaded": {
+                            "date": "02-04-2021",
+                            "datetime": "2021-04-02 15:59:09",
+                            "since": "3 years ago",
+                            "timestamp": 1617353949
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 253940,
+                        "url": "https://assets.topdev.vn/images/2021/04/02/FPT-image-2-Kv5w0.jpg",
+                        "path": "/images/2021/04/02/FPT-image-2-Kv5w0.jpg",
+                        "name": "FPT - image -2.jpg",
+                        "uploaded": {
+                            "date": "02-04-2021",
+                            "datetime": "2021-04-02 15:59:09",
+                            "since": "3 years ago",
+                            "timestamp": 1617353949
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "COMPETITIVE SALARY PACKAGE based on your competent plus Annual Bonus and Project Performance Bonus “FPT care” health insurance provided by AON and is exclusive for FPT employees.",
+                        "icon": "fa-dollar"
+                    },
+                    {
+                        "value": "Annual Summer Vacation: Base on Company’s policy.",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Annual leave, working conditions follow Vietnam labor laws.",
+                        "icon": "fa-calendar"
+                    },
+                    {
+                        "value": "F-Town Campus provide many facilities for FPT Software employees such as football ground, basketball &amp; volleyball, gym &amp; yoga Centre, restaurant, cafeteria, etc.",
+                        "icon": "fa-soccer-ball-o"
+                    },
+                    {
+                        "value": "Allowance is up to 20,000,000 VND base on level.",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Other allowance such as lunch allowance, etc.",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Working time: Monday - Friday | 08:00 - 17:00",
+                        "icon": "fa-check"
+                    },
+                    {
+                        "value": "In case of emergency (COVID-19), our company will flexible support candidates for online interview.",
+                        "icon": "fa-video-camera"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "C++",
+                    "Java",
+                    "Python",
+                    ".NET"
+                ],
+                "industries_arr": [
+                    "Phần Mềm"
+                ],
+                "industries_str": "Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, Technical Leader, Solution Architect",
+            "skills_arr": [
+                "Java",
+                "Technical Leader",
+                "Solution Architect"
+            ],
+            "skills_ids": [
+                21,
+                346,
+                5194
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng Nhóm, Senior",
+            "job_levels_arr": [
+                "Trưởng Nhóm",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                7276,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Tòa nhà FTown - Lô T2, đường D1, khu CNC, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 128175,
+                        "ward": {
+                            "id": "26836",
+                            "value": "Phường Tân Phú"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "762",
+                            "value": "Thành phố Thủ Đức"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Tòa nhà FTown - Lô T2, đường D1, khu CNC, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tòa nhà FTown - Lô T2, đường D1, khu CNC"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/java-solution-architect-banking-domain-fpt-software-2033500",
+            "job_url": "",
+            "slug": "java-solution-architect-banking-domain-fpt-software",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "3***",
+                "max": "4***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "3*** - 4*** USD"
+            },
+            "features": [
+                "JobpageHighlight"
+            ],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "11-06-2024",
+                "datetime": "00:00:00 11-06-2024",
+                "since": "2 tuần trước"
+            },
+            "refreshed": {
+                "date": "21-06-2024",
+                "datetime": "02:00:05 21-06-2024",
+                "since": "5 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "8-15 years of experience in software development and 3-year experience in Technical Lead/ or Solution Architect",
+                        "Minimum 3-year experience in AWS, Azure, Micro-services, Docker, Kubernetes, Containerization",
+                        "Program Language: Full Stack Development including Java Spring, Spring boot, React, ReactJS, Angular, Ruby on Rails",
+                        "Middleware Technologies: MuleSoft, Oracle SOA Suite, IBM ESB, MQ Messaging",
+                        "Database: Oracle DB, DB2, SQL Server, MySQL",
+                        "Analyze & design the solution according to project specifications and estimation of size & efforts for the delivery. Should have in-depth knowledge of design issues and best practices.",
+                        "Excellent communication skills and documentation experience, with an emphasis on explaining business/project requirements to customers and development team.",
+                        "Proven ability to effectively manage timelines and deliverables"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": null,
+        "last": null,
+        "prev": "http://api.topdev.vn/td/v2/jobs/?page=76",
+        "next": null
+    },
+    "meta": {
+        "total": 762,
+        "per_page": 10,
+        "current_page": 77,
+        "last_page": 77,
+        "from": 761,
+        "to": 762
+    }
+}
