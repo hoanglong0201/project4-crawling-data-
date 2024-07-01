@@ -65,7 +65,7 @@ def insert_data():
                 x = job
                 ins = mycol.insert_one(x)
 
-insert_data()
+
 def fetch_benefits():
     set_job_id = {0}
     for pageNumber in range(1, LAST_PAGE + 1):
@@ -170,6 +170,7 @@ def fetch_ward():
 
 def fetch_province():
     set_province_id = {0}
+    df_province_id = 0
     for pageNumber in range(1, LAST_PAGE + 1):
         with open(f"data_job/data_{pageNumber}", 'r', encoding="utf-8") as file:
             parse = json.load(file)
@@ -181,8 +182,12 @@ def fetch_province():
                     else:
                         province_name = id_add["province"]["value"]
                         dictprov = dict(province_id= province_id, province_name= province_name)
-                        curr.execute(""" insert into province values (%s,%s)""",
+                        try:
+                            curr.execute(""" insert into province values (%s,%s)""",
                                     (dictprov['province_id'], dictprov['province_name']))
+                        except:
+                            curr.execute(""" insert into province values (%s,%s)""",
+                                         (df_province_id, dictprov['province_name']))
                     set_province_id.add(id_add["province"]["id"])
     conn.commit()
 def fetch_district():
@@ -210,6 +215,7 @@ def fetch_district():
     conn.commit()
 def fetch_address():
     set_company_id = {0}
+    set_province_id = 0
     for pageNumber in range(1, LAST_PAGE + 1):
         with open(f"data_job/data_{pageNumber}", 'r', encoding="utf-8") as file:
             parse = json.load(file)
@@ -228,12 +234,18 @@ def fetch_address():
                         #     continue
                         # else:
                         dicadd = dict(company_id = company_id, company_address_id = company_address_id, ward_id = ward_id, province_id = province_id, district_id = district_id, street = street)
-                        curr.execute(""" insert into address values (%s,%s,%s,%s,%s,%s)""",
+                        try:
+                            curr.execute(""" insert into address values (%s,%s,%s,%s,%s,%s)""",
                                      (dicadd['company_id'], dicadd['company_address_id'],dicadd['ward_id'], dicadd['province_id'],dicadd['district_id'], dicadd['street']))
+                        except:
+                            curr.execute(""" insert into address values (%s,%s,%s,%s,%s,%s)""",
+                                         (dicadd['company_id'], dicadd['company_address_id'], dicadd['ward_id'],
+                                          set_province_id, dicadd['district_id'], dicadd['street']))
                 set_company_id.add(company["company"]["id"])
     conn.commit()
 
 fetch_data()
+insert_data()
 fetch_company()
 fetch_salary()
 fetch_ward()
