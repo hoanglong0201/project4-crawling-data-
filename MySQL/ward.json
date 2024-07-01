@@ -1,101 +1,406 @@
-[{"ward_id":0, "ward_name":"undefined"},
- {"ward_id":7, "ward_name":"Ph\u01b0\u1eddng C\u1ed1ng V\u1ecb"},
- {"ward_id":8, "ward_name":"Ph\u01b0\u1eddng Li\u1ec5u Giai"},
- {"ward_id":13, "ward_name":"Ph\u01b0\u1eddng Qu\u00e1n Th\u00e1nh"},
- {"ward_id":19, "ward_name":"Ph\u01b0\u1eddng \u0110i\u1ec7n Bi\u00ean"},
- {"ward_id":25, "ward_name":"Ph\u01b0\u1eddng Ng\u1ecdc Kh\u00e1nh"},
- {"ward_id":28, "ward_name":"Ph\u01b0\u1eddng Kim M\u00e3"},
- {"ward_id":58, "ward_name":"Ph\u01b0\u1eddng L\u00fd Th\u00e1i T\u1ed5"},
- {"ward_id":82, "ward_name":"Ph\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o"},
- {"ward_id":103, "ward_name":"Ph\u01b0\u1eddng Xu\u00e2n La"},
- {"ward_id":136, "ward_name":"Ph\u01b0\u1eddng Ph\u00fac L\u1ee3i"},
- {"ward_id":166, "ward_name":"Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng"},
- {"ward_id":167, "ward_name":"Ph\u01b0\u1eddng D\u1ecbch V\u1ecdng H\u1eadu"},
- {"ward_id":172, "ward_name":"Ph\u01b0\u1eddng Y\u00ean Ho\u00e0"},
- {"ward_id":175, "ward_name":"Ph\u01b0\u1eddng Trung Ho\u00e0"},
- {"ward_id":187, "ward_name":"Ph\u01b0\u1eddng L\u00e1ng Th\u01b0\u1ee3ng"},
- {"ward_id":190, "ward_name":"Ph\u01b0\u1eddng \u00d4 Ch\u1ee3 D\u1eeba"},
- {"ward_id":199, "ward_name":"Ph\u01b0\u1eddng L\u00e1ng H\u1ea1"},
- {"ward_id":217, "ward_name":"Ph\u01b0\u1eddng Trung Li\u1ec7t"},
- {"ward_id":235, "ward_name":"Ph\u01b0\u1eddng Ng\u00e3 T\u01b0 S\u1edf"},
- {"ward_id":247, "ward_name":"Ph\u01b0\u1eddng Ph\u1ea1m \u0110\u00ecnh H\u1ed5"},
- {"ward_id":256, "ward_name":"Ph\u01b0\u1eddng L\u00ea \u0110\u1ea1i H\u00e0nh"},
- {"ward_id":283, "ward_name":"Ph\u01b0\u1eddng V\u0129nh Tuy"},
- {"ward_id":343, "ward_name":"Ph\u01b0\u1eddng Nh\u00e2n Ch\u00ednh"},
- {"ward_id":349, "ward_name":"Ph\u01b0\u1eddng Kh\u01b0\u01a1ng Trung"},
- {"ward_id":352, "ward_name":"Ph\u01b0\u1eddng Kh\u01b0\u01a1ng Mai"},
- {"ward_id":355, "ward_name":"Ph\u01b0\u1eddng Thanh Xu\u00e2n Trung"},
- {"ward_id":577, "ward_name":"X\u00e3 \u0110a T\u1ed1n"},
- {"ward_id":592, "ward_name":"Ph\u01b0\u1eddng C\u1ea7u Di\u1ec5n"},
- {"ward_id":625, "ward_name":"Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 1"},
- {"ward_id":626, "ward_name":"Ph\u01b0\u1eddng M\u1ef9 \u0110\u00ecnh 2"},
- {"ward_id":631, "ward_name":"Ph\u01b0\u1eddng M\u1ec5 Tr\u00ec"},
- {"ward_id":637, "ward_name":"Ph\u01b0\u1eddng Trung V\u0103n"},
- {"ward_id":9184, "ward_name":"Ph\u01b0\u1eddng Ninh X\u00e1"},
- {"ward_id":9217, "ward_name":"X\u00e3 \u0110\u00f4ng Ti\u1ebfn"},
- {"ward_id":10000, "ward_name":"X\u00e3 T\u00e2n X\u00e3"},
- {"ward_id":11411, "ward_name":"Ph\u01b0\u1eddng \u0110\u00f4ng H\u1ea3i 2"},
- {"ward_id":11611, "ward_name":"X\u00e3 L\u00ea L\u1ee3i"},
- {"ward_id":14794, "ward_name":"Ph\u01b0\u1eddng \u0110\u00f4ng H\u01b0\u01a1ng"},
- {"ward_id":18889, "ward_name":"X\u00e3 B\u1ea3o Ninh"},
- {"ward_id":19789, "ward_name":"Ph\u01b0\u1eddng Ph\u00fa Nhu\u1eadn"},
- {"ward_id":20200, "ward_name":"Ph\u01b0\u1eddng H\u00f2a Minh"},
- {"ward_id":20227, "ward_name":"Ph\u01b0\u1eddng Thanh B\u00ecnh"},
- {"ward_id":20233, "ward_name":"Ph\u01b0\u1eddng Th\u1ea1ch Thang"},
- {"ward_id":20260, "ward_name":"Ph\u01b0\u1eddng Khu\u00ea Trung"},
- {"ward_id":20266, "ward_name":"Ph\u01b0\u1eddng N\u1ea1i Hi\u00ean \u0110\u00f4ng"},
- {"ward_id":20272, "ward_name":"Ph\u01b0\u1eddng An H\u1ea3i B\u1eafc"},
- {"ward_id":20278, "ward_name":"Ph\u01b0\u1eddng An H\u1ea3i T\u00e2y"},
- {"ward_id":20290, "ward_name":"Ph\u01b0\u1eddng Ho\u00e0 H\u1ea3i"},
- {"ward_id":20989, "ward_name":"X\u00e3 Tam Hi\u1ec7p"},
- {"ward_id":21595, "ward_name":"Ph\u01b0\u1eddng Gh\u1ec1nh R\u00e1ng"},
- {"ward_id":22357, "ward_name":"Ph\u01b0\u1eddng Ph\u01b0\u1edbc H\u1ea3i"},
- {"ward_id":23570, "ward_name":"Ph\u01b0\u1eddng Ph\u00f9 \u0110\u1ed5ng"},
- {"ward_id":25760, "ward_name":"Ph\u01b0\u1eddng Ho\u00e0 Ph\u00fa"},
- {"ward_id":26494, "ward_name":"X\u00e3 Long Th\u1ecd"},
- {"ward_id":26704, "ward_name":"Th\u1ecb tr\u1ea5n Ph\u00fa M\u1ef9"},
- {"ward_id":26734, "ward_name":"Ph\u01b0\u1eddng T\u00e2n \u0110\u1ecbnh"},
- {"ward_id":26737, "ward_name":"Ph\u01b0\u1eddng \u0110a Kao"},
- {"ward_id":26740, "ward_name":"Ph\u01b0\u1eddng B\u1ebfn Ngh\u00e9"},
- {"ward_id":26746, "ward_name":"Ph\u01b0\u1eddng Nguy\u1ec5n Th\u00e1i B\u00ecnh"},
- {"ward_id":26749, "ward_name":"Ph\u01b0\u1eddng Ph\u1ea1m Ng\u0169 L\u00e3o"},
- {"ward_id":26755, "ward_name":"Ph\u01b0\u1eddng C\u00f4 Giang"},
- {"ward_id":26776, "ward_name":"Ph\u01b0\u1eddng T\u00e2n Ch\u00e1nh Hi\u1ec7p"},
- {"ward_id":26806, "ward_name":"Ph\u01b0\u1eddng Tam Ph\u00fa"},
- {"ward_id":26809, "ward_name":"Ph\u01b0\u1eddng Hi\u1ec7p B\u00ecnh Ph\u01b0\u1edbc"},
- {"ward_id":26827, "ward_name":"Ph\u01b0\u1eddng Tr\u01b0\u1eddng Th\u1ecd"},
- {"ward_id":26833, "ward_name":"Ph\u01b0\u1eddng Long Th\u1ea1nh M\u1ef9"},
- {"ward_id":26836, "ward_name":"Ph\u01b0\u1eddng T\u00e2n Ph\u00fa"},
- {"ward_id":26875, "ward_name":"Ph\u01b0\u1eddng 17"},
- {"ward_id":26920, "ward_name":"Ph\u01b0\u1eddng 25"},
- {"ward_id":26926, "ward_name":"Ph\u01b0\u1eddng 07"},
- {"ward_id":26953, "ward_name":"Ph\u01b0\u1eddng 21"},
- {"ward_id":26956, "ward_name":"Ph\u01b0\u1eddng 22"},
- {"ward_id":26965, "ward_name":"Ph\u01b0\u1eddng 02"},
- {"ward_id":26968, "ward_name":"Ph\u01b0\u1eddng 04"},
- {"ward_id":26971, "ward_name":"Ph\u01b0\u1eddng 12"},
- {"ward_id":26974, "ward_name":"Ph\u01b0\u1eddng 13"},
- {"ward_id":27004, "ward_name":"Ph\u01b0\u1eddng 14"},
- {"ward_id":27049, "ward_name":"Ph\u01b0\u1eddng 09"},
- {"ward_id":27061, "ward_name":"Ph\u01b0\u1eddng 02"},
- {"ward_id":27064, "ward_name":"Ph\u01b0\u1eddng 08"},
- {"ward_id":27067, "ward_name":"Ph\u01b0\u1eddng 15"},
- {"ward_id":27073, "ward_name":"Ph\u01b0\u1eddng 11"},
- {"ward_id":27088, "ward_name":"Ph\u01b0\u1eddng Th\u1ea3o \u0110i\u1ec1n"},
- {"ward_id":27091, "ward_name":"Ph\u01b0\u1eddng An Ph\u00fa"},
- {"ward_id":27109, "ward_name":"Ph\u01b0\u1eddng C\u00e1t L\u00e1i"},
- {"ward_id":27115, "ward_name":"Ph\u01b0\u1eddng An L\u1ee3i \u0110\u00f4ng"},
- {"ward_id":27118, "ward_name":"Ph\u01b0\u1eddng Th\u1ee7 Thi\u00eam"},
- {"ward_id":27139, "ward_name":"Ph\u01b0\u1eddng V\u00f5 Th\u1ecb S\u00e1u"},
- {"ward_id":27148, "ward_name":"Ph\u01b0\u1eddng 04"},
- {"ward_id":27157, "ward_name":"Ph\u01b0\u1eddng 02"},
- {"ward_id":27169, "ward_name":"Ph\u01b0\u1eddng 14"},
- {"ward_id":27172, "ward_name":"Ph\u01b0\u1eddng 12"},
- {"ward_id":27208, "ward_name":"Ph\u01b0\u1eddng 15"},
- {"ward_id":27223, "ward_name":"Ph\u01b0\u1eddng 10"},
- {"ward_id":27265, "ward_name":"Ph\u01b0\u1eddng 06"},
- {"ward_id":27316, "ward_name":"Ph\u01b0\u1eddng 08"},
- {"ward_id":27430, "ward_name":"Ph\u01b0\u1eddng 16"},
- {"ward_id":27466, "ward_name":"Ph\u01b0\u1eddng T\u00e2n Thu\u1eadn \u0110\u00f4ng"},
- {"ward_id":27475, "ward_name":"Ph\u01b0\u1eddng T\u00e2n H\u01b0ng"},
- {"ward_id":27487, "ward_name":"Ph\u01b0\u1eddng T\u00e2n Ph\u00fa"}]
+[
+	{
+		"ward_id" : 0,
+		"ward_name" : "undefined"
+	},
+	{
+		"ward_id" : 7,
+		"ward_name" : "Phường Cống Vị"
+	},
+	{
+		"ward_id" : 8,
+		"ward_name" : "Phường Liễu Giai"
+	},
+	{
+		"ward_id" : 13,
+		"ward_name" : "Phường Quán Thánh"
+	},
+	{
+		"ward_id" : 19,
+		"ward_name" : "Phường Điện Biên"
+	},
+	{
+		"ward_id" : 25,
+		"ward_name" : "Phường Ngọc Khánh"
+	},
+	{
+		"ward_id" : 28,
+		"ward_name" : "Phường Kim Mã"
+	},
+	{
+		"ward_id" : 58,
+		"ward_name" : "Phường Lý Thái Tổ"
+	},
+	{
+		"ward_id" : 82,
+		"ward_name" : "Phường Trần Hưng Đạo"
+	},
+	{
+		"ward_id" : 103,
+		"ward_name" : "Phường Xuân La"
+	},
+	{
+		"ward_id" : 136,
+		"ward_name" : "Phường Phúc Lợi"
+	},
+	{
+		"ward_id" : 166,
+		"ward_name" : "Phường Dịch Vọng"
+	},
+	{
+		"ward_id" : 167,
+		"ward_name" : "Phường Dịch Vọng Hậu"
+	},
+	{
+		"ward_id" : 172,
+		"ward_name" : "Phường Yên Hoà"
+	},
+	{
+		"ward_id" : 175,
+		"ward_name" : "Phường Trung Hoà"
+	},
+	{
+		"ward_id" : 187,
+		"ward_name" : "Phường Láng Thượng"
+	},
+	{
+		"ward_id" : 190,
+		"ward_name" : "Phường Ô Chợ Dừa"
+	},
+	{
+		"ward_id" : 199,
+		"ward_name" : "Phường Láng Hạ"
+	},
+	{
+		"ward_id" : 217,
+		"ward_name" : "Phường Trung Liệt"
+	},
+	{
+		"ward_id" : 235,
+		"ward_name" : "Phường Ngã Tư Sở"
+	},
+	{
+		"ward_id" : 247,
+		"ward_name" : "Phường Phạm Đình Hổ"
+	},
+	{
+		"ward_id" : 256,
+		"ward_name" : "Phường Lê Đại Hành"
+	},
+	{
+		"ward_id" : 283,
+		"ward_name" : "Phường Vĩnh Tuy"
+	},
+	{
+		"ward_id" : 343,
+		"ward_name" : "Phường Nhân Chính"
+	},
+	{
+		"ward_id" : 349,
+		"ward_name" : "Phường Khương Trung"
+	},
+	{
+		"ward_id" : 352,
+		"ward_name" : "Phường Khương Mai"
+	},
+	{
+		"ward_id" : 355,
+		"ward_name" : "Phường Thanh Xuân Trung"
+	},
+	{
+		"ward_id" : 577,
+		"ward_name" : "Xã Đa Tốn"
+	},
+	{
+		"ward_id" : 592,
+		"ward_name" : "Phường Cầu Diễn"
+	},
+	{
+		"ward_id" : 625,
+		"ward_name" : "Phường Mỹ Đình 1"
+	},
+	{
+		"ward_id" : 626,
+		"ward_name" : "Phường Mỹ Đình 2"
+	},
+	{
+		"ward_id" : 631,
+		"ward_name" : "Phường Mễ Trì"
+	},
+	{
+		"ward_id" : 637,
+		"ward_name" : "Phường Trung Văn"
+	},
+	{
+		"ward_id" : 9184,
+		"ward_name" : "Phường Ninh Xá"
+	},
+	{
+		"ward_id" : 9217,
+		"ward_name" : "Xã Đông Tiến"
+	},
+	{
+		"ward_id" : 10000,
+		"ward_name" : "Xã Tân Xã"
+	},
+	{
+		"ward_id" : 11411,
+		"ward_name" : "Phường Đông Hải 2"
+	},
+	{
+		"ward_id" : 11611,
+		"ward_name" : "Xã Lê Lợi"
+	},
+	{
+		"ward_id" : 14794,
+		"ward_name" : "Phường Đông Hương"
+	},
+	{
+		"ward_id" : 18889,
+		"ward_name" : "Xã Bảo Ninh"
+	},
+	{
+		"ward_id" : 19789,
+		"ward_name" : "Phường Phú Nhuận"
+	},
+	{
+		"ward_id" : 20200,
+		"ward_name" : "Phường Hòa Minh"
+	},
+	{
+		"ward_id" : 20227,
+		"ward_name" : "Phường Thanh Bình"
+	},
+	{
+		"ward_id" : 20233,
+		"ward_name" : "Phường Thạch Thang"
+	},
+	{
+		"ward_id" : 20260,
+		"ward_name" : "Phường Khuê Trung"
+	},
+	{
+		"ward_id" : 20266,
+		"ward_name" : "Phường Nại Hiên Đông"
+	},
+	{
+		"ward_id" : 20272,
+		"ward_name" : "Phường An Hải Bắc"
+	},
+	{
+		"ward_id" : 20278,
+		"ward_name" : "Phường An Hải Tây"
+	},
+	{
+		"ward_id" : 20290,
+		"ward_name" : "Phường Hoà Hải"
+	},
+	{
+		"ward_id" : 20989,
+		"ward_name" : "Xã Tam Hiệp"
+	},
+	{
+		"ward_id" : 21595,
+		"ward_name" : "Phường Ghềnh Ráng"
+	},
+	{
+		"ward_id" : 22357,
+		"ward_name" : "Phường Phước Hải"
+	},
+	{
+		"ward_id" : 23570,
+		"ward_name" : "Phường Phù Đổng"
+	},
+	{
+		"ward_id" : 25760,
+		"ward_name" : "Phường Hoà Phú"
+	},
+	{
+		"ward_id" : 26494,
+		"ward_name" : "Xã Long Thọ"
+	},
+	{
+		"ward_id" : 26704,
+		"ward_name" : "Thị trấn Phú Mỹ"
+	},
+	{
+		"ward_id" : 26734,
+		"ward_name" : "Phường Tân Định"
+	},
+	{
+		"ward_id" : 26737,
+		"ward_name" : "Phường Đa Kao"
+	},
+	{
+		"ward_id" : 26740,
+		"ward_name" : "Phường Bến Nghé"
+	},
+	{
+		"ward_id" : 26746,
+		"ward_name" : "Phường Nguyễn Thái Bình"
+	},
+	{
+		"ward_id" : 26749,
+		"ward_name" : "Phường Phạm Ngũ Lão"
+	},
+	{
+		"ward_id" : 26755,
+		"ward_name" : "Phường Cô Giang"
+	},
+	{
+		"ward_id" : 26776,
+		"ward_name" : "Phường Tân Chánh Hiệp"
+	},
+	{
+		"ward_id" : 26806,
+		"ward_name" : "Phường Tam Phú"
+	},
+	{
+		"ward_id" : 26809,
+		"ward_name" : "Phường Hiệp Bình Phước"
+	},
+	{
+		"ward_id" : 26827,
+		"ward_name" : "Phường Trường Thọ"
+	},
+	{
+		"ward_id" : 26833,
+		"ward_name" : "Phường Long Thạnh Mỹ"
+	},
+	{
+		"ward_id" : 26836,
+		"ward_name" : "Phường Tân Phú"
+	},
+	{
+		"ward_id" : 26875,
+		"ward_name" : "Phường 17"
+	},
+	{
+		"ward_id" : 26920,
+		"ward_name" : "Phường 25"
+	},
+	{
+		"ward_id" : 26926,
+		"ward_name" : "Phường 07"
+	},
+	{
+		"ward_id" : 26953,
+		"ward_name" : "Phường 21"
+	},
+	{
+		"ward_id" : 26956,
+		"ward_name" : "Phường 22"
+	},
+	{
+		"ward_id" : 26965,
+		"ward_name" : "Phường 02"
+	},
+	{
+		"ward_id" : 26968,
+		"ward_name" : "Phường 04"
+	},
+	{
+		"ward_id" : 26971,
+		"ward_name" : "Phường 12"
+	},
+	{
+		"ward_id" : 26974,
+		"ward_name" : "Phường 13"
+	},
+	{
+		"ward_id" : 27004,
+		"ward_name" : "Phường 14"
+	},
+	{
+		"ward_id" : 27049,
+		"ward_name" : "Phường 09"
+	},
+	{
+		"ward_id" : 27061,
+		"ward_name" : "Phường 02"
+	},
+	{
+		"ward_id" : 27064,
+		"ward_name" : "Phường 08"
+	},
+	{
+		"ward_id" : 27067,
+		"ward_name" : "Phường 15"
+	},
+	{
+		"ward_id" : 27073,
+		"ward_name" : "Phường 11"
+	},
+	{
+		"ward_id" : 27088,
+		"ward_name" : "Phường Thảo Điền"
+	},
+	{
+		"ward_id" : 27091,
+		"ward_name" : "Phường An Phú"
+	},
+	{
+		"ward_id" : 27109,
+		"ward_name" : "Phường Cát Lái"
+	},
+	{
+		"ward_id" : 27115,
+		"ward_name" : "Phường An Lợi Đông"
+	},
+	{
+		"ward_id" : 27118,
+		"ward_name" : "Phường Thủ Thiêm"
+	},
+	{
+		"ward_id" : 27139,
+		"ward_name" : "Phường Võ Thị Sáu"
+	},
+	{
+		"ward_id" : 27148,
+		"ward_name" : "Phường 04"
+	},
+	{
+		"ward_id" : 27157,
+		"ward_name" : "Phường 02"
+	},
+	{
+		"ward_id" : 27169,
+		"ward_name" : "Phường 14"
+	},
+	{
+		"ward_id" : 27172,
+		"ward_name" : "Phường 12"
+	},
+	{
+		"ward_id" : 27208,
+		"ward_name" : "Phường 15"
+	},
+	{
+		"ward_id" : 27223,
+		"ward_name" : "Phường 10"
+	},
+	{
+		"ward_id" : 27265,
+		"ward_name" : "Phường 06"
+	},
+	{
+		"ward_id" : 27316,
+		"ward_name" : "Phường 08"
+	},
+	{
+		"ward_id" : 27430,
+		"ward_name" : "Phường 16"
+	},
+	{
+		"ward_id" : 27466,
+		"ward_name" : "Phường Tân Thuận Đông"
+	},
+	{
+		"ward_id" : 27475,
+		"ward_name" : "Phường Tân Hưng"
+	},
+	{
+		"ward_id" : 27487,
+		"ward_name" : "Phường Tân Phú"
+	}
+]
