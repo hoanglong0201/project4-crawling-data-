@@ -21,6 +21,10 @@ def decode(s):
 # client = pymongo.MongoClient("localhost", 27017)
 # db = client['jobs']
 # collection = db['jobs']
+myclient = pymongo.MongoClient('mongodb://localhost:27017/')
+mydb = myclient['topdev']
+mycol = mydb['jobs']
+
 #connect to mysql
 conn = mysql.connector.connect(
         host = 'localhost',
@@ -53,23 +57,15 @@ def fetch_job():
                                  (dic['job_id'], dic['title'], dic['company_id'], dic['level'], dic['skill']))
                 set_job_id.add(job["id"])
     conn.commit()
-# def fetch_requirements():
-#     for pageNumber in range(1, LAST_PAGE + 1):
-#         with open(f"data_job/data_{pageNumber}", 'r', encoding="utf-8") as file:
-#             parse = json.load(file)
-#             for job in parse["data"]:
-#                 job_id = job["id"]
-#                 req = []
-#                 must_have = ''
-#                 for detail in job["requirements_arr"]:
-#                     req.append(detail["value"])
-#                     print(req[0])
-#                 # dicreq = dict(id = job_id, must_have = must_have)
-#                 # print(dicreq)
-#                     # curr.execute(""" insert into requirements values (%s,%s)""",
-#                     #          (dicreq['id'], dicreq['must_have']))
-#     conn.commit()
-# fetch_requirements()
+def insert_data():
+    for pageNumber in range(1, LAST_PAGE + 1):
+        with open(f"data_job/data_{pageNumber}", 'r', encoding="utf-8") as file:
+            parse = json.load(file)
+            for job in parse["data"]:
+                x = job
+                ins = mycol.insert_one(x)
+
+insert_data()
 def fetch_benefits():
     set_job_id = {0}
     for pageNumber in range(1, LAST_PAGE + 1):
@@ -237,12 +233,12 @@ def fetch_address():
                 set_company_id.add(company["company"]["id"])
     conn.commit()
 
-# fetch_data()
-# fetch_company()
-# fetch_salary()
-# fetch_ward()
-# fetch_province()
-# fetch_district()
-# fetch_job()
-# fetch_address()
+fetch_data()
+fetch_company()
+fetch_salary()
+fetch_ward()
+fetch_province()
+fetch_district()
+fetch_job()
+fetch_address()
 fetch_benefits()
