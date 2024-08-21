@@ -5,11 +5,398 @@
         "status": [
             {
                 "key": 3,
-                "doc_count": 632
+                "doc_count": 634
             }
         ]
     },
     "data": [
+        {
+            "id": 2033733,
+            "title": "Data Engineer (Data Pipeline, DBA, Python)",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Mức lương cạnh tranh, phản ánh trực tiếp kỹ năng và kinh nghiệm của ứng viên (chi tiết sẽ được thảo luận trong buổi phỏng vấn)"
+                },
+                {
+                    "icon": "fa-calendar-check-o",
+                    "name": null,
+                    "value": "13 ngày nghỉ phép linh hoạt, bao gồm ngày sinh nhật và các dịp quan trọng khác"
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Bảo hiểm đầy đủ theo luật lao động, cùng với ABBANK CARE - chương trình phúc lợi bổ sung đặc biệt dành cho ABBankers"
+                },
+                {
+                    "icon": "fa-cc-mastercard",
+                    "name": null,
+                    "value": "Lãi suất vay ưu đãi - Quyền lợi đặc biệt dành cho nhân viên ABBANK"
+                },
+                {
+                    "icon": "fa-cogs",
+                    "name": null,
+                    "value": "Gia nhập các dự án chuyển đổi quy mô lớn, cộng tác cùng các chuyên gia hàng đầu để áp dụng công nghệ mới nhất trong ngành ngân hàng"
+                },
+                {
+                    "icon": "fa-line-chart",
+                    "name": null,
+                    "value": "Lộ trình phát triển sự nghiệp rõ ràng, được tạo điều kiện cho cả sự phát triển kỹ thuật và quản lý"
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Hỗ trợ đào tạo và chứng chỉ trong lĩnh vực IT, ngân hàng/tài chính"
+                },
+                {
+                    "icon": "fa-lightbulb-o",
+                    "name": null,
+                    "value": "Mô hình làm việc linh hoạt, trẻ trung, khuyến khích đổi mới và sáng tạo"
+                },
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Văn phòng được trang bị hiện đại, kèm theo các thiết bị tiên tiến nhất dành cho nhân viên"
+                },
+                {
+                    "icon": "fa-soccer-ball-o",
+                    "name": null,
+                    "value": "Tổ chức thường xuyên các hoạt động ngoại khóa (team building, hội thảo, và các sự kiện văn nghệ), tạo điều kiện cho nhân viên gắn kết và phát triển"
+                }
+            ],
+            "owned_id": 91848,
+            "company": {
+                "id": 91848,
+                "display_name": "Ngân hàng TMCP An Bình (ABBANK)",
+                "image_logo": "https://assets.topdev.vn/images/2020/12/10/logoix91C4zNZxjSXOSWq4xUrJZcHpUbB3xH-39Ezs.png",
+                "slug": "ngan-hang-tmcp-an-binh-abbank",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-tmcp-an-binh-abbank-91848",
+                "tagline": "ABBANK",
+                "addresses": {
+                    "address_region_ids": [
+                        "79",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "170 Hai Bà Trưng, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",
+                        "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận 1, Hồ Chí Minh - Quận Đống Đa, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 122452,
+                            "ward": {
+                                "id": "26737",
+                                "value": "Phường Đa Kao"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "760",
+                                "value": "Quận 1"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "170 Hai Bà Trưng, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "170 Hai Bà Trưng"
+                        },
+                        {
+                            "id": 122495,
+                            "ward": {
+                                "id": "00190",
+                                "value": "Phường Ô Chợ Dừa"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "006",
+                                "value": "Quận Đống Đa"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "36 Hoàng Cầu"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2020/12/10/coverEMRZGSGxW5c11GPvN6lnccHq7mj2gYMW-b5jpv.jpeg",
+                "image_galleries": [
+                    {
+                        "id": 206650,
+                        "url": "https://assets.topdev.vn/images/2020/12/10/galleryRFsou6ahOBlzCxK37f6pp7rqmPv9WPrw-Nqjn5.jpeg",
+                        "path": "/images/2020/12/10/galleryRFsou6ahOBlzCxK37f6pp7rqmPv9WPrw-Nqjn5.jpeg",
+                        "name": "gallery_RFsou6ahOBlzCxK37f6pp7rqmPv9WPrw.jpeg",
+                        "uploaded": {
+                            "date": "10-12-2020",
+                            "datetime": "2020-12-10 10:28:44",
+                            "since": "3 years ago",
+                            "timestamp": 1607570924
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 206651,
+                        "url": "https://assets.topdev.vn/images/2020/12/10/galleryhjjcrOD1KmaegoZpoSECDnTprWcCmrvR-U13gZ.jpeg",
+                        "path": "/images/2020/12/10/galleryhjjcrOD1KmaegoZpoSECDnTprWcCmrvR-U13gZ.jpeg",
+                        "name": "gallery_hjjcrOD1KmaegoZpoSECDnTprWcCmrvR.jpeg",
+                        "uploaded": {
+                            "date": "10-12-2020",
+                            "datetime": "2020-12-10 10:29:33",
+                            "since": "3 years ago",
+                            "timestamp": 1607570973
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 206652,
+                        "url": "https://assets.topdev.vn/images/2020/12/10/galleryGwnAIeuBaZbLOAinu6H5sfneyuvzyFsW-5Xw7m.jpeg",
+                        "path": "/images/2020/12/10/galleryGwnAIeuBaZbLOAinu6H5sfneyuvzyFsW-5Xw7m.jpeg",
+                        "name": "gallery_GwnAIeuBaZbLOAinu6H5sfneyuvzyFsW.jpeg",
+                        "uploaded": {
+                            "date": "10-12-2020",
+                            "datetime": "2020-12-10 10:29:43",
+                            "since": "3 years ago",
+                            "timestamp": 1607570983
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 242361,
+                        "url": "https://assets.topdev.vn/images/2021/03/11/ABBANK-BPyUQ.png",
+                        "path": "/images/2021/03/11/ABBANK-BPyUQ.png",
+                        "name": "ABBANK.png",
+                        "uploaded": {
+                            "date": "11-03-2021",
+                            "datetime": "2021-03-11 11:54:13",
+                            "since": "3 years ago",
+                            "timestamp": 1615438453
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 242363,
+                        "url": "https://assets.topdev.vn/images/2021/03/11/ABBANK1-ikM3X.jpg",
+                        "path": "/images/2021/03/11/ABBANK1-ikM3X.jpg",
+                        "name": "ABBANK1.jpg",
+                        "uploaded": {
+                            "date": "11-03-2021",
+                            "datetime": "2021-03-11 11:54:13",
+                            "since": "3 years ago",
+                            "timestamp": 1615438453
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 242364,
+                        "url": "https://assets.topdev.vn/images/2021/03/11/ABBANK-5n4f3.jpg",
+                        "path": "/images/2021/03/11/ABBANK-5n4f3.jpg",
+                        "name": "ABBANK.jpg",
+                        "uploaded": {
+                            "date": "11-03-2021",
+                            "datetime": "2021-03-11 11:54:13",
+                            "since": "3 years ago",
+                            "timestamp": 1615438453
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 304325,
+                        "url": "https://assets.topdev.vn/images/2021/09/16/TopDev-abbank-tang-cuong-quan-ly-rui-ro-voi-khung-quan-tri-du-lieu-TuanNguyen-1631767795.jpg",
+                        "path": "/images/2021/09/16/TopDev-abbank-tang-cuong-quan-ly-rui-ro-voi-khung-quan-tri-du-lieu-TuanNguyen-1631767795.jpg",
+                        "name": "abbank-tang-cuong-quan-ly-rui-ro-voi-khung-quan-tri-du-lieu - Tuan Nguyen.jpg",
+                        "uploaded": {
+                            "date": "16-09-2021",
+                            "datetime": "2021-09-16 11:49:55",
+                            "since": "2 years ago",
+                            "timestamp": 1631767795
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 304326,
+                        "url": "https://assets.topdev.vn/images/2021/09/16/TopDev-ABBank-TuanNguyen-1631767795.jpg",
+                        "path": "/images/2021/09/16/TopDev-ABBank-TuanNguyen-1631767795.jpg",
+                        "name": "ABBank - Tuan Nguyen.jpg",
+                        "uploaded": {
+                            "date": "16-09-2021",
+                            "datetime": "2021-09-16 11:49:56",
+                            "since": "2 years ago",
+                            "timestamp": 1631767796
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 304327,
+                        "url": "https://assets.topdev.vn/images/2021/09/16/TopDev-22090578130870507981921823608394602193867963n-TuanNguyen-1631767796.png",
+                        "path": "/images/2021/09/16/TopDev-22090578130870507981921823608394602193867963n-TuanNguyen-1631767796.png",
+                        "name": "220905781_3087050798192182_3608394602193867963_n - Tuan Nguyen.png",
+                        "uploaded": {
+                            "date": "16-09-2021",
+                            "datetime": "2021-09-16 11:49:56",
+                            "since": "2 years ago",
+                            "timestamp": 1631767796
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "icon": null,
+                        "value": "<p>Mức lương cạnh tranh dựa tr&ecirc;n Kiến thức, kinh nghiệm của mỗi c&aacute; nh&acirc;n (Trao đổi khi tr&uacute;ng tuyển)<br />Được hưởng chế độ Bảo hiểm theo luật lao động v&agrave; chương tr&igrave;nh ABBANK CARE (chế độ đ&atilde;i ngộ, ph&uacute;c lợi bổ sung d&agrave;nh cho to&agrave;n thể c&aacute;n bộ nh&acirc;n vi&ecirc;n ABBANK).<br />Được vay ưu đ&atilde;i (l&atilde;i suất hấp dẫn) d&agrave;nh cho c&aacute;n bộ nh&acirc;n vi&ecirc;n ABBANK.<br />M&ocirc;i trường năng động v&agrave; s&aacute;ng tạo, ph&aacute;t huy tối đa năng lực bản th&acirc;n, điều kiện l&agrave;m việc tốt, đầy đủ phương tiện, thiết bị, c&oacute; cơ hội tham gia đ&agrave;o tạo, thăng tiến, ph&aacute;t triển sự nghiệp.<br />Tham gia c&aacute;c hoạt động văn h&oacute;a ngoại kh&oacute;a (Team building, hội thao, văn nghệ...);<br />Cung cấp thiết bị l&agrave;m việc, m&aacute;y t&iacute;nh x&aacute;ch tay<br />Du lịch<br />Thưởng<br />Đ&agrave;o tạo<br />Chế độ nghỉ ph&eacute;p<br />Bảo hiểm, phụ cấp<br />Chăm s&oacute;c sức khỏe<br />Tăng lương định kỳ<br />L&agrave;m việc: T2 -T6</p>"
+                    }
+                ],
+                "skills_arr": [
+                    "C#",
+                    ".NET",
+                    "Design Patterns",
+                    "Entity framework 6"
+                ],
+                "industries_arr": [
+                    "Ngân Hàng"
+                ],
+                "industries_str": "Ngân Hàng",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Java, SQL, Python, Scala, Data Engineer",
+            "skills_arr": [
+                "Java",
+                "SQL",
+                "Python",
+                "Scala",
+                "Data Engineer"
+            ],
+            "skills_ids": [
+                21,
+                28,
+                34,
+                225,
+                1464
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Đống Đa, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 122495,
+                        "ward": {
+                            "id": "00190",
+                            "value": "Phường Ô Chợ Dừa"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "006",
+                            "value": "Quận Đống Đa"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "36 Hoàng Cầu, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "36 Hoàng Cầu"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/data-engineer-data-pipeline-dba-python-ngan-hang-tmcp-an-binh-abbank-2033733",
+            "job_url": "",
+            "slug": "data-engineer-data-pipeline-dba-python-ngan-hang-tmcp-an-binh-abbank",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 1000,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "05-07-2024",
+                "datetime": "00:00:00 05-07-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "14-08-2024",
+                "datetime": "02:00:06 14-08-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Bằng cấp: Đại học chuyên ngành Công nghệ thông tin/Toán tin/Khoa học máy tính/Điện tử viễn thông hoặc các lĩnh vực liên quan",
+                        "Chứng chỉ đào tạo của các giải pháp/công cụ liên quan đến ETL/BI/Data platforms/Data streaming/Điện toán đám mây.",
+                        "Kinh nghiệm: tối thiểu 10 năm kinh nghiệm trong lĩnh vực công nghệ phần mềm, phân tích dữ liệu, khoa học dữ liệuCó kinh nghiệm thiết kế và triển khai các tiến trình ETL/ELT, hiểu biết sâu về ít nhất 1 nền tảng ETL platforms (ví dụ Oracle ODI, SAP BODS, Apache Airflow, Informatica, IBM,...).",
+                        "Thành thạo một trong các ngôn ngữ lập trình Python, Java hoặc Scala, với kiến thức vững về SQL và hệ thống cơ sở dữ liệu (PostgreSQL, MySQL, Oracle).",
+                        "Hiểu biết và có kinh nghiệm triển khai Data warehouse/Data Lake, hiểu biết về giải pháp của các hãng: Oracle, SAP, Teradata, IBM, ...",
+                        "Có kinh nghiệm thực tế triển khai một trong các giải pháp lakehouse/data platforms (ví dụ: Cloudera, DataBricks, Hortonwork...).",
+                        "Có kinh nghiệm tích hợp dữ liệu, phát triển ETL, data pipeline bằng các công cụ trên nền tảng Cloud (GCP, EWS hoặc Azure)",
+                        "Hiểu biết về kiến trúc dữ liệu (ví dụ: OLAP, Data Warehousing, Data Lake, and/or Data Mesh)",
+                        "Hiểu biết, có kinh nghiệm thiết kế và xây dựng các giải pháp xử lý dữ liệu theo luồng (ví dụ thực hiện với các công cụ Apache Storm, Kafka, Spark Streaming...).",
+                        "Có kinh nghiệm về triển khai giải pháp quản trị chất lượng dữ liệu, bao gồm cả những môi trường phân tán.",
+                        "Có kinh nghiệm phát triển công cụ BI phục vụ yêu cầu nghiệp vụ là điểm cộng.",
+                        "Hiểu biết về kiến trúc object storage.",
+                        "Có kinh nghiệm tư vấn kỹ thuật, đào tạo, dẫn dắt thay đổi",
+                        "Lập kế hoạch và quản lý thời gian hiệu quả",
+                        "Kỹ năng giải quyết vấn đề tốt",
+                        "Giao tiếp tốt bằng tiếng Anh"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
         {
             "id": 2033925,
             "title": "Senior Back-end Developer (Golang)",
@@ -882,303 +1269,6 @@
             ]
         },
         {
-            "id": 2033937,
-            "title": "Senior Full-stack Developer (Python, .NET, ReactJS)",
-            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are looking for a senior full stack developer with <strong>Python</strong>, <strong>.NET</strong>, and <strong>ReactJS</strong> on the Front End and and Web services/API experiences to join one of the new development teams. This full-stack role prioritizes Python, which is required at a senior level, and ReactJS, .NET at an </span><br /><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">intermediate level.</span></p>",
-            "benefits": [
-                {
-                    "icon": "fa-diamond",
-                    "name": null,
-                    "value": "Meaningful work with passionate colleagues."
-                },
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Attractive compensation, regular assessments, and salary reviews."
-                },
-                {
-                    "icon": "fa-star",
-                    "name": null,
-                    "value": "Year-end bonus & performance, retention bonus."
-                },
-                {
-                    "icon": "fa-dollar",
-                    "name": null,
-                    "value": "100% salary, full insurance."
-                },
-                {
-                    "icon": "fa-heartbeat",
-                    "name": null,
-                    "value": "Extra-health care program for employees."
-                },
-                {
-                    "icon": "fa-cutlery",
-                    "name": null,
-                    "value": "Lunch allowance"
-                },
-                {
-                    "icon": "fa-asterisk",
-                    "name": null,
-                    "value": "Attractive benefits for team activities (team building, team outings, sports, trade union  activities)."
-                },
-                {
-                    "icon": "fa-book",
-                    "name": null,
-                    "value": "Various training on technical and soft skills"
-                }
-            ],
-            "owned_id": 94822,
-            "company": {
-                "id": 94822,
-                "display_name": "Gigarion Technology",
-                "image_logo": "https://assets.topdev.vn/images/2024/07/24/TopDev-Logo---Huong-Le-1721813945.jpg",
-                "slug": "gigarion-technology",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/gigarion-technology-94822",
-                "tagline": "Delivering Technology Solutions",
-                "addresses": {
-                    "address_region_ids": [
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 204090,
-                            "ward": {
-                                "id": "26977",
-                                "value": "Phường 01"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "766",
-                                "value": "Quận Tân Bình"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "305C/8A (307/27) Nguyễn Văn Trỗi"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh"
-                },
-                "image_cover": null,
-                "image_galleries": [],
-                "benefits": [
-                    {
-                        "value": "Attractive salary and benefits packages.",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Premium Healthcare and Accident insurance",
-                        "icon": "fa-heartbeat"
-                    },
-                    {
-                        "value": "Various training on technical and soft skills",
-                        "icon": "fa-book"
-                    },
-                    {
-                        "value": "Teambuilding, Company trip, Year-end party, etc.",
-                        "icon": "fa-star"
-                    },
-                    {
-                        "value": "Other bonuses",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "Commitment to community development: charity every quarter, blood donation, etc.",
-                        "icon": "fa-asterisk"
-                    }
-                ],
-                "skills_arr": [
-                    "JavaScript",
-                    "Python",
-                    "NodeJS",
-                    "ReactJS"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Python, .NET, ReactJS",
-            "skills_arr": [
-                "Python",
-                ".NET",
-                "ReactJS"
-            ],
-            "skills_ids": [
-                34,
-                73,
-                214
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 204090,
-                        "ward": {
-                            "id": "26977",
-                            "value": "Phường 01"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "766",
-                            "value": "Quận Tân Bình"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "305C/8A (307/27) Nguyễn Văn Trỗi"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/senior-full-stack-developer-python-net-reactjs-gigarion-technology-2033937",
-            "job_url": "",
-            "slug": "senior-full-stack-developer-python-net-reactjs-gigarion-technology",
-            "salary": {
-                "is_negotiable": "0",
-                "unit": "MONTH",
-                "min": "0",
-                "max": "2***",
-                "currency": "USD",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "USD",
-                "value": "Lên tới 2*** USD"
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "25-07-2024",
-                "datetime": "00:00:00 25-07-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "14-08-2024",
-                "datetime": "02:00:05 14-08-2024",
-                "since": "1 tuần trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "5+ years of Python, focus on API development.",
-                        "Experience with React and other declarative UI frameworks.",
-                        "Experience with .NET Framework, .NET Core C# development .",
-                        "Experience in architecting, developing, and deploying modern architectural patterns/techniques.",
-                        "Experience in building, integrating, and operating highly distributed applications (Microservices, SOA, self-contained systems)",
-                        "Experience in event-driven architectures, messaging patterns, and Apache Kafka is a plus.",
-                        "Solid experience in designing & developing RESTful APIs and microservices-based systems.",
-                        "Solid experience in Agile development environments",
-                        "Strong understanding of standard Software Engineering process and Agile methodology",
-                        "Excellent software engineering skills and solution-driven way of thinking.",
-                        "Experience in AWS or other cloud environments is a plus",
-                        "Strong understanding of secure coding practices and application security",
-                        "Fluent English speaking"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "You should be an expert in:"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Python",
-                        "Relational DB (PostgreSQL,) Mysql",
-                        "Restful APIs design (OpenAPI, Swagger)"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "You should have good knowledge of several of these technologies:"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "NET Framework, .NET Core C# development",
-                        "NoSql (MongoDB, Redis…)",
-                        "Docker/Container",
-                        "JavaScript / TypeScript",
-                        "CI/CD (Jenkins/Github action)",
-                        "Message queue (Apache Kafka)",
-                        "ReactJS",
-                        "Architectural Patterns"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Nice to have:"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Kubernetes",
-                        "Monitoring Tools (Grafana, Kibana….)",
-                        "HTML/CSS",
-                        "UI/UX",
-                        "Cloud services(AWS, GCP, Azure)"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
             "id": 2033940,
             "title": "Principal Software Engineer (English required)",
             "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Years of experience</strong>: Min 7 years&nbsp;</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Education and qualifications</strong>: Bachelor of Engineering (Computer, Software, Electronics or Communications) or Computer Science degree.</span></li>\r\n</ul>",
@@ -1486,6 +1576,303 @@
                     "value": [
                         "AWS Certification.",
                         "Previous experience in the financial and real-time trading industry."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033937,
+            "title": "Senior Full-stack Developer (Python, .NET, ReactJS)",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are looking for a senior full stack developer with <strong>Python</strong>, <strong>.NET</strong>, and <strong>ReactJS</strong> on the Front End and and Web services/API experiences to join one of the new development teams. This full-stack role prioritizes Python, which is required at a senior level, and ReactJS, .NET at an </span><br /><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">intermediate level.</span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-diamond",
+                    "name": null,
+                    "value": "Meaningful work with passionate colleagues."
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Attractive compensation, regular assessments, and salary reviews."
+                },
+                {
+                    "icon": "fa-star",
+                    "name": null,
+                    "value": "Year-end bonus & performance, retention bonus."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "100% salary, full insurance."
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Extra-health care program for employees."
+                },
+                {
+                    "icon": "fa-cutlery",
+                    "name": null,
+                    "value": "Lunch allowance"
+                },
+                {
+                    "icon": "fa-asterisk",
+                    "name": null,
+                    "value": "Attractive benefits for team activities (team building, team outings, sports, trade union  activities)."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Various training on technical and soft skills"
+                }
+            ],
+            "owned_id": 94822,
+            "company": {
+                "id": 94822,
+                "display_name": "Gigarion Technology",
+                "image_logo": "https://assets.topdev.vn/images/2024/07/24/TopDev-Logo---Huong-Le-1721813945.jpg",
+                "slug": "gigarion-technology",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/gigarion-technology-94822",
+                "tagline": "Delivering Technology Solutions",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 204090,
+                            "ward": {
+                                "id": "26977",
+                                "value": "Phường 01"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "766",
+                                "value": "Quận Tân Bình"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "305C/8A (307/27) Nguyễn Văn Trỗi"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Attractive salary and benefits packages.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Premium Healthcare and Accident insurance",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Various training on technical and soft skills",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Teambuilding, Company trip, Year-end party, etc.",
+                        "icon": "fa-star"
+                    },
+                    {
+                        "value": "Other bonuses",
+                        "icon": "fa-diamond"
+                    },
+                    {
+                        "value": "Commitment to community development: charity every quarter, blood donation, etc.",
+                        "icon": "fa-asterisk"
+                    }
+                ],
+                "skills_arr": [
+                    "JavaScript",
+                    "Python",
+                    "NodeJS",
+                    "ReactJS"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Python, .NET, ReactJS",
+            "skills_arr": [
+                "Python",
+                ".NET",
+                "ReactJS"
+            ],
+            "skills_ids": [
+                34,
+                73,
+                214
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Tân Bình, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 204090,
+                        "ward": {
+                            "id": "26977",
+                            "value": "Phường 01"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "766",
+                            "value": "Quận Tân Bình"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "305C/8A (307/27) Nguyễn Văn Trỗi, Phường 01, Quận Tân Bình, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "305C/8A (307/27) Nguyễn Văn Trỗi"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/senior-full-stack-developer-python-net-reactjs-gigarion-technology-2033937",
+            "job_url": "",
+            "slug": "senior-full-stack-developer-python-net-reactjs-gigarion-technology",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "0",
+                "max": "2***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "USD",
+                "value": "Lên tới 2*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "25-07-2024",
+                "datetime": "00:00:00 25-07-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "14-08-2024",
+                "datetime": "02:00:05 14-08-2024",
+                "since": "1 tuần trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "5+ years of Python, focus on API development.",
+                        "Experience with React and other declarative UI frameworks.",
+                        "Experience with .NET Framework, .NET Core C# development .",
+                        "Experience in architecting, developing, and deploying modern architectural patterns/techniques.",
+                        "Experience in building, integrating, and operating highly distributed applications (Microservices, SOA, self-contained systems)",
+                        "Experience in event-driven architectures, messaging patterns, and Apache Kafka is a plus.",
+                        "Solid experience in designing & developing RESTful APIs and microservices-based systems.",
+                        "Solid experience in Agile development environments",
+                        "Strong understanding of standard Software Engineering process and Agile methodology",
+                        "Excellent software engineering skills and solution-driven way of thinking.",
+                        "Experience in AWS or other cloud environments is a plus",
+                        "Strong understanding of secure coding practices and application security",
+                        "Fluent English speaking"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "You should be an expert in:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Python",
+                        "Relational DB (PostgreSQL,) Mysql",
+                        "Restful APIs design (OpenAPI, Swagger)"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "You should have good knowledge of several of these technologies:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "NET Framework, .NET Core C# development",
+                        "NoSql (MongoDB, Redis…)",
+                        "Docker/Container",
+                        "JavaScript / TypeScript",
+                        "CI/CD (Jenkins/Github action)",
+                        "Message queue (Apache Kafka)",
+                        "ReactJS",
+                        "Architectural Patterns"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Kubernetes",
+                        "Monitoring Tools (Grafana, Kibana….)",
+                        "HTML/CSS",
+                        "UI/UX",
+                        "Cloud services(AWS, GCP, Azure)"
                     ],
                     "icon": "fa-circle"
                 }
@@ -2696,304 +3083,6 @@
                     "icon": "fa-circle"
                 }
             ]
-        },
-        {
-            "id": 2034096,
-            "title": "CHUYÊN VIÊN LẬP TRÌNH VIÊN (Java)",
-            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Tổng c&ocirc;ng ty Bưu điện Việt Nam (Vietnam Post)</strong> l&agrave; doanh nghiệp Bưu ch&iacute;nh quốc gia c&oacute; nhiệm vụ duy tr&igrave; v&agrave; quản l&yacute; mạng bưu ch&iacute;nh c&ocirc;ng cộng tr&ecirc;n to&agrave;n thể l&atilde;nh thổ Việt Nam, đồng thời l&agrave; c&aacute;nh tay nối d&agrave;i của hệ thống h&agrave;nh ch&iacute;nh, l&agrave; doanh nghiệp ti&ecirc;n phong trong x&acirc;y dựng nền tảng số mang t&iacute;nh hạ tầng phục vụ ph&aacute;t triển kinh tế số, x&atilde; hội số, quốc gia số v&agrave; thực hiện sứ mệnh v&igrave; cộng đồng. Với hơn 13.000 điểm phục vụ trải d&agrave;i đến tận cấp th&ocirc;n, bản, miền n&uacute;i, hải đảo v&agrave; với hơn 50.000 người lao động, Bưu điện Việt Nam trở th&agrave;nh doanh nghiệp bưu ch&iacute;nh vận chuyển lớn nhất Việt Nam. Vietnam Post l&agrave; th&agrave;nh vi&ecirc;n của Tổ chức Li&ecirc;n minh bưu ch&iacute;nh thế giới (UPU), c&oacute; quan hệ hợp t&aacute;c với Bưu ch&iacute;nh của hầu hết c&aacute;c quốc gia tr&ecirc;n thế giới. B&ecirc;n cạnh đ&oacute;, Vietnam Post cũng l&agrave; đối t&aacute;c của nhiều doanh nghiệp lớn trong nước v&agrave; quốc tế như: Prudential, Vietnam Airlines, AirMekong, Western Union, Daiichi-life, HSBC, Agribank, LienvietPost Bank...</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><strong>Trung t&acirc;m C&ocirc;ng nghệ th&ocirc;ng tin (Vietnam Post - IT)</strong> l&agrave; đơn vị th&agrave;nh vi&ecirc;n của Vietnam Post c&oacute; sứ mệnh nghi&ecirc;n cứu, triển khai ứng dụng c&ocirc;ng nghệ th&ocirc;ng tin hướng tới hiện đại h&oacute;a tổng thể hoạt động điều h&agrave;nh, sản xuất, kinh doanh, cung ứng sản phẩm, dịch vụ tr&ecirc;n to&agrave;n quốc v&agrave; quốc tế.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">C&aacute;c ứng vi&ecirc;n c&oacute; cơ hội l&agrave;m việc, ph&aacute;t triển v&agrave; thử th&aacute;ch ở nhiều mảng ứng dụng, c&ocirc;ng nghệ mới (BigData, AI, Cloud Computing...) với những hệ thống lớn như: CRM, ERP, BI, Quản l&yacute; Logistics, Vận chuyển (TMS), Bưu ch&iacute;nh Quốc tế (UPU, OE) Thương mại điện tử - eCommerce, Quản l&yacute; hệ thống k&ecirc;nh ph&acirc;n phối (DMS), B&aacute;n lẻ tại điểm (POS), Quản l&yacute; kho h&agrave;ng (WMS), Thanh to&aacute;n, Thu chi hộ, V&iacute; điện tử, H&agrave;nh ch&iacute;nh c&ocirc;ng, Ch&iacute;nh phủ điện tử...; X&acirc;y dựng, quản trị hệ thống an to&agrave;n, an ninh mạng cho hạ tầng, cơ sở dữ liệu v&agrave; c&aacute;c phần mềm, ứng dụng đ&aacute;p ứng c&aacute;c quy định v&agrave; ti&ecirc;u chuẩn trong nước, quốc tế.</span></p>",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Mức lương Junior đến Senior: 15 - 33 tr VNĐ/tháng (đánh giá tăng lương theo năng lực);"
-                },
-                {
-                    "icon": "fa-calendar-check-o",
-                    "name": null,
-                    "value": "Làm việc từ Thứ 2 đến Thứ 6."
-                },
-                {
-                    "icon": "fa-angellist",
-                    "name": null,
-                    "value": "Môi trường làm việc trẻ trung, năng động;"
-                },
-                {
-                    "icon": "fa-diamond",
-                    "name": null,
-                    "value": "Được tiếp cận với sản phẩm đến từ doanh nghiệp hàng đầu Việt Nam trong lĩnh vực Bưu chính chuyển phát, làm việc cùng đội ngũ giỏi chuyên môn, có cơ hội để phát huy tối đa năng lực của bản thân."
-                },
-                {
-                    "icon": "fa-book",
-                    "name": null,
-                    "value": "Được đào tạo liên tục về kiến thức, kỹ năng liên quan đến các lĩnh vực hoạt động của Tổng Công ty;"
-                },
-                {
-                    "icon": "fa-laptop",
-                    "name": null,
-                    "value": "Được cung cấp đầy đủ phương tiện làm việc theo yêu cầu của tính chất công việc;"
-                },
-                {
-                    "icon": "fa-soccer-ball-o",
-                    "name": null,
-                    "value": "Các hoạt động tập thể, giải trí đa dạng (CLB Bóng đá, game, bi lắc, …); sự kiện team-building hàng năm;"
-                },
-                {
-                    "icon": "fa-star",
-                    "name": null,
-                    "value": "Được đảm bảo đầy đủ các chế độ Phúc lợi theo Quy định của Pháp luật hiện hành và của Công ty;"
-                },
-                {
-                    "icon": "fa-asterisk",
-                    "name": null,
-                    "value": "Thưởng Tết Nguyên Đán, Tết Dương lịch, ngày Lễ khác và thưởng thành tích nổi bật."
-                }
-            ],
-            "owned_id": 94276,
-            "company": {
-                "id": 94276,
-                "display_name": "Tổng Công ty Bưu điện Việt Nam (Vietnam Post)",
-                "image_logo": "https://assets.topdev.vn/images/2023/09/12/TopDev-Logo-Buu-dien-Viet-Nam-01---Hoang-minh-hang-1694509007.png",
-                "slug": "tong-cong-ty-buu-dien-viet-nam-vietnam-post",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/tong-cong-ty-buu-dien-viet-nam-vietnam-post-94276",
-                "tagline": "Bưu điện Việt Nam - Gửi cả niềm tin",
-                "addresses": {
-                    "address_region_ids": [
-                        "01"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội",
-                    "address_region_array": [
-                        "Thành phố Hà Nội"
-                    ],
-                    "full_addresses": [
-                        "Tòa nhà Vietnam Post - Số 5 Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
-                    ],
-                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
-                    "collection_addresses": [
-                        {
-                            "id": 185053,
-                            "ward": {
-                                "id": "00626",
-                                "value": "Phường Mỹ Đình 2"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "019",
-                                "value": "Quận Nam Từ Liêm"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Tòa nhà Vietnam Post - Số 5 Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Tòa nhà Vietnam Post - Số 5 Phạm Hùng"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/09/12/TopDev-591d38ebcf796dba470817dad6a60b04-1694509070.png",
-                "image_galleries": [
-                    {
-                        "id": 476248,
-                        "url": "https://assets.topdev.vn/images/2023/09/12/TopDev-Vi-mot-moi-truong-Xanh-sach-dep---Hoang-minh-hang-1694509007.jpg",
-                        "path": "/images/2023/09/12/TopDev-Vi-mot-moi-truong-Xanh-sach-dep---Hoang-minh-hang-1694509007.jpg",
-                        "name": "Vì một môi trường Xanh sạch đẹp - Hoang minh hang.jpg",
-                        "uploaded": {
-                            "date": "12-09-2023",
-                            "datetime": "2023-09-12 15:56:48",
-                            "since": "11 months ago",
-                            "timestamp": 1694509008
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 476251,
-                        "url": "https://assets.topdev.vn/images/2023/09/12/TopDev-2a46b62875ddb1791d3c6d8094f57964-1694509070.png",
-                        "path": "/images/2023/09/12/TopDev-2a46b62875ddb1791d3c6d8094f57964-1694509070.png",
-                        "name": "2a46b62875ddb1791d3c6d8094f57964.png",
-                        "uploaded": {
-                            "date": "12-09-2023",
-                            "datetime": "2023-09-12 15:57:51",
-                            "since": "11 months ago",
-                            "timestamp": 1694509071
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Thưởng onboarding khi gia nhập sớm",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Thưởng theo kết quả kinh doanh, Thưởng nóng khi kết thúc dự án; được thanh toán tiền làm thêm giờ.",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "Được xét tăng lương theo định kỳ hoặc theo năng lực không giới hạn thời gian.",
-                        "icon": "fa-asterisk"
-                    },
-                    {
-                        "value": "Cơ hội thăng tiến cao; Được tham gia các khóa đào tạo theo lĩnh vực chuyên môn của Tổng công ty ở trong nước và nước ngoài.",
-                        "icon": "fa-adn"
-                    },
-                    {
-                        "value": "Môi trường làm việc chuyên nghiệp, trẻ trung, năng động.",
-                        "icon": "fa-angellist"
-                    },
-                    {
-                        "value": "Đóng BHXH, BHYT, BHTN và hưởng các chế độ theo quy định của Nhà nước.",
-                        "icon": "fa-pencil"
-                    },
-                    {
-                        "value": "Thăm khám sức khỏe định kỳ hằng năm, hỗ trợ đồng phục Tổng công ty.",
-                        "icon": "fa-heartbeat"
-                    },
-                    {
-                        "value": "Tham gia các câu lạc bộ tiếng anh, bóng đá, bóng bàn, cầu lông...",
-                        "icon": "fa-soccer-ball-o"
-                    },
-                    {
-                        "value": "Làm từ thứ 2 đến hết thứ 6, cụ thể: + 8h – 18h: từ thứ 2 đến thứ 5 hàng tuần + 8h -17h: thứ 6 hàng tuần + Nghỉ trưa: 12h-13h",
-                        "icon": "fa-clock-o"
-                    }
-                ],
-                "skills_arr": [
-                    "PHP",
-                    "Java",
-                    ".NET",
-                    "ReactJS",
-                    "React Native"
-                ],
-                "industries_arr": [
-                    "Logistics"
-                ],
-                "industries_str": "Logistics",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Java, Back-End, Database",
-            "skills_arr": [
-                "Java",
-                "Back-End",
-                "Database"
-            ],
-            "skills_ids": [
-                21,
-                210,
-                251
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Junior, Middle, Senior",
-            "job_levels_arr": [
-                "Junior",
-                "Middle",
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8664,
-                8665,
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "01"
-                ],
-                "address_region_list": "Thành phố Hà Nội",
-                "address_region_array": [
-                    "Thành phố Hà Nội"
-                ],
-                "full_addresses": [
-                    "Tòa nhà Vietnam Post - Số 5 Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội"
-                ],
-                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
-                "collection_addresses": [
-                    {
-                        "id": 185053,
-                        "ward": {
-                            "id": "00626",
-                            "value": "Phường Mỹ Đình 2"
-                        },
-                        "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
-                        },
-                        "district": {
-                            "id": "019",
-                            "value": "Quận Nam Từ Liêm"
-                        },
-                        "postal_code": "100000",
-                        "full_address": "Tòa nhà Vietnam Post - Số 5 Phạm Hùng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Thành phố Hà Nội",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Tòa nhà Vietnam Post - Số 5 Phạm Hùng"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/chuyen-vien-lap-trinh-vien-java-tong-cong-ty-buu-dien-viet-nam-vietnam-post-2034096",
-            "job_url": "",
-            "slug": "chuyen-vien-lap-trinh-vien-java-tong-cong-ty-buu-dien-viet-nam-vietnam-post",
-            "salary": {
-                "is_negotiable": "0",
-                "unit": "MONTH",
-                "min": "1*******",
-                "max": "3*******",
-                "currency": "VND",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": "1******* - 3******* VND"
-            },
-            "features": [
-                "hot_label"
-            ],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "13-08-2024",
-                "datetime": "00:00:00 13-08-2024",
-                "since": "1 tuần trước"
-            },
-            "refreshed": {
-                "date": "13-08-2024",
-                "datetime": "14:00:00 13-08-2024",
-                "since": "1 tuần trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Tốt nghiệp đại học chính quy (có bằng) ưu tiên các ngành: CNTT, điện tử viễn thống, hệ thống thông tin, khoa học máy tính, ….",
-                        "Thông thạo ngôn ngữ lập trình Java",
-                        "Có ít nhất từ 03 năm kinh nghiệp lập trình viên",
-                        "Có khả năng review code",
-                        "Hiểu rõ quy trình phát triển phần mềm",
-                        "Nắm vững thuật toán và lập trình hướng đối tượng.",
-                        "Có kiến thức về Database",
-                        "Có kiến thức và kinh nghiệm tạo detail design, unit test.",
-                        "Có kinh nghiệm Jira, SVN hoặc các ứng dụng liên quan source control.",
-                        "Khả năng tư duy hệ thống, tìm tòi, học hỏi nhanh, làm việc độc lập, làm việc nhóm, chủ động trong công việc.",
-                        "Có trách nhiệm cao trong công việc, sẵn sàng thu xếp thời gian để hoàn thành công việc theo yêu cầu dự án.",
-                        "Có định hướng và yêu thích, đam mê lập trình."
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
         }
     ],
     "links": {
@@ -3003,7 +3092,7 @@
         "next": "http://api.topdev.vn/td/v2/jobs/?page=23"
     },
     "meta": {
-        "total": 856,
+        "total": 859,
         "per_page": 10,
         "current_page": 22,
         "last_page": 86,

@@ -5,390 +5,11 @@
         "status": [
             {
                 "key": 3,
-                "doc_count": 632
+                "doc_count": 634
             }
         ]
     },
     "data": [
-        {
-            "id": 2033846,
-            "title": "HO - ADVANCED ANALYTICS SPECIALIST",
-            "content": "",
-            "benefits": [],
-            "owned_id": 70585,
-            "company": {
-                "id": 70585,
-                "display_name": "NGÂN HÀNG Á CHÂU (ACB)",
-                "image_logo": "https://assets.topdev.vn/images/2023/10/31/TopDev-ACB-1698729382.png",
-                "slug": "ngan-hang-a-chau-acb",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-a-chau-acb-70585",
-                "tagline": "Chinh phục năng lực số",
-                "addresses": {
-                    "address_region_ids": [
-                        "79",
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh",
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                        "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận 3, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 30721,
-                            "ward": {
-                                "id": "27151",
-                                "value": "Phường 05"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "770",
-                                "value": "Quận 3"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "442 Nguyễn Thị Minh Khai"
-                        },
-                        {
-                            "id": 140664,
-                            "ward": {
-                                "id": "27133",
-                                "value": "Phường 11"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "770",
-                                "value": "Quận 3"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "444 Cách Mạng Tháng Tám"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh, Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2022/10/06/TopDev-248087415cdf55735daa763f31cec1fa-1665051304.png",
-                "image_galleries": [
-                    {
-                        "id": 123208,
-                        "url": "https://assets.topdev.vn/images/2020/03/11/ACB_TopDev_2.jpg",
-                        "path": "/images/2020/03/11/ACB_TopDev_2.jpg",
-                        "name": "ACB_TopDev_2.jpg",
-                        "uploaded": {
-                            "date": "11-03-2020",
-                            "datetime": "2020-03-11 15:51:53",
-                            "since": "4 years ago",
-                            "timestamp": 1583916713
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264561,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/galleryBOzucN390Xln7QUFCZ6Yh8oZODAmbcmF-lk9h4.jpeg",
-                        "path": "/images/2021/04/23/galleryBOzucN390Xln7QUFCZ6Yh8oZODAmbcmF-lk9h4.jpeg",
-                        "name": "gallery_BOzucN390Xln7QUFCZ6Yh8oZODAmbcmF.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:43:52",
-                            "since": "3 years ago",
-                            "timestamp": 1619160232
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264564,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/gallery6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D-6sdUN.jpeg",
-                        "path": "/images/2021/04/23/gallery6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D-6sdUN.jpeg",
-                        "name": "gallery_6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:44:08",
-                            "since": "3 years ago",
-                            "timestamp": 1619160248
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264567,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/gallerydrC1XJFHSV53fSOGf9xIQ5RlrwqF029t-ObKsW.jpeg",
-                        "path": "/images/2021/04/23/gallerydrC1XJFHSV53fSOGf9xIQ5RlrwqF029t-ObKsW.jpeg",
-                        "name": "gallery_drC1XJFHSV53fSOGf9xIQ5RlrwqF029t.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:45:15",
-                            "since": "3 years ago",
-                            "timestamp": 1619160315
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264569,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/gallerylSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16-oViFe.jpeg",
-                        "path": "/images/2021/04/23/gallerylSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16-oViFe.jpeg",
-                        "name": "gallery_lSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:46:38",
-                            "since": "3 years ago",
-                            "timestamp": 1619160398
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Average 15 Monthly Base salary per year. 13 Monthly Base Salary.",
-                        "icon": "fa-dollar"
-                    },
-                    {
-                        "value": "Training.",
-                        "icon": "fa-graduation-cap"
-                    },
-                    {
-                        "value": "Recorgnition.",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "ACB Health Care.",
-                        "icon": "fa-child"
-                    },
-                    {
-                        "value": "Meal Allowance.",
-                        "icon": "fa-glass"
-                    },
-                    {
-                        "value": "Professional and Transparent Working Environment.",
-                        "icon": "fa-diamond"
-                    }
-                ],
-                "skills_arr": [
-                    "Oracle",
-                    "Java",
-                    "JavaScript",
-                    "C#",
-                    ".NET"
-                ],
-                "industries_arr": [
-                    "Ngân Hàng"
-                ],
-                "industries_str": "Ngân Hàng",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Data Analytics, Machine Learning, Deep Learning",
-            "skills_arr": [
-                "Data Analytics",
-                "Machine Learning",
-                "Deep Learning"
-            ],
-            "skills_ids": [
-                202,
-                317,
-                4942
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79",
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh",
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                    "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận 3, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 30721,
-                        "ward": {
-                            "id": "27151",
-                            "value": "Phường 05"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "770",
-                            "value": "Quận 3"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "442 Nguyễn Thị Minh Khai"
-                    },
-                    {
-                        "id": 140664,
-                        "ward": {
-                            "id": "27133",
-                            "value": "Phường 11"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "770",
-                            "value": "Quận 3"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "444 Cách Mạng Tháng Tám"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/ho-advanced-analytics-specialist-ngan-hang-a-chau-acb-2033846",
-            "job_url": "",
-            "slug": "ho-advanced-analytics-specialist-ngan-hang-a-chau-acb",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic",
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": true,
-            "is_basic_plus": false,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "15-07-2024",
-                "datetime": "00:00:00 15-07-2024",
-                "since": "1 tháng trước"
-            },
-            "refreshed": {
-                "date": "19-08-2024",
-                "datetime": "02:00:07 19-08-2024",
-                "since": "2 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "1/ EducationaI QuaIifications"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Minimum graduated from University or above/ or Master degree in Economics/ Statistics/ Mathematics"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "2/ Relevant KnowIedge/ Expertise"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Proficient in Python, R",
-                        "Hands-on experience on Machine Learning, Deep Learning, statistics",
-                        "Skillful in using Excel, PowerPoint and Word as the primary working tools"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "3/ Skills"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Quick and flexible learning skills to adapt to new things and work on multiple tasks",
-                        "Skill of communication, human relations, building relationships with stakeholders.",
-                        "Identification and problem-solving skills",
-                        "Critical thinking skills",
-                        "Teamwork skill",
-                        "Presentation and negotiation skills",
-                        "Analysis and conflict management skills",
-                        "Coordinating personnel and work skills",
-                        "Building relationships with customers skills"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "4/ Relevant Experiences"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "+3 years of experience in Advanced Analytics/ Machine Learning/ Deep Learning",
-                        "Having a broad knowledge of business related to advanced analysis"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "5/ Personal Characteristic"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "High sense of responsibility, honest, careful, accurate and sensitive in work",
-                        "Creativity and creating team spirit",
-                        "Be proactive and enthusiastic in work",
-                        "Confident, creative, dynamic",
-                        "High customer service spirit",
-                        "Have the spirit of cooperation and support each other"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
         {
             "id": 2033955,
             "title": "Product Designer",
@@ -618,580 +239,6 @@
                         "Solid understanding of user-centered design principles and methodologies.",
                         "Excellent communication and collaboration skills.",
                         "Bonus Skills: Experience with motion design"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033844,
-            "title": "IT - DEVOPS ENGINEER",
-            "content": "",
-            "benefits": [],
-            "owned_id": 70585,
-            "company": {
-                "id": 70585,
-                "display_name": "NGÂN HÀNG Á CHÂU (ACB)",
-                "image_logo": "https://assets.topdev.vn/images/2023/10/31/TopDev-ACB-1698729382.png",
-                "slug": "ngan-hang-a-chau-acb",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-a-chau-acb-70585",
-                "tagline": "Chinh phục năng lực số",
-                "addresses": {
-                    "address_region_ids": [
-                        "79",
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh",
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                        "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận 3, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 30721,
-                            "ward": {
-                                "id": "27151",
-                                "value": "Phường 05"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "770",
-                                "value": "Quận 3"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "442 Nguyễn Thị Minh Khai"
-                        },
-                        {
-                            "id": 140664,
-                            "ward": {
-                                "id": "27133",
-                                "value": "Phường 11"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "770",
-                                "value": "Quận 3"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "444 Cách Mạng Tháng Tám"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh, Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2022/10/06/TopDev-248087415cdf55735daa763f31cec1fa-1665051304.png",
-                "image_galleries": [
-                    {
-                        "id": 123208,
-                        "url": "https://assets.topdev.vn/images/2020/03/11/ACB_TopDev_2.jpg",
-                        "path": "/images/2020/03/11/ACB_TopDev_2.jpg",
-                        "name": "ACB_TopDev_2.jpg",
-                        "uploaded": {
-                            "date": "11-03-2020",
-                            "datetime": "2020-03-11 15:51:53",
-                            "since": "4 years ago",
-                            "timestamp": 1583916713
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264561,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/galleryBOzucN390Xln7QUFCZ6Yh8oZODAmbcmF-lk9h4.jpeg",
-                        "path": "/images/2021/04/23/galleryBOzucN390Xln7QUFCZ6Yh8oZODAmbcmF-lk9h4.jpeg",
-                        "name": "gallery_BOzucN390Xln7QUFCZ6Yh8oZODAmbcmF.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:43:52",
-                            "since": "3 years ago",
-                            "timestamp": 1619160232
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264564,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/gallery6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D-6sdUN.jpeg",
-                        "path": "/images/2021/04/23/gallery6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D-6sdUN.jpeg",
-                        "name": "gallery_6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:44:08",
-                            "since": "3 years ago",
-                            "timestamp": 1619160248
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264567,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/gallerydrC1XJFHSV53fSOGf9xIQ5RlrwqF029t-ObKsW.jpeg",
-                        "path": "/images/2021/04/23/gallerydrC1XJFHSV53fSOGf9xIQ5RlrwqF029t-ObKsW.jpeg",
-                        "name": "gallery_drC1XJFHSV53fSOGf9xIQ5RlrwqF029t.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:45:15",
-                            "since": "3 years ago",
-                            "timestamp": 1619160315
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 264569,
-                        "url": "https://assets.topdev.vn/images/2021/04/23/gallerylSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16-oViFe.jpeg",
-                        "path": "/images/2021/04/23/gallerylSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16-oViFe.jpeg",
-                        "name": "gallery_lSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16.jpeg",
-                        "uploaded": {
-                            "date": "23-04-2021",
-                            "datetime": "2021-04-23 13:46:38",
-                            "since": "3 years ago",
-                            "timestamp": 1619160398
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Average 15 Monthly Base salary per year. 13 Monthly Base Salary.",
-                        "icon": "fa-dollar"
-                    },
-                    {
-                        "value": "Training.",
-                        "icon": "fa-graduation-cap"
-                    },
-                    {
-                        "value": "Recorgnition.",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "ACB Health Care.",
-                        "icon": "fa-child"
-                    },
-                    {
-                        "value": "Meal Allowance.",
-                        "icon": "fa-glass"
-                    },
-                    {
-                        "value": "Professional and Transparent Working Environment.",
-                        "icon": "fa-diamond"
-                    }
-                ],
-                "skills_arr": [
-                    "Oracle",
-                    "Java",
-                    "JavaScript",
-                    "C#",
-                    ".NET"
-                ],
-                "industries_arr": [
-                    "Ngân Hàng"
-                ],
-                "industries_str": "Ngân Hàng",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Python, DevOps, Docker",
-            "skills_arr": [
-                "Python",
-                "DevOps",
-                "Docker"
-            ],
-            "skills_ids": [
-                34,
-                213,
-                230
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Middle, Senior",
-            "job_levels_arr": [
-                "Middle",
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8665,
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79",
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh",
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                    "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận 3, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 30721,
-                        "ward": {
-                            "id": "27151",
-                            "value": "Phường 05"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "770",
-                            "value": "Quận 3"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "442 Nguyễn Thị Minh Khai"
-                    },
-                    {
-                        "id": 140664,
-                        "ward": {
-                            "id": "27133",
-                            "value": "Phường 11"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "770",
-                            "value": "Quận 3"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "444 Cách Mạng Tháng Tám"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/it-devops-engineer-ngan-hang-a-chau-acb-2033844",
-            "job_url": "",
-            "slug": "it-devops-engineer-ngan-hang-a-chau-acb",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic",
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": true,
-            "is_basic_plus": false,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "15-07-2024",
-                "datetime": "00:00:00 15-07-2024",
-                "since": "1 tháng trước"
-            },
-            "refreshed": {
-                "date": "19-08-2024",
-                "datetime": "02:00:07 19-08-2024",
-                "since": "2 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "BS/MS degree in computer science, software engineering, or a related technical field;",
-                        "Having coding skills with Python is a must;",
-                        "Knowledge of Azure/AWS is a big plus;",
-                        "2+ years of experience in DevOps;",
-                        "Good understanding of software development and operation;",
-                        "Experience in Docker, Kubernetes, Kafka, RabitMQ, ActiveMQ, Jira, Confluence,",
-                        "GitLab, Kong, NginX, ELK, Graylogs …;",
-                        "Experience in SQL and NoSQL databases, such as Oracle, PostgreSQL, Couchbase;",
-                        "Knowledge of Keycloak/Redhat SSO is a big plus;",
-                        "Understanding of CI/CD pipeline;",
-                        "Experience in agile development teams, such as Scrum, Kanban;",
-                        "Interested in dealing with technical challenges and keen on exploring new things;",
-                        "Good problem-solving skills and teamwork spirit;",
-                        "Strong communication skills to effectively collaborate with other developers and stakeholders;"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033816,
-            "title": "Fullstack Developer (Vuejs, React, NodeJS)",
-            "content": "",
-            "benefits": [
-                {
-                    "icon": "fa-file-text",
-                    "name": null,
-                    "value": "Được hưởng đầy đủ các chính sách phúc lợi theo quy định của pháp luật Việt Nam (Benefits policy as Vietnamese Law)"
-                },
-                {
-                    "icon": "fa-lightbulb-o",
-                    "name": null,
-                    "value": "Được làm việc trong môi trường quốc tế (Global and professional working environment)"
-                },
-                {
-                    "icon": "fa-map-marker",
-                    "name": null,
-                    "value": "Có thể ghé thăm trụ sở tại Hàn Quốc (Have the opportunity to visit the headquarters in Korea)"
-                }
-            ],
-            "owned_id": 94452,
-            "company": {
-                "id": 94452,
-                "display_name": "SALESCORE",
-                "image_logo": "https://assets.topdev.vn/images/2023/12/07/TopDev--1701924120.PNG",
-                "slug": "salescore",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/salescore-94452",
-                "tagline": "SalesCore - NO.1  leading global enterprise specializing in distribution solutions",
-                "addresses": {
-                    "address_region_ids": [
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 192961,
-                            "ward": {
-                                "id": "26953",
-                                "value": "Phường 21"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "765",
-                                "value": "Quận Bình Thạnh"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "720A Điện Biên Phủ"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh"
-                },
-                "image_cover": null,
-                "image_galleries": [],
-                "benefits": [
-                    {
-                        "value": "Có cơ hội được làm việc tại trụ sở Hàn Quốc",
-                        "icon": "fa-check-circle"
-                    },
-                    {
-                        "value": "Làm việc tại nhà",
-                        "icon": "fa-check-circle"
-                    },
-                    {
-                        "value": "Thời gian làm việc: Thứ Hai - Thứ Sáu 7:30-16:30",
-                        "icon": "fa-check-circle"
-                    }
-                ],
-                "skills_arr": [
-                    "PHP",
-                    "Java",
-                    "VueJS"
-                ],
-                "industries_arr": [
-                    "E-commerce Platforms"
-                ],
-                "industries_str": "E-commerce Platforms",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "NodeJS, VueJS, React",
-            "skills_arr": [
-                "NodeJS",
-                "VueJS",
-                "React"
-            ],
-            "skills_ids": [
-                36,
-                1297,
-                7367
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 192961,
-                        "ward": {
-                            "id": "26953",
-                            "value": "Phường 21"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "765",
-                            "value": "Quận Bình Thạnh"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "720A Điện Biên Phủ"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/fullstack-developer-vuejs-react-nodejs-salescore-2033816",
-            "job_url": "",
-            "slug": "fullstack-developer-vuejs-react-nodejs-salescore",
-            "salary": {
-                "is_negotiable": 0,
-                "unit": "MONTH",
-                "min": "2*******",
-                "max": "4*******",
-                "currency": "VND",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": "2******* - 4******* VND"
-            },
-            "features": [],
-            "packages": [
-                "basic",
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": true,
-            "is_basic_plus": false,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "15-07-2024",
-                "datetime": "00:00:00 15-07-2024",
-                "since": "1 tháng trước"
-            },
-            "refreshed": {
-                "date": "19-08-2024",
-                "datetime": "02:00:07 19-08-2024",
-                "since": "2 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Có từ 5 năm kinh nghiệm Fullstack liên quan đến các ngôn ngữ Framwork phổ biến như Vuejs, React, NodeJS, C# .NET Core, MySQL, SQLServer,....",
-                        "Có kinh nghiệm quản lý sever như Aws, Ubuntu, Nginx",
-                        "Có kinh nghiệm và sử dụng tốt các công cụ như Redmine, Jira, Slack, Github, Gitlab,……",
-                        "Có kinh nghiệm Web publishing",
-                        "Có kinh nghiệm phát triển và quản lý dịch vụ thương mại điện tử",
-                        "Khi phát hiện vấn đề thì tích cực cải thiện",
-                        "Người có thể đi công tác nước ngoài"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Vui lòng gửi CV bằng tiếng Anh hoặc tiếng Hàn (Please send your CV in English or Korean)"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "***JD ENGLISH"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Your role & responsibilities"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Developing a Korean e-commerce platform",
-                        "Research to constantly improve current developed mall",
-                        "Server management such as AWS, Ubuntu, Nginx, etc",
-                        "Fullstack develop: Vuejs, React, NodeJS, C# .NET Core, MySQL, SQLServer,..."
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Skills & qualifications"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "At least 5 years of fullstack experiences relate to Vuejs, React, NodeJS, C# .NET Core, MySQL, SQLServer,.....",
-                        "Experienced in server management such as AWS, Ubuntu, Nginx, etc.",
-                        "Experienced with collaboration tools and QA tools such as Redmine, Jira, Slack, and Github, Gitlab,.....",
-                        "Experienced in Web publishing",
-                        "Experienced in developing and managing e-commerce services",
-                        "Active person in discovering problems and improving them",
-                        "Ability for overseas business trips"
                     ],
                     "icon": "fa-circle"
                 }
@@ -1510,6 +557,1809 @@
                         "Demonstrated ability to work collaboratively across functions and levels within an organization.",
                         "Proven ability to lead and develop high-performing teams.",
                         "Strong analytical and problem-solving skills"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033838,
+            "title": "Android Developer",
+            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Age: 21-35 years old</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Language requirement: English</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Salary: Negotiable</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Working hours: 9 hours, 4 days off per month</span></li>\r\n</ul>",
+            "benefits": [],
+            "owned_id": 94789,
+            "company": {
+                "id": 94789,
+                "display_name": "Youmi Technology Company",
+                "image_logo": "https://assets.topdev.vn/images/2024/07/04/TopDev-Anh-man-hinh-2024-07-04-luc-11.21.25---trung-huy-1720067974.png",
+                "slug": "youmi-technology-company",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/youmi-technology-company-94789",
+                "tagline": "What skills, work projects or achievements make you a strong candidate for this position?",
+                "addresses": {
+                    "address_region_ids": [
+                        "9999999"
+                    ],
+                    "address_region_list": "Oversea",
+                    "address_region_array": [
+                        "Oversea"
+                    ],
+                    "full_addresses": [
+                        "Philippine - Malina - Pasay, Oversea"
+                    ],
+                    "sort_addresses": " Oversea",
+                    "collection_addresses": [
+                        {
+                            "id": 203412,
+                            "ward": {
+                                "id": null,
+                                "value": null
+                            },
+                            "province": {
+                                "id": "9999999",
+                                "value": "Oversea"
+                            },
+                            "district": {
+                                "id": null,
+                                "value": null
+                            },
+                            "postal_code": "0",
+                            "full_address": "Philippine - Malina - Pasay, Oversea",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Philippine - Malina - Pasay"
+                        }
+                    ],
+                    "address_short_region_list": "Oversea"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "High-end dormitory with full amenities (swimming pool, gym, washing machine, air conditioning, etc.) provided for employees. For those choosing to reside outside, a housing allowance of 300USD or more will be offered.",
+                        "icon": "fa-building"
+                    },
+                    {
+                        "value": "Meals: Three to five meals per day provided free of charge.Snacks available at the company.",
+                        "icon": "fa-cutlery"
+                    },
+                    {
+                        "value": "Initial Support: Essential personal items provided for new employees (bed sheets, pillows, blankets, shampoo, toothpaste, etc.).",
+                        "icon": "fa-tag"
+                    },
+                    {
+                        "value": "Holiday Bonuses: Bonuses ranging from 5,000 to 10,000 RMB for Chinese holidays. Triple pay for working during the Lunar New Year holiday.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Medical Care: 24/7 medical team available to assist employees in case of illness or injury.",
+                        "icon": "fa-ambulance"
+                    },
+                    {
+                        "value": "Overtime Pay: Overtime work will be compensated at 1.5 times the regular hourly rate.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Paid Leave: 15 days of paid leave after 6 months of employment. For employees returning to their home country, the company will cover the cost of airfare. Employees who choose not to take their leave will receive a bonus based on their salary level.",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Salary Increment: Two salary increments per year based on individual KPI and market rates.",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Contract Renewal: A bonus of 20,000 RMB upon signing a new contract after the completion of the current one. 13th to 17th month salary based on the employee's tenure with the company.",
+                        "icon": "fa-file-text"
+                    },
+                    {
+                        "value": "New Employee Training: Comprehensive training provided by a team of experts to assist new employees.",
+                        "icon": "fa-graduation-cap"
+                    },
+                    {
+                        "value": "Social and medical insurance coverage.",
+                        "icon": "fa-heartbeat"
+                    },
+                    {
+                        "value": "Professional and dynamic work environment.",
+                        "icon": "fa-lightbulb-o"
+                    },
+                    {
+                        "value": "Ample opportunities for career advancement.",
+                        "icon": "fa-line-chart"
+                    },
+                    {
+                        "value": "Regular recreational activities and team-building events",
+                        "icon": "fa-soccer-ball-o"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "Golang",
+                    "React Native"
+                ],
+                "industries_arr": [
+                    "Software",
+                    "Phần Mềm"
+                ],
+                "industries_str": "Software, Phần Mềm",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Android, Git",
+            "skills_arr": [
+                "Android",
+                "Git"
+            ],
+            "skills_ids": [
+                8,
+                132
+            ],
+            "job_types_str": "Oversea",
+            "job_levels_str": "Junior, Senior",
+            "job_levels_arr": [
+                "Junior",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8664,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "9999999"
+                ],
+                "address_region_list": "Oversea",
+                "address_region_array": [
+                    "Oversea"
+                ],
+                "full_addresses": [
+                    "Philippine - Malina - Pasay, Oversea"
+                ],
+                "sort_addresses": " Oversea",
+                "collection_addresses": [
+                    {
+                        "id": 203412,
+                        "ward": {
+                            "id": null,
+                            "value": null
+                        },
+                        "province": {
+                            "id": "9999999",
+                            "value": "Oversea"
+                        },
+                        "district": {
+                            "id": null,
+                            "value": null
+                        },
+                        "postal_code": "0",
+                        "full_address": "Philippine - Malina - Pasay, Oversea",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Philippine - Malina - Pasay"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/android-developer-youmi-technology-company-2033838",
+            "job_url": "",
+            "slug": "android-developer-youmi-technology-company",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "2***",
+                "max": "5***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "2*** - 5*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "15-07-2024",
+                "datetime": "00:00:00 15-07-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "19-08-2024",
+                "datetime": "02:00:07 19-08-2024",
+                "since": "2 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Strong Android development skills, familiar with practical Android application development and design patterns.",
+                        "At least 3 years of work experience in the field of Android development.",
+                        "Proficient in Java and Kotlin development, with knowledge of other programming languages such as Python.",
+                        "Familiarity with development tools such as Android SDK, Android Studio, Git, etc.",
+                        "Familiar with common network protocols and architectures, such as HTTP, TCP/IP, etc.",
+                        "Excellent teamwork and communication skills, able to collaborate and communicate effectively with other team members to reach a consensus.",
+                        "Strong sense of responsibility, independent thinking, and problem-solving skills, capable of delivering high-quality work under pressure"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033956,
+            "title": "EXPERIENCED BUSINESS ANALYST",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><em>Experienced Business Analyst with 1 year of experience in business analysis on software development projects, advanced English level, and experience in e-Commerce domain to join our team.</em></span></p>",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Salary range: up to 30M. OKR/KPI bonus. Performance review twice a year;"
+                },
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "13th-month salary based on the business performance. Seniority Allowance;"
+                },
+                {
+                    "icon": "fa-lightbulb-o",
+                    "name": null,
+                    "value": "Opportunity to experience your expertise in a young and dynamic environment;"
+                },
+                {
+                    "icon": "fa-bell-o",
+                    "name": null,
+                    "value": "Good career growth opportunities with interesting and challenging projects;"
+                },
+                {
+                    "icon": "fa-clock-o",
+                    "name": null,
+                    "value": "5 working days/week. 13.5 days off/year."
+                },
+                {
+                    "icon": "fa-book",
+                    "name": null,
+                    "value": "Support course and certification fee for expertise improvement;"
+                },
+                {
+                    "icon": "fa-calendar-times-o",
+                    "name": null,
+                    "value": "Annual health check-up;"
+                },
+                {
+                    "icon": "fa-laptop",
+                    "name": null,
+                    "value": "Convenient working space with free tea and coffee, massage equipment, PS5,…"
+                },
+                {
+                    "icon": "fa-binoculars",
+                    "name": null,
+                    "value": "Volunteer work and outdoor activities with company support: sports clubs, team building, birthdays, company trips, etc."
+                },
+                {
+                    "icon": "fa-level-up",
+                    "name": null,
+                    "value": "Advancement opportunities available"
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Other benefits according to the provisions of the Company and the Labor Code."
+                }
+            ],
+            "owned_id": 67320,
+            "company": {
+                "id": 67320,
+                "display_name": "BSS Group",
+                "image_logo": "https://assets.topdev.vn/images/2023/10/17/TopDev-z2F86p0b8KwwodKt-1697535265.jpg",
+                "slug": "bss-group",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/bss-group-67320",
+                "tagline": "BSS Group - Globally trusted partner for full service ecommerce solutions",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 147772,
+                            "ward": {
+                                "id": "00637",
+                                "value": "Phường Trung Văn"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "019",
+                                "value": "Quận Nam Từ Liêm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/04/11/TopDev-rIY4FJ7WobbdePeN-1681198389.png",
+                "image_galleries": [
+                    {
+                        "id": 408338,
+                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-7CfvP5yRw4VzeoZF-1681198390.jpg",
+                        "path": "/images/2023/04/11/TopDev-7CfvP5yRw4VzeoZF-1681198390.jpg",
+                        "name": "tIEOGfIDX8FofwAV23le31Ekc3WBkIVxwG7dF5dT.jpg",
+                        "uploaded": {
+                            "date": "11-04-2023",
+                            "datetime": "2023-04-11 14:33:10",
+                            "since": "1 year ago",
+                            "timestamp": 1681198390
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 408339,
+                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-stG58FZxElEth4Bc-1681198390.jpg",
+                        "path": "/images/2023/04/11/TopDev-stG58FZxElEth4Bc-1681198390.jpg",
+                        "name": "usjUTcGffY5LQkQww2rXWe1OqupGCqQrnCNoA4d7.jpg",
+                        "uploaded": {
+                            "date": "11-04-2023",
+                            "datetime": "2023-04-11 14:33:10",
+                            "since": "1 year ago",
+                            "timestamp": 1681198390
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 408340,
+                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-0nDPWRydEVKVQiOu-1681198390.jpg",
+                        "path": "/images/2023/04/11/TopDev-0nDPWRydEVKVQiOu-1681198390.jpg",
+                        "name": "xgCumSIAXYFpC74MGQxbjT2sePcwpEnr1jp3F0vW.jpg",
+                        "uploaded": {
+                            "date": "11-04-2023",
+                            "datetime": "2023-04-11 14:33:10",
+                            "since": "1 year ago",
+                            "timestamp": 1681198390
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 408341,
+                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-Tkc3kK8mbrT9BRf2-1681198391.jpg",
+                        "path": "/images/2023/04/11/TopDev-Tkc3kK8mbrT9BRf2-1681198391.jpg",
+                        "name": "SahDmPrQfsu274YSPCAIMlGRJNmk2ba99lHAsguF.jpg",
+                        "uploaded": {
+                            "date": "11-04-2023",
+                            "datetime": "2023-04-11 14:33:11",
+                            "since": "1 year ago",
+                            "timestamp": 1681198391
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 408349,
+                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-xurPUzkkwSAcHsbG-1681198805.png",
+                        "path": "/images/2023/04/11/TopDev-xurPUzkkwSAcHsbG-1681198805.png",
+                        "name": "EpiZDHiDSWGJ3CHFsnFX8s1ZG5bovK4zCrXcCPOi.png",
+                        "uploaded": {
+                            "date": "11-04-2023",
+                            "datetime": "2023-04-11 14:40:05",
+                            "since": "1 year ago",
+                            "timestamp": 1681198805
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Attractive salary (Review every 6 months), 13th-month salary, ...",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Benefiting from birthday presents, seniority allowance, coverage of specialization courses fee or career certificate",
+                        "icon": "fa-money"
+                    },
+                    {
+                        "value": "Youthful working environment (95% are 9x). Opportunities to participate in clubs: football, running, game,...",
+                        "icon": "fa-users"
+                    },
+                    {
+                        "value": "Chance to participate in team-building, picnics, summer trip, voluntary activities,... regularly organized by BSS",
+                        "icon": "fa-plane"
+                    },
+                    {
+                        "value": "Dynamic internal culture, at BSS we respect differences and focus on human development",
+                        "icon": "fa-gears"
+                    },
+                    {
+                        "value": "13.5 annual leave per year from the company",
+                        "icon": "fa-calendar-check-o"
+                    },
+                    {
+                        "value": "Work-life balance: 39 hours per week from Monday to Friday",
+                        "icon": "fa-calendar"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Magento",
+                    "Java",
+                    "JavaScript",
+                    "Python",
+                    "Solidity",
+                    "Rust"
+                ],
+                "industries_arr": [
+                    "IT Consultant",
+                    "Software",
+                    "Information Technology",
+                    "Outsourcing",
+                    "Thương mại điện tử/ Bán lẻ",
+                    "Dịch vụ IT",
+                    "E-commerce Platforms",
+                    "B2B Services",
+                    "Công nghệ thông tin"
+                ],
+                "industries_str": "IT Consultant, Software, Information Technology, Outsourcing, Thương mại điện tử/ Bán lẻ, Dịch vụ IT, E-commerce Platforms, B2B Services, Công nghệ thông tin",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Data Analytics, Business Analyst",
+            "skills_arr": [
+                "Data Analytics",
+                "Business Analyst"
+            ],
+            "skills_ids": [
+                202,
+                1456
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Junior, Middle",
+            "job_levels_arr": [
+                "Junior",
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 147772,
+                        "ward": {
+                            "id": "00637",
+                            "value": "Phường Trung Văn"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "019",
+                            "value": "Quận Nam Từ Liêm"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/experienced-business-analyst-bss-group-2033956",
+            "job_url": "",
+            "slug": "experienced-business-analyst-bss-group",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-07-2024",
+                "datetime": "00:00:00 30-07-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-08-2024",
+                "datetime": "02:00:07 19-08-2024",
+                "since": "2 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "At least 1 year’s relevant experience as a Business Analyst (or similar capacity) with a proven track record of successful project delivery. eCommerce experience is not necessary but will be highly regarded.\nAdvanced English level (CV in English; direct customer interaction)\nExcellent communication, facilitation and team working skills including a high level of negotiating and influencing ability (at all levels of the business).\nOutstanding attention to detail, whilst being able to manage their time effectively across multiple projects if needed. Leadership skills are preferred\nPassionate about using technology to solve complex business and operational problems.\nExperience using Agile methodologies.\nStrong business acumen and problem solving skills.\nOwn or potentially develop BSS core values FIRE: Fervor, Face the challenge, Integrity, Responsibility, Respect, Enjoy"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033961,
+            "title": "Chuyên gia Lập trình Website (Frontend-ReactJS)",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-money",
+                    "name": null,
+                    "value": "Lương cạnh tranh, hấp dẫn"
+                },
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Được hưởng đầy đủ các chế độ phúc lợi: đóng BHXH, BHYT, BHTN,.."
+                },
+                {
+                    "icon": "fa-dollar",
+                    "name": null,
+                    "value": "Được hỗ trợ ăn ca, thưởng lễ tết"
+                },
+                {
+                    "icon": "fa-heartbeat",
+                    "name": null,
+                    "value": "Khám sức khỏe định kỳ, team building hằng năm;"
+                },
+                {
+                    "icon": "fa-gift",
+                    "name": null,
+                    "value": "Được hưởng ưu đãi khi sử dụng các dịch vụ cao cấp thuộc tập đoàn Vingroup;"
+                }
+            ],
+            "owned_id": 93794,
+            "company": {
+                "id": 93794,
+                "display_name": "VINHOMES",
+                "image_logo": "https://assets.topdev.vn/images/2022/10/10/TopDev-a9d57f18bae26b4c2f57750d32f662c8-1665417282.png",
+                "slug": "vinhomes",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/vinhomes-93794",
+                "tagline": "Vinhomes - Nơi hạnh phúc ngập tràn",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "79",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
+                        "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Long Biên, Hà Nội - Thành phố Thủ Đức, Hồ Chí Minh - Huyện Gia Lâm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 152458,
+                            "ward": {
+                                "id": "00136",
+                                "value": "Phường Phúc Lợi"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "004",
+                                "value": "Quận Long Biên"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside"
+                        },
+                        {
+                            "id": 166959,
+                            "ward": {
+                                "id": "27088",
+                                "value": "Phường Thảo Điền"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "762",
+                                "value": "Thành phố Thủ Đức"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
+                        },
+                        {
+                            "id": 204730,
+                            "ward": {
+                                "id": "00577",
+                                "value": "Xã Đa Tốn"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "018",
+                                "value": "Huyện Gia Lâm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hồ Chí Minh, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/06/15/TopDev-26aeab6afe6b755637a2454a5d8df787-1686800613.png",
+                "image_galleries": [
+                    {
+                        "id": 433181,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
+                        "path": "/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
+                        "name": "Van-Hanh.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:35",
+                            "since": "1 year ago",
+                            "timestamp": 1686800615
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433182,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
+                        "path": "/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
+                        "name": "Cong-Dong-Thong-Minh.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:35",
+                            "since": "1 year ago",
+                            "timestamp": 1686800615
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433183,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
+                        "path": "/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
+                        "name": "Can-Ho-Thong-Minh.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:36",
+                            "since": "1 year ago",
+                            "timestamp": 1686800616
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433184,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
+                        "path": "/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
+                        "name": "moi truong xanh sach_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:37",
+                            "since": "1 year ago",
+                            "timestamp": 1686800617
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433185,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
+                        "path": "/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
+                        "name": "tien ich dong bo_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:38",
+                            "since": "1 year ago",
+                            "timestamp": 1686800618
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433186,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
+                        "path": "/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
+                        "name": "dich vu chuyen nghiep_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:39",
+                            "since": "1 year ago",
+                            "timestamp": 1686800619
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433187,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
+                        "path": "/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
+                        "name": "san pham chat luong cao_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:39",
+                            "since": "1 year ago",
+                            "timestamp": 1686800619
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433188,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
+                        "path": "/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
+                        "name": "118d2be484efe06a8e1ab3e8c44a978f.png",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:40",
+                            "since": "1 year ago",
+                            "timestamp": 1686800620
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433189,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
+                        "path": "/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
+                        "name": "banner tuyen dung chuan.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:41",
+                            "since": "1 year ago",
+                            "timestamp": 1686800621
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433190,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
+                        "path": "/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
+                        "name": "c6026ff8b2556841e1ab561de6e36816.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:42",
+                            "since": "1 year ago",
+                            "timestamp": 1686800622
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "icon": null,
+                        "value": "<p>Lương, thưởng cạnh tranh, hấp dẫn<br />Ch&iacute;nh s&aacute;ch review lương 1-2 lần/năm<br />Được hưởng đầy đủ c&aacute;c chế độ ph&uacute;c lợi: đ&oacute;ng BHXH, BHYT, BHTN,..<br />Được hỗ trợ ăn ca, thưởng lễ tết, xe bus đưa đ&oacute;n CBNV miễn ph&iacute;<br />Kh&aacute;m sức khỏe định kỳ, team building hằng năm<br />Được hưởng ưu đ&atilde;i khi sử dụng c&aacute;c dịch vụ cao cấp thuộc tập đo&agrave;n Vingroup (nghỉ dưỡng Vinpearl, Vinfast, VinMec, Vinschool,&hellip; )<br />M&ocirc;i trường l&agrave;m việc trong m&ocirc;i trường chuy&ecirc;n nghiệp, c&ocirc;ng bằng, văn minh<br />Thứ 2 - Thứ 6: 8h30 &ndash; 17h30. Mỗi th&aacute;ng l&agrave;m việc 2 ng&agrave;y thứ 7, lu&acirc;n phi&ecirc;n một tuần l&agrave;m &amp; một tuần nghỉ</p>"
+                    }
+                ],
+                "skills_arr": [
+                    "Swift",
+                    "Java",
+                    "JavaScript",
+                    ".NET",
+                    "ReactJS",
+                    "Kotlin",
+                    "Spring Boot"
+                ],
+                "industries_arr": [
+                    "Bất động sản"
+                ],
+                "industries_str": "Bất động sản",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "JavaScript, Front-End, ReactJS",
+            "skills_arr": [
+                "JavaScript",
+                "Front-End",
+                "ReactJS"
+            ],
+            "skills_ids": [
+                22,
+                209,
+                214
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 166959,
+                        "ward": {
+                            "id": "27088",
+                            "value": "Phường Thảo Điền"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "762",
+                            "value": "Thành phố Thủ Đức"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/chuyen-gia-lap-trinh-website-frontend-reactjs-vinhomes-2033961",
+            "job_url": "",
+            "slug": "chuyen-gia-lap-trinh-website-frontend-reactjs-vinhomes",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-07-2024",
+                "datetime": "00:00:00 30-07-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-08-2024",
+                "datetime": "02:00:07 19-08-2024",
+                "since": "2 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tối thiểu 3 năm kinh nghiệm tại vị trí Frontend Developer hoặc tương đương",
+                        "Tốt nghiệp Đại học chuyên ngành Khoa học máy tính, thống kê, CNTT, toán tin hoặc liên quan",
+                        "Nắm vững kiến thức cơ bản về OOP, Design Pattern, Resful API",
+                        "Có kinh nghiệm làm việc, hiểu biết về NodeJS, Webpack, SCSS, Redux, Flex là một lợi thế",
+                        "Thành thạo ReactJS framework",
+                        "Thao tác tốt với HTML, CSS, JavaScript, Typescript, Bootstrap, JSON",
+                        "Có khả năng tạo được giao diện HTML/CSS dựa theo thiết kế",
+                        "Biết tối ưu hệ thống cho web frontend, monitor và kiểm soát lỗi"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033960,
+            "title": "Technical Leader (Frontend/ReactJS)",
+            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are seeking a highly skilled Tech Lead (ReactJS/NextJS) to lead a team of developers responsible for building and maintaining our web applications.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">You will be responsible for guiding the development team and ensuring the delivery of high-quality coding solutions to meet business needs.</span></li>\r\n</ul>",
+            "benefits": [],
+            "owned_id": 64442,
+            "company": {
+                "id": 64442,
+                "display_name": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN VNDIRECT",
+                "image_logo": "https://assets.topdev.vn/images/2021/07/16/TopDev-LogoVNDIRECT-tmphmminh-1626399835.png",
+                "slug": "cong-ty-co-phan-chung-khoan-vndirect",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-co-phan-chung-khoan-vndirect-64442",
+                "tagline": "",
+                "addresses": {
+                    "address_region_ids": [
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Thanh Xuân, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 22103,
+                            "ward": {
+                                "id": "00343",
+                                "value": "Phường Nhân Chính"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "009",
+                                "value": "Quận Thanh Xuân"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7132-tmphmminh-1626399836.jpg",
+                "image_galleries": [
+                    {
+                        "id": 300152,
+                        "url": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
+                        "path": "/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
+                        "name": "IMG_7100 - tâm phạm minh.jpg",
+                        "uploaded": {
+                            "date": "16-07-2021",
+                            "datetime": "2021-07-16 08:43:57",
+                            "since": "3 years ago",
+                            "timestamp": 1626399837
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "icon": null,
+                        "value": "<p>M&ocirc;i trường l&agrave;m nghề t&agrave;i ch&iacute;nh chuy&ecirc;n nghiệp<br />L&agrave;m việc với tinh thần l&agrave;m chủ, s&aacute;ng tạo v&agrave; th&aacute;ch thức<br />Thu nhập xứng đ&aacute;ng theo năng lực v&agrave; gi&aacute; trị đ&oacute;ng g&oacute;p<br />Package lương trung b&igrave;nh l&ecirc;n đến 15-16 th&aacute;ng/năm<br />Nhận lại phần thu nhập đ&atilde; khấu trừ nếu đạt thử việc (Thời gian thử việc 2 th&aacute;ng, hưởng 85% lương); xem x&eacute;t thay đổi thu nhập h&agrave;ng năm<br />Tham gia BHXH, BHYT, BHTN theo đ&uacute;ng quy định luật lao động<br />C&aacute;c bảo hiểm sức khỏe v&agrave; bảo hiểm tai nạn 24/24<br />Kh&ocirc;ng gian l&agrave;m việc mở với trang thiết bị hiện đại<br />C&aacute;c hoạt động văn h&oacute;a, thiện nguyện phong ph&uacute; v&agrave; s&ocirc;i nổi</p>"
+                    }
+                ],
+                "skills_arr": [
+                    "Java",
+                    "Mobile",
+                    "DevOps",
+                    "ReactJS",
+                    "React Native"
+                ],
+                "industries_arr": [
+                    "Tài Chính",
+                    "Chứng khoán"
+                ],
+                "industries_str": "Tài Chính, Chứng khoán",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "JavaScript, Front-End, Technical Leader, React JS, NextJS",
+            "skills_arr": [
+                "JavaScript",
+                "Front-End",
+                "Technical Leader",
+                "React JS",
+                "NextJS"
+            ],
+            "skills_ids": [
+                22,
+                209,
+                346,
+                8354,
+                4367
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng Nhóm",
+            "job_levels_arr": [
+                "Trưởng Nhóm"
+            ],
+            "job_levels_ids": [
+                7276
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Thanh Xuân, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 22103,
+                        "ward": {
+                            "id": "00343",
+                            "value": "Phường Nhân Chính"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "009",
+                            "value": "Quận Thanh Xuân"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/technical-leader-frontend-reactjs-cong-ty-co-phan-chung-khoan-vndirect-2033960",
+            "job_url": "",
+            "slug": "technical-leader-frontend-reactjs-cong-ty-co-phan-chung-khoan-vndirect",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "USD",
+                "min_estimate": 1800,
+                "max_estimate": 2100,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "distinction"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": false,
+            "is_distinction": true,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-07-2024",
+                "datetime": "00:00:00 30-07-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-08-2024",
+                "datetime": "02:00:07 19-08-2024",
+                "since": "2 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Bachelor's degree in Computer Science, Computer Engineering or related field.",
+                        "Require minimum of 3 years of experience in Reactjs and minimum of 2 years of experience in NextJs.",
+                        "Experience leading a team of developers in delivering quality software products.",
+                        "Strong knowledge of frontend technologies - HTML, CSS, JavaScript, library ReactJS, framework NextJS, Global State Management, Restful API, etc.",
+                        "Knowledge of UI/UX design principles.",
+                        "Familiarity with Agile software development methodologies.",
+                        "Excellent communication and leadership skills.",
+                        "Ability to work effectively in a team-oriented environment."
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033959,
+            "title": "Chuyên viên SAP",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": null,
+                    "value": "<p>Lương cạnh tranh, hấp dẫn<br />Được hưởng đầy đủ c&aacute;c chế độ ph&uacute;c lợi: đ&oacute;ng BHXH, BHYT, BHTN.<br />Được hỗ trợ ăn ca, thưởng lễ tết<br />Kh&aacute;m sức khỏe định kỳ, team building hằng năm<br />Được hưởng ưu đ&atilde;i khi sử dụng c&aacute;c dịch vụ cao cấp thuộc tập đo&agrave;n Vingroup<br />M&ocirc;i trường đ&agrave;o tạo chuy&ecirc;n nghiệp, c&oacute; nhiều cơ hội ph&aacute;t triển nghề nghiệp<br />K&yacute; HĐLĐ ch&iacute;nh thức sau thời gian thử việc theo quy định.</p>"
+                }
+            ],
+            "owned_id": 93794,
+            "company": {
+                "id": 93794,
+                "display_name": "VINHOMES",
+                "image_logo": "https://assets.topdev.vn/images/2022/10/10/TopDev-a9d57f18bae26b4c2f57750d32f662c8-1665417282.png",
+                "slug": "vinhomes",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/vinhomes-93794",
+                "tagline": "Vinhomes - Nơi hạnh phúc ngập tràn",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "79",
+                        "01"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hà Nội"
+                    ],
+                    "full_addresses": [
+                        "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
+                        "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội"
+                    ],
+                    "sort_addresses": "Quận Long Biên, Hà Nội - Thành phố Thủ Đức, Hồ Chí Minh - Huyện Gia Lâm, Hà Nội",
+                    "collection_addresses": [
+                        {
+                            "id": 152458,
+                            "ward": {
+                                "id": "00136",
+                                "value": "Phường Phúc Lợi"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "004",
+                                "value": "Quận Long Biên"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside"
+                        },
+                        {
+                            "id": 166959,
+                            "ward": {
+                                "id": "27088",
+                                "value": "Phường Thảo Điền"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "762",
+                                "value": "Thành phố Thủ Đức"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
+                        },
+                        {
+                            "id": 204730,
+                            "ward": {
+                                "id": "00577",
+                                "value": "Xã Đa Tốn"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "018",
+                                "value": "Huyện Gia Lâm"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hồ Chí Minh, Hà Nội"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/06/15/TopDev-26aeab6afe6b755637a2454a5d8df787-1686800613.png",
+                "image_galleries": [
+                    {
+                        "id": 433181,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
+                        "path": "/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
+                        "name": "Van-Hanh.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:35",
+                            "since": "1 year ago",
+                            "timestamp": 1686800615
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433182,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
+                        "path": "/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
+                        "name": "Cong-Dong-Thong-Minh.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:35",
+                            "since": "1 year ago",
+                            "timestamp": 1686800615
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433183,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
+                        "path": "/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
+                        "name": "Can-Ho-Thong-Minh.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:36",
+                            "since": "1 year ago",
+                            "timestamp": 1686800616
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433184,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
+                        "path": "/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
+                        "name": "moi truong xanh sach_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:37",
+                            "since": "1 year ago",
+                            "timestamp": 1686800617
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433185,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
+                        "path": "/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
+                        "name": "tien ich dong bo_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:38",
+                            "since": "1 year ago",
+                            "timestamp": 1686800618
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433186,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
+                        "path": "/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
+                        "name": "dich vu chuyen nghiep_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:39",
+                            "since": "1 year ago",
+                            "timestamp": 1686800619
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433187,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
+                        "path": "/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
+                        "name": "san pham chat luong cao_0.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:39",
+                            "since": "1 year ago",
+                            "timestamp": 1686800619
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433188,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
+                        "path": "/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
+                        "name": "118d2be484efe06a8e1ab3e8c44a978f.png",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:40",
+                            "since": "1 year ago",
+                            "timestamp": 1686800620
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433189,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
+                        "path": "/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
+                        "name": "banner tuyen dung chuan.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:41",
+                            "since": "1 year ago",
+                            "timestamp": 1686800621
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 433190,
+                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
+                        "path": "/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
+                        "name": "c6026ff8b2556841e1ab561de6e36816.jpg",
+                        "uploaded": {
+                            "date": "15-06-2023",
+                            "datetime": "2023-06-15 10:43:42",
+                            "since": "1 year ago",
+                            "timestamp": 1686800622
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "icon": null,
+                        "value": "<p>Lương, thưởng cạnh tranh, hấp dẫn<br />Ch&iacute;nh s&aacute;ch review lương 1-2 lần/năm<br />Được hưởng đầy đủ c&aacute;c chế độ ph&uacute;c lợi: đ&oacute;ng BHXH, BHYT, BHTN,..<br />Được hỗ trợ ăn ca, thưởng lễ tết, xe bus đưa đ&oacute;n CBNV miễn ph&iacute;<br />Kh&aacute;m sức khỏe định kỳ, team building hằng năm<br />Được hưởng ưu đ&atilde;i khi sử dụng c&aacute;c dịch vụ cao cấp thuộc tập đo&agrave;n Vingroup (nghỉ dưỡng Vinpearl, Vinfast, VinMec, Vinschool,&hellip; )<br />M&ocirc;i trường l&agrave;m việc trong m&ocirc;i trường chuy&ecirc;n nghiệp, c&ocirc;ng bằng, văn minh<br />Thứ 2 - Thứ 6: 8h30 &ndash; 17h30. Mỗi th&aacute;ng l&agrave;m việc 2 ng&agrave;y thứ 7, lu&acirc;n phi&ecirc;n một tuần l&agrave;m &amp; một tuần nghỉ</p>"
+                    }
+                ],
+                "skills_arr": [
+                    "Swift",
+                    "Java",
+                    "JavaScript",
+                    ".NET",
+                    "ReactJS",
+                    "Kotlin",
+                    "Spring Boot"
+                ],
+                "industries_arr": [
+                    "Bất động sản"
+                ],
+                "industries_str": "Bất động sản",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "SQL, ABAP, SAP Consultant",
+            "skills_arr": [
+                "SQL",
+                "ABAP",
+                "SAP Consultant"
+            ],
+            "skills_ids": [
+                28,
+                1043,
+                8482
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01",
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hà Nội",
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
+                    "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Long Biên, Hà Nội - Thành phố Thủ Đức, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 152458,
+                        "ward": {
+                            "id": "00136",
+                            "value": "Phường Phúc Lợi"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "004",
+                            "value": "Quận Long Biên"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside"
+                    },
+                    {
+                        "id": 166959,
+                        "ward": {
+                            "id": "27088",
+                            "value": "Phường Thảo Điền"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "762",
+                            "value": "Thành phố Thủ Đức"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/chuyen-vien-sap-vinhomes-2033959",
+            "job_url": "",
+            "slug": "chuyen-vien-sap-vinhomes",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "30-07-2024",
+                "datetime": "00:00:00 30-07-2024",
+                "since": "3 tuần trước"
+            },
+            "refreshed": {
+                "date": "19-08-2024",
+                "datetime": "02:00:07 19-08-2024",
+                "since": "2 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Tốt nghiệp các trường đại học chuyên ngành công nghệ thông tin",
+                        "Tối thiểu 2 năm kinh nghiệm lập trình ngôn ngữ SAP ABAP.",
+                        "Có kinh nghiệm triển khai các Enhancement bao gồm BADI, User Exists, Workflow, Forms (Adobe, Smartform, Excel Workbench), báo cáo ALV, IDOCS.",
+                        "Có kinh nghiệp chuyển đổi SAP ABAP ở SAP ECC lên SAP S/4 và mô hình hóa dữ liệu sang CDS.",
+                        "Kiến thức về Cơ sở dữ liệu quan hệ và SQL là bắt buộc.",
+                        "Nền tảng vững chắc trong việc phát triển các đối tượng ABAP CDS (Dịch vụ dữ liệu cốt lõi).",
+                        "Kiến thức vững chắc về Bộ công cụ phát triển ABAP được triển khai trong HANA Studio hoặc Eclipse.",
+                        "Có khả năng làm việc độc lập, nhóm, có tính nghiên cứu tìm tòi, giải quyết vấn đề và chịu áp lực tốt.",
+                        "English: đọc hiểu tài liệu chuyên ngành, giao tiếp tốt.",
+                        "Có chứng chỉ SAP, có kinh nghiệm lập trình Bussiness Object (BOBF, OData Service..), giao tiếp tốt tiếng anh là một lợi thế.",
+                        "Có tinh thần trách nhiệm cao trong công việc"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
+        {
+            "id": 2033816,
+            "title": "Fullstack Developer (Vuejs, React, NodeJS)",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": "fa-file-text",
+                    "name": null,
+                    "value": "Được hưởng đầy đủ các chính sách phúc lợi theo quy định của pháp luật Việt Nam (Benefits policy as Vietnamese Law)"
+                },
+                {
+                    "icon": "fa-lightbulb-o",
+                    "name": null,
+                    "value": "Được làm việc trong môi trường quốc tế (Global and professional working environment)"
+                },
+                {
+                    "icon": "fa-map-marker",
+                    "name": null,
+                    "value": "Có thể ghé thăm trụ sở tại Hàn Quốc (Have the opportunity to visit the headquarters in Korea)"
+                }
+            ],
+            "owned_id": 94452,
+            "company": {
+                "id": 94452,
+                "display_name": "SALESCORE",
+                "image_logo": "https://assets.topdev.vn/images/2023/12/07/TopDev--1701924120.PNG",
+                "slug": "salescore",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/salescore-94452",
+                "tagline": "SalesCore - NO.1  leading global enterprise specializing in distribution solutions",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 192961,
+                            "ward": {
+                                "id": "26953",
+                                "value": "Phường 21"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "765",
+                                "value": "Quận Bình Thạnh"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "720A Điện Biên Phủ"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "value": "Có cơ hội được làm việc tại trụ sở Hàn Quốc",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Làm việc tại nhà",
+                        "icon": "fa-check-circle"
+                    },
+                    {
+                        "value": "Thời gian làm việc: Thứ Hai - Thứ Sáu 7:30-16:30",
+                        "icon": "fa-check-circle"
+                    }
+                ],
+                "skills_arr": [
+                    "PHP",
+                    "Java",
+                    "VueJS"
+                ],
+                "industries_arr": [
+                    "E-commerce Platforms"
+                ],
+                "industries_str": "E-commerce Platforms",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "NodeJS, VueJS, React",
+            "skills_arr": [
+                "NodeJS",
+                "VueJS",
+                "React"
+            ],
+            "skills_ids": [
+                36,
+                1297,
+                7367
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Senior",
+            "job_levels_arr": [
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận Bình Thạnh, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 192961,
+                        "ward": {
+                            "id": "26953",
+                            "value": "Phường 21"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "765",
+                            "value": "Quận Bình Thạnh"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "720A Điện Biên Phủ, Phường 21, Quận Bình Thạnh, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "720A Điện Biên Phủ"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/fullstack-developer-vuejs-react-nodejs-salescore-2033816",
+            "job_url": "",
+            "slug": "fullstack-developer-vuejs-react-nodejs-salescore",
+            "salary": {
+                "is_negotiable": 0,
+                "unit": "MONTH",
+                "min": "2*******",
+                "max": "4*******",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "2******* - 4******* VND"
+            },
+            "features": [],
+            "packages": [
+                "basic",
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": true,
+            "is_basic_plus": false,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "15-07-2024",
+                "datetime": "00:00:00 15-07-2024",
+                "since": "1 tháng trước"
+            },
+            "refreshed": {
+                "date": "19-08-2024",
+                "datetime": "02:00:07 19-08-2024",
+                "since": "2 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Có từ 5 năm kinh nghiệm Fullstack liên quan đến các ngôn ngữ Framwork phổ biến như Vuejs, React, NodeJS, C# .NET Core, MySQL, SQLServer,....",
+                        "Có kinh nghiệm quản lý sever như Aws, Ubuntu, Nginx",
+                        "Có kinh nghiệm và sử dụng tốt các công cụ như Redmine, Jira, Slack, Github, Gitlab,……",
+                        "Có kinh nghiệm Web publishing",
+                        "Có kinh nghiệm phát triển và quản lý dịch vụ thương mại điện tử",
+                        "Khi phát hiện vấn đề thì tích cực cải thiện",
+                        "Người có thể đi công tác nước ngoài"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Vui lòng gửi CV bằng tiếng Anh hoặc tiếng Hàn (Please send your CV in English or Korean)"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "***JD ENGLISH"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Your role & responsibilities"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Developing a Korean e-commerce platform",
+                        "Research to constantly improve current developed mall",
+                        "Server management such as AWS, Ubuntu, Nginx, etc",
+                        "Fullstack develop: Vuejs, React, NodeJS, C# .NET Core, MySQL, SQLServer,..."
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Skills & qualifications"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "At least 5 years of fullstack experiences relate to Vuejs, React, NodeJS, C# .NET Core, MySQL, SQLServer,.....",
+                        "Experienced in server management such as AWS, Ubuntu, Nginx, etc.",
+                        "Experienced with collaboration tools and QA tools such as Redmine, Jira, Slack, and Github, Gitlab,.....",
+                        "Experienced in Web publishing",
+                        "Experienced in developing and managing e-commerce services",
+                        "Active person in discovering problems and improving them",
+                        "Ability for overseas business trips"
                     ],
                     "icon": "fa-circle"
                 }
@@ -1927,527 +2777,278 @@
             ]
         },
         {
-            "id": 2033956,
-            "title": "EXPERIENCED BUSINESS ANALYST",
-            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\"><em>Experienced Business Analyst with 1 year of experience in business analysis on software development projects, advanced English level, and experience in e-Commerce domain to join our team.</em></span></p>",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Salary range: up to 30M. OKR/KPI bonus. Performance review twice a year;"
-                },
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "13th-month salary based on the business performance. Seniority Allowance;"
-                },
-                {
-                    "icon": "fa-lightbulb-o",
-                    "name": null,
-                    "value": "Opportunity to experience your expertise in a young and dynamic environment;"
-                },
-                {
-                    "icon": "fa-bell-o",
-                    "name": null,
-                    "value": "Good career growth opportunities with interesting and challenging projects;"
-                },
-                {
-                    "icon": "fa-clock-o",
-                    "name": null,
-                    "value": "5 working days/week. 13.5 days off/year."
-                },
-                {
-                    "icon": "fa-book",
-                    "name": null,
-                    "value": "Support course and certification fee for expertise improvement;"
-                },
-                {
-                    "icon": "fa-calendar-times-o",
-                    "name": null,
-                    "value": "Annual health check-up;"
-                },
-                {
-                    "icon": "fa-laptop",
-                    "name": null,
-                    "value": "Convenient working space with free tea and coffee, massage equipment, PS5,…"
-                },
-                {
-                    "icon": "fa-binoculars",
-                    "name": null,
-                    "value": "Volunteer work and outdoor activities with company support: sports clubs, team building, birthdays, company trips, etc."
-                },
-                {
-                    "icon": "fa-level-up",
-                    "name": null,
-                    "value": "Advancement opportunities available"
-                },
-                {
-                    "icon": "fa-dollar",
-                    "name": null,
-                    "value": "Other benefits according to the provisions of the Company and the Labor Code."
-                }
-            ],
-            "owned_id": 67320,
+            "id": 2033844,
+            "title": "IT - DEVOPS ENGINEER",
+            "content": "",
+            "benefits": [],
+            "owned_id": 70585,
             "company": {
-                "id": 67320,
-                "display_name": "BSS Group",
-                "image_logo": "https://assets.topdev.vn/images/2023/10/17/TopDev-z2F86p0b8KwwodKt-1697535265.jpg",
-                "slug": "bss-group",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/bss-group-67320",
-                "tagline": "BSS Group - Globally trusted partner for full service ecommerce solutions",
+                "id": 70585,
+                "display_name": "NGÂN HÀNG Á CHÂU (ACB)",
+                "image_logo": "https://assets.topdev.vn/images/2023/10/31/TopDev-ACB-1698729382.png",
+                "slug": "ngan-hang-a-chau-acb",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-a-chau-acb-70585",
+                "tagline": "Chinh phục năng lực số",
                 "addresses": {
                     "address_region_ids": [
-                        "01"
+                        "79",
+                        "79"
                     ],
-                    "address_region_list": "Thành phố Hà Nội",
+                    "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
                     "address_region_array": [
-                        "Thành phố Hà Nội"
+                        "Thành phố Hồ Chí Minh",
+                        "Thành phố Hồ Chí Minh"
                     ],
                     "full_addresses": [
-                        "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội"
+                        "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
+                        "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh"
                     ],
-                    "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
+                    "sort_addresses": "Quận 3, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
                     "collection_addresses": [
                         {
-                            "id": 147772,
+                            "id": 30721,
                             "ward": {
-                                "id": "00637",
-                                "value": "Phường Trung Văn"
+                                "id": "27151",
+                                "value": "Phường 05"
                             },
                             "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
                             },
                             "district": {
-                                "id": "019",
-                                "value": "Quận Nam Từ Liêm"
+                                "id": "770",
+                                "value": "Quận 3"
                             },
-                            "postal_code": "100000",
-                            "full_address": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",
+                            "postal_code": "700000",
+                            "full_address": "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
                             "latitude": null,
                             "longitude": null,
-                            "street": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu"
+                            "street": "442 Nguyễn Thị Minh Khai"
+                        },
+                        {
+                            "id": 140664,
+                            "ward": {
+                                "id": "27133",
+                                "value": "Phường 11"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "444 Cách Mạng Tháng Tám"
                         }
                     ],
-                    "address_short_region_list": "Hà Nội"
+                    "address_short_region_list": "Hồ Chí Minh, Hồ Chí Minh"
                 },
-                "image_cover": "https://assets.topdev.vn/images/2023/04/11/TopDev-rIY4FJ7WobbdePeN-1681198389.png",
+                "image_cover": "https://assets.topdev.vn/images/2022/10/06/TopDev-248087415cdf55735daa763f31cec1fa-1665051304.png",
                 "image_galleries": [
                     {
-                        "id": 408338,
-                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-7CfvP5yRw4VzeoZF-1681198390.jpg",
-                        "path": "/images/2023/04/11/TopDev-7CfvP5yRw4VzeoZF-1681198390.jpg",
-                        "name": "tIEOGfIDX8FofwAV23le31Ekc3WBkIVxwG7dF5dT.jpg",
+                        "id": 123208,
+                        "url": "https://assets.topdev.vn/images/2020/03/11/ACB_TopDev_2.jpg",
+                        "path": "/images/2020/03/11/ACB_TopDev_2.jpg",
+                        "name": "ACB_TopDev_2.jpg",
                         "uploaded": {
-                            "date": "11-04-2023",
-                            "datetime": "2023-04-11 14:33:10",
-                            "since": "1 year ago",
-                            "timestamp": 1681198390
+                            "date": "11-03-2020",
+                            "datetime": "2020-03-11 15:51:53",
+                            "since": "4 years ago",
+                            "timestamp": 1583916713
                         },
                         "source": "Unknown"
                     },
                     {
-                        "id": 408339,
-                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-stG58FZxElEth4Bc-1681198390.jpg",
-                        "path": "/images/2023/04/11/TopDev-stG58FZxElEth4Bc-1681198390.jpg",
-                        "name": "usjUTcGffY5LQkQww2rXWe1OqupGCqQrnCNoA4d7.jpg",
+                        "id": 264561,
+                        "url": "https://assets.topdev.vn/images/2021/04/23/galleryBOzucN390Xln7QUFCZ6Yh8oZODAmbcmF-lk9h4.jpeg",
+                        "path": "/images/2021/04/23/galleryBOzucN390Xln7QUFCZ6Yh8oZODAmbcmF-lk9h4.jpeg",
+                        "name": "gallery_BOzucN390Xln7QUFCZ6Yh8oZODAmbcmF.jpeg",
                         "uploaded": {
-                            "date": "11-04-2023",
-                            "datetime": "2023-04-11 14:33:10",
-                            "since": "1 year ago",
-                            "timestamp": 1681198390
+                            "date": "23-04-2021",
+                            "datetime": "2021-04-23 13:43:52",
+                            "since": "3 years ago",
+                            "timestamp": 1619160232
                         },
                         "source": "Unknown"
                     },
                     {
-                        "id": 408340,
-                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-0nDPWRydEVKVQiOu-1681198390.jpg",
-                        "path": "/images/2023/04/11/TopDev-0nDPWRydEVKVQiOu-1681198390.jpg",
-                        "name": "xgCumSIAXYFpC74MGQxbjT2sePcwpEnr1jp3F0vW.jpg",
+                        "id": 264564,
+                        "url": "https://assets.topdev.vn/images/2021/04/23/gallery6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D-6sdUN.jpeg",
+                        "path": "/images/2021/04/23/gallery6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D-6sdUN.jpeg",
+                        "name": "gallery_6POO4Zr72davwFmpUF0YlT9lKiL3Rh2D.jpeg",
                         "uploaded": {
-                            "date": "11-04-2023",
-                            "datetime": "2023-04-11 14:33:10",
-                            "since": "1 year ago",
-                            "timestamp": 1681198390
+                            "date": "23-04-2021",
+                            "datetime": "2021-04-23 13:44:08",
+                            "since": "3 years ago",
+                            "timestamp": 1619160248
                         },
                         "source": "Unknown"
                     },
                     {
-                        "id": 408341,
-                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-Tkc3kK8mbrT9BRf2-1681198391.jpg",
-                        "path": "/images/2023/04/11/TopDev-Tkc3kK8mbrT9BRf2-1681198391.jpg",
-                        "name": "SahDmPrQfsu274YSPCAIMlGRJNmk2ba99lHAsguF.jpg",
+                        "id": 264567,
+                        "url": "https://assets.topdev.vn/images/2021/04/23/gallerydrC1XJFHSV53fSOGf9xIQ5RlrwqF029t-ObKsW.jpeg",
+                        "path": "/images/2021/04/23/gallerydrC1XJFHSV53fSOGf9xIQ5RlrwqF029t-ObKsW.jpeg",
+                        "name": "gallery_drC1XJFHSV53fSOGf9xIQ5RlrwqF029t.jpeg",
                         "uploaded": {
-                            "date": "11-04-2023",
-                            "datetime": "2023-04-11 14:33:11",
-                            "since": "1 year ago",
-                            "timestamp": 1681198391
+                            "date": "23-04-2021",
+                            "datetime": "2021-04-23 13:45:15",
+                            "since": "3 years ago",
+                            "timestamp": 1619160315
                         },
                         "source": "Unknown"
                     },
                     {
-                        "id": 408349,
-                        "url": "https://assets.topdev.vn/images/2023/04/11/TopDev-xurPUzkkwSAcHsbG-1681198805.png",
-                        "path": "/images/2023/04/11/TopDev-xurPUzkkwSAcHsbG-1681198805.png",
-                        "name": "EpiZDHiDSWGJ3CHFsnFX8s1ZG5bovK4zCrXcCPOi.png",
+                        "id": 264569,
+                        "url": "https://assets.topdev.vn/images/2021/04/23/gallerylSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16-oViFe.jpeg",
+                        "path": "/images/2021/04/23/gallerylSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16-oViFe.jpeg",
+                        "name": "gallery_lSwj5Qe7JlwNyZafAAlOkw1cLNgYkd16.jpeg",
                         "uploaded": {
-                            "date": "11-04-2023",
-                            "datetime": "2023-04-11 14:40:05",
-                            "since": "1 year ago",
-                            "timestamp": 1681198805
+                            "date": "23-04-2021",
+                            "datetime": "2021-04-23 13:46:38",
+                            "since": "3 years ago",
+                            "timestamp": 1619160398
                         },
                         "source": "Unknown"
                     }
                 ],
                 "benefits": [
                     {
-                        "value": "Attractive salary (Review every 6 months), 13th-month salary, ...",
-                        "icon": "fa-money"
+                        "value": "Average 15 Monthly Base salary per year. 13 Monthly Base Salary.",
+                        "icon": "fa-dollar"
                     },
                     {
-                        "value": "Benefiting from birthday presents, seniority allowance, coverage of specialization courses fee or career certificate",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Youthful working environment (95% are 9x). Opportunities to participate in clubs: football, running, game,...",
-                        "icon": "fa-users"
-                    },
-                    {
-                        "value": "Chance to participate in team-building, picnics, summer trip, voluntary activities,... regularly organized by BSS",
-                        "icon": "fa-plane"
-                    },
-                    {
-                        "value": "Dynamic internal culture, at BSS we respect differences and focus on human development",
-                        "icon": "fa-gears"
-                    },
-                    {
-                        "value": "13.5 annual leave per year from the company",
-                        "icon": "fa-calendar-check-o"
-                    },
-                    {
-                        "value": "Work-life balance: 39 hours per week from Monday to Friday",
-                        "icon": "fa-calendar"
-                    }
-                ],
-                "skills_arr": [
-                    "PHP",
-                    "Magento",
-                    "Java",
-                    "JavaScript",
-                    "Python",
-                    "Solidity",
-                    "Rust"
-                ],
-                "industries_arr": [
-                    "IT Consultant",
-                    "Software",
-                    "Information Technology",
-                    "Outsourcing",
-                    "Thương mại điện tử/ Bán lẻ",
-                    "Dịch vụ IT",
-                    "E-commerce Platforms",
-                    "B2B Services",
-                    "Công nghệ thông tin"
-                ],
-                "industries_str": "IT Consultant, Software, Information Technology, Outsourcing, Thương mại điện tử/ Bán lẻ, Dịch vụ IT, E-commerce Platforms, B2B Services, Công nghệ thông tin",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Data Analytics, Business Analyst",
-            "skills_arr": [
-                "Data Analytics",
-                "Business Analyst"
-            ],
-            "skills_ids": [
-                202,
-                1456
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Junior, Middle",
-            "job_levels_arr": [
-                "Junior",
-                "Middle"
-            ],
-            "job_levels_ids": [
-                8664,
-                8665
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "01"
-                ],
-                "address_region_list": "Thành phố Hà Nội",
-                "address_region_array": [
-                    "Thành phố Hà Nội"
-                ],
-                "full_addresses": [
-                    "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội"
-                ],
-                "sort_addresses": "Quận Nam Từ Liêm, Hà Nội",
-                "collection_addresses": [
-                    {
-                        "id": 147772,
-                        "ward": {
-                            "id": "00637",
-                            "value": "Phường Trung Văn"
-                        },
-                        "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
-                        },
-                        "district": {
-                            "id": "019",
-                            "value": "Quận Nam Từ Liêm"
-                        },
-                        "postal_code": "100000",
-                        "full_address": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Tầng 14, 16, 18, 19 & 20, Viwaseen Tower, số 48 Tố Hữu"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/experienced-business-analyst-bss-group-2033956",
-            "job_url": "",
-            "slug": "experienced-business-analyst-bss-group",
-            "salary": {
-                "is_negotiable": 1,
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "30-07-2024",
-                "datetime": "00:00:00 30-07-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "19-08-2024",
-                "datetime": "02:00:07 19-08-2024",
-                "since": "2 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "At least 1 year’s relevant experience as a Business Analyst (or similar capacity) with a proven track record of successful project delivery. eCommerce experience is not necessary but will be highly regarded.\nAdvanced English level (CV in English; direct customer interaction)\nExcellent communication, facilitation and team working skills including a high level of negotiating and influencing ability (at all levels of the business).\nOutstanding attention to detail, whilst being able to manage their time effectively across multiple projects if needed. Leadership skills are preferred\nPassionate about using technology to solve complex business and operational problems.\nExperience using Agile methodologies.\nStrong business acumen and problem solving skills.\nOwn or potentially develop BSS core values FIRE: Fervor, Face the challenge, Integrity, Responsibility, Respect, Enjoy"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033838,
-            "title": "Android Developer",
-            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Age: 21-35 years old</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Language requirement: English</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Salary: Negotiable</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Working hours: 9 hours, 4 days off per month</span></li>\r\n</ul>",
-            "benefits": [],
-            "owned_id": 94789,
-            "company": {
-                "id": 94789,
-                "display_name": "Youmi Technology Company",
-                "image_logo": "https://assets.topdev.vn/images/2024/07/04/TopDev-Anh-man-hinh-2024-07-04-luc-11.21.25---trung-huy-1720067974.png",
-                "slug": "youmi-technology-company",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/youmi-technology-company-94789",
-                "tagline": "What skills, work projects or achievements make you a strong candidate for this position?",
-                "addresses": {
-                    "address_region_ids": [
-                        "9999999"
-                    ],
-                    "address_region_list": "Oversea",
-                    "address_region_array": [
-                        "Oversea"
-                    ],
-                    "full_addresses": [
-                        "Philippine - Malina - Pasay, Oversea"
-                    ],
-                    "sort_addresses": " Oversea",
-                    "collection_addresses": [
-                        {
-                            "id": 203412,
-                            "ward": {
-                                "id": null,
-                                "value": null
-                            },
-                            "province": {
-                                "id": "9999999",
-                                "value": "Oversea"
-                            },
-                            "district": {
-                                "id": null,
-                                "value": null
-                            },
-                            "postal_code": "0",
-                            "full_address": "Philippine - Malina - Pasay, Oversea",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Philippine - Malina - Pasay"
-                        }
-                    ],
-                    "address_short_region_list": "Oversea"
-                },
-                "image_cover": null,
-                "image_galleries": [],
-                "benefits": [
-                    {
-                        "value": "High-end dormitory with full amenities (swimming pool, gym, washing machine, air conditioning, etc.) provided for employees. For those choosing to reside outside, a housing allowance of 300USD or more will be offered.",
-                        "icon": "fa-building"
-                    },
-                    {
-                        "value": "Meals: Three to five meals per day provided free of charge.Snacks available at the company.",
-                        "icon": "fa-cutlery"
-                    },
-                    {
-                        "value": "Initial Support: Essential personal items provided for new employees (bed sheets, pillows, blankets, shampoo, toothpaste, etc.).",
-                        "icon": "fa-tag"
-                    },
-                    {
-                        "value": "Holiday Bonuses: Bonuses ranging from 5,000 to 10,000 RMB for Chinese holidays. Triple pay for working during the Lunar New Year holiday.",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Medical Care: 24/7 medical team available to assist employees in case of illness or injury.",
-                        "icon": "fa-ambulance"
-                    },
-                    {
-                        "value": "Overtime Pay: Overtime work will be compensated at 1.5 times the regular hourly rate.",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Paid Leave: 15 days of paid leave after 6 months of employment. For employees returning to their home country, the company will cover the cost of airfare. Employees who choose not to take their leave will receive a bonus based on their salary level.",
-                        "icon": "fa-calendar-check-o"
-                    },
-                    {
-                        "value": "Salary Increment: Two salary increments per year based on individual KPI and market rates.",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Contract Renewal: A bonus of 20,000 RMB upon signing a new contract after the completion of the current one. 13th to 17th month salary based on the employee's tenure with the company.",
-                        "icon": "fa-file-text"
-                    },
-                    {
-                        "value": "New Employee Training: Comprehensive training provided by a team of experts to assist new employees.",
+                        "value": "Training.",
                         "icon": "fa-graduation-cap"
                     },
                     {
-                        "value": "Social and medical insurance coverage.",
-                        "icon": "fa-heartbeat"
+                        "value": "Recorgnition.",
+                        "icon": "fa-diamond"
                     },
                     {
-                        "value": "Professional and dynamic work environment.",
-                        "icon": "fa-lightbulb-o"
+                        "value": "ACB Health Care.",
+                        "icon": "fa-child"
                     },
                     {
-                        "value": "Ample opportunities for career advancement.",
-                        "icon": "fa-line-chart"
+                        "value": "Meal Allowance.",
+                        "icon": "fa-glass"
                     },
                     {
-                        "value": "Regular recreational activities and team-building events",
-                        "icon": "fa-soccer-ball-o"
+                        "value": "Professional and Transparent Working Environment.",
+                        "icon": "fa-diamond"
                     }
                 ],
                 "skills_arr": [
+                    "Oracle",
                     "Java",
-                    "Golang",
-                    "React Native"
+                    "JavaScript",
+                    "C#",
+                    ".NET"
                 ],
                 "industries_arr": [
-                    "Software",
-                    "Phần Mềm"
+                    "Ngân Hàng"
                 ],
-                "industries_str": "Software, Phần Mềm",
+                "industries_str": "Ngân Hàng",
                 "is_followed": false
             },
             "extra_skills": [],
-            "skills_str": "Android, Git",
+            "skills_str": "Python, DevOps, Docker",
             "skills_arr": [
-                "Android",
-                "Git"
+                "Python",
+                "DevOps",
+                "Docker"
             ],
             "skills_ids": [
-                8,
-                132
+                34,
+                213,
+                230
             ],
-            "job_types_str": "Oversea",
-            "job_levels_str": "Junior, Senior",
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
             "job_levels_arr": [
-                "Junior",
+                "Middle",
                 "Senior"
             ],
             "job_levels_ids": [
-                8664,
+                8665,
                 8666
             ],
             "addresses": {
                 "address_region_ids": [
-                    "9999999"
+                    "79",
+                    "79"
                 ],
-                "address_region_list": "Oversea",
+                "address_region_list": "Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh",
                 "address_region_array": [
-                    "Oversea"
+                    "Thành phố Hồ Chí Minh",
+                    "Thành phố Hồ Chí Minh"
                 ],
                 "full_addresses": [
-                    "Philippine - Malina - Pasay, Oversea"
+                    "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
+                    "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh"
                 ],
-                "sort_addresses": " Oversea",
+                "sort_addresses": "Quận 3, Hồ Chí Minh - Quận 3, Hồ Chí Minh",
                 "collection_addresses": [
                     {
-                        "id": 203412,
+                        "id": 30721,
                         "ward": {
-                            "id": null,
-                            "value": null
+                            "id": "27151",
+                            "value": "Phường 05"
                         },
                         "province": {
-                            "id": "9999999",
-                            "value": "Oversea"
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
                         },
                         "district": {
-                            "id": null,
-                            "value": null
+                            "id": "770",
+                            "value": "Quận 3"
                         },
-                        "postal_code": "0",
-                        "full_address": "Philippine - Malina - Pasay, Oversea",
+                        "postal_code": "700000",
+                        "full_address": "442 Nguyễn Thị Minh Khai, Phường 05, Quận 3, Thành phố Hồ Chí Minh",
                         "latitude": null,
                         "longitude": null,
-                        "street": "Philippine - Malina - Pasay"
+                        "street": "442 Nguyễn Thị Minh Khai"
+                    },
+                    {
+                        "id": 140664,
+                        "ward": {
+                            "id": "27133",
+                            "value": "Phường 11"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "770",
+                            "value": "Quận 3"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "444 Cách Mạng Tháng Tám, Phường 11, Quận 3, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "444 Cách Mạng Tháng Tám"
                     }
                 ]
             },
             "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/android-developer-youmi-technology-company-2033838",
+            "detail_url": "https://topdev.vn/viec-lam/it-devops-engineer-ngan-hang-a-chau-acb-2033844",
             "job_url": "",
-            "slug": "android-developer-youmi-technology-company",
+            "slug": "it-devops-engineer-ngan-hang-a-chau-acb",
             "salary": {
-                "is_negotiable": "0",
+                "is_negotiable": "1",
                 "unit": "MONTH",
-                "min": "2***",
-                "max": "5***",
-                "currency": "USD",
-                "min_estimate": 0,
-                "max_estimate": 0,
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
                 "currency_estimate": "VND",
-                "value": "2*** - 5*** USD"
+                "value": ""
             },
             "features": [],
             "packages": [
@@ -2480,605 +3081,20 @@
             "requirements_arr": [
                 {
                     "value": [
-                        "Strong Android development skills, familiar with practical Android application development and design patterns.",
-                        "At least 3 years of work experience in the field of Android development.",
-                        "Proficient in Java and Kotlin development, with knowledge of other programming languages such as Python.",
-                        "Familiarity with development tools such as Android SDK, Android Studio, Git, etc.",
-                        "Familiar with common network protocols and architectures, such as HTTP, TCP/IP, etc.",
-                        "Excellent teamwork and communication skills, able to collaborate and communicate effectively with other team members to reach a consensus.",
-                        "Strong sense of responsibility, independent thinking, and problem-solving skills, capable of delivering high-quality work under pressure"
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033960,
-            "title": "Technical Leader (Frontend/ReactJS)",
-            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are seeking a highly skilled Tech Lead (ReactJS/NextJS) to lead a team of developers responsible for building and maintaining our web applications.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">You will be responsible for guiding the development team and ensuring the delivery of high-quality coding solutions to meet business needs.</span></li>\r\n</ul>",
-            "benefits": [],
-            "owned_id": 64442,
-            "company": {
-                "id": 64442,
-                "display_name": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN VNDIRECT",
-                "image_logo": "https://assets.topdev.vn/images/2021/07/16/TopDev-LogoVNDIRECT-tmphmminh-1626399835.png",
-                "slug": "cong-ty-co-phan-chung-khoan-vndirect",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-co-phan-chung-khoan-vndirect-64442",
-                "tagline": "",
-                "addresses": {
-                    "address_region_ids": [
-                        "01"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội",
-                    "address_region_array": [
-                        "Thành phố Hà Nội"
-                    ],
-                    "full_addresses": [
-                        "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
-                    ],
-                    "sort_addresses": "Quận Thanh Xuân, Hà Nội",
-                    "collection_addresses": [
-                        {
-                            "id": 22103,
-                            "ward": {
-                                "id": "00343",
-                                "value": "Phường Nhân Chính"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "009",
-                                "value": "Quận Thanh Xuân"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7132-tmphmminh-1626399836.jpg",
-                "image_galleries": [
-                    {
-                        "id": 300152,
-                        "url": "https://assets.topdev.vn/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
-                        "path": "/images/2021/07/16/TopDev-IMG7100-tmphmminh-1626399836.jpg",
-                        "name": "IMG_7100 - tâm phạm minh.jpg",
-                        "uploaded": {
-                            "date": "16-07-2021",
-                            "datetime": "2021-07-16 08:43:57",
-                            "since": "3 years ago",
-                            "timestamp": 1626399837
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "icon": null,
-                        "value": "<p>M&ocirc;i trường l&agrave;m nghề t&agrave;i ch&iacute;nh chuy&ecirc;n nghiệp<br />L&agrave;m việc với tinh thần l&agrave;m chủ, s&aacute;ng tạo v&agrave; th&aacute;ch thức<br />Thu nhập xứng đ&aacute;ng theo năng lực v&agrave; gi&aacute; trị đ&oacute;ng g&oacute;p<br />Package lương trung b&igrave;nh l&ecirc;n đến 15-16 th&aacute;ng/năm<br />Nhận lại phần thu nhập đ&atilde; khấu trừ nếu đạt thử việc (Thời gian thử việc 2 th&aacute;ng, hưởng 85% lương); xem x&eacute;t thay đổi thu nhập h&agrave;ng năm<br />Tham gia BHXH, BHYT, BHTN theo đ&uacute;ng quy định luật lao động<br />C&aacute;c bảo hiểm sức khỏe v&agrave; bảo hiểm tai nạn 24/24<br />Kh&ocirc;ng gian l&agrave;m việc mở với trang thiết bị hiện đại<br />C&aacute;c hoạt động văn h&oacute;a, thiện nguyện phong ph&uacute; v&agrave; s&ocirc;i nổi</p>"
-                    }
-                ],
-                "skills_arr": [
-                    "Java",
-                    "Mobile",
-                    "DevOps",
-                    "ReactJS",
-                    "React Native"
-                ],
-                "industries_arr": [
-                    "Tài Chính",
-                    "Chứng khoán"
-                ],
-                "industries_str": "Tài Chính, Chứng khoán",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "JavaScript, Front-End, Technical Leader, React JS, NextJS",
-            "skills_arr": [
-                "JavaScript",
-                "Front-End",
-                "Technical Leader",
-                "React JS",
-                "NextJS"
-            ],
-            "skills_ids": [
-                22,
-                209,
-                346,
-                8354,
-                4367
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Trưởng Nhóm",
-            "job_levels_arr": [
-                "Trưởng Nhóm"
-            ],
-            "job_levels_ids": [
-                7276
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "01"
-                ],
-                "address_region_list": "Thành phố Hà Nội",
-                "address_region_array": [
-                    "Thành phố Hà Nội"
-                ],
-                "full_addresses": [
-                    "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội"
-                ],
-                "sort_addresses": "Quận Thanh Xuân, Hà Nội",
-                "collection_addresses": [
-                    {
-                        "id": 22103,
-                        "ward": {
-                            "id": "00343",
-                            "value": "Phường Nhân Chính"
-                        },
-                        "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
-                        },
-                        "district": {
-                            "id": "009",
-                            "value": "Quận Thanh Xuân"
-                        },
-                        "postal_code": "100000",
-                        "full_address": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "43 Đ. Lê Văn Lương, Nhân Chính, Thanh Xuân, Hà Nội"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/technical-leader-frontend-reactjs-cong-ty-co-phan-chung-khoan-vndirect-2033960",
-            "job_url": "",
-            "slug": "technical-leader-frontend-reactjs-cong-ty-co-phan-chung-khoan-vndirect",
-            "salary": {
-                "is_negotiable": 1,
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "USD",
-                "min_estimate": 1800,
-                "max_estimate": 2100,
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "distinction"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": false,
-            "is_distinction": true,
-            "is_salary_visible": false,
-            "published": {
-                "date": "30-07-2024",
-                "datetime": "00:00:00 30-07-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "19-08-2024",
-                "datetime": "02:00:07 19-08-2024",
-                "since": "2 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Bachelor's degree in Computer Science, Computer Engineering or related field.",
-                        "Require minimum of 3 years of experience in Reactjs and minimum of 2 years of experience in NextJs.",
-                        "Experience leading a team of developers in delivering quality software products.",
-                        "Strong knowledge of frontend technologies - HTML, CSS, JavaScript, library ReactJS, framework NextJS, Global State Management, Restful API, etc.",
-                        "Knowledge of UI/UX design principles.",
-                        "Familiarity with Agile software development methodologies.",
-                        "Excellent communication and leadership skills.",
-                        "Ability to work effectively in a team-oriented environment."
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2033961,
-            "title": "Chuyên gia Lập trình Website (Frontend-ReactJS)",
-            "content": "",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Lương cạnh tranh, hấp dẫn"
-                },
-                {
-                    "icon": "fa-file-text",
-                    "name": null,
-                    "value": "Được hưởng đầy đủ các chế độ phúc lợi: đóng BHXH, BHYT, BHTN,.."
-                },
-                {
-                    "icon": "fa-dollar",
-                    "name": null,
-                    "value": "Được hỗ trợ ăn ca, thưởng lễ tết"
-                },
-                {
-                    "icon": "fa-heartbeat",
-                    "name": null,
-                    "value": "Khám sức khỏe định kỳ, team building hằng năm;"
-                },
-                {
-                    "icon": "fa-gift",
-                    "name": null,
-                    "value": "Được hưởng ưu đãi khi sử dụng các dịch vụ cao cấp thuộc tập đoàn Vingroup;"
-                }
-            ],
-            "owned_id": 93794,
-            "company": {
-                "id": 93794,
-                "display_name": "VINHOMES",
-                "image_logo": "https://assets.topdev.vn/images/2022/10/10/TopDev-a9d57f18bae26b4c2f57750d32f662c8-1665417282.png",
-                "slug": "vinhomes",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/vinhomes-93794",
-                "tagline": "Vinhomes - Nơi hạnh phúc ngập tràn",
-                "addresses": {
-                    "address_region_ids": [
-                        "01",
-                        "79",
-                        "01"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Hà Nội",
-                    "address_region_array": [
-                        "Thành phố Hà Nội",
-                        "Thành phố Hồ Chí Minh",
-                        "Thành phố Hà Nội"
-                    ],
-                    "full_addresses": [
-                        "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
-                        "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-                        "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội"
-                    ],
-                    "sort_addresses": "Quận Long Biên, Hà Nội - Thành phố Thủ Đức, Hồ Chí Minh - Huyện Gia Lâm, Hà Nội",
-                    "collection_addresses": [
-                        {
-                            "id": 152458,
-                            "ward": {
-                                "id": "00136",
-                                "value": "Phường Phúc Lợi"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "004",
-                                "value": "Quận Long Biên"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside, Phường Phúc Lợi, Quận Long Biên, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Hà Nội: Tòa nhà văn phòng Symphony, Đường Chu Huy Mân, Khu đô thị sinh thái Vinhomes Riverside"
-                        },
-                        {
-                            "id": 166959,
-                            "ward": {
-                                "id": "27088",
-                                "value": "Phường Thảo Điền"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "762",
-                                "value": "Thành phố Thủ Đức"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
-                        },
-                        {
-                            "id": 204730,
-                            "ward": {
-                                "id": "00577",
-                                "value": "Xã Đa Tốn"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "018",
-                                "value": "Huyện Gia Lâm"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park, Xã Đa Tốn, Huyện Gia Lâm, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Hà Nội: Tòa nhà văn phòng TechnoPark, KĐT Vinhomes Ocean Park"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội, Hồ Chí Minh, Hà Nội"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/06/15/TopDev-26aeab6afe6b755637a2454a5d8df787-1686800613.png",
-                "image_galleries": [
-                    {
-                        "id": 433181,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
-                        "path": "/images/2023/06/15/TopDev-Van-Hanh-1686800614.jpg",
-                        "name": "Van-Hanh.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:35",
-                            "since": "1 year ago",
-                            "timestamp": 1686800615
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433182,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
-                        "path": "/images/2023/06/15/TopDev-Cong-Dong-Thong-Minh-1686800615.jpg",
-                        "name": "Cong-Dong-Thong-Minh.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:35",
-                            "since": "1 year ago",
-                            "timestamp": 1686800615
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433183,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
-                        "path": "/images/2023/06/15/TopDev-Can-Ho-Thong-Minh-1686800616.jpg",
-                        "name": "Can-Ho-Thong-Minh.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:36",
-                            "since": "1 year ago",
-                            "timestamp": 1686800616
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433184,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
-                        "path": "/images/2023/06/15/TopDev-moi-truong-xanh-sach_0-1686800616.jpg",
-                        "name": "moi truong xanh sach_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:37",
-                            "since": "1 year ago",
-                            "timestamp": 1686800617
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433185,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
-                        "path": "/images/2023/06/15/TopDev-tien-ich-dong-bo_0-1686800617.jpg",
-                        "name": "tien ich dong bo_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:38",
-                            "since": "1 year ago",
-                            "timestamp": 1686800618
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433186,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
-                        "path": "/images/2023/06/15/TopDev-dich-vu-chuyen-nghiep_0-1686800618.jpg",
-                        "name": "dich vu chuyen nghiep_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:39",
-                            "since": "1 year ago",
-                            "timestamp": 1686800619
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433187,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
-                        "path": "/images/2023/06/15/TopDev-san-pham-chat-luong-cao_0-1686800619.jpg",
-                        "name": "san pham chat luong cao_0.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:39",
-                            "since": "1 year ago",
-                            "timestamp": 1686800619
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433188,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
-                        "path": "/images/2023/06/15/TopDev-118d2be484efe06a8e1ab3e8c44a978f-1686800620.png",
-                        "name": "118d2be484efe06a8e1ab3e8c44a978f.png",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:40",
-                            "since": "1 year ago",
-                            "timestamp": 1686800620
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433189,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
-                        "path": "/images/2023/06/15/TopDev-banner-tuyen-dung-chuan-1686800620.jpg",
-                        "name": "banner tuyen dung chuan.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:41",
-                            "since": "1 year ago",
-                            "timestamp": 1686800621
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 433190,
-                        "url": "https://assets.topdev.vn/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
-                        "path": "/images/2023/06/15/TopDev-c6026ff8b2556841e1ab561de6e36816-1686800621.jpg",
-                        "name": "c6026ff8b2556841e1ab561de6e36816.jpg",
-                        "uploaded": {
-                            "date": "15-06-2023",
-                            "datetime": "2023-06-15 10:43:42",
-                            "since": "1 year ago",
-                            "timestamp": 1686800622
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "icon": null,
-                        "value": "<p>Lương, thưởng cạnh tranh, hấp dẫn<br />Ch&iacute;nh s&aacute;ch review lương 1-2 lần/năm<br />Được hưởng đầy đủ c&aacute;c chế độ ph&uacute;c lợi: đ&oacute;ng BHXH, BHYT, BHTN,..<br />Được hỗ trợ ăn ca, thưởng lễ tết, xe bus đưa đ&oacute;n CBNV miễn ph&iacute;<br />Kh&aacute;m sức khỏe định kỳ, team building hằng năm<br />Được hưởng ưu đ&atilde;i khi sử dụng c&aacute;c dịch vụ cao cấp thuộc tập đo&agrave;n Vingroup (nghỉ dưỡng Vinpearl, Vinfast, VinMec, Vinschool,&hellip; )<br />M&ocirc;i trường l&agrave;m việc trong m&ocirc;i trường chuy&ecirc;n nghiệp, c&ocirc;ng bằng, văn minh<br />Thứ 2 - Thứ 6: 8h30 &ndash; 17h30. Mỗi th&aacute;ng l&agrave;m việc 2 ng&agrave;y thứ 7, lu&acirc;n phi&ecirc;n một tuần l&agrave;m &amp; một tuần nghỉ</p>"
-                    }
-                ],
-                "skills_arr": [
-                    "Swift",
-                    "Java",
-                    "JavaScript",
-                    ".NET",
-                    "ReactJS",
-                    "Kotlin",
-                    "Spring Boot"
-                ],
-                "industries_arr": [
-                    "Bất động sản"
-                ],
-                "industries_str": "Bất động sản",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "JavaScript, Front-End, ReactJS",
-            "skills_arr": [
-                "JavaScript",
-                "Front-End",
-                "ReactJS"
-            ],
-            "skills_ids": [
-                22,
-                209,
-                214
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Middle, Senior",
-            "job_levels_arr": [
-                "Middle",
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8665,
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 166959,
-                        "ward": {
-                            "id": "27088",
-                            "value": "Phường Thảo Điền"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "762",
-                            "value": "Thành phố Thủ Đức"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "TP Hồ Chí Minh: TTTM Vincom Mega Mall, 159 XL Hà Nội"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/chuyen-gia-lap-trinh-website-frontend-reactjs-vinhomes-2033961",
-            "job_url": "",
-            "slug": "chuyen-gia-lap-trinh-website-frontend-reactjs-vinhomes",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "30-07-2024",
-                "datetime": "00:00:00 30-07-2024",
-                "since": "3 tuần trước"
-            },
-            "refreshed": {
-                "date": "19-08-2024",
-                "datetime": "02:00:07 19-08-2024",
-                "since": "2 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Tối thiểu 3 năm kinh nghiệm tại vị trí Frontend Developer hoặc tương đương",
-                        "Tốt nghiệp Đại học chuyên ngành Khoa học máy tính, thống kê, CNTT, toán tin hoặc liên quan",
-                        "Nắm vững kiến thức cơ bản về OOP, Design Pattern, Resful API",
-                        "Có kinh nghiệm làm việc, hiểu biết về NodeJS, Webpack, SCSS, Redux, Flex là một lợi thế",
-                        "Thành thạo ReactJS framework",
-                        "Thao tác tốt với HTML, CSS, JavaScript, Typescript, Bootstrap, JSON",
-                        "Có khả năng tạo được giao diện HTML/CSS dựa theo thiết kế",
-                        "Biết tối ưu hệ thống cho web frontend, monitor và kiểm soát lỗi"
+                        "BS/MS degree in computer science, software engineering, or a related technical field;",
+                        "Having coding skills with Python is a must;",
+                        "Knowledge of Azure/AWS is a big plus;",
+                        "2+ years of experience in DevOps;",
+                        "Good understanding of software development and operation;",
+                        "Experience in Docker, Kubernetes, Kafka, RabitMQ, ActiveMQ, Jira, Confluence,",
+                        "GitLab, Kong, NginX, ELK, Graylogs …;",
+                        "Experience in SQL and NoSQL databases, such as Oracle, PostgreSQL, Couchbase;",
+                        "Knowledge of Keycloak/Redhat SSO is a big plus;",
+                        "Understanding of CI/CD pipeline;",
+                        "Experience in agile development teams, such as Scrum, Kanban;",
+                        "Interested in dealing with technical challenges and keen on exploring new things;",
+                        "Good problem-solving skills and teamwork spirit;",
+                        "Strong communication skills to effectively collaborate with other developers and stakeholders;"
                     ],
                     "icon": "fa-circle"
                 }
@@ -3092,7 +3108,7 @@
         "next": "http://api.topdev.vn/td/v2/jobs/?page=8"
     },
     "meta": {
-        "total": 856,
+        "total": 859,
         "per_page": 10,
         "current_page": 7,
         "last_page": 86,

@@ -5,11 +5,205 @@
         "status": [
             {
                 "key": 3,
-                "doc_count": 632
+                "doc_count": 634
             }
         ]
     },
     "data": [
+        {
+            "id": 2034151,
+            "title": "ERP Team Leader / IT Team Leader",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": null,
+                    "value": null
+                }
+            ],
+            "owned_id": 94847,
+            "company": {
+                "id": 94847,
+                "display_name": "CÔNG TY CỔ PHẦN THỂ THAO UNITY FITNESS",
+                "image_logo": "https://assets.topdev.vn/images/2024/08/20/TopDev-z5748079716449_78273af78d75dc40d11d5c162150721e-1724124572.jpg",
+                "slug": "cong-ty-co-phan-the-thao-unity-fitness",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-co-phan-the-thao-unity-fitness-94847",
+                "tagline": "",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "14A11, Đường Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 204707,
+                            "ward": {
+                                "id": "27088",
+                                "value": "Phường Thảo Điền"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "762",
+                                "value": "Thành phố Thủ Đức"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "14A11, Đường Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "14A11, Đường Thảo Điền"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": null,
+                "image_galleries": [],
+                "benefits": [
+                    {
+                        "icon": null,
+                        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Workout for FREE at the 5-star Center.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Pay social insurance according to state regulations.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Participate in team building every year.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Friendly and fun working environment.</span></li>\r\n</ul>"
+                    }
+                ],
+                "skills_arr": [
+                    "NodeJS",
+                    "ReactJS",
+                    "React Native",
+                    "NextJS",
+                    "Quality Analyst",
+                    "Nest JS"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "C#, ERP, Technical Leader",
+            "skills_arr": [
+                "C#",
+                "ERP",
+                "Technical Leader"
+            ],
+            "skills_ids": [
+                24,
+                74,
+                346
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Trưởng phòng, Trưởng Nhóm",
+            "job_levels_arr": [
+                "Trưởng phòng",
+                "Trưởng Nhóm"
+            ],
+            "job_levels_ids": [
+                1620,
+                7276
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "14A11, Đường Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Thành phố Thủ Đức, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 204707,
+                        "ward": {
+                            "id": "27088",
+                            "value": "Phường Thảo Điền"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "762",
+                            "value": "Thành phố Thủ Đức"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "14A11, Đường Thảo Điền, Phường Thảo Điền, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "14A11, Đường Thảo Điền"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/erp-team-leader-it-team-leader-cong-ty-co-phan-the-thao-unity-fitness-2034151",
+            "job_url": "",
+            "slug": "erp-team-leader-it-team-leader-cong-ty-co-phan-the-thao-unity-fitness",
+            "salary": {
+                "is_negotiable": "0",
+                "unit": "MONTH",
+                "min": "1***",
+                "max": "1***",
+                "currency": "USD",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": "1*** - 1*** USD"
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "20-08-2024",
+                "datetime": "00:00:00 20-08-2024",
+                "since": "1 ngày trước"
+            },
+            "refreshed": {
+                "date": "20-08-2024",
+                "datetime": "13:43:55 20-08-2024",
+                "since": "21 giờ trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Bachelor’s degree in business management, project management, or in a related field.",
+                        "A Master’s degree in business administration, computer science will be advantageous.",
+                        "Have 3 – 5 years of experience in ERP solution management for a textile & garment or food ware industry.",
+                        "Have experience in ERP project management, successful at least 1 project in manager position with more than 30 users or experience in implementing large IT projects.",
+                        "Have Institute of Business Analysis (IIBA) certification will be advantageous.",
+                        "In-depth knowledge and experience with popular software and applications across various fields (SAP B1, CRM, HRIS, etc.).",
+                        "Experience in developing and managing integrated software platforms based on C#, .Net, SQL.",
+                        "Experience in building Data Warehouses and reporting systems like Reporting Service, Power BI, etc.",
+                        "Experience in managing and securing internal networks, preferably with certifications such as MCSE, CCNA, CISSP.",
+                        "Understanding of new trends in software and technology (AI, Cloud, digital transformation, cybersecurity, etc.).",
+                        "Fluent English communication skill"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
         {
             "id": 2034156,
             "title": "DevOps Engineer (Linux, AWS, English)",
@@ -226,7 +420,7 @@
             "refreshed": {
                 "date": "20-08-2024",
                 "datetime": "11:40:27 20-08-2024",
-                "since": "22 giờ trước"
+                "since": "23 giờ trước"
             },
             "applied": null,
             "candidate": null,
@@ -2474,545 +2668,6 @@
                     "icon": "fa-circle"
                 }
             ]
-        },
-        {
-            "id": 2033815,
-            "title": "Chuyên Viên Bộ Phận Vận Hành Ứng Dụng NHS",
-            "content": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Gi&aacute;m s&aacute;t, vận h&agrave;nh c&aacute;c hệ thống online (internetbank, lienviet24h &hellip;) đảm bảo sự ổn định hoạt động li&ecirc;n tục của hệ thống.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Xử l&yacute; c&aacute;c y&ecirc;u cầu khiếu nại tr&ecirc;n ITsupports.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">C&agrave;i đặt, triển khai, n&acirc;ng cấp hệ thống tr&ecirc;n production.</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Thực hiện c&aacute;c nhiệm vụ Trưởng Ban/Ph&oacute;/Trưởng Ph&ograve;ng giao.</span></li>\r\n</ul>",
-            "benefits": [],
-            "owned_id": 92410,
-            "company": {
-                "id": 92410,
-                "display_name": "NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN LỘC PHÁT VIỆT NAM LPBANK",
-                "image_logo": "https://assets.topdev.vn/images/2024/06/06/TopDev-vtcpu5rqfnrAgyF9-1717660750.png",
-                "slug": "ngan-hang-thuong-mai-co-phan-loc-phat-viet-nam-lpbank",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/ngan-hang-thuong-mai-co-phan-loc-phat-viet-nam-lpbank-92410",
-                "tagline": "LPBank",
-                "addresses": {
-                    "address_region_ids": [
-                        "01",
-                        "79",
-                        "48"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh, Thành phố Đà Nẵng",
-                    "address_region_array": [
-                        "Thành phố Hà Nội",
-                        "Thành phố Hồ Chí Minh",
-                        "Thành phố Đà Nẵng"
-                    ],
-                    "full_addresses": [
-                        "Tòa nhà LPB, số 210 Trần Quang Khải, Phường Tràng Tiền, Quận Hoàn Kiếm, Thành phố Hà Nội",
-                        "2A Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",
-                        "140 Nguyễn Thị Minh Khai, Phường Hải Châu  I, Quận Hải Châu, Thành phố Đà Nẵng"
-                    ],
-                    "sort_addresses": "Quận Hoàn Kiếm, Hà Nội - Quận 1, Hồ Chí Minh - Quận Hải Châu, Đà Nẵng",
-                    "collection_addresses": [
-                        {
-                            "id": 132191,
-                            "ward": {
-                                "id": "00079",
-                                "value": "Phường Tràng Tiền"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "002",
-                                "value": "Quận Hoàn Kiếm"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Tòa nhà LPB, số 210 Trần Quang Khải, Phường Tràng Tiền, Quận Hoàn Kiếm, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Tòa nhà LPB, số 210 Trần Quang Khải"
-                        },
-                        {
-                            "id": 144998,
-                            "ward": {
-                                "id": "26737",
-                                "value": "Phường Đa Kao"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "760",
-                                "value": "Quận 1"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "2A Nguyễn Thị Minh Khai, Phường Đa Kao, Quận 1, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "2A Nguyễn Thị Minh Khai"
-                        },
-                        {
-                            "id": 152500,
-                            "ward": {
-                                "id": "20236",
-                                "value": "Phường Hải Châu  I"
-                            },
-                            "province": {
-                                "id": "48",
-                                "value": "Thành phố Đà Nẵng"
-                            },
-                            "district": {
-                                "id": "492",
-                                "value": "Quận Hải Châu"
-                            },
-                            "postal_code": "550000",
-                            "full_address": "140 Nguyễn Thị Minh Khai, Phường Hải Châu  I, Quận Hải Châu, Thành phố Đà Nẵng",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "140 Nguyễn Thị Minh Khai"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội, Hồ Chí Minh, Đà Nẵng"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2024/06/06/TopDev-Bg23gTXhcRE0sSN0-1717660866.jpg",
-                "image_galleries": [
-                    {
-                        "id": 610568,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-1ec28e6e03687e9e6ed4434645ec1fd2-1718335652.jpg",
-                        "path": "/images/2024/06/14/TopDev-1ec28e6e03687e9e6ed4434645ec1fd2-1718335652.jpg",
-                        "name": "1ec28e6e03687e9e6ed4434645ec1fd2.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:27:32",
-                            "since": "2 months ago",
-                            "timestamp": 1718335652
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610569,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-b184ea5c102df23260ec6b95c52ba47c-1718335652.jpg",
-                        "path": "/images/2024/06/14/TopDev-b184ea5c102df23260ec6b95c52ba47c-1718335652.jpg",
-                        "name": "b184ea5c102df23260ec6b95c52ba47c.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:27:32",
-                            "since": "2 months ago",
-                            "timestamp": 1718335652
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610570,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-55a8e1a4e8cf26e15393523e08877b3f-1718335652.jpg",
-                        "path": "/images/2024/06/14/TopDev-55a8e1a4e8cf26e15393523e08877b3f-1718335652.jpg",
-                        "name": "55a8e1a4e8cf26e15393523e08877b3f.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:27:33",
-                            "since": "2 months ago",
-                            "timestamp": 1718335653
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610571,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-c2750d93e167645176ccfca61e440e31-1718335653.jpg",
-                        "path": "/images/2024/06/14/TopDev-c2750d93e167645176ccfca61e440e31-1718335653.jpg",
-                        "name": "c2750d93e167645176ccfca61e440e31.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:27:33",
-                            "since": "2 months ago",
-                            "timestamp": 1718335653
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610572,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-5d148af2e786f45840d9502b0e710c41-1718335653.jpg",
-                        "path": "/images/2024/06/14/TopDev-5d148af2e786f45840d9502b0e710c41-1718335653.jpg",
-                        "name": "5d148af2e786f45840d9502b0e710c41.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:27:33",
-                            "since": "2 months ago",
-                            "timestamp": 1718335653
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610573,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-de8da1433786f47180757020a6576aa3-1718335685.jpg",
-                        "path": "/images/2024/06/14/TopDev-de8da1433786f47180757020a6576aa3-1718335685.jpg",
-                        "name": "de8da1433786f47180757020a6576aa3.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:05",
-                            "since": "2 months ago",
-                            "timestamp": 1718335685
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610574,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-a300631861bdd96c602da9b7cc633921-1718335685.jpg",
-                        "path": "/images/2024/06/14/TopDev-a300631861bdd96c602da9b7cc633921-1718335685.jpg",
-                        "name": "a300631861bdd96c602da9b7cc633921.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:06",
-                            "since": "2 months ago",
-                            "timestamp": 1718335686
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610575,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-1e7274129eed6b3e600a0ef366940b7e-1718335686.jpg",
-                        "path": "/images/2024/06/14/TopDev-1e7274129eed6b3e600a0ef366940b7e-1718335686.jpg",
-                        "name": "1e7274129eed6b3e600a0ef366940b7e.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:06",
-                            "since": "2 months ago",
-                            "timestamp": 1718335686
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610576,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-e5f91243643edd1c911f10e5a6a32b3e-1718335686.jpg",
-                        "path": "/images/2024/06/14/TopDev-e5f91243643edd1c911f10e5a6a32b3e-1718335686.jpg",
-                        "name": "e5f91243643edd1c911f10e5a6a32b3e.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:06",
-                            "since": "2 months ago",
-                            "timestamp": 1718335686
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610577,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-9c7aa99a66b1cbf319e1ac5639c217c9-1718335687.jpg",
-                        "path": "/images/2024/06/14/TopDev-9c7aa99a66b1cbf319e1ac5639c217c9-1718335687.jpg",
-                        "name": "9c7aa99a66b1cbf319e1ac5639c217c9.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:07",
-                            "since": "2 months ago",
-                            "timestamp": 1718335687
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610578,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-f1dd5f62492d1c914fe523355523de03-1718335714.jpg",
-                        "path": "/images/2024/06/14/TopDev-f1dd5f62492d1c914fe523355523de03-1718335714.jpg",
-                        "name": "f1dd5f62492d1c914fe523355523de03.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:35",
-                            "since": "2 months ago",
-                            "timestamp": 1718335715
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610579,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-344fbf51a5ba6bd0ed8213636d6cbe76-1718335715.jpg",
-                        "path": "/images/2024/06/14/TopDev-344fbf51a5ba6bd0ed8213636d6cbe76-1718335715.jpg",
-                        "name": "344fbf51a5ba6bd0ed8213636d6cbe76.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:35",
-                            "since": "2 months ago",
-                            "timestamp": 1718335715
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610580,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-13-1718335715.jpg",
-                        "path": "/images/2024/06/14/TopDev-13-1718335715.jpg",
-                        "name": "13.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:35",
-                            "since": "2 months ago",
-                            "timestamp": 1718335715
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610581,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-00d163f885c1c526db02b5e19311068f-1718335715.jpg",
-                        "path": "/images/2024/06/14/TopDev-00d163f885c1c526db02b5e19311068f-1718335715.jpg",
-                        "name": "00d163f885c1c526db02b5e19311068f.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:36",
-                            "since": "2 months ago",
-                            "timestamp": 1718335716
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610582,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-15-1718335716.jpg",
-                        "path": "/images/2024/06/14/TopDev-15-1718335716.jpg",
-                        "name": "15.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:28:36",
-                            "since": "2 months ago",
-                            "timestamp": 1718335716
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610583,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-f2d38b8867bcf04f305044c50dc2502f-1718335742.jpg",
-                        "path": "/images/2024/06/14/TopDev-f2d38b8867bcf04f305044c50dc2502f-1718335742.jpg",
-                        "name": "f2d38b8867bcf04f305044c50dc2502f.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:02",
-                            "since": "2 months ago",
-                            "timestamp": 1718335742
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610584,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-17-1718335742.jpg",
-                        "path": "/images/2024/06/14/TopDev-17-1718335742.jpg",
-                        "name": "17.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:03",
-                            "since": "2 months ago",
-                            "timestamp": 1718335743
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610585,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-18-1718335743.jpg",
-                        "path": "/images/2024/06/14/TopDev-18-1718335743.jpg",
-                        "name": "18.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:03",
-                            "since": "2 months ago",
-                            "timestamp": 1718335743
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610586,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-19-1718335743.jpg",
-                        "path": "/images/2024/06/14/TopDev-19-1718335743.jpg",
-                        "name": "19.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:03",
-                            "since": "2 months ago",
-                            "timestamp": 1718335743
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610587,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-20-1718335743.jpg",
-                        "path": "/images/2024/06/14/TopDev-20-1718335743.jpg",
-                        "name": "20.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:04",
-                            "since": "2 months ago",
-                            "timestamp": 1718335744
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610588,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-21-1718335768.jpg",
-                        "path": "/images/2024/06/14/TopDev-21-1718335768.jpg",
-                        "name": "21.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:29",
-                            "since": "2 months ago",
-                            "timestamp": 1718335769
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610589,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-1380e8f51ed289f46a10215b42e00477-1718335769.jpg",
-                        "path": "/images/2024/06/14/TopDev-1380e8f51ed289f46a10215b42e00477-1718335769.jpg",
-                        "name": "1380e8f51ed289f46a10215b42e00477.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:29",
-                            "since": "2 months ago",
-                            "timestamp": 1718335769
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 610590,
-                        "url": "https://assets.topdev.vn/images/2024/06/14/TopDev-23-1718335769.jpg",
-                        "path": "/images/2024/06/14/TopDev-23-1718335769.jpg",
-                        "name": "23.jpg",
-                        "uploaded": {
-                            "date": "14-06-2024",
-                            "datetime": "2024-06-14 10:29:29",
-                            "since": "2 months ago",
-                            "timestamp": 1718335769
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "icon": null,
-                        "value": "<p>Thưởng c&aacute;c Ng&agrave;y lễ, Tết theo ch&iacute;nh s&aacute;ch ng&acirc;n h&agrave;ng từng thời kỳ (Từ 16-18 th&aacute;ng lương/ năm)<br />Đầy đủ c&aacute;c chế độ, quyền lợi của c&aacute;n bộ nh&acirc;n vi&ecirc;n Ng&acirc;n h&agrave;ng.<br />M&ocirc;i trường năng động, th&acirc;n thiện, gần gũi. C&oacute; nhiều cơ hội học đ&agrave;o tạo, học hỏi v&agrave; ph&aacute;t triển.<br />Ch&iacute;nh s&aacute;ch review lương h&agrave;ng năm<br />Cung cấp thiết bị l&agrave;m việc<br />Du lịch/team building hằng năm<br />Tham gia đầy đủ bảo hiểm (BHXH/BHYT)<br />12 ng&agrave;y ph&eacute;p năm<br />L&agrave;m việc từ 08h00 đến 17h00, từ Thứ 2 đến Thứ 6 h&agrave;ng tuần. Từ 08h00 đến 12h00 s&aacute;ng Thứ 7 (Tuỳ từng thời kỳ)</p>"
-                    }
-                ],
-                "skills_arr": [
-                    "Oracle",
-                    "Java",
-                    "Full-Stack",
-                    "Winform",
-                    "Flutter"
-                ],
-                "industries_arr": [
-                    "Ngân Hàng"
-                ],
-                "industries_str": "Ngân Hàng",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Oracle, Server",
-            "skills_arr": [
-                "Oracle",
-                "Server"
-            ],
-            "skills_ids": [
-                15,
-                224
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Middle, Senior",
-            "job_levels_arr": [
-                "Middle",
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8665,
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "01"
-                ],
-                "address_region_list": "Thành phố Hà Nội",
-                "address_region_array": [
-                    "Thành phố Hà Nội"
-                ],
-                "full_addresses": [
-                    "Tòa nhà LPB, số 210 Trần Quang Khải, Phường Tràng Tiền, Quận Hoàn Kiếm, Thành phố Hà Nội"
-                ],
-                "sort_addresses": "Quận Hoàn Kiếm, Hà Nội",
-                "collection_addresses": [
-                    {
-                        "id": 132191,
-                        "ward": {
-                            "id": "00079",
-                            "value": "Phường Tràng Tiền"
-                        },
-                        "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
-                        },
-                        "district": {
-                            "id": "002",
-                            "value": "Quận Hoàn Kiếm"
-                        },
-                        "postal_code": "100000",
-                        "full_address": "Tòa nhà LPB, số 210 Trần Quang Khải, Phường Tràng Tiền, Quận Hoàn Kiếm, Thành phố Hà Nội",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Tòa nhà LPB, số 210 Trần Quang Khải"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/chuyen-vien-bo-phan-van-hanh-ung-dung-nhs-ngan-hang-thuong-mai-co-phan-loc-phat-viet-nam-lpbank-2033815",
-            "job_url": "",
-            "slug": "chuyen-vien-bo-phan-van-hanh-ung-dung-nhs-ngan-hang-thuong-mai-co-phan-loc-phat-viet-nam-lpbank",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic",
-                "distinction"
-            ],
-            "is_free": false,
-            "is_basic": true,
-            "is_basic_plus": false,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "11-07-2024",
-                "datetime": "00:00:00 11-07-2024",
-                "since": "1 tháng trước"
-            },
-            "refreshed": {
-                "date": "20-08-2024",
-                "datetime": "02:00:06 20-08-2024",
-                "since": "1 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Bằng cấp: Tốt nghiệp Cao đẳng trở lên. Chuyên ngành Công nghệ thông tin",
-                        "Ngoại ngữ: Đọc hiểu tài liệu",
-                        "Kiến thức chung: Có hiểu biết về các sản phẩm dịch vụ Ngân hàng số, ví điện tử",
-                        "Kiến thức chuyên môn",
-                        "Có kiến thức về cơ sở dữ liệu (oracle) có khả năng tối ưu hiệu năng của hệ thống, xây dựng tổng hợp báo cáo",
-                        "Kinh nghiệm sử dụng và làm việc với các ứng dụng web server: Tomcat/Jboss, IBM Websphere…",
-                        "Biết và sử dụng thành thạo linux",
-                        "Có kinh nghiệm làm việc với các hệ thống monitoring như Grafana, Kibana …",
-                        "Kinh nghiệm chuyên môn: Có tối thiểu 02 năm kinh nghiệm ở vị trí vận hành hệ thống",
-                        "Kỹ năng mềm",
-                        "Kỹ năng làm việc theo nhóm và độc lập, chịu được áp lực công việc.",
-                        "Kỹ năng giải quyết vấn đề nhanh, tinh thần trách nhiệm cao, ham học hỏi, nhanh nhẹn, năng động trong công việc.",
-                        "Kỹ năng giao tiếp, thuyết phục, thuyết trình , tư duy logic.",
-                        "Kỹ năng chuyên môn",
-                        "Có kỹ năng phân tích tổng hợp dữ liệu xây dựng báo cáo",
-                        "Kỹ năng phân tích, giải quyết vấn đề, đàm phán và phán đoán.",
-                        "Thái độ, tính cách Tinh thần trách nhiệm cao, năng động, thân thiện."
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
         }
     ],
     "links": {
@@ -3022,7 +2677,7 @@
         "next": "http://api.topdev.vn/td/v2/jobs/?page=5"
     },
     "meta": {
-        "total": 856,
+        "total": 859,
         "per_page": 10,
         "current_page": 4,
         "last_page": 86,

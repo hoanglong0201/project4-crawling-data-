@@ -5,11 +5,298 @@
         "status": [
             {
                 "key": 3,
-                "doc_count": 632
+                "doc_count": 634
             }
         ]
     },
     "data": [
+        {
+            "id": 2034121,
+            "title": "Ruby Developer",
+            "content": "",
+            "benefits": [
+                {
+                    "icon": null,
+                    "value": null
+                }
+            ],
+            "owned_id": 94812,
+            "company": {
+                "id": 94812,
+                "display_name": "CÔNG TY TNHH CAPICHI VIỆT NAM",
+                "image_logo": "https://assets.topdev.vn/images/2024/07/16/TopDev-JQLuiIZEBpGl0gBo-1721103342.png",
+                "slug": "cong-ty-tnhh-capichi-viet-nam",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/cong-ty-tnhh-capichi-viet-nam-94812",
+                "tagline": "Enrich your heart",
+                "addresses": {
+                    "address_region_ids": [
+                        "01",
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hà Nội, Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hà Nội",
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "VP Hà Nội: Tầng 3, Số 80 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "VP HCM: Tầng 7, Số 111 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận Cầu Giấy, Hà Nội - Quận 3, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 203767,
+                            "ward": {
+                                "id": "00167",
+                                "value": "Phường Dịch Vọng Hậu"
+                            },
+                            "province": {
+                                "id": "01",
+                                "value": "Thành phố Hà Nội"
+                            },
+                            "district": {
+                                "id": "005",
+                                "value": "Quận Cầu Giấy"
+                            },
+                            "postal_code": "100000",
+                            "full_address": "VP Hà Nội: Tầng 3, Số 80 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "VP Hà Nội: Tầng 3, Số 80 Duy Tân"
+                        },
+                        {
+                            "id": 203768,
+                            "ward": {
+                                "id": "27139",
+                                "value": "Phường Võ Thị Sáu"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "VP HCM: Tầng 7, Số 111 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "VP HCM: Tầng 7, Số 111 Lý Chính Thắng"
+                        }
+                    ],
+                    "address_short_region_list": "Hà Nội, Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2024/07/17/TopDev-uUz8OtyzAUUVG8rg-1721201885.png",
+                "image_galleries": [
+                    {
+                        "id": 626417,
+                        "url": "https://assets.topdev.vn/images/2024/07/16/TopDev-Bien-hieu---Ha-Doan-Bao-1721100555.png",
+                        "path": "/images/2024/07/16/TopDev-Bien-hieu---Ha-Doan-Bao-1721100555.png",
+                        "name": "Biển hiệu - Ha Doan Bao.png",
+                        "uploaded": {
+                            "date": "16-07-2024",
+                            "datetime": "2024-07-16 10:29:15",
+                            "since": "1 month ago",
+                            "timestamp": 1721100555
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 626418,
+                        "url": "https://assets.topdev.vn/images/2024/07/16/TopDev-Anh-bai-dang-website---Ha-Doan-Bao-1721100572.png",
+                        "path": "/images/2024/07/16/TopDev-Anh-bai-dang-website---Ha-Doan-Bao-1721100572.png",
+                        "name": "Ảnh bài đăng website - Ha Doan Bao.png",
+                        "uploaded": {
+                            "date": "16-07-2024",
+                            "datetime": "2024-07-16 10:29:32",
+                            "since": "1 month ago",
+                            "timestamp": 1721100572
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 627356,
+                        "url": "https://assets.topdev.vn/images/2024/07/17/TopDev-sAikOLKPRPtTaJrl-1721201804.jpg",
+                        "path": "/images/2024/07/17/TopDev-sAikOLKPRPtTaJrl-1721201804.jpg",
+                        "name": "MqmotMwJ6IKUhHFPe5KsEkrCxrxo5UK1RgLo0Pom.jpg",
+                        "uploaded": {
+                            "date": "17-07-2024",
+                            "datetime": "2024-07-17 14:36:45",
+                            "since": "1 month ago",
+                            "timestamp": 1721201805
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 627357,
+                        "url": "https://assets.topdev.vn/images/2024/07/17/TopDev-kS5XKmraM45VT16C-1721201805.jpg",
+                        "path": "/images/2024/07/17/TopDev-kS5XKmraM45VT16C-1721201805.jpg",
+                        "name": "ch0ClK2WvubJR6W2hvk524mdf4G1v0YUpQjAOPra.jpg",
+                        "uploaded": {
+                            "date": "17-07-2024",
+                            "datetime": "2024-07-17 14:36:45",
+                            "since": "1 month ago",
+                            "timestamp": 1721201805
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 627358,
+                        "url": "https://assets.topdev.vn/images/2024/07/17/TopDev-TXkj6KxNOkfNqcpv-1721201805.jpg",
+                        "path": "/images/2024/07/17/TopDev-TXkj6KxNOkfNqcpv-1721201805.jpg",
+                        "name": "EKceCfurnxdpa3WZAG3ZVYg7q6AHyxIsJXChMmZU.jpg",
+                        "uploaded": {
+                            "date": "17-07-2024",
+                            "datetime": "2024-07-17 14:36:45",
+                            "since": "1 month ago",
+                            "timestamp": 1721201805
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "icon": null,
+                        "value": "<ul>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Mức lương thưởng hấp dẫn</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Lương th&aacute;ng 13, x&eacute;t tăng lương h&agrave;ng năm</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Qu&agrave; tặng h&agrave;ng th&aacute;ng, h&agrave;ng qu&yacute; v&agrave; c&aacute;c hoạt động teamibuilding</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Voucher tr&ecirc;n Capichi App cho nh&acirc;n vi&ecirc;n</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Đảm bảo c&aacute;c quyền lợi về BHXH v&agrave; c&aacute;c quyền lợi kh&aacute;c theo quy định</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường trẻ, năng động, tư duy l&agrave;m chủ sản phẩm</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">M&ocirc;i trường l&agrave;m việc Đa Văn H&oacute;a</span></li>\r\n<li style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Nghỉ thứ 7, CN</span></li>\r\n</ul>"
+                    }
+                ],
+                "skills_arr": [
+                    "UX/UI Design",
+                    "Ruby on Rails",
+                    "Front-End",
+                    "Back-End",
+                    "React Native",
+                    "AWS",
+                    "React JS",
+                    "Data Analyst",
+                    "Mobile Tester",
+                    "Web Tester"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "Ruby, Back-End, AWS",
+            "skills_arr": [
+                "Ruby",
+                "Back-End",
+                "AWS"
+            ],
+            "skills_ids": [
+                206,
+                210,
+                347
+            ],
+            "job_types_str": "In Office",
+            "job_levels_str": "Middle, Senior",
+            "job_levels_arr": [
+                "Middle",
+                "Senior"
+            ],
+            "job_levels_ids": [
+                8665,
+                8666
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "01"
+                ],
+                "address_region_list": "Thành phố Hà Nội",
+                "address_region_array": [
+                    "Thành phố Hà Nội"
+                ],
+                "full_addresses": [
+                    "VP Hà Nội: Tầng 3, Số 80 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội"
+                ],
+                "sort_addresses": "Quận Cầu Giấy, Hà Nội",
+                "collection_addresses": [
+                    {
+                        "id": 203767,
+                        "ward": {
+                            "id": "00167",
+                            "value": "Phường Dịch Vọng Hậu"
+                        },
+                        "province": {
+                            "id": "01",
+                            "value": "Thành phố Hà Nội"
+                        },
+                        "district": {
+                            "id": "005",
+                            "value": "Quận Cầu Giấy"
+                        },
+                        "postal_code": "100000",
+                        "full_address": "VP Hà Nội: Tầng 3, Số 80 Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Thành phố Hà Nội",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "VP Hà Nội: Tầng 3, Số 80 Duy Tân"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/ruby-developer-cong-ty-tnhh-capichi-viet-nam-2034121",
+            "job_url": "",
+            "slug": "ruby-developer-cong-ty-tnhh-capichi-viet-nam",
+            "salary": {
+                "is_negotiable": 1,
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": 0,
+                "max_estimate": 0,
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [
+                "SuperHotJob"
+            ],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "16-08-2024",
+                "datetime": "00:00:00 16-08-2024",
+                "since": "5 ngày trước"
+            },
+            "refreshed": {
+                "date": "16-08-2024",
+                "datetime": "08:05:59 16-08-2024",
+                "since": "5 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Có ít nhất 2 năm kinh nghiệm lập trình web với RoR",
+                        "Có kinh nghiệm làm việc với AWS, MySQL",
+                        "Có kinh nghiệm xây dựng hệ thống trên nhiều loại server là một lợi thế",
+                        "Có tư duy logic, tư duy sản phẩm tốt",
+                        "Có khả năng đọc, hiểu tiếng Anh",
+                        "Có khả năng nghiên cứu và áp dụng các công nghệ mới",
+                        "Kỹ năng làm việc nhóm, giao tiếp",
+                        "Tinh thần trách nhiệm cao, cẩn thận trong công việc",
+                        "Ưu tiên ứng viên đã từng có kinh nghiệm làm product"
+                    ],
+                    "icon": "fa-circle"
+                }
+            ]
+        },
         {
             "id": 2033832,
             "title": "Manual Tester (Japanese N2 Up)",
@@ -1554,6 +1841,273 @@
             ]
         },
         {
+            "id": 2034024,
+            "title": "Fullstack Engineer",
+            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Care is a modern person-centric health platform that connects you to the healthcare ecosystem.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are a technology-led company that seeks product-market fit, high relevance, and to essentially help people. Our teams are constantly iterating, solving problems, and working together to empower millions of people to make insightful decisions about their health.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are excited to shape the future of healthcare and are looking to add new members to our team for this journey.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">If you want to be part of this culture, we&rsquo;d love to talk!</span></p>",
+            "benefits": [],
+            "owned_id": 92367,
+            "company": {
+                "id": 92367,
+                "display_name": "Care Health",
+                "image_logo": "https://assets.topdev.vn/images/2023/08/03/TopDev-25f6746a7067509100f52fc0be445eb0-1691036286.jpg",
+                "slug": "care-health",
+                "detail_url": "https://topdev.vn/nha-tuyen-dung/care-health-92367",
+                "tagline": "Care Health",
+                "addresses": {
+                    "address_region_ids": [
+                        "79"
+                    ],
+                    "address_region_list": "Thành phố Hồ Chí Minh",
+                    "address_region_array": [
+                        "Thành phố Hồ Chí Minh"
+                    ],
+                    "full_addresses": [
+                        "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+                    ],
+                    "sort_addresses": "Quận 3, Hồ Chí Minh",
+                    "collection_addresses": [
+                        {
+                            "id": 131335,
+                            "ward": {
+                                "id": "27139",
+                                "value": "Phường Võ Thị Sáu"
+                            },
+                            "province": {
+                                "id": "79",
+                                "value": "Thành phố Hồ Chí Minh"
+                            },
+                            "district": {
+                                "id": "770",
+                                "value": "Quận 3"
+                            },
+                            "postal_code": "700000",
+                            "full_address": "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+                            "latitude": null,
+                            "longitude": null,
+                            "street": "Số 2 Trương Quyền"
+                        }
+                    ],
+                    "address_short_region_list": "Hồ Chí Minh"
+                },
+                "image_cover": "https://assets.topdev.vn/images/2023/08/03/TopDev-hashtag-1-1691036243.jpg",
+                "image_galleries": [
+                    {
+                        "id": 298884,
+                        "url": "https://assets.topdev.vn/images/2021/07/01/TopDev-9da5b53a4166bd2d1a829da0ba35e037-1625129690.png",
+                        "path": "/images/2021/07/01/TopDev-9da5b53a4166bd2d1a829da0ba35e037-1625129690.png",
+                        "name": "9da5b53a4166bd2d1a829da0ba35e037.png",
+                        "uploaded": {
+                            "date": "01-07-2021",
+                            "datetime": "2021-07-01 15:54:50",
+                            "since": "3 years ago",
+                            "timestamp": 1625129690
+                        },
+                        "source": "Unknown"
+                    },
+                    {
+                        "id": 298885,
+                        "url": "https://assets.topdev.vn/images/2021/07/01/TopDev-Cover1400480-YenPham-1625129690.png",
+                        "path": "/images/2021/07/01/TopDev-Cover1400480-YenPham-1625129690.png",
+                        "name": "Cover 1400_480 - Yen Pham.png",
+                        "uploaded": {
+                            "date": "01-07-2021",
+                            "datetime": "2021-07-01 15:54:51",
+                            "since": "3 years ago",
+                            "timestamp": 1625129691
+                        },
+                        "source": "Unknown"
+                    }
+                ],
+                "benefits": [
+                    {
+                        "value": "Hybrid (WFH 3 ngày/tuần)",
+                        "icon": "fa-clock-o"
+                    },
+                    {
+                        "value": "14 ngày nghỉ phép/năm",
+                        "icon": "fa-calendar-times-o"
+                    },
+                    {
+                        "value": "Full BH trên lương Gross",
+                        "icon": "fa-umbrella"
+                    },
+                    {
+                        "value": "Cung cấp MacBook",
+                        "icon": "fa-laptop"
+                    },
+                    {
+                        "value": "Team Building & Happy Friday",
+                        "icon": "fa-coffee"
+                    },
+                    {
+                        "value": "Học tiếng anh 1-1 với Giáo viên nước ngoài",
+                        "icon": "fa-book"
+                    },
+                    {
+                        "value": "Khám sức khoẻ định kì hàng năm",
+                        "icon": "fa-stethoscope"
+                    },
+                    {
+                        "value": "Annual Salary Review + Bonus",
+                        "icon": "fa-diamond"
+                    }
+                ],
+                "skills_arr": [
+                    "MySQL",
+                    "AWS",
+                    "TypeScript",
+                    "NestJS"
+                ],
+                "industries_arr": [
+                    "Software"
+                ],
+                "industries_str": "Software",
+                "is_followed": false
+            },
+            "extra_skills": [],
+            "skills_str": "NodeJS, NoSQL, Full-Stack",
+            "skills_arr": [
+                "NodeJS",
+                "NoSQL",
+                "Full-Stack"
+            ],
+            "skills_ids": [
+                36,
+                133,
+                211
+            ],
+            "job_types_str": "Hybrid",
+            "job_levels_str": "Junior, Middle",
+            "job_levels_arr": [
+                "Junior",
+                "Middle"
+            ],
+            "job_levels_ids": [
+                8664,
+                8665
+            ],
+            "addresses": {
+                "address_region_ids": [
+                    "79"
+                ],
+                "address_region_list": "Thành phố Hồ Chí Minh",
+                "address_region_array": [
+                    "Thành phố Hồ Chí Minh"
+                ],
+                "full_addresses": [
+                    "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+                ],
+                "sort_addresses": "Quận 3, Hồ Chí Minh",
+                "collection_addresses": [
+                    {
+                        "id": 131335,
+                        "ward": {
+                            "id": "27139",
+                            "value": "Phường Võ Thị Sáu"
+                        },
+                        "province": {
+                            "id": "79",
+                            "value": "Thành phố Hồ Chí Minh"
+                        },
+                        "district": {
+                            "id": "770",
+                            "value": "Quận 3"
+                        },
+                        "postal_code": "700000",
+                        "full_address": "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
+                        "latitude": null,
+                        "longitude": null,
+                        "street": "Số 2 Trương Quyền"
+                    }
+                ]
+            },
+            "status_display": "Open",
+            "detail_url": "https://topdev.vn/viec-lam/fullstack-engineer-care-health-2034024",
+            "job_url": "",
+            "slug": "fullstack-engineer-care-health",
+            "salary": {
+                "is_negotiable": "1",
+                "unit": "MONTH",
+                "min": "*",
+                "max": "*",
+                "currency": "VND",
+                "min_estimate": "0",
+                "max_estimate": "0",
+                "currency_estimate": "VND",
+                "value": ""
+            },
+            "features": [],
+            "packages": [
+                "basic-plus"
+            ],
+            "is_free": false,
+            "is_basic": false,
+            "is_basic_plus": true,
+            "is_distinction": false,
+            "is_salary_visible": false,
+            "published": {
+                "date": "06-08-2024",
+                "datetime": "00:00:00 06-08-2024",
+                "since": "2 tuần trước"
+            },
+            "refreshed": {
+                "date": "16-08-2024",
+                "datetime": "00:00:15 16-08-2024",
+                "since": "5 ngày trước"
+            },
+            "applied": null,
+            "candidate": null,
+            "is_applied": false,
+            "is_followed": false,
+            "is_blacklisted": false,
+            "recalled_at": null,
+            "is_remove_cv": false,
+            "is_viewed": false,
+            "requirements_arr": [
+                {
+                    "value": [
+                        "Significant professional experience with Node.js languages. Experience in another language (e.g. Node.js, Java, Go, etc) is a plus",
+                        "Strong knowledge of data modeling, databases, and caching (RDBMS, NoSQL, Redis)",
+                        "Strong technical discipline and habits to produce clean code (TDD, Refactoring)",
+                        "Familiar with Microservice Architecture",
+                        "Familiarity with software release management and deployment (Git, CI / CD)",
+                        "Familiar with IaaS platforms (AWS, GCP, etc)",
+                        "Familiar with performance tuning of web servers, massive concurrency handling, caching mechanisms",
+                        "Production experience with JS production codebases (React)",
+                        "Familiar with best practices in the Javascript ecosystem (i.e. Typescript, Webpack, Babel)",
+                        "Familar with Server-side Rendering Web Application (Nextjs)",
+                        "Strong knowledge of software design best practices (12-factor apps, Gang of 4 algorithms)",
+                        "In-depth understanding of data structures and other computer science fundamentals",
+                        "Comfortable operating in a Linux environment",
+                        "Comfortable working in an Agile Methodology environment"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "Nice to have:"
+                    ],
+                    "icon": null
+                },
+                {
+                    "value": [
+                        "Understanding of queue systems (Kafka), API gateways (Kong, etc)",
+                        "Understanding of Containerization and Orchestration (Docker, Kubernetes)",
+                        "Maintaining CI/CD pipelines, integrating compliance and security into the delivery",
+                        "Maintaining security testing cadence (SAST, DAST, SCA, and PenTests)",
+                        "Familiarity with applied cryptography"
+                    ],
+                    "icon": "fa-circle"
+                },
+                {
+                    "value": [
+                        "*Please note that only shortlisted candidates will be notified."
+                    ],
+                    "icon": null
+                }
+            ]
+        },
+        {
             "id": 2034022,
             "title": "CHUYÊN VIÊN DỊCH VỤ CNTT (Technical Support Engineer)",
             "content": "",
@@ -2063,273 +2617,6 @@
                         "Good understanding of UI framework, UI components, and atomic design pattern"
                     ],
                     "icon": "fa-circle"
-                }
-            ]
-        },
-        {
-            "id": 2034024,
-            "title": "Fullstack Engineer",
-            "content": "<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">Care is a modern person-centric health platform that connects you to the healthcare ecosystem.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are a technology-led company that seeks product-market fit, high relevance, and to essentially help people. Our teams are constantly iterating, solving problems, and working together to empower millions of people to make insightful decisions about their health.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">We are excited to shape the future of healthcare and are looking to add new members to our team for this journey.</span></p>\r\n<p style=\"text-align: justify;\"><span style=\"font-family: Roboto, Helvetica, Verdana, Arial, sans-serif; font-size: 15px;\">If you want to be part of this culture, we&rsquo;d love to talk!</span></p>",
-            "benefits": [],
-            "owned_id": 92367,
-            "company": {
-                "id": 92367,
-                "display_name": "Care Health",
-                "image_logo": "https://assets.topdev.vn/images/2023/08/03/TopDev-25f6746a7067509100f52fc0be445eb0-1691036286.jpg",
-                "slug": "care-health",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/care-health-92367",
-                "tagline": "Care Health",
-                "addresses": {
-                    "address_region_ids": [
-                        "79"
-                    ],
-                    "address_region_list": "Thành phố Hồ Chí Minh",
-                    "address_region_array": [
-                        "Thành phố Hồ Chí Minh"
-                    ],
-                    "full_addresses": [
-                        "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
-                    ],
-                    "sort_addresses": "Quận 3, Hồ Chí Minh",
-                    "collection_addresses": [
-                        {
-                            "id": 131335,
-                            "ward": {
-                                "id": "27139",
-                                "value": "Phường Võ Thị Sáu"
-                            },
-                            "province": {
-                                "id": "79",
-                                "value": "Thành phố Hồ Chí Minh"
-                            },
-                            "district": {
-                                "id": "770",
-                                "value": "Quận 3"
-                            },
-                            "postal_code": "700000",
-                            "full_address": "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Số 2 Trương Quyền"
-                        }
-                    ],
-                    "address_short_region_list": "Hồ Chí Minh"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2023/08/03/TopDev-hashtag-1-1691036243.jpg",
-                "image_galleries": [
-                    {
-                        "id": 298884,
-                        "url": "https://assets.topdev.vn/images/2021/07/01/TopDev-9da5b53a4166bd2d1a829da0ba35e037-1625129690.png",
-                        "path": "/images/2021/07/01/TopDev-9da5b53a4166bd2d1a829da0ba35e037-1625129690.png",
-                        "name": "9da5b53a4166bd2d1a829da0ba35e037.png",
-                        "uploaded": {
-                            "date": "01-07-2021",
-                            "datetime": "2021-07-01 15:54:50",
-                            "since": "3 years ago",
-                            "timestamp": 1625129690
-                        },
-                        "source": "Unknown"
-                    },
-                    {
-                        "id": 298885,
-                        "url": "https://assets.topdev.vn/images/2021/07/01/TopDev-Cover1400480-YenPham-1625129690.png",
-                        "path": "/images/2021/07/01/TopDev-Cover1400480-YenPham-1625129690.png",
-                        "name": "Cover 1400_480 - Yen Pham.png",
-                        "uploaded": {
-                            "date": "01-07-2021",
-                            "datetime": "2021-07-01 15:54:51",
-                            "since": "3 years ago",
-                            "timestamp": 1625129691
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "Hybrid (WFH 3 ngày/tuần)",
-                        "icon": "fa-clock-o"
-                    },
-                    {
-                        "value": "14 ngày nghỉ phép/năm",
-                        "icon": "fa-calendar-times-o"
-                    },
-                    {
-                        "value": "Full BH trên lương Gross",
-                        "icon": "fa-umbrella"
-                    },
-                    {
-                        "value": "Cung cấp MacBook",
-                        "icon": "fa-laptop"
-                    },
-                    {
-                        "value": "Team Building & Happy Friday",
-                        "icon": "fa-coffee"
-                    },
-                    {
-                        "value": "Học tiếng anh 1-1 với Giáo viên nước ngoài",
-                        "icon": "fa-book"
-                    },
-                    {
-                        "value": "Khám sức khoẻ định kì hàng năm",
-                        "icon": "fa-stethoscope"
-                    },
-                    {
-                        "value": "Annual Salary Review + Bonus",
-                        "icon": "fa-diamond"
-                    }
-                ],
-                "skills_arr": [
-                    "MySQL",
-                    "AWS",
-                    "TypeScript",
-                    "NestJS"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "NodeJS, NoSQL, Full-Stack",
-            "skills_arr": [
-                "NodeJS",
-                "NoSQL",
-                "Full-Stack"
-            ],
-            "skills_ids": [
-                36,
-                133,
-                211
-            ],
-            "job_types_str": "Hybrid",
-            "job_levels_str": "Junior, Middle",
-            "job_levels_arr": [
-                "Junior",
-                "Middle"
-            ],
-            "job_levels_ids": [
-                8664,
-                8665
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "79"
-                ],
-                "address_region_list": "Thành phố Hồ Chí Minh",
-                "address_region_array": [
-                    "Thành phố Hồ Chí Minh"
-                ],
-                "full_addresses": [
-                    "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
-                ],
-                "sort_addresses": "Quận 3, Hồ Chí Minh",
-                "collection_addresses": [
-                    {
-                        "id": 131335,
-                        "ward": {
-                            "id": "27139",
-                            "value": "Phường Võ Thị Sáu"
-                        },
-                        "province": {
-                            "id": "79",
-                            "value": "Thành phố Hồ Chí Minh"
-                        },
-                        "district": {
-                            "id": "770",
-                            "value": "Quận 3"
-                        },
-                        "postal_code": "700000",
-                        "full_address": "Số 2 Trương Quyền, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Số 2 Trương Quyền"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/fullstack-engineer-care-health-2034024",
-            "job_url": "",
-            "slug": "fullstack-engineer-care-health",
-            "salary": {
-                "is_negotiable": "1",
-                "unit": "MONTH",
-                "min": "*",
-                "max": "*",
-                "currency": "VND",
-                "min_estimate": "0",
-                "max_estimate": "0",
-                "currency_estimate": "VND",
-                "value": ""
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "06-08-2024",
-                "datetime": "00:00:00 06-08-2024",
-                "since": "2 tuần trước"
-            },
-            "refreshed": {
-                "date": "16-08-2024",
-                "datetime": "00:00:15 16-08-2024",
-                "since": "5 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Significant professional experience with Node.js languages. Experience in another language (e.g. Node.js, Java, Go, etc) is a plus",
-                        "Strong knowledge of data modeling, databases, and caching (RDBMS, NoSQL, Redis)",
-                        "Strong technical discipline and habits to produce clean code (TDD, Refactoring)",
-                        "Familiar with Microservice Architecture",
-                        "Familiarity with software release management and deployment (Git, CI / CD)",
-                        "Familiar with IaaS platforms (AWS, GCP, etc)",
-                        "Familiar with performance tuning of web servers, massive concurrency handling, caching mechanisms",
-                        "Production experience with JS production codebases (React)",
-                        "Familiar with best practices in the Javascript ecosystem (i.e. Typescript, Webpack, Babel)",
-                        "Familar with Server-side Rendering Web Application (Nextjs)",
-                        "Strong knowledge of software design best practices (12-factor apps, Gang of 4 algorithms)",
-                        "In-depth understanding of data structures and other computer science fundamentals",
-                        "Comfortable operating in a Linux environment",
-                        "Comfortable working in an Agile Methodology environment"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Nice to have:"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Understanding of queue systems (Kafka), API gateways (Kong, etc)",
-                        "Understanding of Containerization and Orchestration (Docker, Kubernetes)",
-                        "Maintaining CI/CD pipelines, integrating compliance and security into the delivery",
-                        "Maintaining security testing cadence (SAST, DAST, SCA, and PenTests)",
-                        "Familiarity with applied cryptography"
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "*Please note that only shortlisted candidates will be notified."
-                    ],
-                    "icon": null
                 }
             ]
         },
@@ -2900,319 +3187,6 @@
                     "icon": "fa-circle"
                 }
             ]
-        },
-        {
-            "id": 2034017,
-            "title": "Game Unity Developer",
-            "content": "",
-            "benefits": [
-                {
-                    "icon": "fa-money",
-                    "name": null,
-                    "value": "Mức lương: UPTO 50.000.000 VND tùy theo năng lực"
-                },
-                {
-                    "icon": "fa-align-center",
-                    "name": null,
-                    "value": "BHXH đóng 100% theo lương."
-                },
-                {
-                    "icon": "fa-adn",
-                    "name": null,
-                    "value": "Thưởng hiệu suất hấp dẫn lên đến 3 tháng lương/năm cùng nhiều khoản thưởng hấp dẫn khác (thưởng nhân viên xuất sắc, thưởng Quý, thưởng Dự Án, thưởng nóng, thưởng Lễ, Tết, thưởng Performance...)."
-                },
-                {
-                    "icon": "fa-star",
-                    "name": null,
-                    "value": "Review lương 2 lần/năm, chế độ nâng lương linh hoạt theo vị trí và hiệu suất công việc."
-                },
-                {
-                    "icon": "fa-laptop",
-                    "name": null,
-                    "value": "Cơ hội tiếp cận và tìm hiểu về các công nghệ, kiến thức mới và làm việc cùng các chuyên gia nhiều kinh nghiệm trong mảng AI."
-                },
-                {
-                    "icon": "fa-angellist",
-                    "name": null,
-                    "value": "Môi trường trẻ trung năng động, đồng nghiệp thân thiện;"
-                },
-                {
-                    "icon": "fa-coffee",
-                    "name": null,
-                    "value": "Khu vực Pantry tiện nghi với tủ lạnh, lò vi sóng, máy pha cafe, cafe miễn phí,..."
-                },
-                {
-                    "icon": "fa-paper-plane",
-                    "name": null,
-                    "value": "Du lịch và teambuilding hàng năm."
-                },
-                {
-                    "icon": "fa-birthday-cake",
-                    "name": null,
-                    "value": "Tiệc sinh nhật CBNV hàng quý"
-                },
-                {
-                    "icon": "fa-diamond",
-                    "name": null,
-                    "value": "Hoạt động mừng ngày thành lập công ty và các ngày lễ, tết: ngày Quốc Tế Phụ Nữ 8/3, ngày Phụ Nữ Việt Nam 20/10, ngày Lễ Giáng Sinh, Tết Dương Lịch, Tết Trung Thu, Tết Thiếu Nhi 1/6…"
-                },
-                {
-                    "icon": "fa-soccer-ball-o",
-                    "name": null,
-                    "value": "Giải bóng đá, giải đấu game và hoạt động tình nguyện thường niên"
-                },
-                {
-                    "icon": "fa-clock-o",
-                    "name": null,
-                    "value": "Thời gian làm việc: Từ 8h30 đến 12h và 13h30 đến 18h từ thứ 2 đến thứ 6."
-                }
-            ],
-            "owned_id": 94814,
-            "company": {
-                "id": 94814,
-                "display_name": "SAVA META",
-                "image_logo": "https://assets.topdev.vn/images/2024/07/19/TopDev-5fa3e2dc70655f288aefd0186e70566e-1721354687.png",
-                "slug": "sava-meta",
-                "detail_url": "https://topdev.vn/nha-tuyen-dung/sava-meta-94814",
-                "tagline": "Smart Vision - Smart Life",
-                "addresses": {
-                    "address_region_ids": [
-                        "01"
-                    ],
-                    "address_region_list": "Thành phố Hà Nội",
-                    "address_region_array": [
-                        "Thành phố Hà Nội"
-                    ],
-                    "full_addresses": [
-                        "Unit 5, Tầng 14 Tòa Nhà Century Tower, 458 phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội"
-                    ],
-                    "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
-                    "collection_addresses": [
-                        {
-                            "id": 203917,
-                            "ward": {
-                                "id": "00283",
-                                "value": "Phường Vĩnh Tuy"
-                            },
-                            "province": {
-                                "id": "01",
-                                "value": "Thành phố Hà Nội"
-                            },
-                            "district": {
-                                "id": "007",
-                                "value": "Quận Hai Bà Trưng"
-                            },
-                            "postal_code": "100000",
-                            "full_address": "Unit 5, Tầng 14 Tòa Nhà Century Tower, 458 phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",
-                            "latitude": null,
-                            "longitude": null,
-                            "street": "Unit 5, Tầng 14 Tòa Nhà Century Tower, 458 phố Minh Khai"
-                        }
-                    ],
-                    "address_short_region_list": "Hà Nội"
-                },
-                "image_cover": "https://assets.topdev.vn/images/2024/07/19/TopDev-QpRpSNHmBlyAxF2I-1721356508.png",
-                "image_galleries": [
-                    {
-                        "id": 628389,
-                        "url": "https://assets.topdev.vn/images/2024/07/19/TopDev-cHIGQxx2KJvdv86l-1721356508.png",
-                        "path": "/images/2024/07/19/TopDev-cHIGQxx2KJvdv86l-1721356508.png",
-                        "name": "4dWdJqaCYLbmYovnFAqwWo1gbrpw7XJ5jDbPkPdc.png",
-                        "uploaded": {
-                            "date": "19-07-2024",
-                            "datetime": "2024-07-19 09:35:09",
-                            "since": "1 month ago",
-                            "timestamp": 1721356509
-                        },
-                        "source": "Unknown"
-                    }
-                ],
-                "benefits": [
-                    {
-                        "value": "BHXH đóng 100% theo lương.",
-                        "icon": "fa-diamond"
-                    },
-                    {
-                        "value": "Thưởng hiệu suất hấp dẫn lên đến 3 tháng lương/năm cùng nhiều khoản thưởng hấp dẫn khác (thưởng nhân viên xuất sắc, thưởng Quý, thưởng Dự Án, thưởng nóng, thưởng Lễ, Tết, thưởng Performance...).",
-                        "icon": "fa-money"
-                    },
-                    {
-                        "value": "Review lương 2 lần/năm, chế độ nâng lương linh hoạt theo vị trí và hiệu suất công việc.",
-                        "icon": "fa-adn"
-                    },
-                    {
-                        "value": "Cơ hội tiếp cận và tìm hiểu về các công nghệ, kiến thức mới và làm việc cùng các chuyên gia nhiều kinh nghiệm trong mảng AI.",
-                        "icon": "fa-star"
-                    },
-                    {
-                        "value": "Môi trường trẻ trung năng động, đồng nghiệp thân thiện;",
-                        "icon": "fa-angellist"
-                    },
-                    {
-                        "value": "Khu vực Pantry tiện nghi với tủ lạnh, lò vi sóng, máy pha cafe, cafe miễn phí,...",
-                        "icon": "fa-coffee"
-                    },
-                    {
-                        "value": "Du lịch và teambuilding hàng năm.",
-                        "icon": "fa-paper-plane"
-                    },
-                    {
-                        "value": "Tiệc sinh nhật CBNV hàng quý",
-                        "icon": "fa-birthday-cake"
-                    },
-                    {
-                        "value": "Hoạt động mừng ngày thành lập công ty và các ngày lễ, tết: ngày Quốc Tế Phụ Nữ 8/3, ngày Phụ Nữ Việt Nam 20/10, ngày Lễ Giáng Sinh, Tết Dương Lịch, Tết Trung Thu, Tết Thiếu Nhi 1/6…",
-                        "icon": "fa-asterisk"
-                    },
-                    {
-                        "value": "Giải bóng đá, giải đấu game và hoạt động tình nguyện thường niên",
-                        "icon": "fa-soccer-ball-o"
-                    },
-                    {
-                        "value": "Thời gian làm việc: Từ thứ 2 đến thứ 6 (Sáng 8h30-12h00, Chiều 13h30-18h)",
-                        "icon": "fa-clock-o"
-                    }
-                ],
-                "skills_arr": [
-                    "Unity",
-                    "NodeJS",
-                    "ReactJS",
-                    "VueJS"
-                ],
-                "industries_arr": [
-                    "Software"
-                ],
-                "industries_str": "Software",
-                "is_followed": false
-            },
-            "extra_skills": [],
-            "skills_str": "Game Design",
-            "skills_arr": [
-                "Game Design"
-            ],
-            "skills_ids": [
-                199
-            ],
-            "job_types_str": "In Office",
-            "job_levels_str": "Senior",
-            "job_levels_arr": [
-                "Senior"
-            ],
-            "job_levels_ids": [
-                8666
-            ],
-            "addresses": {
-                "address_region_ids": [
-                    "01"
-                ],
-                "address_region_list": "Thành phố Hà Nội",
-                "address_region_array": [
-                    "Thành phố Hà Nội"
-                ],
-                "full_addresses": [
-                    "Unit 5, Tầng 14 Tòa Nhà Century Tower, 458 phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội"
-                ],
-                "sort_addresses": "Quận Hai Bà Trưng, Hà Nội",
-                "collection_addresses": [
-                    {
-                        "id": 203917,
-                        "ward": {
-                            "id": "00283",
-                            "value": "Phường Vĩnh Tuy"
-                        },
-                        "province": {
-                            "id": "01",
-                            "value": "Thành phố Hà Nội"
-                        },
-                        "district": {
-                            "id": "007",
-                            "value": "Quận Hai Bà Trưng"
-                        },
-                        "postal_code": "100000",
-                        "full_address": "Unit 5, Tầng 14 Tòa Nhà Century Tower, 458 phố Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",
-                        "latitude": null,
-                        "longitude": null,
-                        "street": "Unit 5, Tầng 14 Tòa Nhà Century Tower, 458 phố Minh Khai"
-                    }
-                ]
-            },
-            "status_display": "Open",
-            "detail_url": "https://topdev.vn/viec-lam/game-unity-developer-sava-meta-2034017",
-            "job_url": "",
-            "slug": "game-unity-developer-sava-meta",
-            "salary": {
-                "is_negotiable": "0",
-                "unit": "MONTH",
-                "min": "0",
-                "max": "5*******",
-                "currency": "VND",
-                "min_estimate": 0,
-                "max_estimate": 0,
-                "currency_estimate": "VND",
-                "value": "Lên tới 5******* VND"
-            },
-            "features": [],
-            "packages": [
-                "basic-plus"
-            ],
-            "is_free": false,
-            "is_basic": false,
-            "is_basic_plus": true,
-            "is_distinction": false,
-            "is_salary_visible": false,
-            "published": {
-                "date": "06-08-2024",
-                "datetime": "00:00:00 06-08-2024",
-                "since": "2 tuần trước"
-            },
-            "refreshed": {
-                "date": "16-08-2024",
-                "datetime": "00:00:14 16-08-2024",
-                "since": "5 ngày trước"
-            },
-            "applied": null,
-            "candidate": null,
-            "is_applied": false,
-            "is_followed": false,
-            "is_blacklisted": false,
-            "recalled_at": null,
-            "is_remove_cv": false,
-            "is_viewed": false,
-            "requirements_arr": [
-                {
-                    "value": [
-                        "Yêu cầu chuyên môn"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Có kinh nghiệm thiết kế game trên 5 năm với các game midcore, hybrid casual và casual trên App Store/Google Play Store (ưu tiên game có lượt tải cao và lượt chơi lớn), kinh nghiệm quản lý từ 1 năm.",
-                        "Có khả năng đánh giá, phân tích điểm mạnh yếu của 1 game bất kỳ. Sau đó đưa ra giải pháp khắc phục điểm yếu, phát triển điểm mạnh của game đó.",
-                        "Đam mê và chơi các thể loại game, am hiểu thị trường game, xu thế game, sở thích người chơi, đặc biệt là mobile game.",
-                        "Yêu cầu khả năng đọc dữ liệu người dùng.",
-                        "Có khả năng sáng tạo từ số 0 trong thiết kế.",
-                        "Có tài liệu thiết kế (GDD) đi kèm để tham khảo cho buổi phỏng vấn.",
-                        "Có kinh nghiệm design level màn chơi và cân bằng chỉ số trong game."
-                    ],
-                    "icon": "fa-circle"
-                },
-                {
-                    "value": [
-                        "Kỹ năng mềm"
-                    ],
-                    "icon": null
-                },
-                {
-                    "value": [
-                        "Có tinh thần trách nhiệm cao trong công việc.",
-                        "Có khả năng làm việc độc lập hoặc theo nhóm.",
-                        "Có khả năng xử lý vấn đề tốt.",
-                        "Có khả năng chịu áp lực trong công việc..."
-                    ],
-                    "icon": "fa-circle"
-                }
-            ]
         }
     ],
     "links": {
@@ -3222,7 +3196,7 @@
         "next": "http://api.topdev.vn/td/v2/jobs/?page=19"
     },
     "meta": {
-        "total": 856,
+        "total": 859,
         "per_page": 10,
         "current_page": 18,
         "last_page": 86,
